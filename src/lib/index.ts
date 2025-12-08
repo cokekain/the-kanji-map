@@ -1,7 +1,8 @@
+import "server-only";
+
 import composition from "@/../data/composition.json";
 import fsPromises from "fs/promises";
 import { notFound } from "next/navigation";
-import path from "path";
 import type { GraphData } from "react-force-graph-3d";
 
 /**
@@ -24,7 +25,14 @@ export const getAllKanji = () => {
 export const getKanjiDataLocal: (
   id: string
 ) => Promise<KanjiInfo | null> = async (id) => {
-  const filePath = path.join(process.cwd(), "data", "kanji", `${id}.json`);
+  const normalizedId = id.trim();
+
+  if (normalizedId.length !== 1) {
+    return null;
+  }
+
+  // Compute path inline to minimize Turbopack static analysis
+  const filePath = `${process.cwd()}/data/kanji/${normalizedId}.json`;
 
   try {
     const jsonData = await fsPromises.readFile(filePath, "utf8");
@@ -46,6 +54,7 @@ const SVG_DIRECTORY_LIST = [
   "svgsKo",
   "svgsKoSpecial",
 ];
+
 /**
  * Retrieves the stroke animation data for a given character ID.
  *
@@ -53,16 +62,18 @@ const SVG_DIRECTORY_LIST = [
  * @returns The stroke animation data in SVG format, or null if no animation data is found.
  */
 export const getStrokeAnimation = async (id: string) => {
-  const fileName = `${id.charCodeAt(0)}.svg`;
+  const normalizedId = id.trim();
+
+  if (normalizedId.length !== 1) {
+    return null;
+  }
+
+  const fileName = `${normalizedId.charCodeAt(0)}.svg`;
+  const cwd = process.cwd();
 
   for (const directory of SVG_DIRECTORY_LIST) {
-    const filePath = path.join(
-      process.cwd(),
-      "data",
-      "animCJK",
-      directory,
-      fileName
-    );
+    // Use template strings to minimize Turbopack static analysis
+    const filePath = `${cwd}/data/animCJK/${directory}/${fileName}`;
     try {
       const animationData = await fsPromises.readFile(filePath, "utf8");
       // If file is found, return the animation data

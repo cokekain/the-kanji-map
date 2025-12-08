@@ -6,7 +6,10 @@ import localFont from "next/font/local";
 import "../styles/globals.css";
 import { Metadata } from "next";
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: { default: "The Kanji Map", template: "%s | The Kanji Map" },
   description:
     "The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form.",
