@@ -149,7 +149,7 @@ const Graph2D: React.FC<Props> = ({
       graphData={data}
       nodeLabel={(n) => {
         const node = n as NodeObjectWithData;
-        return `${node.data.jishoData?.kunyomi}<br/>${node.data.jishoData?.meaning}`;
+        return `${node.data?.jishoData?.kunyomi || ''}<br/>${node.data?.jishoData?.meaning || ''}`;
       }}
       warmupTicks={10}
       onNodeClick={handleClick}

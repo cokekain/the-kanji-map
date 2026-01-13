@@ -53,7 +53,10 @@ export default function RootLayout({
       suppressHydrationWarning
       className={`${notoSansJp.variable} ${radicalsFont.variable}`}
     >
-      <body className="w-screen h-screen overflow-hidden bg-background text-foreground selection:bg-primary">
+      <body
+        className="w-screen h-screen overflow-hidden bg-background text-foreground selection:bg-primary"
+        suppressHydrationWarning
+      >
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
