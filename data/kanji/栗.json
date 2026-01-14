@@ -77,5 +77,23 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06817.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6817.gif",
     "uri": "https://jisho.org/search/%E6%A0%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "lặt",
+    "lật",
+    "lứt",
+    "rất",
+    "rật",
+    "rứt",
+    "sắt",
+    "sật",
+    "sựt",
+    "trật"
+  ],
+  "vietnameseMeaning": [
+    "① Cây lật (cây dẻ) nhân nó ăn được. ② Kính ghín, sợ hãi, như sử dân chiến lật 使民戰栗 khiến dân sợ run. ③ Bền chặt, gỗ lật dắn lắm, cho nên vật gì bền chắc gọi là thận lật 縝栗. ① Cây dẻ; ② Hạt dẻ; ③ Run (như 慄, bộ 忄): 戰栗 Run cầm cập; 不寒而栗 Không lạnh mà run; ④ (văn) Bền chắc: 縝栗 Bền chắc; ⑤ (Họ) Lật."
+  ],
+  "jlpt": "1",
+  "frequency": "1550",
+  "grade": "9"
 }

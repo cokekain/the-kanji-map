@@ -320,5 +320,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06607.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6607.gif",
     "uri": "https://jisho.org/search/%E6%98%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "thăng"
+  ],
+  "vietnameseMeaning": [
+    "① Mặt trời mới mọc. ② Lên, cùng nghĩa như chữ thăng 升. ③ Tiến lên, thăng chức. ① (văn) Mặt trời mới mọc (mới lên); ② Lên, tiến lên, thăng chức. Xem 升 (bộ 十)."
+  ],
+  "jlpt": "2",
+  "frequency": "826",
+  "grade": "8"
 }

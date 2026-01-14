@@ -310,5 +310,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a87.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a87.gif",
     "uri": "https://jisho.org/search/%E8%AA%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "khoa"
+  ],
+  "vietnameseMeaning": [
+    "① Khoe khoang. ② Nói khoác. ③ To lớn. ① Khoe khoang, khoác lác, phô trương; ② To lớn."
+  ],
+  "jlpt": "1",
+  "frequency": "1272",
+  "grade": "8"
 }

@@ -309,5 +309,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090f5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90f5.gif",
     "uri": "https://jisho.org/search/%E9%83%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "bưu"
+  ],
+  "vietnameseMeaning": [
+    "① Nhà trạm. Dùng ngựa truyền tin gọi là trí 置, chạy bộ truyền tin gọi là bưu 郵. Các nhà dây thép dùng để thông tin tức chạy thơ từ khắp các nơi bây giờ gọi là bưu chính cục 郵政局. ② Cái nhà làm bên đồng. Cái nhà làm bên đồng cho các quan chức coi về việc canh nông đốc xuất dân gian cày cấy gọi là bưu đình 郵亭. ③ Rất, càng. ④ Ngày xưa có một chức quan gọi là đốc bưu 督郵 chuyên việc xét các tội lỗi của các quan châu huyện dưới quyền mình. ① Gởi (qua bưu điện): 給家裡郵去二百元 Gởi 200 đồng vể nhà; ② (Thuộc) bưu điện; ③ (cũ) Nhà trạm (để chuyển công văn, thư tín thời xưa); ④ (văn) Rất, càng."
+  ],
+  "jlpt": "2",
+  "frequency": "917",
+  "grade": "6"
 }

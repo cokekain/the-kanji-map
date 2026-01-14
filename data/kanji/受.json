@@ -412,5 +412,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053d7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53d7.gif",
     "uri": "https://jisho.org/search/%E5%8F%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "thụ"
+  ],
+  "vietnameseMeaning": [
+    "thọ, thụ ① Chịu nhận lấy. Người này cho, người kia chịu lấy gọi là thụ thụ 受受. ② Vâng, như thụ mệnh 受命 vâng mệnh. ③ Ðựng chứa, như tiêu thụ 消受 hưởng dùng, thụ dụng 受用 được dùng, ý nói được hưởng thụ các sự tốt lành, các món sung sướng vậy. ① Nhận, vâng theo: 受信人 Người nhận thư; 接受 Tiếp thu; 受命 Vâng mệnh; ② Chịu: 忍受痛苦 Chịu đựng đau khổ; 受不了 Không chịu được; ③ Bị, mắc: 受騙 Bị lừa, mắc lừa; 受蒙 Bị bưng bít; ④ (đph) Thích hợp: 受吃 Ăn ngon; 受聽 Sướng tai; 受看 Đẹp mắt."
+  ],
+  "jlpt": "2",
+  "frequency": "136",
+  "grade": "3"
 }

@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063c3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63c3.gif",
     "uri": "https://jisho.org/search/%E6%8F%83%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "(văn) Ghi chép. (văn) ① Cắt đứt, cắt ra; ② Tiễu trừ, trừ diệt."
+  ],
+  "hanviet": [
+    "tiên",
+    "tiễn"
+  ],
+  "frequency": "2412",
+  "grade": "9"
 }

@@ -484,5 +484,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f53.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f53.gif",
     "uri": "https://jisho.org/search/%E5%BD%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "đương",
+    "đáng"
+  ],
+  "vietnameseMeaning": [
+    "đương, đáng Như 當"
+  ],
+  "jlpt": "2",
+  "frequency": "91",
+  "grade": "2"
 }

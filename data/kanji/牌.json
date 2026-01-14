@@ -71,5 +71,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0724c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/724c.gif",
     "uri": "https://jisho.org/search/%E7%89%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "bài"
+  ],
+  "vietnameseMeaning": [
+    "① Cái bảng, dùng mảnh ván đề chữ làm dấu hiệu hay yết thị gọi là chiêu bài 招牌 hay bài thị 牌示. ② Thẻ bài, dùng để làm tin. ③ Cỗ bài, các thứ bài đánh bạc. ④ Bài vị 牌位 (viết tên hiệu vào gỗ hay giấy để thờ gọi là bài vị). ① (Tấm) biển: 指路牌 Biển chỉ đường; 門牌 Biển ghi số nhà; ② Nhãn hiệu, hiệu: 天龍牌金筆 Bút máy nhãn hiệu Thiên Long; 冒牌 Giả hiệu; ③ Bài: 打牌 Đánh bài, chơi bài; ④ Mộc: 擋箭 牌 Cái mộc đỡ tên; ⑤ (văn) Thẻ bài (dùng để làm tin); ⑥ (văn) Bài vị (để thờ)."
+  ],
+  "frequency": "2247"
 }

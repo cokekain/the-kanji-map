@@ -377,5 +377,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e88.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e88.gif",
     "uri": "https://jisho.org/search/%E4%BA%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "dự",
+    "nhừ"
+  ],
+  "vietnameseMeaning": [
+    "đà dữ đà ① Ta, tôi. Tiếng xưng của mình đối với người. ② Một âm là dữ 予. Cho. (văn) Ta, tôi. 【予取予求】dư thủ dư cầu (văn) Ta cần ta cứ lấy. (Ngb) Đòi lấy tùy tiện. Xem 予 . 【淡予】 đạm đà (văn) Bập bềnh. ① Cho, trao cho (dùng như 與, bộ 臼): 授予獎狀 Trao bằng khen; 免予處分 Miễn thi hành kỉ luật; 一人予二十金 Mỗi người cấp cho hai chục lạng bạc (Phương Bao). 【予以】dữ dĩ Cho: 予以便利 Dành cho phần tiện lợi; ② (văn) Khen ngợi, tán thành (dùng như 與): 言味者予易牙，言音者予師曠 Nói về vị thì khen Dịch Nha, nói về âm nhạc thì khen Sư Khoáng (Tuân tử: Đại lược). Xem 予 . (văn) Như 沱."
+  ],
+  "jlpt": "2",
+  "frequency": "180",
+  "grade": "3"
 }

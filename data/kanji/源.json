@@ -375,5 +375,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e90.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e90.gif",
     "uri": "https://jisho.org/search/%E6%BA%90%23kanji"
-  }
+  },
+  "hanviet": [
+    "nguyên",
+    "nguồn"
+  ],
+  "vietnameseMeaning": [
+    "① Nguồn nước. ② Nguyên nguyên 源源 cuồn cuộn, liên tiếp không lúc nào dứt gọi là nguyên nguyên. ① Nguồn, ngọn, ngọn nguồn: 飲水思源 Uống nước nhớ nguồn; ② Nguyên lai, nguồn, luồng: 貨源 Nguồn hàng; 肥源 Nguồn phân; ③ 【源源】nguyên nguyên Ùn ùn, thao thao, nối tiếp nhau, liên tiếp, lũ lượt: 源源不斷流 Chảy ùn ùn không ngớt; 源源不絕 Nối tiếp nhau không dứt; 源源而來 Nối tiếp nhau đến, lũ lượt kéo tới; ④ (Họ) Nguyên."
+  ],
+  "jlpt": "1",
+  "frequency": "738",
+  "grade": "6"
 }

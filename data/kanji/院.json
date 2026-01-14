@@ -310,5 +310,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09662.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9662.gif",
     "uri": "https://jisho.org/search/%E9%99%A2%23kanji"
-  }
+  },
+  "hanviet": [
+    "viện"
+  ],
+  "vietnameseMeaning": [
+    "① Tường bao chung quanh. Nhà ở có tường thấp bao chung quanh gọi là viện. ② Chái nhà, nơi chỗ. Như thư viện 書院 chỗ đọc sách. ③ Toà quan. Như đại lí viện 大里院 toà đại lí, tham nghị viện 參議院 toà tham nghị. ① Sân (có tường bao quanh): 院裡種了許多花 Trong sân trồng rất nhiều hoa; 我 把車停在前院 Tôi cho xe đậu ở sân trước; 獨院兒 Sân riêng (thuộc một gia đình); ② Viện, toà: 人民 檢察院 Viện kiểm sát nhân dân; 科學院 Viện khoa học; 醫院 Bệnh viện; 戲院 Kịch viện, rạp hát, nhà hát; 參議院 Toà tham nghị; ③ Học viện."
+  ],
+  "jlpt": "3",
+  "frequency": "150",
+  "grade": "3"
 }

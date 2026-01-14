@@ -77,5 +77,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e5e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e5e.gif",
     "uri": "https://jisho.org/search/%E4%B9%9E%23kanji"
-  }
+  },
+  "hanviet": [
+    "khí",
+    "khất"
+  ],
+  "vietnameseMeaning": [
+    "khí ① Xin, như khất thực 乞食 xin ăn. ② Một âm là khí. Cho, lấy đồ của mình cho người gọi là khí (chữ này ít dùng). ① Xin: 乞恕 Xin, xin tha; 乞食于吳市 Xin ăn trên chợ ở nước Ngô (Chiến quốc sách); 若俯首帖耳，搖尾而乞憐者，非我之志也 Nếu như cúi đầu cúp tai, vẫy đuôi để cầu xin sự thương xót, thì đó không phải là chí của ta (Hàn Dũ); ② Xin ăn: 行乞于市 Đi xin ăn ở chợ (Sử kí: Dự Nhượng truyện); ③ (Họ) Khất. Xem 乞 . ① Cho, ban cho: 好鞍好馬乞與人 Yên tốt ngựa tốt ban cho người (Lí Bạch: Thiếu niên hành); 賴有蘇司業，時時乞酒錢 Nhờ có Tô Tư Nghiệp, thường cho rượu và tiền (Đỗ Phủ); ② Dùng như 喫 (bộ 口): 不必乞驚 Không cần phải giật mình (Thuỷ hử truyện)."
+  ],
+  "frequency": "2478",
+  "grade": "8"
 }

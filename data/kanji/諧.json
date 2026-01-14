@@ -53,5 +53,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae7.gif",
     "uri": "https://jisho.org/search/%E8%AB%A7%23kanji"
-  }
+  },
+  "hanviet": [
+    "hài"
+  ],
+  "vietnameseMeaning": [
+    "① Hoà hợp. Như âm điệu ăn nhịp nhau gọi là hài thanh 諧聲, mua hàng ngã giá rồi gọi là hài giá 諧價. ② Sự đã xong cũng gọi là hài. ③ Hài hước. Như khôi hài 詼諧 hài hước. ① Hài hoà, hoà hợp, chan hoà, ổn thoả: 諧音 Âm điệu hài hoà; ② Hài hước, khôi hài: 詼諧 Khôi hài; ③ Xong xuôi, kết thúc: 事諧之後，我們將前往韓國 Sau khi xong việc, chúng tôi sẽ đi Hàn Quốc; 諧價 Giá đã ngã xong (đã thoả thuận)."
+  ],
+  "grade": "8"
 }

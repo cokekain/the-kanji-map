@@ -356,5 +356,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50cd.gif",
     "uri": "https://jisho.org/search/%E5%83%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "động"
+  ],
+  "vietnameseMeaning": [
+    "① Tự mình vận động gọi là động, như lao động 勞働. (văn) Động, vận động: 勞働 Lao động."
+  ],
+  "jlpt": "3",
+  "frequency": "417",
+  "grade": "4"
 }

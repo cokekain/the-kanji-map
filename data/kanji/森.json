@@ -306,5 +306,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68ee.gif",
     "uri": "https://jisho.org/search/%E6%A3%AE%23kanji"
-  }
+  },
+  "hanviet": [
+    "sâm",
+    "chùm"
+  ],
+  "vietnameseMeaning": [
+    "① Rậm rạp, như sâm lâm 森林 rừng rậm, khí tượng ảm đạm gọi là tiêu sâm 蕭森 nghĩa là mờ mịt như ở trong rừng rậm không trông thấy bóng mặt trời vậy. ② Ðông đúc, như sâm lập 森立 đứng san sát. ① Rừng.【森林】 sâm lâm Rừng: 原始森林 Rừng nguyên thuỷ; 森林工業 Công nghiệp khai thác rừng (và gia công đồ gỗ); ② Rậm, tốt: 林木森然Cây cối um tùm (rậm rạp); ③ (văn) Đông đúc: 森立 Đứng san sát; ④ Tối tăm, lạnh lẽo: 陰森森的 Thâm u, tối tăm, lạnh lẽo."
+  ],
+  "jlpt": "3",
+  "frequency": "609",
+  "grade": "1"
 }

@@ -416,5 +416,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06697.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6697.gif",
     "uri": "https://jisho.org/search/%E6%9A%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "ám"
+  ],
+  "vietnameseMeaning": [
+    "① Tối, trí thức kém cỏi cũng gọi là ám. ② Ngầm, như ám sát 暗殺 giết ngầm. ① Tối, tối tăm, mờ, thiếu ánh sáng: 這間屋子太暗 Buồng này tối quá; ② Bí mật, kín, ngầm, thầm: 心中暗喜 Trong bụng mừng thầm; ③ Mờ ám, ám muội, quáng: 兼聽則明，偏信則暗 Nghe nhiều mặt thì sáng, tin một chiều thì quáng."
+  ],
+  "jlpt": "3",
+  "frequency": "1040",
+  "grade": "3"
 }

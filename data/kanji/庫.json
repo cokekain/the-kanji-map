@@ -340,5 +340,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eab.gif",
     "uri": "https://jisho.org/search/%E5%BA%AB%23kanji"
-  }
+  },
+  "hanviet": [
+    "khố",
+    "kho"
+  ],
+  "vietnameseMeaning": [
+    "① Cái kho. Chỗ để chứa đồ binh khí của nhà nước. Chỗ để đồ cũng gọi là khố. ① Kho: 入庫 Vào kho, nhập kho; 糧食庫 Kho lương thực; ② (Họ) Khố."
+  ],
+  "jlpt": "2",
+  "frequency": "852",
+  "grade": "3"
 }

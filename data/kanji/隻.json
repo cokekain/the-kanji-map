@@ -243,5 +243,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096bb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96bb.gif",
     "uri": "https://jisho.org/search/%E9%9A%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "chích",
+    "chiếc"
+  ],
+  "vietnameseMeaning": [
+    "① Chiếc, cái gì chỉ có một mình đều gọi là chích. Như hình đan ảnh chích 形單影隻 chiếc bóng đơn hình. ② Một tiếng dùng để đếm xem số đồ có bao nhiêu. Như nhất chích 一隻 một cái, một chiếc, lưỡng chích 兩隻 hai cái, hai chiếc, v.v. ① (loại) Con, cái, chiếc, bàn: 一隻眼睛 Một con mắt; 一隻鳥 Một con chim; 一隻手表 Một cái đồng hồ đeo tay; 一隻鞋 Một chiếc giầy; 一隻手 Một bàn tay; 乾坤隻眼小塵埃 Một con mắt càn khôn coi cõi trần là nhỏ (Trần Bích San: Quá Vân Sơn); ② Lẻ loi, một mình, đơn độc, chiếc: 隻影 Bóng chiếc, lẻ bóng; 形單影隻 Lẻ loi đơn chiếc; 隻字不提 Không nhắc đến một lời. Xem 只 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1546",
+  "grade": "8"
 }

@@ -488,5 +488,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c17.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c17.gif",
     "uri": "https://jisho.org/search/%E6%B0%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "khí"
+  ],
+  "jlpt": "4",
+  "frequency": "113",
+  "grade": "1"
 }

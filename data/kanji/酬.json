@@ -50,5 +50,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0916c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/916c.gif",
     "uri": "https://jisho.org/search/%E9%85%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "thù"
+  ],
+  "vietnameseMeaning": [
+    "① Mời rượu. Chủ mời khách uống gọi là thù 酬, khách rót lại chủ gọi là tạc 答. Vì thế nên ở đời phải đi lại với nhau để tỏ tình thân đều gọi là thù tạc 酬答 báo đáp trả. ① (văn) Mời rượu (chủ mời rượu khách): 酬酢 Chuốc rượu mời nhau; ② Đền công, báo đáp. 【酬謝】thù tạ Thù tạ, đền công, đền ơn, trả công ơn; ③ Trả công, trả thù lao: 同工同酬 Việc làm như nhau tiền công ngang nhau; ④ Thực hiện: 壯志未酬 Chí lớn chưa thực hiện được; ⑤ Tiếp xúc, giao thiệp với nhau: 應酬 Thù ứng."
+  ],
+  "jlpt": "1",
+  "frequency": "1515",
+  "grade": "8"
 }

@@ -61,5 +61,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e11.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e11.gif",
     "uri": "https://jisho.org/search/%E4%B8%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "sửu",
+    "xú"
+  ],
+  "vietnameseMeaning": [
+    "xú ① Một chi trong 12 chi. Từ 1 giờ đêm đến 3 giờ sáng là giờ sửu. ② Vai hề trong tuồng tầu cũng xưng là sửu. ① Chữ thứ hai trong hàng chi; ② Hề, vai hề: 丑兒 Thằng hề; ③ Người xấu ác: 群丑破滅 Bọn ác bị tiêu diệt (Tấn thư: Đào Khản liệt truyện); ④ (Họ) Sửu. Xem 醜 (bộ 酉). Như 醜"
+  ],
+  "jlpt": "1",
+  "frequency": "2305",
+  "grade": "9"
 }

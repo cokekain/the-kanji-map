@@ -332,5 +332,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cc3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cc3.gif",
     "uri": "https://jisho.org/search/%E8%B3%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhẩm",
+    "nhẫm"
+  ],
+  "vietnameseMeaning": [
+    "① Làm thuê. ② Thuê mượn. ① Thuê: 租賃 Thuê mướn; 出賃 Cho thuê; 賃了一輛車 Thuê một chiếc xe; 這房子是早先賃 的 Căn nhà này đã thuê từ lâu; ② (văn) Người làm thuê."
+  ],
+  "jlpt": "2",
+  "frequency": "961",
+  "grade": "6"
 }

@@ -351,5 +351,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09031.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9031.gif",
     "uri": "https://jisho.org/search/%E9%80%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "chu"
+  ],
+  "vietnameseMeaning": [
+    "① Vòng khắp. Cùng nghĩa với chữ chu 周. ② Một tuần lễ gọi là nhất chu 一週. ① Như 周 (bộ 口) nghĩa ①, ②, ③; ② Tuần lễ."
+  ],
+  "jlpt": "4",
+  "frequency": "540",
+  "grade": "2"
 }

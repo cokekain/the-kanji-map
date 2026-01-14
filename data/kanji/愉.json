@@ -59,5 +59,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06109.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6109.gif",
     "uri": "https://jisho.org/search/%E6%84%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "du"
+  ],
+  "vietnameseMeaning": [
+    "① Vui vẻ. Nét mặt hoà nhã vui vẻ gọi là du sắc 愉色. ② Một âm là thâu. Cẩu thả, tạm bợ. (văn) Cẩu thả, tạm bợ (như 偷, bộ 亻). Vui vẻ: 他面有不愉之色 Nét mặt nó có vẻ không vui."
+  ],
+  "jlpt": "1",
+  "frequency": "1974",
+  "grade": "8"
 }

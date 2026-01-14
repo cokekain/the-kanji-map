@@ -314,5 +314,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c38.gif",
     "uri": "https://jisho.org/search/%E6%B0%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "vĩnh",
+    "vắng"
+  ],
+  "vietnameseMeaning": [
+    "① Lâu, dài, mãi mãi, như vĩnh viễn 永遠. ① (văn) Dài: 江之永矣 Sông Trường Giang dài (Thi Kinh); ② Lâu dài, mãi mãi: 永遠 Vĩnh viễn, mãi mãi; 永爲儀則 Mãi mãi làm phép tắc, trở thành phép tắc lâu dài (Sử kí: Tần Thuỷ hoàng bản kỉ); ③ (văn) Đọc hoặc ca hát với điệu trầm bổng (dùng như 咏, bộ 口)."
+  ],
+  "jlpt": "2",
+  "frequency": "846",
+  "grade": "5"
 }

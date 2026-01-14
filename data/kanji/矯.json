@@ -55,5 +55,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077ef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77ef.gif",
     "uri": "https://jisho.org/search/%E7%9F%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "kiểu"
+  ],
+  "vietnameseMeaning": [
+    "① Nắn thẳng, cái gì lầm lỗi sửa lại cho phải gọi là kiểu chính 矯正. ② Làm giả bộ. ③ Khỏe khoắn, mạnh. ④ Cất cao, bay lên. ① Uốn nắn, sửa chữa: 矯正 Uốn nắn, sửa chữa; ② Lừa dối, giả trá, giả bộ, (làm) ra vẻ, giả tạo ra...: 矯飾 Giả dối loè loẹt bề ngoài; ③ Mạnh mẽ, khỏe khoắn, khỏe mạnh; ④ (văn) Cất cao, bay lên."
+  ],
+  "jlpt": "1",
+  "frequency": "2105",
+  "grade": "8"
 }

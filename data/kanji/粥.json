@@ -73,5 +73,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ca5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ca5.gif",
     "uri": "https://jisho.org/search/%E7%B2%A5%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Cháo. ② Chúc chúc 粥粥 nhút nhát, rụt rè, tả cái dáng hèn yếu. ③ Một âm là dục. Bán, cùng nghĩa với chữ dục 鬻. Bán (dùng như 鬻): 君子雖貧，不粥祭器 Người quân tử dù nghèo cũng không bán những đồ đựng vật tế (Lễ kí). Cháo: 煮粥 Nấu cháo; 稀粥 Cháo lỏng; 小米粥 Cháo kê."
+  ],
+  "hanviet": [
+    "chúc",
+    "dục"
+  ],
+  "frequency": "2280",
+  "grade": "9"
 }

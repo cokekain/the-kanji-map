@@ -373,5 +373,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93e1.gif",
     "uri": "https://jisho.org/search/%E9%8F%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "kính",
+    "kẻng"
+  ],
+  "vietnameseMeaning": [
+    "① Cái gương soi, ngày xưa làm bằng đồng, bây giờ làm bằng pha lê. Nguyễn Du 阮攸: Tha hương nhan trạng tần khai kính, Khách lộ trần ai bán độc thư 他鄉顏狀頻開鏡，客路塵埃半讀書 (Ðông lộ 東路) Nơi quê người thường mở gương soi dung nhan, Trên đường gió bụi nơi đất khách, nửa thì giờ dùng để đọc sách. Quách Tấn dịch thơ: Ðường hé quyển vàng khuây gió bụi, Trạm lau gương sáng ngắm mày râu. ② Soi. ① Gương: 穿衣鏡 Gương đứng; 破鏡重圓 Gương vỡ lại lành; ② (văn) Soi gương; ③ Kính, kiếng: 近視眼鏡 Kính cận thị; 凹鏡 Kính lõm; 顯微鏡 Kính hiển vi."
+  ],
+  "jlpt": "1",
+  "frequency": "1506",
+  "grade": "4"
 }

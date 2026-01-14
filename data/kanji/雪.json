@@ -396,5 +396,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096ea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96ea.gif",
     "uri": "https://jisho.org/search/%E9%9B%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "tuyết"
+  ],
+  "vietnameseMeaning": [
+    "① Tuyết. Mưa gặp lúc rét quá rơi lại từng mảng gọi là tuyết. Khi tuyết sa xuống nó toả ra như bông hoa, cho nên gọi là tuyết hoa 雪花. Nguyễn Du 阮攸: Nhất thiên phong tuyết độ Hoàng Hà 一天風雪渡黃河 một trời gió tuyết, qua sông Hoàng Hà. ② Rửa. Như tuyết sỉ 雪恥 rửa hổ, rửa nhục. Vạch tỏ nỗi oan ra gọi là chiêu tuyết 昭雪. ③ Lau. ① Tuyết; ② Trắng như tuyết, đầy tuyết; ③ Kem lạnh; ④ Rửa, trả thù: 雪恥 Rửa nhục; ⑤ (văn) Lau sạch."
+  ],
+  "jlpt": "2",
+  "frequency": "1131",
+  "grade": "2"
 }

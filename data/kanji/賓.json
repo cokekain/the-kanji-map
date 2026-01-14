@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cd3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cd3.gif",
     "uri": "https://jisho.org/search/%E8%B3%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "tân"
+  ],
+  "vietnameseMeaning": [
+    "① Khách, người ở ngoài đến gọi là khách 客, kính mời ngồi trên gọi là tân 賓, như tương kính như tân 相敬如賓 cùng kính nhau như khách quý. Ngày xưa đặt ra năm lễ, trong đó có một lễ gọi là tân lễ 賓禮, tức là lễ phép khách khứa đi lại thù tạc với nhau. ② Phục. ③ Một âm là thấn. Khước đi. ① Khách: 來賓 Tân khách, khách khứa; 外賓 Khách nước ngoài; 貴賓 Khách quý; 喧賓奪主 Khách đoạt ngôi chủ, (Ngr) để cái phụ lấn cái chính; ② (văn) Đãi như khách; ③ (văn) Phục, nghe theo; ④ (Họ) Tân."
+  ],
+  "jlpt": "1",
+  "frequency": "1677",
+  "grade": "8"
 }

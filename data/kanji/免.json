@@ -332,5 +332,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514d.gif",
     "uri": "https://jisho.org/search/%E5%85%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "miễn"
+  ],
+  "vietnameseMeaning": [
+    "① Bỏ, như miễn quan 免冠 trật mũ. ② Khỏi, như miễn tử 免死 thoát khỏi chết. ③ Truất, cách, như miễn quan 免官 cách chức quan. ④ Một âm là vấn, như đản vấn 袒免 áo tang để trầy tay ra. ① Miễn, bỏ, bãi, truất, cách: 免稅 Miễn thuế; 俗禮都免了 Mọi lễ tục đều bỏ hết; 免官 Bãi (cách) chức quan; ② Khỏi phải: 事前做好准備以免臨時手忙腳亂 Phải chuẩn bị kĩ càng, trước khi làm để khỏi phải bối rối.【免不得】miễn bất đắc Không tránh khỏi (được), thế nào cũng: 在前進的道路上，免不得會有困難 Trên con đường tiến tới, thế nào cũng gặp phải khó khăn; 剛會走的孩子免不得要摔交 Con nít mới biết đi, khó tránh khỏi bị ngã; 【免不了】 miễn bất liễu Như 免不得；【免得】miễn đắc Để khỏi phải, để tránh khỏi: 多問幾句免得走錯路 Hỏi thêm vài câu, để khỏi phải đi nhầm đường; 我再說明一下，免得引起誤會 Tôi xin nói lại lần nữa, để khỏi hiểu nhầm; ③ Không được, đừng: 閑人免進 Không có việc xin đừng vào; 免開 尊口 Xin đừng mở mồm."
+  ],
+  "jlpt": "1",
+  "frequency": "1080",
+  "grade": "8"
 }

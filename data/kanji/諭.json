@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aed.gif",
     "uri": "https://jisho.org/search/%E8%AB%AD%23kanji"
-  }
+  },
+  "hanviet": [
+    "dụ"
+  ],
+  "vietnameseMeaning": [
+    "① Bảo, người trên bảo người dưới gọi là dụ. Như thượng dụ 上諭 dụ của vua. ② Hiểu dụ, tỏ rõ ý nghĩa. ③ Tỏ. ④ Thí dụ. (văn) ① Dụ, lời truyền bảo, chỉ thị (của bề trên đối với bề dưới): 上諭 Dụ của vua; ② Truyền xuống bằng dụ, chỉ thị xuống (cấp dưới); ③ (văn) Thí dụ."
+  ],
+  "jlpt": "1",
+  "frequency": "1461",
+  "grade": "8"
 }

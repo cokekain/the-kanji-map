@@ -325,5 +325,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98fd.gif",
     "uri": "https://jisho.org/search/%E9%A3%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "bão"
+  ],
+  "vietnameseMeaning": [
+    "① No, ăn no. Nói rộng ra phàm sự gì được thoả thích đều gọi là bão. Như bão đức 飽德 được đội ơn đức nhiều. ① No, ăn no: 吃飽 Ăn no; 溫飽 Ấm no, no ấm; 飽食暖衣 Ăn no, mặc ấm; 君子食無求飽 Người quân tử ăn chẳng cần no (Luận ngữ); ② Đầy đủ, nhiều. 【飽經風霜】 bão kinh phong sương Dãi dầu sương gió, lặn lội gió sương. (Ngb) Từng trải nhiều gian nan khó nhọc; ③ Mẩy, mẫm, đầy: 穀粒很飽 Thóc mẩy; ④ Làm thoả mãn, làm vừa lòng: 一飽眼褔 Xem thoả mãn, xem cho đã."
+  ],
+  "jlpt": "1",
+  "frequency": "1780",
+  "grade": "8"
 }

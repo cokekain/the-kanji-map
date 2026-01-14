@@ -419,5 +419,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09060.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9060.gif",
     "uri": "https://jisho.org/search/%E9%81%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "viễn"
+  ],
+  "vietnameseMeaning": [
+    "① Xa, trái lại với chữ cận 近. ② Sâu xa. ③ Dài dặc. ④ Họ Viễn. ⑤ Một âm là viển. Xa lìa. ⑥ Xa đi, coi sơ. ⑦ Bỏ đi. ① Xa, sâu xa, dài dặc: 路遠 Đường xa; 遠親 Họ hàng xa; 差得遠 Kém xa; ② (Họ) Viễn. (văn) ① Tránh xa, lánh xa: 鬼神敬而遠之 Đối với quỷ thần thì nên kính mà lánh xa (Luận ngữ); ② Ngại đường xa: 叟不遠千里而來 Cụ không ngại đường xa ngàn dặm mà đến đây (Mạnh tử)."
+  ],
+  "jlpt": "3",
+  "frequency": "887",
+  "grade": "2"
 }

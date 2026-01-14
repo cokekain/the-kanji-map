@@ -74,5 +74,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d78.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d78.gif",
     "uri": "https://jisho.org/search/%E6%B5%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "tẩm",
+    "tắm"
+  ],
+  "vietnameseMeaning": [
+    "① Tẩm, ngâm. ② Tên gọi chung các chằm lớn. ③ Dần dần, như quốc thế tẩm thịnh 國勢浸盛 thế nước dần thịnh. ④ Tẩm dả ví rồi ra, dùng làm chữ giúp lời. ⑤ Tẩm nhuận chi chấm 浸潤之譖 lời dèm pha ton hót, ý nói lời dèm lần lần nó vào như nước ngấm dần vậy. ① Ngâm, nhúng, tẩm: 浸水 Ngâm nước; 浸種 Ngâm giống; ② Đầm, thấm: 淚水浸濕了衣服 Áo đầm nước mắt; 這塊布不浸水 Miếng vải này không thấm nước; ③ (văn) Tưới: 一日浸百畦 Một ngày tưới trăm; ④ (văn) Sông lớn, chằm lớn, hồ nước: 大浸稽天而不溺 Sông lớn tràn lên đến trời mà không bị chìm chết (Trang tử: Tiêu dao du); ④ (văn) Dần dần: 旬日之間，浸大也 Trong vòng mười ngày, lớn dần ra (Liệt tử); ⑤ (văn) Càng thêm: 若其浸盛，何以制之！ Nếu quyền lực của ông ta càng lớn thì lấy gì để chế phục ông ta! (Hậu Hán thư)."
+  ],
+  "jlpt": "1",
+  "frequency": "1447",
+  "grade": "8"
 }

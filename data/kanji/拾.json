@@ -290,5 +290,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062fe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62fe.gif",
     "uri": "https://jisho.org/search/%E6%8B%BE%23kanji"
-  }
+  },
+  "hanviet": [
+    "thập"
+  ],
+  "vietnameseMeaning": [
+    "① Nhặt nhạnh. ② Mười, cũng như chữ thập 十. ③ Cái bao bằng da bọc cánh tay. ④ Một âm là thiệp. Liền bước, như thiệp cấp nhi đăng 拾級而豋 liền bước noi từng bực mà lên. ⑤ Lại một âm là kiệp. Lần lượt. ① Nhặt, mót, thu xếp, tu sửa: 拾麥子 Mót lúa mì; 拾了一支筆 Nhặt được một cây bút; 收拾房子 Thu dọn nhà cửa; ② Mười (Chữ “十” viết kép); ③ (văn) Bao da để bọc cánh tay. Lần lượt (biểu thị động tác tiến hành luân phiên): 拾級而登 Leo lên từng bực một; 左右告矢具，請拾投 Tả hữu cho biết các mũi tên đã chuẩn bị đủ, xin lần lượt ném (Lễ kí: Đầu hồ)."
+  ],
+  "jlpt": "2",
+  "frequency": "1479",
+  "grade": "3"
 }

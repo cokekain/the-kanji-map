@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b5.gif",
     "uri": "https://jisho.org/search/%E5%82%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "trái"
+  ],
+  "vietnameseMeaning": [
+    "① Nợ, như phụ trái 負債 mang nợ. Nợ: 借債 Vay nợ: 負債 Mắc nợ; 還債 Trả nợ."
+  ],
+  "jlpt": "1",
+  "frequency": "728",
+  "grade": "8"
 }

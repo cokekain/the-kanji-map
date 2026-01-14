@@ -65,5 +65,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06731.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6731.gif",
     "uri": "https://jisho.org/search/%E6%9C%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "chu",
+    "cho"
+  ],
+  "vietnameseMeaning": [
+    "① Ðỏ. ② Ðời xưa cho sắc đỏ là đẹp nhất, nên gọi các nhà phú quý là chu môn 朱門. ① Màu đỏ thắm (son, hồng): 朱唇皓齒 Răng trắng môi hồng; ② (Họ) Chu."
+  ],
+  "jlpt": "1",
+  "frequency": "1788",
+  "grade": "8"
 }

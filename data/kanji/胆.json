@@ -65,5 +65,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080c6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80c6.gif",
     "uri": "https://jisho.org/search/%E8%83%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "đảm"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ đảm 膽. Như 膽"
+  ],
+  "jlpt": "1",
+  "frequency": "1449",
+  "grade": "8"
 }

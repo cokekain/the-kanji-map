@@ -74,5 +74,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60dc.gif",
     "uri": "https://jisho.org/search/%E6%83%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "tích",
+    "tiếc"
+  ],
+  "vietnameseMeaning": [
+    "① Ðau tiếc. Nhận thấy người hay vật gì mất đi mà không cam tâm gọi là tích. Như thâm kham thống tích 深堪痛惜 rất đáng tiếc nhớ lắm. ② Yêu tiếc. Nhân vì đáng yêu mà quý trọng gọi là tích. Như thốn âm khả tích 寸陰可惜 một tấc bóng quang âm cũng đáng tiếc. ③ Tham, keo. ① Quý trọng, quý mến, yêu tiếc: 愛惜公物物 Quý trọng của công; 惜寸陰 Quý trọng từ tí thời gian; ② Tiếc, đau tiếc, tiếc rẻ: 不惜工本 Không tiếc gì vốn liếng; 惜未成功 Tiếc là chưa thành công; 痛惜 Tiếc rẻ lắm; ③ Tham, keo."
+  ],
+  "jlpt": "1",
+  "frequency": "1641",
+  "grade": "8"
 }

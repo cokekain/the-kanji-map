@@ -367,5 +367,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e21.gif",
     "uri": "https://jisho.org/search/%E6%B8%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "độ",
+    "đò"
+  ],
+  "vietnameseMeaning": [
+    "① Qua, từ bờ này sang bờ kia gọi là độ. ② Bên đó, chỗ bến đò để chở người qua sông gọi là độ khẩu 渡口. ③ Cứu vớt cho người qua cơn khổ ách gọi là tế độ 濟渡. ④ Giao phó. ①Sang, qua, vượt qua (sông): 橫渡 Sang ngang, sang sông; 飛渡太平洋 Bay qua Thái Bình Dương; 渡過困難時期 Vượt qua thời kì khó khăn; ② Bến đò: 美順渡口 Bến đò Mĩ Thuận; ③ (văn) Tế độ, cứu vớt; ④ (văn) Giao phó."
+  ],
+  "jlpt": "2",
+  "frequency": "446",
+  "grade": "8"
 }

@@ -362,5 +362,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0969c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/969c.gif",
     "uri": "https://jisho.org/search/%E9%9A%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "chướng"
+  ],
+  "vietnameseMeaning": [
+    "① Che, ngăn. Có vật gì nó làm ngăn cách gọi là chướng ngại 障礙. ② Che lấp. Bị vật dục nó che lấp mất chân tri gọi là trần chướng 塵障, bị phần tri kiến nó che lấp mất chân tri gọi là lí chướng 理障 đều là nói về sự làm mất cái sáng láng của bản thể chân tâm vậy. ③ Cái bức che cửa. Các nhà quý phái đi ra ngoài có tấm bình che trước mặt gọi là bộ chướng 步障 hay hành chướng 行障 đều là thứ dùng để che mà đẹp vậy. ④ Các cái xây đắp dùng để che chở phòng giữ phần nhiều đều gọi là chướng. Như cái bờ đê gọi là đê chướng 堤障, cái ụ thành gọi là bảo chướng 保障, các nơi phòng giữ ngoài biên đắp tường đất để ngăn ngựa trận, xây chòi để trông được xa gọi là đình chướng 亭障. Có khi viết là 鄣. ① Cái chắn bùn cho ngựa (như ý[, bộ 革). ① Cách trở, ngăn, chặn: 堤堰可以障水 Đê điều có thể ngăn (chặn) nước; ② Chắn, che: 風障 Hàng rào chắn gió; 障眼法 Thuật (phép) che mắt; ③ (văn) Bức che, tấm che, màn che: 步障 (hay 行障) Màn che bụi lúc đi đường (của nhà quý phái thời xưa); ④ (văn) Vật xây đắp lên để che chở: 堤障 Bờ đê; 保障 Ụ thành."
+  ],
+  "jlpt": "1",
+  "frequency": "742",
+  "grade": "6"
 }

@@ -279,5 +279,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c9d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c9d.gif",
     "uri": "https://jisho.org/search/%E8%B2%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "bối",
+    "buổi"
+  ],
+  "vietnameseMeaning": [
+    "① Con sò, ngày xưa dùng vỏ sò làm tiền tiêu, cho nên những chữ nói về của cải phần nhiều có chữ 貝 ở bên, những đồ quý báu gọi là bảo bối 寶貝. ② Các đồ đệ Phật lấy lá cây bối đa viết kinh gọi là bối diệp kinh 貝葉經. ③ Trang sức. ① Loài sò, hến (nói chung); ② Tiền thời xưa làm bằng vỏ sò, vỏ hến; ③ Quý giá, quý báu: 寶貝 Đồ quý báu; ④ (lí) Bel (đơn vị do công suất dùng trong điện học hoặc âm học); ⑤ Cây bối đa 貝葉經 Kinh viết bằng lá cây bối đa; ⑥ (Họ) Bối."
+  ],
+  "jlpt": "2",
+  "frequency": "1787",
+  "grade": "1"
 }

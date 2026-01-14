@@ -100,5 +100,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67c4.gif",
     "uri": "https://jisho.org/search/%E6%9F%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "bính"
+  ],
+  "vietnameseMeaning": [
+    "① Cái chuôi, vật gì có chuôi có cán để cầm gọi là bính. ② Một cái đồ gì cũng gọi là nhất bính 一柄. ② Quyền bính, quyền chính. ① (Cái) chuôi, đuôi, cán: 刀柄 Chuôi dao; 斧柄 Cán búa; ② Cuống, 花柄 Cuống hoa; 葉柄 Cuống lá; ③ (văn) Nắm, cầm: 柄政 Nắm chính quyền, cầm quyền; Cv. 秉政; ④ (văn) Chính quyền, quyền bính: 國柄 Chính quyền của một nước; ⑤ (loại) (đph) Cây, chiếc, cái: 兩柄斧頭 Hai cây búa."
+  ],
+  "jlpt": "1",
+  "frequency": "1140",
+  "grade": "8"
 }

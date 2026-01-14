@@ -365,5 +365,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ef6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ef6.gif",
     "uri": "https://jisho.org/search/%E5%BB%B6%23kanji"
-  }
+  },
+  "hanviet": [
+    "duyên",
+    "diên",
+    "dang"
+  ],
+  "vietnameseMeaning": [
+    "① Kéo dài, như duyên niên 延年 thêm tuổi, duyên thọ 延壽 thêm thọ, v.v. ② Kéo dài con đường tiến đi, khiến cho không tới được đúng kì gọi là duyên. Như duyên hoãn 延緩, duyên đãng 延宕 kéo dài cho chậm tiến. Rụt lùi lại gọi là thiên duyên 遷延 (lần lữa), quanh co, không tiến gọi là uyển duyên 宛延. ③ Xa, như duyên mậu vạn dư lí 延葇葇萬餘里 dài suốt hơn muôn dặm. ④ Tiến nạp, mời vào, rước tới. Như duyên sư 延師 rước thầy, duyên khách 延客 mời khách, v.v. ⑤ Kịp, sự gì dắt dây tới gọi là duyên. ① Kéo dài. 【延長】diên trường Kéo dài: 會議延長了三天 Hội nghị kéo dài thêm ba hôm; 延長號 (nhạc) Dấu dãn nhịp (pause); ② Kéo dài thời gian, trì hoãn, hoãn lại: 延遲 Trì hoãn; ③ Mời: 延客 Mời khách; 延師 Mời thầy giáo; 延醫 Mời thầy thuốc; ④ (văn) Kịp khi; ⑤ (Họ) Diên."
+  ],
+  "jlpt": "2",
+  "frequency": "747",
+  "grade": "6"
 }

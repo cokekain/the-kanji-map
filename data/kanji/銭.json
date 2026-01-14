@@ -356,5 +356,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092ad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92ad.gif",
     "uri": "https://jisho.org/search/%E9%8A%AD%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiền"
+  ],
+  "jlpt": "1",
+  "frequency": "1008",
+  "grade": "5"
 }

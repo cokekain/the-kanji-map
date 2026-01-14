@@ -36,5 +36,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fd5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fd5.gif",
     "uri": "https://jisho.org/search/%E6%BF%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "dấp",
+    "nhấp",
+    "thấm",
+    "thấp"
+  ],
+  "vietnameseMeaning": [
+    "① Ướt, ẩm thấp. ② Một âm là chập. Chập chập 濕濕 tai trâu ve vẩy. Như 溼."
+  ],
+  "grade": "10"
 }

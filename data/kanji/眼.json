@@ -404,5 +404,18 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0773c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/773c.gif",
     "uri": "https://jisho.org/search/%E7%9C%BC%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhãn",
+    "nhản",
+    "nhặn",
+    "nhẫn",
+    "nhởn"
+  ],
+  "vietnameseMeaning": [
+    "① Mắt. ② Cái hố, cái lỗ. ③ Chỗ yếu điểm, như pháp nhãn tàng 法眼藏 chỗ chứa cái yếu điểm của pháp. ① Mắt: 左眼 Mắt trái; 睜眼 Mở mắt; 雙眼皮兒 Mắt hai mí; 鬥眼 Mắt lé; ② Lỗ nhỏ, trôn: 針眼 Trôn kim; ③ Nhịp (trong tuồng); ④ Chỗ quan trọng, yếu điểm."
+  ],
+  "jlpt": "1",
+  "frequency": "1527",
+  "grade": "5"
 }

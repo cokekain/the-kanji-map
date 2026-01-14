@@ -291,5 +291,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07070.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7070.gif",
     "uri": "https://jisho.org/search/%E7%81%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "hôi"
+  ],
+  "vietnameseMeaning": [
+    "hôi, khôi ① Tro, vật gì đốt ra tro rồi không thể cháy được nữa gọi là tử hôi 死灰. Vì thế nên sự gì thất ý không có hi vọng nữa gọi là tâm hôi 心灰. ② Ðá vôi, gọi đủ phải gọi là thạch hôi 石灰. ③ Màu tro, màu đen nhờ nhờ, thường đọc là khôi. ① Tro, tàn, than: 爐灰 Than sỉ, tro lò; 煙灰 Tàn thuốc lá; 竹破灰飛 Trúc phá tro bay; ② Bụi: 滿臉都是灰 Bụi đầy mặt; ③ (Màu) xám, (màu) tro. 【灰色】hôi sắc a. Màu xám, màu tro (gio); b. (Ngb) Tiêu cực, thất vọng, bi quan: 灰色的作品 Tác phẩm tiêu cực; 灰色的心情 Tâm tình bi quan; c. (Ngb) Lưng chừng, không rõ ràng, không dứt khoát: 灰色的態度 Thái độ lưng chừng; ④ Vôi: 抹灰 Quét vôi; ⑤ Nản: 心灰 Nản lòng."
+  ],
+  "jlpt": "2",
+  "frequency": "1717",
+  "grade": "6"
 }

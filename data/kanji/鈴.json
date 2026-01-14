@@ -92,5 +92,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09234.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9234.gif",
     "uri": "https://jisho.org/search/%E9%88%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "linh"
+  ],
+  "vietnameseMeaning": [
+    "① Cái chuông rung, cái chuông nhỏ cầm tay lắc. ① Chuông: 電鈴 Chuông điện; 車鈴 Chuông xe; 按鈴 Bấm chuông; ② Những vật hình cầu: 啞鈴 Quả tạ; ③ Nụ búp: 棉鈴 Nụ bông; 落鈴 Rụng nụ."
+  ],
+  "jlpt": "1",
+  "frequency": "880",
+  "grade": "8"
 }

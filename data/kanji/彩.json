@@ -57,5 +57,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f69.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f69.gif",
     "uri": "https://jisho.org/search/%E5%BD%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "thái"
+  ],
+  "vietnameseMeaning": [
+    "① Tia sáng. ② Rực rỡ. Phàm cạnh tranh chơi đùa đều lấy sự được thua làm vinh nhục, nên ai giật giải đuợc hơn gọi là đắc thải 得彩. Cũng vì thế mà cái vé sổ số cũng gọi là thải phiếu 彩票. Ta quen đọc là thái. ① Màu sắc: 五彩 Năm màu, ngũ sắc; ② Lụa màu, hoa (tết bằng lụa màu): 張燈結彩 Treo đèn tết hoa; ③ (Bị) thương: 他挂彩了 Anh ấy bị thương; ④ Hay: 喝彩 Khen hay, hoan hô; ⑤ (cũ) Tiền được cuộc, giải trúng: 得彩 Trúng xổ số; ⑥ (văn) Tia sáng; ⑦ (văn) Rực rỡ."
+  ],
+  "jlpt": "1",
+  "frequency": "1251",
+  "grade": "8"
 }

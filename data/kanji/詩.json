@@ -344,5 +344,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a69.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a69.gif",
     "uri": "https://jisho.org/search/%E8%A9%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "thi"
+  ],
+  "vietnameseMeaning": [
+    "① Thơ, văn có vần gọi là thơ. Ngày xưa hay đặt mỗi câu bốn chữ, về sau hay dùng lối đặt năm chữ hay bảy chữ gọi là thơ ngũ ngôn, thơ thất ngôn. ② Kinh thi. ③ Nâng, cầm. ① Thơ: 作詩 Làm thơ, sáng tác thơ; 五言詩 Thơ ngũ ngôn; 正格詩 Thơ đúng niêm luật; 散文詩 Thơ văn xuôi; 唐詩 Thơ Đường, Đường thi; ② (văn) Kinh Thi (nói tắt): 不學詩，無以言 Không học Kinh Thi thì không lấy gì để ăn nói (Luận ngữ); ③ (văn) Nâng, cầm."
+  ],
+  "jlpt": "1",
+  "frequency": "1196",
+  "grade": "3"
 }

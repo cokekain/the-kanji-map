@@ -51,5 +51,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0983b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/983b.gif",
     "uri": "https://jisho.org/search/%E9%A0%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "tần"
+  ],
+  "vietnameseMeaning": [
+    "① Luôn. Phần nhiều dùng làm trợ từ. Như tần tần 頻頻 luôn luôn. ② Kíp, gấp. ③ Gồm, đều. ① Nhiều lần, liên tiếp, dồn dập, luôn, thường: 捷報頻傳 Tin mừng liên tiếp truyền về; 頻來詢問 Đến hỏi nhiều (dồn dập); 是時地數震裂，衆火頻降 Lúc ấy đất thường động vỡ, nhiều trận hoả tai thường giáng xuống (Hậu Hán thư).【頻頻】tần tần Nhiều lần, lia lịa, tới tấp: 頻頻爲健康舉杯 Nhiều lần nâng cốc chúc sức khỏe; 頻頻點頭 Gật đầu lia lịa; ② (văn) Kíp, gấp; ③ (văn) Như 顰 (bộ 頁)."
+  ],
+  "jlpt": "1",
+  "frequency": "1590",
+  "grade": "8"
 }

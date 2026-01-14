@@ -312,5 +312,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06614.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6614.gif",
     "uri": "https://jisho.org/search/%E6%98%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "tích"
+  ],
+  "vietnameseMeaning": [
+    "① Xưa, trước, như tích nhật 昔日 ngày xưa. ② Ðêm, như nhất tích 一昔 một đêm. ③ Lâu ngày. ④ Thịt khô. (văn) Xen kẽ (như 錯, bộ 金). ① Trước kia, thời trước: 今昔對比 So sánh trước kia và bây giờ; 昔我未生時 Xưa lúc tôi chưa được sinh ra (Vương Phạm Chí thi); 昔年 Năm trước, năm xưa, năm kia; 昔日 Ngày trước, ngày xưa, ngày kia; ② (văn) Đêm: 一昔 Một đêm; ③ (văn) Lâu ngày; ④ (văn) Cuối, đầu mút: 孟夏之昔 Cuối tháng tư; ⑤ (văn) Thịt khô (dùng như 腊, bộ 肉)."
+  ],
+  "jlpt": "2",
+  "frequency": "1197",
+  "grade": "3"
 }

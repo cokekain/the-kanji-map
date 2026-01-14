@@ -70,5 +70,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093ae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93ae.gif",
     "uri": "https://jisho.org/search/%E9%8E%AE%23kanji"
-  }
+  },
+  "hanviet": [
+    "trấn"
+  ],
+  "jlpt": "1",
+  "frequency": "1617",
+  "grade": "8"
 }

@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b45.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b45.gif",
     "uri": "https://jisho.org/search/%E9%AD%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "mị"
+  ],
+  "vietnameseMeaning": [
+    "① Si mị 魑魅 loài yêu quái ở gỗ đá hoá ra. ① Ma quỷ, yêu quái, yêu ma; ② Làm mê hoặc, làm cho mê muội, quyến rũ."
+  ],
+  "jlpt": "1",
+  "frequency": "1206",
+  "grade": "8"
 }

@@ -63,5 +63,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067b6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67b6.gif",
     "uri": "https://jisho.org/search/%E6%9E%B6%23kanji"
-  }
+  },
+  "hanviet": [
+    "giá"
+  ],
+  "vietnameseMeaning": [
+    "① Cái giá, như y giá 衣架 cái giá mắc áo, thư giá 書架 cái giá sách, v.v. ② Gác, như trụ thượng già lương 桂上架樑 gác xà trên cột. ③ Ðặt điều vu vạ, như giá hoạ 架禍 đặt điều vu hoạ cho người. ① (Cái) giá: 衣架 (Cái) giá mắc áo; 筆架 Giá bút, cái gác bút; ② Giàn, khung, khuôn: 葡萄架 Giàn nho; 房架 Khung nhà; 風箏架子 (Cái) khuôn diều; ③ Bắc, gác: 架橋 Bắc cầu; 架電線 Bắc dây điện; 架梯子 Bắc thang; 柱上架樑 Gác xà trên cột; ④ (loại) Chiếc: 幾千架飛機 Mấy nghìn chiếc máy bay; ⑤ Đánh nhau, cãi cọ nhau: 打架 Đánh nhau; 吵架 Cãi nhau; 勸架 Can (hai người đánh nhau); ⑥ Khiêng, cáng: 把 傷員架走 Cáng binh sĩ bị thương; ⑦ Chịu đựng: 房子這樣冷，病人架得住嗎？ Buồng lạnh thế này người bệnh có chịu nổi không?; ⑧ Đặt điều vu vạ: 架禍 Vu vạ cho người khác."
+  ],
+  "jlpt": "1",
+  "frequency": "1555",
+  "grade": "8"
 }

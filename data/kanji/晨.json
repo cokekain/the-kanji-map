@@ -36,5 +36,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06668.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6668.gif",
     "uri": "https://jisho.org/search/%E6%99%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "thần"
+  ],
+  "vietnameseMeaning": [
+    "① Sớm, lúc mặt trời mới mọc gọi là thanh thần 清晨 sáng sớm. ② Gà gáy báo tin sáng. ③ Sao thần. ① Sáng, sáng sớm: 清晨 Sáng sớm; ② (văn) Gà gáy báo sáng; ③ Sao Thần."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

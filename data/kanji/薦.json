@@ -60,5 +60,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85a6.gif",
     "uri": "https://jisho.org/search/%E8%96%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiến"
+  ],
+  "vietnameseMeaning": [
+    "① Cỏ, rơm cho súc vật ăn gọi là tiến. ② Chiếu cói cũng gọi là tiến. ③ Dâng. Như tiến tân 薦新 dâng cúng của mới. ④ Tiến cử. Như tiến hiền 薦賢 tiến cử người hiền tài. ④ Giới thiệu cho người biết cũng gọi là tiến. ① Giới thiệu, tiến cử: 我給您薦個人 Tôi giới thiệu với ông một người; 薦賢 Tiến cử người hiền tài; ② (văn) Cỏ; ③ (văn) (Chiếc) chiếu; ④ (văn) Dâng 薦新 Dâng cúng của mới; ⑤ (văn) Lặp đi lặp lại, nhiều lần."
+  ],
+  "jlpt": "1",
+  "frequency": "1082",
+  "grade": "8"
 }

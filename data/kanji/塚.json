@@ -53,5 +53,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0585a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/585a.gif",
     "uri": "https://jisho.org/search/%E5%A1%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "trủng"
+  ],
+  "vietnameseMeaning": [
+    "① Cái mả cao. ① Ngôi mả cao, mồ, mộ: 塚填 Mồ mả; 古塚 Mồ cổ; 烈士塚 Mộ liệt sĩ; ② Gò đất, mô đất."
+  ],
+  "jlpt": "1",
+  "frequency": "869",
+  "grade": "8"
 }

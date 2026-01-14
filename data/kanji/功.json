@@ -296,5 +296,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0529f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/529f.gif",
     "uri": "https://jisho.org/search/%E5%8A%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "công"
+  ],
+  "vietnameseMeaning": [
+    "① Việc, như nông công 農功 việc làm ruộng. ② Công hiệu. ③ Công lao, như công huân 功勳, công nghiệp 功業, v.v. ④ Ðồ gì làm khéo tốt cũng gọi là công. ⑤ Lễ tang, để tang chín tháng gọi là đại công 大功, để tang năm tháng gọi là tiểu công 小功. ① Công, công lao: 立功續罪 Lập công chuộc tội; ② Thành tựu, thành quả, kết quả, công hiệu: 教育之功 Thành quả của sự giáo dục; 勞而無功 Tốn sức mà chẳng có kết quả, công dã tràng; ③ (lí) Công.【功率】công suất (lí) Công suất: 功率計 Cái đo công suất; ④ (văn) Việc: 農功 Việc làm ruộng; ⑤ (văn) Khéo, tinh xảo; ⑥ (văn) Để tang: 小功 Để tang năm tháng; 大功 Để tang chín tháng."
+  ],
+  "jlpt": "1",
+  "frequency": "857",
+  "grade": "4"
 }

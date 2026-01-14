@@ -53,5 +53,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0958f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/958f.gif",
     "uri": "https://jisho.org/search/%E9%96%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhuận"
+  ],
+  "vietnameseMeaning": [
+    "① Thừa. Lịch Tàu theo vòng quả đất xoay chung quanh mặt trời mà tính năm, theo vòng mặt trăng xoay chung quanh quả đất mà tính tháng, theo vòng quả đất tự xoay mà tính ngày, cứ hết mỗi một vòng quả đất xoay chung quanh mặt trời thì mặt trăng đã xoay chung quanh quả đất được mười hai vòng và một phần ba vòng nữa, cho nên mỗi năm lại thừa ra hơn mười ngày, tính số thừa ấy lại thì hai năm rưỡi lại thừa ra một tháng, tháng thừa ấy gọi là nhuận nguyệt 閏月 tháng thừa. Lịch tây theo mặt trời tính năm, cứ hết một vòng quả đất xoay chung quanh mặt trời thì quả đất nó tự xoay mình nó được 365 vòng và lẻ một phần tư, cho nên tích bốn năm thì lại thừa một ngày gọi là nhuận nhật 閏日 ngày thừa. Năm nào có ngày nhuận thì cho vào tháng hai là 29 ngày. Thừa, nhuận: 閏月 Tháng thừa; 閏日 Ngày thừa; 閏三月 Tháng 3 nhuận."
+  ],
+  "grade": "9"
 }

@@ -405,5 +405,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098ef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98ef.gif",
     "uri": "https://jisho.org/search/%E9%A3%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "phạn"
+  ],
+  "vietnameseMeaning": [
+    "① Cơm. ② Một âm là phãn. Ăn cơm. ③ Cho giống súc ăn. ④ Ngậm. ① Cơm: 江米飯 Cơm nếp, xôi; 小米飯 Cơm kê; ② Bữa cơm: 午飯 (Bữa) cơm trưa; 一天三頓飯 Một ngày ba bữa cơm."
+  ],
+  "jlpt": "3",
+  "frequency": "1046",
+  "grade": "4"
 }

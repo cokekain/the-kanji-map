@@ -72,5 +72,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f13.gif",
     "uri": "https://jisho.org/search/%E9%BC%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "cổ"
+  ],
+  "vietnameseMeaning": [
+    "① Cái trống. ② Ðánh trống. ③ Gảy, khua. ④ Quạt lên, cổ động. ⑤ Trống canh. ① Trống: 銅鼓 Trống đồng; 更鼓 Trống canh; ② (văn) Đánh trống; ③ Đánh, gảy, khua, làm cho kêu, vỗ: 鼓琴Đánh đàn; 波浪鼓岸 Sóng vỗ vào bờ; ④ (Làm) phấn khởi lên (hăng lên), cổ vũ, cổ động, kích thích: 鼓足幹勁 Cổ vũ lòng hăng hái. 【鼓吹】 cổ xuý a. Tuyên truyền, quảng cáo, cổ xúy; b. Thổi phồng, tán tụng, tâng bốc: 大肆鼓吹 Ra sức thổi phồng; ⑤ Gồ lên, phồng ra, lồi lên: 鼓起嘴來 Phồng mồm lên."
+  ],
+  "jlpt": "1",
+  "frequency": "1795",
+  "grade": "8"
 }

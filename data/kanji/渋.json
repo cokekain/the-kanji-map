@@ -94,5 +94,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e0b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e0b.gif",
     "uri": "https://jisho.org/search/%E6%B8%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "sáp"
+  ],
+  "jlpt": "1",
+  "frequency": "1011",
+  "grade": "8"
 }

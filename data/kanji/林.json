@@ -345,5 +345,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06797.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6797.gif",
     "uri": "https://jisho.org/search/%E6%9E%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "lâm"
+  ],
+  "vietnameseMeaning": [
+    "① Rừng, như sâm lâm 森林 rừng rậm. ② Phàm chỗ nào tụ họp đông cũng gọi là lâm, như nho lâm 儒林 rừng nho (chỗ nhiều kẻ học giả ở). ③ Ðông đúc, như lâm lập 林立 mọi vật chen chúc như rừng. ① Rừng: 樹林 Rừng cây; 竹林 Rừng tre; 造林 Gây rừng; 防風林 Rừng chống gió; ② (Ngb) Rừng: 碑林 Rừng bia; 儒林 Rừng nho; ③ Đông như rừng: 林立 Đứng đông chen chúc như rừng, san sát; ④ Lâm (nghiệp): 農林牧副漁 Nông nghiệp, lâm nghiệp, chăn nuôi, nghề phụ và nghề đánh cá; ⑤ (Họ) Lâm."
+  ],
+  "jlpt": "3",
+  "frequency": "656",
+  "grade": "1"
 }

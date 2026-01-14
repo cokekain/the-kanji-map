@@ -284,5 +284,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083d3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83d3.gif",
     "uri": "https://jisho.org/search/%E8%8F%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "quả"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ quả 果. Như 果 (bộ 木)."
+  ],
+  "jlpt": "2",
+  "frequency": "1719",
+  "grade": "8"
 }

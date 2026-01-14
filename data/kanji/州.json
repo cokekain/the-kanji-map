@@ -379,5 +379,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dde.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dde.gif",
     "uri": "https://jisho.org/search/%E5%B7%9E%23kanji"
-  }
+  },
+  "hanviet": [
+    "châu"
+  ],
+  "vietnameseMeaning": [
+    "① Châu, ngày xưa nhân thấy có núi cao sông dài mới chia đất ra từng khu lấy núi sông làm mốc nên gọi là châu. ② Lễ nhà Chu định 2500 nhà là một châu, nên sau gọi làng mình là châu lí 州里 là vì đó. ① Châu: 自治州 Châu tự trị; ② Lệ nhà Chu định 2500 nhà là một châu: 州里 Làng."
+  ],
+  "jlpt": "2",
+  "frequency": "386",
+  "grade": "3"
 }

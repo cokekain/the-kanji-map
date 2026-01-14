@@ -292,5 +292,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08015.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8015.gif",
     "uri": "https://jisho.org/search/%E8%80%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "canh"
+  ],
+  "vietnameseMeaning": [
+    "① Cầy ruộng. ② Phàm dùng sức làm một việc gì khó nhọc mới được miếng ăn đều gọi là canh. Như thiệt canh 舌耕 cầy bằng lưỡi (tức dạy học), bút canh 筆耕 viết thuê, v.v. ③ Gắng sức làm không mỏi cũng gọi là canh. ① Cày ruộng, cày bừa, cày cấy: 深耕細作 Cày sâu bừa kĩ; 譯耕 Cày ải, cày lật, cày nỏ; 淺耕 Cày nông; 宋人有耕田者 Nước Tống có người cày ruộng (Hàn Phi tử); ② Ra sức cày (gắng sức làm việc)."
+  ],
+  "jlpt": "2",
+  "frequency": "1568",
+  "grade": "5"
 }

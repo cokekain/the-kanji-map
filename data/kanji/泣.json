@@ -354,5 +354,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ce3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ce3.gif",
     "uri": "https://jisho.org/search/%E6%B3%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "khấp",
+    "khắp"
+  ],
+  "vietnameseMeaning": [
+    "① Khóc, khóc không ra tiếng gọi là khấp. ① Khóc (không ra tiếng): 泣訴 Nói nức nở; 泣不成聲 Khóc nức nở, khóc ngất; 不知三百餘年後，天下何人泣素如 Chẳng biết hơn ba trăm năm về sau, trong thiên hạ có ai là người khóc cho Tố Như này (Nguyễn Du); ② Nước mắt: 泣如雨下 Nước mắt như mưa."
+  ],
+  "jlpt": "2",
+  "frequency": "1380",
+  "grade": "4"
 }

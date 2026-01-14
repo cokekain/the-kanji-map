@@ -61,5 +61,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d21.gif",
     "uri": "https://jisho.org/search/%E7%B4%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "phương",
+    "phưởng",
+    "vưởng"
+  ],
+  "vietnameseMeaning": [
+    "① Các thứ dệt bằng tơ đông đặc mềm nhũn tục gọi là phưởng trù 紡綢. ② Xe sợi, đánh sợi. ① Xe, đánh (sợi): 紡紗 Xe sợi; 紡線 Xe chỉ; ② The (một thứ tơ mỏng hơn lụa)."
+  ],
+  "jlpt": "1",
+  "frequency": "1876",
+  "grade": "8"
 }

@@ -361,5 +361,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0968a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/968a.gif",
     "uri": "https://jisho.org/search/%E9%9A%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "đội"
+  ],
+  "vietnameseMeaning": [
+    "① Ðội quân, phép nhà binh quân bộ và quân pháo thủ thì cứ 126 người gọi là một đội, quân kị mã thì 56 người là một đội. ② Phàm xếp bày thành hàng, thành đàn đều gọi là đội. Như trạm đội 站隊 đứng vào hàng. ① Hàng: 站隊 Đứng vào hàng; 排隊上車 Xếp hàng lên xe; ② Đội (một số người có tổ chức): 球隊 Đội bóng; 艦隊 Hạm đội; 擔¬[隊 Đội cáng thương; 消防隊 Đội chữa cháy; ③ Đội thiếu niên tiền phong: 隊旗 Cờ đội (thiếu niên tiền phong); ④ Đoàn, toán: 一隊人馬 Một đoàn người."
+  ],
+  "jlpt": "1",
+  "frequency": "605",
+  "grade": "4"
 }

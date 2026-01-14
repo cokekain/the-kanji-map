@@ -414,5 +414,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05897.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5897.gif",
     "uri": "https://jisho.org/search/%E5%A2%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "tăng"
+  ],
+  "vietnameseMeaning": [
+    "(14n) ① Thêm."
+  ],
+  "jlpt": "2",
+  "frequency": "231",
+  "grade": "5"
 }

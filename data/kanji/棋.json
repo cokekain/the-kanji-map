@@ -52,5 +52,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068cb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68cb.gif",
     "uri": "https://jisho.org/search/%E6%A3%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "kì",
+    "cời"
+  ],
+  "vietnameseMeaning": [
+    "① Cờ, một thứ trò chơi, hai bên bày quân đánh nhau, như thể đánh trận, ngày xưa gọi là tượng hí 象戲. ② Một âm là kí. Cỗi rễ. Cờ, con cờ: 下棋 Đánh cờ; 圍棋 Cờ vây; 棋的着數 Nước cờ (Cv. 招數); 連贏三盤棋 Thắng liền ba ván cờ."
+  ],
+  "jlpt": "1",
+  "frequency": "1311",
+  "grade": "8"
 }

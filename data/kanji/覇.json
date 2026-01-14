@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08987.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8987.gif",
     "uri": "https://jisho.org/search/%E8%A6%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "bá"
+  ],
+  "vietnameseMeaning": [
+    "bá, phách Như 霸 (1) (2) (bộ 雨)."
+  ],
+  "jlpt": "1",
+  "frequency": "1173",
+  "grade": "8"
 }

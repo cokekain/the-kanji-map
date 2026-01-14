@@ -107,5 +107,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0508d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/508d.gif",
     "uri": "https://jisho.org/search/%E5%82%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "bàng"
+  ],
+  "vietnameseMeaning": [
+    "① Bên, cũng như chữ bàng 旁. ② Một âm là bạng, tựa như y bạng 依傍 nương tựa. ① Tựa, kề: 依山傍水 Giáp sông tựa núi; ② (đph) Gần, sắp: 傍黑兒 Như 傍晚； ③ (văn) Bên (như 旁, bộ 方)."
+  ],
+  "jlpt": "1",
+  "frequency": "1660",
+  "grade": "8"
 }

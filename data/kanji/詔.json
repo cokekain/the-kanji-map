@@ -55,5 +55,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a54.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a54.gif",
     "uri": "https://jisho.org/search/%E8%A9%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "chiếu"
+  ],
+  "vietnameseMeaning": [
+    "① Ban bảo, dẫn bảo. Ngày xưa người trên bảo kẻ dưới là chiếu, từ nhà Tần nhà Hán trở xuống thì chỉ vua được dùng thôi, như chiếu thư 詔書 tờ chiếu, ân chiếu 恩詔 xuống chiếu ra ơn cho, v. v. (văn) ① Bảo, bảo ban (người dưới); ② Chiếu, chiếu chỉ: 下詔 Ra chiếu chỉ, xuống chiếu."
+  ],
+  "jlpt": "1",
+  "frequency": "2239",
+  "grade": "8"
 }

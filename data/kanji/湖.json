@@ -324,5 +324,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e56.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e56.gif",
     "uri": "https://jisho.org/search/%E6%B9%96%23kanji"
-  }
+  },
+  "hanviet": [
+    "hồ"
+  ],
+  "vietnameseMeaning": [
+    "① Cái hồ. ① Hồ: 湖畔 Bờ hồ; 洞庭湖 Hồ Động Đình; 湖水清清 Nước hồ trong xanh; ② Hai tỉnh Hồ Nam và Hồ Bắc (gọi tắt)."
+  ],
+  "jlpt": "2",
+  "frequency": "1344",
+  "grade": "3"
 }

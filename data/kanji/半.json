@@ -348,5 +348,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0534a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/534a.gif",
     "uri": "https://jisho.org/search/%E5%8D%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "bán"
+  ],
+  "vietnameseMeaning": [
+    "① Nửa. Vật chia đôi mỗi bên một nửa gọi là bán. ① Một nửa, rưỡi: 半斤 Nửa cân; 一斤半 Một cân rưỡi; ② Nửa (không hoàn toàn), phụ: 半生不熟 Nửa chín nửa sống; 半肥半瘐 Nửa nạc nửa mỡ; 半勞動力 Lao động phụ; 門半掩着 Cửa khép một nửa; ③ Nửa (biểu thị sự cường điệu): 雨已經下了老半天了 Mưa rơi đã quá nửa ngày rồi (ý nói mưa lâu); 等了一上午，半點消息也沒有 Đợi suốt một buổi sáng mà không có chút tin tức nào cả."
+  ],
+  "jlpt": "4",
+  "frequency": "224",
+  "grade": "2"
 }

@@ -355,5 +355,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d66.gif",
     "uri": "https://jisho.org/search/%E7%B5%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "cấp"
+  ],
+  "vietnameseMeaning": [
+    "cấp ① Ðủ dùng, như gia cấp nhân túc 家給人足 nhà no người đủ. ② Ðủ, cấp giúp, giúp thêm cho. Chức quan chực sẵn chờ khi sai khiến gọi là cấp sự 給事, về sau dùng như chức ngự sử là cấp gián 給諫. ③ Bẻo lẻo, lém mép, như ngữ nhân dĩ khẩu cấp 禦人以口給 (Luận ngữ 論語) lấy lời bẻo lẻo mà chống người. ④ Cung cấp. ① Cho, đưa cho, giao cho, trao cho: 送給他一 本書 Cho anh ấy một cuốn sách; 連長給他一個任務 Đại đội trưởng trao cho anh ấy một nhiệm vụ; 他給我們當翻譯 Anh ấy làm phiên dịch cho chúng tôi; ② Hộ, giúp, dùm: 請你給看看 Nhờ anh trông hộ; 給火燒掉了 Bị cháy mất. Xem 給 . ① Cấp, cung cấp: 給水 (Cung) cấp nước; 自給自足 Tự cấp tự túc; ② Đầy đủ, phong túc: 家給人足 Nhà no người đủ; ③ (văn) Lẻo mép, bẻm mép: 禦人以口給 Lấy lời bẻm mép mà chống người. Xem 給 ."
+  ],
+  "jlpt": "2",
+  "frequency": "615",
+  "grade": "4"
 }

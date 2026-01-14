@@ -61,5 +61,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0654f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/654f.gif",
     "uri": "https://jisho.org/search/%E6%95%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "mẫn"
+  ],
+  "vietnameseMeaning": [
+    "① Nhanh nhẹn. ② Sáng suốt, như bất mẫn 不敏 chẳng sáng suốt, lời nói tự nhún mình là kẻ ngu dốt. ③ Gắng gỏi. ④ Tên ngón chân cái. Bén nhạy, nhạy cảm, nhanh nhẹn, nhanh trí, thông minh: 敏而好學不恥下問 Thông minh và hiếu học thì không thẹn hỏi kẻ dưới mình (Luận ngữ)."
+  ],
+  "jlpt": "1",
+  "frequency": "1042",
+  "grade": "8"
 }

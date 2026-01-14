@@ -70,5 +70,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09326.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9326.gif",
     "uri": "https://jisho.org/search/%E9%8C%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "gấm"
+  ],
+  "vietnameseMeaning": [
+    "① Gấm. ② Một tiếng để khen ngợi. Như lòng nghĩ khôn khéo gọi là cẩm tâm 錦心, lời văn mĩ lệ gọi là cẩm tảo 錦藻, v.v. ① Gấm: 錦衣夜行 Áo gấm đi đêm; ② Rực rỡ và đẹp đẽ: 錦藻 Lời văn mĩ lệ (đẹp đẽ); ③ Lộng lẫy."
+  ],
+  "jlpt": "1",
+  "frequency": "1440",
+  "grade": "8"
 }

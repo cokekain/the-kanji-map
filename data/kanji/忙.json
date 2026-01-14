@@ -295,5 +295,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd9.gif",
     "uri": "https://jisho.org/search/%E5%BF%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "mang"
+  ],
+  "vietnameseMeaning": [
+    "① Bộn rộn, trong lòng vội gấp. ② Công việc bề bộn. ① Bận: 繁忙 Bận rộn; 這幾天很忙 Mấy hôm nay bận quá; ② Vội, gấp: 你忙什麼，再坐一會吧 Anh vội gì, ngồi chơi tí nữa đi."
+  ],
+  "jlpt": "2",
+  "frequency": "1475",
+  "grade": "8"
 }

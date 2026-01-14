@@ -325,5 +325,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e33.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e33.gif",
     "uri": "https://jisho.org/search/%E5%B8%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "trướng"
+  ],
+  "vietnameseMeaning": [
+    "① Căng lên, dương lên. Như cung trướng 共帳 căng màn, dương màn, thông dụng như cung trướng 供帳. ② Màn che, quân đi đến đâu, căng vải lên làm giạp để nghỉ gọi là trướng. Như doanh trướng 營帳, trướng bằng 帳棚, v.v. Nay ta dùng các thứ dệt đẹp hay da hổ giải phủ lên chỗ ngồi cũng gọi là trướng. ③ Tính sổ, như trướng bạ 帳簿 sổ sách, cũng có khi viết là trướng bạ 賬簿 ① (Tấm) màn: 蚊帳 (Tấm) màn; ② Sổ hộ tịch, sổ ghi tiền: 記帳 Ghi sổ; 柦帳 Kiểm tra sổ; ③ Nợ, thiếu chịu, chịu tiền: 欠帳 Thiếu nợ, chịu tiền; 還帳 Trả nợ; 不認帳 Quỵt nợ, không nhận việc mình đã làm."
+  ],
+  "jlpt": "1",
+  "frequency": "1459",
+  "grade": "3"
 }

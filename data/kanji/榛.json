@@ -70,5 +70,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0699b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/699b.gif",
     "uri": "https://jisho.org/search/%E6%A6%9B%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Cây trăn. ② Bụi cây. ③ Bùm tum, vướng vít. ① Bụi cây; ② (Cây mọc) rậm rạp, um tùm, gai góc; ③ Cây trăn (thuộc loại hạt giẻ)."
+  ],
+  "hanviet": [
+    "trăn"
+  ],
+  "jlpt": "1",
+  "frequency": "2205",
+  "grade": "9"
 }

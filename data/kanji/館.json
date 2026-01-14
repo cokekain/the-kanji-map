@@ -442,5 +442,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09928.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9928.gif",
     "uri": "https://jisho.org/search/%E9%A4%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "quán"
+  ],
+  "vietnameseMeaning": [
+    "① Quán trọ. ② Cho ở, để ở. ③ Tên các sở quan. Như nhà Đường 唐 có Hoằng Văn quán 弘文館. Nhà Tống 宋 có Chiêu Văn quán 昭文館. Ban Hàn lâm viện nhà Thanh 清 có Thứ Thường quán 庶常館. Vì thế nên chức quan trong viện gọi là lưu quán 留館, bổ ra các bộ hay phủ huyện gọi là tản quán 散館. ④ Nhà quan ở gọi là công quán 公館. ⑤ Nhà học. Như thôn quán 村館 nhà học trong làng. ⑥ Phàm nhà văn sĩ làm việc mà được miếng ăn của người cung đốn đều gọi là quán. ① Quán, nhà: 賓館 Nhà khách; 大使館 Đại sứ quán; ② Hiệu: 飯館 Hiệu ăn; 茶館 Hiệu giải khát, tiệm nước; 理髮館 Hiệu cắt tóc; ③ Nhà, phòng: 博物館 Nhà bảo tàng; 文化館 Phòng văn hoá; 圖書館 Thư viện; 展覽館 Nhà triển lãm."
+  ],
+  "jlpt": "3",
+  "frequency": "613",
+  "grade": "3"
 }

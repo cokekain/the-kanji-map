@@ -425,5 +425,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c5a.gif",
     "uri": "https://jisho.org/search/%E6%B1%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "ô"
+  ],
+  "vietnameseMeaning": [
+    "Như 污."
+  ],
+  "jlpt": "2",
+  "frequency": "908",
+  "grade": "8"
 }

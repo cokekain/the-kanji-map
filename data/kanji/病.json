@@ -419,5 +419,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75c5.gif",
     "uri": "https://jisho.org/search/%E7%97%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "bệnh"
+  ],
+  "vietnameseMeaning": [
+    "① Ốm. ② Tức giận, như bệnh chi 病之 lấy làm giận. ③ Làm hại, như phương hiền bệnh quốc 妨賢病國 làm trở ngại người hiền và hại nước. ④ Cấu bệnh 姤病 hổ ngươi. ⑤ Mắc bệnh. ⑥ Lo. ⑦ Làm khốn khó. ⑧ Nhục. ⑨ Chỗ kém. ① Ốm, đau, bệnh, bịnh: 害了一場病 Đau một trận; 他病了 Anh ấy ốm rồi; 心臟病 Đau tim; ② Tệ hại, khuyết điểm, sai lầm: 幼稚病 Bệnh ấu trĩ; 語病 Chỗ sai của câu văn; 帳目不清，其一定有病 Sổ sách không rành mạch, thế nào cũng có chỗ sai; ③ Tổn hại, làm hại: 禍國病民 Hại nước hại dân; ④ Chỉ trích, bất bình: 爲世所病 Bị thiên hạ chỉ trích; ⑤ (văn) Lo nghĩ, lo lắng; ⑥ (văn) Căm ghét; ⑦ (văn) Làm nhục, sỉ nhục."
+  ],
+  "jlpt": "3",
+  "frequency": "384",
+  "grade": "3"
 }

@@ -380,5 +380,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0640d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/640d.gif",
     "uri": "https://jisho.org/search/%E6%90%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "tổn",
+    "tốn"
+  ],
+  "vietnameseMeaning": [
+    "① Bớt, như tổn thượng ích hạ 損上益下 bớt kẻ trên thêm kẻ dưới. ② Mất, như tổn thất 損失, tổn hại 損害, v.v. ③ Yếu. ① Bớt: 不能損益一字 Không được thêm bớt một chữ; 損上益下 Bớt của người trên thêm cho người dưới; ② Mất, tổn hại, thiệt hại: 以戰必損其將 Dùng người như thế mà đánh trận thì ắt sẽ mất tướng (Thương Quân thư); 父損命 Cha mất mạng (Sử kí); 損失 Thiệt hại; ③ Làm hại: 損人利 己 Lợi mình hại người; ④ Nhiếc móc, đay nghiến: 別損人了 Đừng nhiếc móc người ta nữa; ⑤ (đph) Hiểm độc, cay độc, ác: 這法子眞損 Cách đó hiểm độc thật."
+  ],
+  "jlpt": "2",
+  "frequency": "807",
+  "grade": "5"
 }

@@ -346,5 +346,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06751.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6751.gif",
     "uri": "https://jisho.org/search/%E6%9D%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "thôn"
+  ],
+  "vietnameseMeaning": [
+    "① Làng, xóm. ② Quê mùa. ① Làng, xóm, thôn, ấp, xã: 新村 Thôn mới; 戰略村 Ấp chiến lược; 村幹部 Cán bộ xã; ② Tục (tằn), thô (lỗ), quê mùa: 村野 Thô lỗ, quê mùa."
+  ],
+  "jlpt": "3",
+  "frequency": "253",
+  "grade": "1"
 }

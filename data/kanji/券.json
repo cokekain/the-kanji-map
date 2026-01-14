@@ -358,5 +358,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05238.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5238.gif",
     "uri": "https://jisho.org/search/%E5%88%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "khoán"
+  ],
+  "vietnameseMeaning": [
+    "① Khoán, tức như cái giấy hợp đồng bây giờ, mỗi bên giữ một cái giấy để làm bằng cứ. Phàm văn tự để làm tin đều gọi là khoán. ② Khoán là cái bằng cứ để lấy đồ, cho nên sự tính được tất thành gọi là thao khoán 操券 nghĩa là tất được vậy. Vé, phiếu, giấy, khoán: 入場券 Vé vào cửa; 公債券 Phiếu công trái."
+  ],
+  "jlpt": "2",
+  "frequency": "583",
+  "grade": "5"
 }

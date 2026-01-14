@@ -4,6 +4,7 @@ import LogoSVG from "./logo";
 import { buttonVariants } from "./ui/button";
 import { cn } from "@/lib/utils";
 import { ThemeSwitcherButton } from "./theme-switcher";
+import { LanguageSwitcher } from "./language-switcher";
 import {
   Tooltip,
   TooltipContent,
@@ -47,6 +48,7 @@ export const Header = ({
             <p>About this website</p>
           </TooltipContent>
         </Tooltip>
+        <LanguageSwitcher />
         <Tooltip>
           <TooltipTrigger asChild>
             <ThemeSwitcherButton />

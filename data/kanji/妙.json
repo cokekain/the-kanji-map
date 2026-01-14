@@ -73,5 +73,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05999.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5999.gif",
     "uri": "https://jisho.org/search/%E5%A6%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "diệu"
+  ],
+  "vietnameseMeaning": [
+    "① Khéo, hay, thần diệu lắm. Tinh thần khéo léo mầu nhiệm không thể nghĩ nghị được gọi là diệu. Tuổi trẻ gọi là diệu niên 妙年. ① Tốt, đẹp, khéo, hay: 妙品 Đồ đẹp và khéo, đồ tinh xảo; 妙境 Cảnh đẹp; 妙不可言Hay chết chỗ nói; 這個辦法眞妙 Cách này rất hay, biện pháp này rất tốt; ② Thần kì, thần tình, tài tình, thần diệu, tuyệt diệu, hay, giỏi: 妙策 Phương sách hay; 妙計 Kế hay, diệu kế; 妙算 Tính toán tài tình; 妙訣 Phương pháp tài tình, mưu mẹo tài tình; 他回答得很妙 Anh ấy trả lời rất hay."
+  ],
+  "jlpt": "1",
+  "frequency": "1122",
+  "grade": "8"
 }

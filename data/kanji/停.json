@@ -353,5 +353,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0505c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/505c.gif",
     "uri": "https://jisho.org/search/%E5%81%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "đình"
+  ],
+  "vietnameseMeaning": [
+    "① Ðứng, nửa chừng đứng lại gọi là đình, như đình lưu 停留 dừng ở lại, đình bạc 停泊 đỗ thuyền lại, v.v. ② Cư đình 居停 khách trọ. ③ Tục cho số người đã có định là đình, như thập đình trung khứ liễu cửu đình 十停中去了九停 trong mười đình mất chín đình rồi (cũng như ta nói một nhóm một tốp vậy). ① Dừng, ngừng: 一輛汽車停在門口 Một chiếc xe hơi dừng trước cửa; 不停 Không ngừng; ② Tạnh, im, đứng, ngưng chạy: 雨停了 Mưa tạnh rồi; 風停了 Im gió rồi; 鐘停了 Đồng hồ chết rồi; ③ (khn) Phần: 十停兒中去了九停兒 Trong 10 phần đã trừ đi 9."
+  ],
+  "jlpt": "2",
+  "frequency": "733",
+  "grade": "4"
 }

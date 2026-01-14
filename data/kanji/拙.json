@@ -61,5 +61,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d9.gif",
     "uri": "https://jisho.org/search/%E6%8B%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "chuyết",
+    "chút"
+  ],
+  "vietnameseMeaning": [
+    "① Vụng về. ② Lời nói tự nhún mình, như chuyết tác 拙作 bài làm của kẻ vụng về này. ① Ngốc nghếch, đần độn, vụng về: 手拙 Tay chân vụng về; 拙咀鈍舌 Nói năng vụng về (đần độn); ② (khiêm) Kém cỏi, vụng về: 拙作 Tác phẩm kém cỏi của tôi."
+  ],
+  "jlpt": "1",
+  "frequency": "1938",
+  "grade": "8"
 }

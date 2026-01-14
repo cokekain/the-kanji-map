@@ -79,5 +79,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fc1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fc1.gif",
     "uri": "https://jisho.org/search/%E6%BF%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "trọc"
+  ],
+  "vietnameseMeaning": [
+    "① Nước đục. ② Phàm cái gì không được trong sạch đều gọi là trọc, như trọc thế 濁世 đời loạn, trọc lưu 濁流 lũ hèn hạ. Chính âm là chữ trạc. ① (văn) Nước đục; ② Đục, bẩn, dơ, nhơ, ô trọc: 河水很濁 Nước sông đục ngầu; ③ Loạn, hỗn loạn, lộn xộn; ④ (thanh) Kêu, ngậu, om: 濁聲濁氣 Ngậu lên, om lên."
+  ],
+  "jlpt": "1",
+  "frequency": "1883",
+  "grade": "8"
 }

@@ -278,5 +278,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06717.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6717.gif",
     "uri": "https://jisho.org/search/%E6%9C%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "lãng"
+  ],
+  "vietnameseMeaning": [
+    "① Sáng. ① Sáng, sáng sủa, trong sáng: 明朗 Sáng sủa; 晴朗 Trời quang đãng; ② Lanh lảnh: 朗誦 Ngâm nga, tiếng ngâm lanh lảnh."
+  ],
+  "jlpt": "1",
+  "frequency": "1374",
+  "grade": "6"
 }

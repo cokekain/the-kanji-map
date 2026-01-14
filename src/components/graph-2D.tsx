@@ -12,6 +12,7 @@ import kanjilist from "@/../data/kanjilist.json";
 import type { RectReadOnly } from "react-use-measure";
 import { useRouter } from "next/navigation";
 import { useTheme } from "next-themes";
+import { useLanguage } from "@/lib/language-store";
 
 interface Props {
   kanjiInfo: KanjiInfo;
@@ -37,6 +38,7 @@ const Graph2D: React.FC<Props> = ({
   const jinmeiyoList = kanjilist.filter((el) => el.g === 2).map((el) => el.k);
 
   const { resolvedTheme } = useTheme();
+  const [language] = useLanguage();
 
   const fgRef: React.MutableRefObject<ForceGraphMethods | undefined> =
     React.useRef(undefined);
@@ -149,6 +151,9 @@ const Graph2D: React.FC<Props> = ({
       graphData={data}
       nodeLabel={(n) => {
         const node = n as NodeObjectWithData;
+        if (language === "vi" && node.data?.hanviet && node.data.hanviet.length > 0) {
+          return `${node.data.hanviet.join(", ")}`;
+        }
         return `${node.data?.jishoData?.kunyomi || ''}<br/>${node.data?.jishoData?.meaning || ''}`;
       }}
       warmupTicks={10}

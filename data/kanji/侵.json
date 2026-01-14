@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fb5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fb5.gif",
     "uri": "https://jisho.org/search/%E4%BE%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "xâm"
+  ],
+  "vietnameseMeaning": [
+    "tẩm ① Tiến dần, như xâm tầm 侵尋 dần dà. ② Ðánh ngầm, ngầm đem binh vào bờ cõi nước khác gọi là xâm. ③ Bừng, như xâm thần 侵晨 sáng tan sương rồi. ④ Xâm lấn, không phải của mình mà cứ lấn hiếp gọi là xâm, như xâm đoạt 侵奪 xâm cướp, xâm chiếm 侵占, v.v. ① Hiếp, xâm phạm, xâm nhập, tấn công: 強不侵弱 Mạnh không hiếp yếu; 以諸侯之師侵蔡 Dùng quân của chư hầu tấn công nước Thái (Tả truyện); ② Gần, dần dần: 侵曉 Gần sáng; 侵減 Tước giảm dần; 侵尋 Dần dà; ③ (văn) Năm đói kém mất mùa: 五穀不升，謂之大侵 Ngũ cốc không chín, gọi đó là mất mùa lớn (Cốc Lương truyện). (văn) Tướng mạo xấu xí: 田蚡貌侵 Điền Phần tướng mạo xấu xí (Hán thư: Điền Phần truyện)."
+  ],
+  "jlpt": "1",
+  "frequency": "1025",
+  "grade": "8"
 }

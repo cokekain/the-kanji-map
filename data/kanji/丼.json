@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e3c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e3c.gif",
     "uri": "https://jisho.org/search/%E4%B8%BC%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "(văn) Tiếng đồ vật quăng xuống giếng. Như 井 (bộ 二)."
+  ],
+  "hanviet": [
+    "đảm",
+    "tỉnh"
+  ],
+  "frequency": "2088",
+  "grade": "8"
 }

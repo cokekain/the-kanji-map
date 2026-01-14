@@ -410,5 +410,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ce5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ce5.gif",
     "uri": "https://jisho.org/search/%E9%B3%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "điểu"
+  ],
+  "vietnameseMeaning": [
+    "① Loài chim, con chim. Chim."
+  ],
+  "jlpt": "3",
+  "frequency": "1043",
+  "grade": "2"
 }

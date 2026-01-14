@@ -300,5 +300,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e0a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e0a.gif",
     "uri": "https://jisho.org/search/%E8%B8%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "dũng"
+  ],
+  "vietnameseMeaning": [
+    "(14n) ① Nhảy. Như dũng dược 踊躍 nhảy nhót. Hăng hái làm việc cũng gọi là dũng dược. Giá hàng cao lên gọi là dũng quý 踊貴 cao vọt lên."
+  ],
+  "jlpt": "2",
+  "frequency": "1308",
+  "grade": "8"
 }

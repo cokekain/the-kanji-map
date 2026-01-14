@@ -398,5 +398,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f6a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f6a.gif",
     "uri": "https://jisho.org/search/%E7%BD%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "tội"
+  ],
+  "vietnameseMeaning": [
+    "① Tội lỗi. Làm phạm phép luật phải phạt gọi là tội. ② Làm quan tự nói nhún mình là đãi tội 待罪, nghĩa là tự nói nhún mình là tài không xứng ngôi vậy. ③ Lỗi lầm. ④ Làm lầm, làm bậy khiến cho người ta giận gọi là đắc tội 得罪, tự nhận lỗi mình gọi là tạ tội 謝罪. ④ Người ta lầm lỗi mình tự cho là vì mình không biết răn bảo cũng gọi là tội. Các vua ngày xưa ban chiếu tự nhận là có lỗi với dân gọi là tội kỉ chiếu 罪己詔. ① Tội, tội lỗi: 判罪 Xử tội; 死罪 Tội chết; 立功贖罪 Lập công chuộc tội; ② Cái khổ: 排罪 Chịu khổ; 我排不了這個罪 Tôi không chịu (cái tội, cái nợ) như thế được; ③ Lỗi: 歸罪于人 Đổ lỗi cho người."
+  ],
+  "jlpt": "2",
+  "frequency": "732",
+  "grade": "5"
 }

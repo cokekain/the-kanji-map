@@ -50,5 +50,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d8.gif",
     "uri": "https://jisho.org/search/%E6%8B%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "câu"
+  ],
+  "vietnameseMeaning": [
+    "① Bắt, như bị câu 被拘 bị bắt. ② Câu nệ, hay tin nhảm gọi là câu. ③ Câu thúc. ④ Hạn. ⑤ Bưng, lấy. ⑥ Cong. ⑦ Câu lư xá 拘盧舍 dịch âm tiếng Phạm, một tiếng gọi trong phép đo, một câu lư xá bằng hai dặm bây giờ, tám câu lư xá là một do tuần. ⑧ Một âm là cù. Châu cù 株拘 gốc cây gỗ khô. ① Bắt: 拘捕 Bắt; 拘押 Bắt giam; ② Hạn chế: 不拘多少 Không hạn chế nhiều ít; ③ Bó buộc, gò bó: 拘於舊法 Bó buộc trong khuôn phép cũ; 拘於形式 Gò bó trong hình thức; ④ Cố chấp, thủ cựu, câu nệ, khư khư giữ cái cũ: 這個人太拘了 Người này cố chấp (thủ cựu) lắm; ⑤ (văn) Bưng, lấy; ⑥ 【拘盧舍】câu lư xá (Phạn ngữ) Câu lư xá (đơn vị đo chiều dài, bằng hai dặm; tám câu lư xá là một do tuần)."
+  ],
+  "jlpt": "1",
+  "frequency": "1336",
+  "grade": "8"
 }

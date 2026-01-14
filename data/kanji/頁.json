@@ -47,5 +47,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09801.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9801.gif",
     "uri": "https://jisho.org/search/%E9%A0%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "hiệt"
+  ],
+  "vietnameseMeaning": [
+    "① Đầu. ② Một tờ giấy gọi là nhất hiệt 一頁. ① Trang, tờ: 第六頁 Trang thứ 6; ② (văn) Đầu."
+  ],
+  "grade": "9"
 }

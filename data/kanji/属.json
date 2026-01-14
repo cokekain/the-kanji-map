@@ -343,5 +343,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c5e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c5e.gif",
     "uri": "https://jisho.org/search/%E5%B1%9E%23kanji"
-  }
+  },
+  "hanviet": [
+    "thuộc"
+  ],
+  "vietnameseMeaning": [
+    "thuộc, chúc Như 屬"
+  ],
+  "jlpt": "1",
+  "frequency": "912",
+  "grade": "5"
 }

@@ -325,5 +325,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c5a.gif",
     "uri": "https://jisho.org/search/%E8%B1%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "đồn"
+  ],
+  "vietnameseMeaning": [
+    "① Con lợn con. ② Một âm là độn. Ði kéo lê gót chân. ① Lợn (heo), lợn con (heo con), lợn sữa (heo sữa): 豚尾 Đuôi lợn; 豚蹄 Chân giò; ② (Họ) Đồn."
+  ],
+  "jlpt": "1",
+  "frequency": "1864",
+  "grade": "8"
 }

@@ -398,5 +398,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0592a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/592a.gif",
     "uri": "https://jisho.org/search/%E5%A4%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "thái"
+  ],
+  "vietnameseMeaning": [
+    "① To lắm, có khi viết chữ 大, có khi viết chữ 泰. ② Tiếng gọi người tôn trưởng hơn người tôn trưởng. Như thái lão bá 太老伯 hàng tôn trưởng hơn bác. Gọi người tôn trưởng của kẻ sang cũng gọi là thái. Như lão thái gia 老太爺 cụ cố ông, thái phu nhân 太夫人 cụ cố bà, v.v. ③ Ngày xưa phong vợ các bầy tôi to là thái quân 太君, nay gọi vợ các quan là thái thái 太太 cũng do nghĩa ấy. ① To, lớn: 太空 Thái không, thái hư, vũ trụ (khoảng trống không bao la); ② Tiếng tôn xưng người bậc ông trở lên: 太老伯 Ông bác; 太老師 Cha của thầy mình (hoặc thầy của cha mình); ③ (pht) Rất, quá, lắm: 這條褲太長了 Quần này dài quá; 他對這事不太熱心 Đối với việc này anh ta không sốt sắng lắm; 太早 Quá sớm; 她唱得太好了 Cô ấy hát rất hay; ④ (Họ) Thái."
+  ],
+  "jlpt": "3",
+  "frequency": "552",
+  "grade": "2"
 }

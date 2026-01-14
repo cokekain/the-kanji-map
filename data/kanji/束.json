@@ -391,5 +391,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0675f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/675f.gif",
     "uri": "https://jisho.org/search/%E6%9D%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "thúc",
+    "thút"
+  ],
+  "vietnameseMeaning": [
+    "① Buộc, bó lại, như thúc thủ 束手 bó tay. ② Bó, như thúc thỉ 束矢 bó tên, thúc bạch 束帛 bó lụa, v.v. ③ Gói, mười cái nem buộc làm một gọi là nhất thúc 一束 một thúc. Ðời xưa dùng nem làm quà biếu gọi là thúc tu 束脩 vì thế tục mới gọi món tiền lễ thầy học là thúc tu. ④ Một âm là thú. Hạn chế, như ước thú 約束 cùng hẹn ước hạn chế nhau, nay thường dùng về nghĩa cai quản coi sóc, như ước thú bất nghiêm 約束不嚴 coi sóc không nghiêm (thầy dạy học trò không nghiêm). ① Buộc, thắt, bó lại: 腰束皮帶 Lưng thắt dây da; ② (loại) Bó: 一束鮮花 Một bó hoa tươi; 束帛 Bó lụa; 束脩 Bó nem; ③ Bó buộc: 束手束腳 Bó tay bó chân; 約束 Ràng buộc; ④ (Họ) Thúc."
+  ],
+  "jlpt": "2",
+  "frequency": "918",
+  "grade": "4"
 }

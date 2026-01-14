@@ -57,5 +57,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06271.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6271.gif",
     "uri": "https://jisho.org/search/%E6%89%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "tráp",
+    "gắp"
+  ],
+  "vietnameseMeaning": [
+    "① Vái chào tay sát đất. ② Dắt dẫn, cất lên. Tục gọi dùng tay xách đồ để ra chỗ khác là tráp. ③ Một âm là hấp. Lượm lấy. (văn) Lồng vào, gài vào, thọc vào (như 插): 扱衽 Thọc tay vào vạt áo. (văn) ① Cung tay vái chào sát đất; ② Cất lên, đưa lên. (văn) Nhặt, lượm lấy."
+  ],
+  "jlpt": "1",
+  "frequency": "1057",
+  "grade": "8"
 }

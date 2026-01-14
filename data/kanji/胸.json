@@ -313,5 +313,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80f8.gif",
     "uri": "https://jisho.org/search/%E8%83%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "hung",
+    "hông"
+  ],
+  "vietnameseMeaning": [
+    "① Ngực. ② Tấm lòng, như hung khâm 胸襟, hung thứ 胸次, v.v. đều nói về phần mang chứa trong lòng cả. Trang Tử 莊子: hỉ nộ ai lạc, bất nhập ư hung thứ 喜怒哀樂，不入於胸次 mừng giận thương vui không vào tới trong lòng. ① Ngực: 挺胸 Ưỡn ngực; ② Bụng dạ, lòng dạ, tấm lòng, chí khí."
+  ],
+  "jlpt": "2",
+  "frequency": "1144",
+  "grade": "6"
 }

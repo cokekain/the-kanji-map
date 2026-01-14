@@ -312,5 +312,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0594f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/594f.gif",
     "uri": "https://jisho.org/search/%E5%A5%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "tấu"
+  ],
+  "vietnameseMeaning": [
+    "① Tâu, kẻ dưới trình bầy với người trên gọi là tấu. ② Cử âm nhạc lên cũng gọi là tấu. ③ Sự gì tiến hành được cũng gọi là tấu. Như tấu hiệu 奏效 dùng có hiệu, tấu đao 奏刀 vận dùng con dao. ④ Chạy. ⑤ Cũng như chữ tấu 腠. ⑥ Cũng dùng như chữ tấu 輳. ① Tấu (nhạc), cử (nhạc): 獨奏 Độc tấu; 奏國歌 Cử quốc ca; ② Tâu (lên vua), tấu: 先斬後奏 Tiên trảm hậu tấu; ③ Lập nên, làm nên, đạt được: 大奏奇功 Lập nên công lớn; ④ (văn) Chạy; ⑤ (văn) Như 腠 (bộ 肉); ⑥ (văn) Như 輳 (bộ 車)."
+  ],
+  "jlpt": "1",
+  "frequency": "1067",
+  "grade": "6"
 }

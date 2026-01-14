@@ -427,5 +427,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06696.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6696.gif",
     "uri": "https://jisho.org/search/%E6%9A%96%23kanji"
-  }
+  },
+  "hanviet": [
+    "noãn"
+  ],
+  "vietnameseMeaning": [
+    "① Ám áp. ② Ấp cho nóng ấm. ① Ôn hoà, ấm áp: 天暖了 trời ấm rồi: ② Hâm nóng, sưởi ấm: 暖一暖手 Sưởi tay cho ấm, hơ tay."
+  ],
+  "jlpt": "2",
+  "frequency": "1371",
+  "grade": "6"
 }

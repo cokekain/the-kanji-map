@@ -384,5 +384,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05186.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5186.gif",
     "uri": "https://jisho.org/search/%E5%86%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "viên"
+  ],
+  "jlpt": "4",
+  "frequency": "69",
+  "grade": "1"
 }

@@ -302,5 +302,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f8.gif",
     "uri": "https://jisho.org/search/%E5%8F%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "ti",
+    "tư"
+  ],
+  "vietnameseMeaning": [
+    "ty, tư ① Chủ. Mỗi chức quan coi một việc gọi là ti. Như hữu ti 有司, sở ti 所司, v.v. Bây giờ các bộ đều chia riêng mỗi người giữ một việc, gọi là ti trưởng 司長. ② Sở quan. Như bố chánh ti 布正司 sở quan coi về việc tiền lương, cũng gọi là phiên ti 藩司, án sát ti 按察司 sở quan coi về hình án, cũng gọi là niết ti 臬司. Cũng đọc là chữ tư. ① Chủ quản, phụ trách việc...: 司帳 Người giữ sổ sách, viên kế toán; ② Cấp vụ trong cơ quan trung ương: 外交部禮賓司 Vụ lễ tân Bộ Ngoại giao; 司長 Vụ trưởng; ③ (Họ) Tư."
+  ],
+  "jlpt": "2",
+  "frequency": "759",
+  "grade": "4"
 }

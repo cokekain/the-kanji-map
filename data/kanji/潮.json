@@ -385,5 +385,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f6e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f6e.gif",
     "uri": "https://jisho.org/search/%E6%BD%AE%23kanji"
-  }
+  },
+  "hanviet": [
+    "triều"
+  ],
+  "vietnameseMeaning": [
+    "① Nước thuỷ triều. ② Ướt át. ③ Ðúng giờ phát lên gọi là triều, như chứng sốt cứ đến trưa nổi cơn gọi là triều nhiệt 潮熱. ① Thuỷ triều, con nước: 漲潮 Thuỷ triều dâng, nước lên; ② Trào lưu, phong trào, làn sóng: 革命高潮 Cao trào cách mạng; 怒潮 Làn sóng căm phẫn; ③ Phát lên đúng giờ, có cơn: 潮熱 Sốt có cơn (vào buổi trưa); ④ Ẩm, ướt: 受潮 Bị ẩm; 防潮 Phòng ẩm."
+  ],
+  "jlpt": "1",
+  "frequency": "1231",
+  "grade": "6"
 }

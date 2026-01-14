@@ -371,5 +371,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e09.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e09.gif",
     "uri": "https://jisho.org/search/%E4%B8%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "tam"
+  ],
+  "vietnameseMeaning": [
+    "① Ba, tên số đếm. ② Một âm là tám. Hai ba lần, đọc đi đọc lại, như: Nam Dong tám phúc bạch khuê 南容三復白圭 ông Nam Dong đọc đi đọc lại thơ bạch khuê. ① Ba: 三人行，則必有我師 Ba người cùng đi ắt phải có một người làm thầy ta (Hàn Dũ); ② Thứ ba: 一鼓作氣，再而衰，三而竭 Đánh trống lần thứ nhất thì quân sĩ hăng lên, lần thứ hai thì giảm xuống, đến lần thứ ba thì không còn hăng nữa (Tả truyện); 洛陽三月飛胡沙 Tháng ba ở Lạc Dương cát bay mù mịt (Lí Bạch); ③ Nhiều lần: 三復斯言 Suy nghĩ mãi về lời nói này; 三思而後行 Nghĩ kĩ rồi mới làm; 吾日三省吾身 Ta mỗi ngày xét lại thân ta ba lần (Luận ngữ); 三折肱，知爲良醫 Ba lần bị gãy tay, mới biết cách trị mà trở thành lương y (Tả truyện); 吾嘗三戰三北 Ta từng ba lần đánh trận ba lần thua (Liệt tử)."
+  ],
+  "jlpt": "4",
+  "frequency": "14",
+  "grade": "1"
 }

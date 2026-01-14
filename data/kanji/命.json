@@ -388,5 +388,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0547d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/547d.gif",
     "uri": "https://jisho.org/search/%E5%91%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "mệnh",
+    "mạng"
+  ],
+  "vietnameseMeaning": [
+    "① Sai khiến. ② Truyền mệnh. Truyền bảo sự lớn gọi là mệnh 命, truyền bảo sự nhỏ gọi là lệnh 令. Lời của chức Tổng-thống tuyên cáo cho quốc dân biết gọi là mệnh lệnh 命令. ③ Lời vua ban thưởng tước lộc gì gọi là cáo mệnh 誥命. ④ Mệnh trời. Phàm những sự cùng, thông, được, hỏng, hình như có cái gì chủ trương, sức người không sao làm được, gọi là mệnh. ⑤ Mạng, được chết lành gọi là khảo chung mệnh 考終命, không được chết lành gọi là tử ư phi mệnh 死於非命. ⑥ Tên, kẻ bỏ xứ sở mình trốn đi xứ khác gọi là vong mệnh 亡命 (mất tên trong sổ đinh). ⑦ Từ mệnh (lời văn hoa). ⑧ Ðạo, như duy thiên chi mệnh 維天之命 bui chưng đạo trời. ① Mạng: 一條人命 Một mạng người; 喪了命 Mất mạng, bỏ mạng; 考終命 Chết lành; 死於非命 Chết bất đắc kì tử; ② Số phận, vận mệnh, mệnh trời: 命苦 Số phận cực khổ; 宿命論 Số kiếp; 算命 Bói toán; ③ Mệnh lệnh, chỉ thị, việc lớn, nhiệm vụ lớn: 奉命 Phụng mệnh, được lệnh; 待命 Đợi lệnh; ④ (văn) Tên: 亡命 Vong mệnh (mất tên trong sổ đinh); ⑤ Đặt tên, gọi là: 命名 Đặt tên, mệnh danh; 君命太子曰仇 Vua gọi thái tử là Cừu (Tả truyện)."
+  ],
+  "jlpt": "2",
+  "frequency": "465",
+  "grade": "3"
 }

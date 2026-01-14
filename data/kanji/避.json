@@ -364,5 +364,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0907f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/907f.gif",
     "uri": "https://jisho.org/search/%E9%81%BF%23kanji"
-  }
+  },
+  "hanviet": [
+    "tị"
+  ],
+  "vietnameseMeaning": [
+    "① Lánh, lánh xa không cho gặp gọi là tị. Như hồi tị 迴避 quay lánh ra chỗ khác. ② Kiêng. Như tị huý 避諱 kiêng tên huý. ① Tránh, lánh, trú: 避雨 Tránh mưa, trú mưa; 不避艱險 Không trốn tránh khó khăn nguy hiểm; ② Ngăn ngừa, tránh xa, từ khước; ③ (văn) Kiêng kị: 避諱 Kiêng huý."
+  ],
+  "jlpt": "1",
+  "frequency": "756",
+  "grade": "8"
 }

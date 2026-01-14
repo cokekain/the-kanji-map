@@ -452,5 +452,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05272.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5272.gif",
     "uri": "https://jisho.org/search/%E5%89%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "cát",
+    "cắt"
+  ],
+  "vietnameseMeaning": [
+    "① Cắt đứt. ② Chia, như âm dương cát hôn hiểu 陰陽割昏曉 âm dương chia sớm tối. ③ Tổn hại, như thang thang hồng thuỷ phương cát 湯湯洪水方割 mông mênh nước lụt đang làm hại. ① Cắt, gặt, dứt, xẻo, bỏ: 割盲腸 Cắt ruột thừa; 割麥子 Gặt lúa mì; 難割難捨 Khó bỏ (dứt) nhau; ② (văn) Chia, phân ra: 陰陽割昏曉 Âm dương phân ra (chia ra) sớm tối; ③ (văn) Tổn hại, gây hại, làm hại: 湯湯洪水方割 Nước lụt mênh mông đang gây hại."
+  ],
+  "jlpt": "2",
+  "frequency": "318",
+  "grade": "6"
 }

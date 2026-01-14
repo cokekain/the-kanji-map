@@ -283,5 +283,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ec.gif",
     "uri": "https://jisho.org/search/%E5%8F%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "triệu",
+    "chịu"
+  ],
+  "vietnameseMeaning": [
+    "① Vời, lấy tay vẫy lại là chiêu 招, lấy lời gọi lại là triệu. ① Đất Thiệu (thời xưa ở Trung Quốc); ② (Họ) Thiệu (dùng như 邵, bộ 邑). ① Gọi, vời đến, triệu (tập): 號召 Kêu gọi, hiệu triệu; ② (văn) Gây ra, dẫn đến: 故言有召禍也 Cho nên lời nói có khi gây vạ (Tuân tử: Khuyến học)."
+  ],
+  "jlpt": "2",
+  "frequency": "1540",
+  "grade": "8"
 }

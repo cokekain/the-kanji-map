@@ -379,5 +379,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08857.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8857.gif",
     "uri": "https://jisho.org/search/%E8%A1%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhai"
+  ],
+  "vietnameseMeaning": [
+    "① Ngã tư, con đường thông cả bốn mặt, những đường cái trong thành phố đều gọi là nhai. ① Đường phố, phố, đường: 上街 Ra phố; ② (đph) Chợ: 赶街 Đi chợ."
+  ],
+  "jlpt": "1",
+  "frequency": "891",
+  "grade": "4"
 }

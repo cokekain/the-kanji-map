@@ -328,5 +328,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f54.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f54.gif",
     "uri": "https://jisho.org/search/%E6%BD%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "khiết"
+  ],
+  "vietnameseMeaning": [
+    "① Thanh khiết. ② Giữ mình thanh bạch không thèm làm các sự phi nghĩa gọi là khiết. ③ Sửa trị. ① Sạch, trong sạch: 整潔 sạch sẽ: 純潔的心靈 Tấm lòng trong trắng; ② (văn) Làm cho sạch, giữ mình trong sạch: 慾潔其身而亂大倫 Muốn giữ cho mình trong sạch mà làm loạn đại luân (Luận ngữ); ③ (văn) Sửa trị."
+  ],
+  "jlpt": "1",
+  "frequency": "1595",
+  "grade": "5"
 }

@@ -304,5 +304,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ab0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ab0.gif",
     "uri": "https://jisho.org/search/%E8%AA%B0%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Gì, là tiếng nói không biết rõ tên mà hỏi. Như tính thậm danh thùy 姓甚名誰 tên họ là gì? ② Ai. Như kì thùy tri chi 其誰知之 ai người biết được? thùy hà 誰何 ai thế? Nguyễn Du 阮攸: Nhất thiên xuân hứng thùy gia lạc 一天春興誰家落 một trời xuân hứng không biết rơi vào nhà ai? ① Ai: 誰來了？ Ai đến đấy?; 人生自古誰無死？ Đời người xưa nay ai mà không chết?; 明月落誰家？ Trăng sáng rụng nhà ai? (Lí Bạch: Ức Đông sơn).【誰何】thùy hà (văn) Như 何誰 ; ② Ai ai (cũng), mọi người: 誰都可以做 Bất cứ ai (người nào) cũng có thể làm được; ③ Gì, nào: 姓甚名誰？ Tên họ là gì?"
+  ],
+  "hanviet": [
+    "thùy"
+  ],
+  "frequency": "1933",
+  "grade": "8"
 }

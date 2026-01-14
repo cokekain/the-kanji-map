@@ -85,5 +85,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05378.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5378.gif",
     "uri": "https://jisho.org/search/%E5%8D%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "tá"
+  ],
+  "vietnameseMeaning": [
+    "① Tháo, cởi. Hoa rụng cũng gọi là hoa tá 花卸. Lái đò dỡ đồ ở thuyền ra cũng gọi là tá. ② Không làm việc nữa cũng gọi là tá. Như tá kiên 卸肩 trút gánh. Vẩy vạ cho người để thoát mình gọi là tá quá 卸過 trút lỗi, tá tội 卸罪 trút tội, tá trách 卸責 trút trách nhiệm; v.v. ① Tháo, cổi, bốc dỡ, tháo dỡ: 卸貨 Bốc hàng; 卸零件 Tháo linh kiện; ② Trút bỏ, giải trừ, miễn: 卸肩 Trút gánh; 卸過 Trút lỗi; 卸罪 Trút tội."
+  ],
+  "jlpt": "1",
+  "frequency": "1520",
+  "grade": "8"
 }

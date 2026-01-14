@@ -52,5 +52,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05141.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5141.gif",
     "uri": "https://jisho.org/search/%E5%85%81%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Thành thực. ② Ðáng, như bình duẫn 平允 xử đoán phải chăng. ① Cho phép, ưng cho: 不蒙察允，遽以慚歸 Không được xét cho phép, liền thẹn bỏ về (Hàn Dũ: Thượng Trịnh Thượng thư tướng công khải); ② Công bằng, phải chăng: 案法平允 Xử án công bằng (phải chăng) (Hậu Hán thư); 公允 Công bằng; ③ (văn) Thực, thành thực, chân thực, đích xác, xác thực: 夙夜出納朕命，惟允 Đêm ngày ban bố mệnh lệnh của ta, đều phải thành thực (Thượng thư: Thuấn điển); 允矣君子！ Thành thực thay người quân tử! (Thi Kinh: Tiểu nhã, Xa công); 豳居允荒 Nơi đất Bân này thật là to lớn (Thi Kinh: Đại nhã, Công lưu)."
+  ],
+  "hanviet": [
+    "duẫn"
+  ],
+  "jlpt": "1",
+  "frequency": "2358",
+  "grade": "9"
 }

@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614c.gif",
     "uri": "https://jisho.org/search/%E6%85%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "hoảng"
+  ],
+  "vietnameseMeaning": [
+    "① Lờ mờ, như hoảng hốt 慌惚. ② Vội vàng, như hoảng mang 慌忙 vội vàng hấp tấp. ③ Sợ hoảng. ① Lật đật, tất tả, vội vàng, hấp tấp, bấn: 慌了手腳 Bấn cả chân tay; 慌忙 Vội vàng hấp tấp; ② Bối rối, hoảng hốt: 心裡發慌 Trong lòng bối rối; 沈著氣，別慌 Hãy bình tĩnh, đừng hoảng hốt; ③ Quá, không chịu được: 累得慌 Mệt không chịu được; 餓得慌 Đói không chịu được; 悶得慌 Buồn quá."
+  ],
+  "jlpt": "1",
+  "frequency": "1826",
+  "grade": "8"
 }

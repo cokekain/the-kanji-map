@@ -358,5 +358,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fc3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fc3.gif",
     "uri": "https://jisho.org/search/%E6%BF%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "nồng",
+    "nống"
+  ],
+  "vietnameseMeaning": [
+    "① Nồng, đặc, trái lại với chữ đạm 淡. ① Đặc: 濃茶 Chè đặc; ② Đậm, nồng: 香味很濃 Mùi thơm rất đậm; 濃墨 Mực đậm."
+  ],
+  "jlpt": "2",
+  "frequency": "1200",
+  "grade": "8"
 }

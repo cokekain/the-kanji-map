@@ -316,5 +316,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05200.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5200.gif",
     "uri": "https://jisho.org/search/%E5%88%80%23kanji"
-  }
+  },
+  "hanviet": [
+    "đao"
+  ],
+  "vietnameseMeaning": [
+    "① Con dao. ② Tiền, thứ tiền ngày xưa hình như con dao nên gọi là đao. ① Dao, đao: 一把刀 Một con dao; ② Thếp, tập: 兩刀紙 Hai thếp giấy, hai tập giấy; ③ Tiền (tiền hình cây đao thời xưa); ④ (Họ) Đao."
+  ],
+  "jlpt": "1",
+  "frequency": "1794",
+  "grade": "2"
 }

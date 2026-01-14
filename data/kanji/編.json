@@ -363,5 +363,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07de8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7de8.gif",
     "uri": "https://jisho.org/search/%E7%B7%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "biên"
+  ],
+  "vietnameseMeaning": [
+    "① Cái lề sách, như Khổng Tử độc Dịch, vi biên tam tuyệt 孔子讀易，韋編三絕 (Hán thư 漢書) đức Khổng Tử đọc Kinh Dịch ba lần đứt lề sách. Bây giờ cũng gọi sách vở là biên. ② Cứ thuận thứ tự đều gọi là biên, như biên liệt 編列 xếp bày. ③ Ðan, ken. Như biên trúc 編竹 ken tre, biên bồ 編蒲 ken cỏ bồ. ① Đan, ken, tết: 編竹 Đan tre, ken tre; 編筐子 Đan bồ, đan giỏ, đan sọt; ② Sắp, xếp: 編隊 Xếp thành hàng, xếp thành đội ngũ; 編入… Đưa... vào biên chế; ③ Soạn, viết: 編書 Soạn sách, viết sách; 編劇本 Soạn kịch, viết kịch; 編者按 Lời toà soạn, LTS; ④ Cuốn, quyển, tập: 前編 Tập thượng; 後編 Tập hạ; 續編 Quyển viết tiếp, tập tiếp theo; 人手 一編 Mỗi người một cuốn; ⑤ Bịa, bịa chuyện, bịa đặt, đặt điều, thêu dệt: 編了一套瞎話 Bịa đặt những chuyện vu vơ, đặt diều nói láo; ⑥ (văn) Lề sách: 孔子讀易，韋編三絕 Khổng Tử đọc Kinh Dịch, ba lần đứt lề da (Luận ngữ)."
+  ],
+  "jlpt": "2",
+  "frequency": "591",
+  "grade": "5"
 }

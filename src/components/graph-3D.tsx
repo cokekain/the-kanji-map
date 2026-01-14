@@ -9,6 +9,7 @@ import ForceGraph3D, { LinkObject, NodeObject } from "react-force-graph-3d";
 import type { RectReadOnly } from "react-use-measure";
 import * as THREE from "three";
 import SpriteText from "three-spritetext";
+import { useLanguage } from "@/lib/language-store";
 
 type NodeObjectWithData = NodeObject & { data: KanjiInfo };
 
@@ -39,6 +40,7 @@ const Graph3D = ({
   const jinmeiyoList = kanjilist.filter((el) => el.g === 2).map((el) => el.k);
 
   const { resolvedTheme } = useTheme();
+  const [language] = useLanguage();
 
   const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
     React.useRef(undefined);
@@ -237,6 +239,11 @@ const Graph3D = ({
       onNodeHover={handleHover}
       nodeLabel={(n) => {
         const node = n as NodeObjectWithData;
+        if (language === "vi" && node.data?.hanviet && node.data.hanviet.length > 0) {
+          return `<div style="color: #ffffff; background: #000000a6; padding: 4px; border-radius: 4px;">
+                    <span>${node.data.hanviet.join(", ")}</span>
+                  </div>`;
+        }
         return `<div style="color: #ffffff; background: #000000a6; padding: 4px; border-radius: 4px;">
                   <span>${node.data.jishoData?.kunyomi}</span>
                   <br/>

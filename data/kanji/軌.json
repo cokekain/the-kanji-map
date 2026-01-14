@@ -48,5 +48,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ecc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ecc.gif",
     "uri": "https://jisho.org/search/%E8%BB%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "quỹ",
+    "quẫy"
+  ],
+  "vietnameseMeaning": [
+    "① Cái vết bánh xe chỗ trục hai bánh xe cách nhau. Ðường sắt xe hoả, xe điện chạy gọi là thiết quỹ 鐵軌 hay quỹ đạo 軌道. ② Con đường, các sao hành tinh đi xung quanh mặt trời gọi là quỹ đạo 軌道. ③ Phép tắc. Không tuân theo phép tắc gọi là bất quỹ 不軌. Kẻ mưu làm loạn gọi là mưu vi bất quỹ 謀為不軌. ① Vết xe; ② Đường xe: 鐵軌 Đường ray, đường rầy; 出軌 Trật đường rầy, trật bánh; ③ Nề nếp, mẫu mực, phép tắc, khuôn phép, khuôn khổ: 不軌 Không theo phép tắc; 走上正軌 Đi vào nề nếp."
+  ],
+  "jlpt": "1",
+  "frequency": "1480",
+  "grade": "8"
 }

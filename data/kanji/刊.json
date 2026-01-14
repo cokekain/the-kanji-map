@@ -289,5 +289,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0520a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/520a.gif",
     "uri": "https://jisho.org/search/%E5%88%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "san"
+  ],
+  "vietnameseMeaning": [
+    "① Chặt, như khan mộc 刊木 chặt cây. ② Khắc, như khan bản 刊本 khắc bản in. ③ Tước bỏ, như danh luận bất khan 名論不刊 lời bàn hay không bao giờ bỏ được. Tục quen gọi là san. ① Khắc, in: 刊石 Khắc chữ vào đá; 刊印 In;② (Xuất bản báo chí, như) san, báo, bản, số: 周刊 Tuần báo, tuần san, báo chí ra hàng thần; 月刊 Nguyệt san, tạp chí (tập san) ra hàng tháng; 内刊 Nội san, tập san nội bộ; 停刊 (Báo chí) đình bản; 特刊 Số đặc biệt; 副刊 Số phụ, trang phụ; ③ Bớt bỏ, tước bỏ, sửa chữa: 刊正 Đính chính; 刊誤表 Bảng đính chính; ④ (văn) Chặt: 刊木 Chặt cây."
+  ],
+  "jlpt": "2",
+  "frequency": "855",
+  "grade": "5"
 }

@@ -344,5 +344,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cb8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cb8.gif",
     "uri": "https://jisho.org/search/%E5%B2%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngạn",
+    "ngàn"
+  ],
+  "vietnameseMeaning": [
+    "① Bờ, như đê ngạn 堤岸 bờ đê. ② Tu đạo chứng chỗ cùng cực gọi là đạo ngạn 道岸 nghĩa là người hư nhờ có công tu học biết tới cõi hay, cũng như đắm đuối nhờ người cứu vớt vào tới bờ vậy. Trong kinh Phật nói tu chứng đến cõi chính giác là đáo bỉ ngạn 到彼岸, đăng giác ngạn 登覺岸 đều là cái nghĩa ấy cả. ③ Cao ngất, ngạn nhiên đạo mạo 岸然道貌 dáng đạo cao cả. Thể phách khỏe mạnh gọi là khôi ngạn 魁岸. Tính không cùng hoà với mọi vật gọi là nhai ngạn 崖岸 cũng cùng một ý cao cả. ① Bờ, bến: 河岸 Bờ sông; 船靠岸了 Tàu (thuyền) đã cặp bến; 人慾無涯，回頭是岸 Lòng muốn của con người vô cùng tận, chỉ lúc quay đầu lại mới thấy bến bờ; ② Tự cao: 儌岸 Tự cao tự đại."
+  ],
+  "jlpt": "2",
+  "frequency": "556",
+  "grade": "3"
 }

@@ -299,5 +299,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a3.gif",
     "uri": "https://jisho.org/search/%E6%82%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "hoạn"
+  ],
+  "vietnameseMeaning": [
+    "① Lo, như hoạn đắc hoạn thất 患得患失 lo được lo mất. ② Tai hoạn, như hữu bị vô hoạn 有備無患 có phòng bị không lo vạ. ③ Tật bệnh, như hoạn bệnh 患病 mắc bệnh. ① Mối lo, tai vạ, vạ, nạn, hoạ: 水患 Nạn lụt; 災患 Tai nạn, tai hoạ; 大患 Mối lo lớn, tai vạ lớn; 有備無患 Có phòng bị thì không lo có tai vạ; ② Lo, suy tính: 地誠任，不患無財 Nếu đất đai thật được sử dụng thì chẳng lo không có của cải (Thương Quân thư).【患得患失】hoạn đắc hoạn thất Suy hơn tính thiệt, suy tính cá nhân; ③ Mắc, bị: 患肝炎 Mắc (bị) bệnh viêm gan."
+  ],
+  "jlpt": "1",
+  "frequency": "796",
+  "grade": "8"
 }

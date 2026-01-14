@@ -53,5 +53,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d0b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d0b.gif",
     "uri": "https://jisho.org/search/%E7%B4%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "văn"
+  ],
+  "vietnameseMeaning": [
+    "vấn ① Vân, vằn gấm vóc. Vật gì có vằn có ngấn cũng gọi là văn, như ba văn 波紋 vằn sóng. ② Văn ngân 紋銀 bạc nén, bạc đúc thành thoi trên có hoa vằn gọi là văn ngân, gọi tắt là văn. ① Vân, vằn: 紋石 Đá vân; 木上有紋 Gỗ có vân; ② Nếp (nhăn): 皺紋 Nếp nhăn. Xem 紋 . Như 璺 (bộ 玉). Xem 紋 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1519",
+  "grade": "8"
 }

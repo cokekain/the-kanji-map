@@ -50,5 +50,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51dc.gif",
     "uri": "https://jisho.org/search/%E5%87%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "lẫm"
+  ],
+  "vietnameseMeaning": [
+    "① Lạnh: 凜冽 Lạnh lẽo; ② Nghiêm chỉnh, oai nghiêm, nghiêm ngặt: 凜遵 Nghiêm chỉnh tuân theo; ③ (E) ngại: 凜於夜行 Đi đêm ngại lắm."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

@@ -495,5 +495,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60aa.gif",
     "uri": "https://jisho.org/search/%E6%82%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "ác",
+    "ố"
+  ],
+  "jlpt": "3",
+  "frequency": "530",
+  "grade": "3"
 }

@@ -50,5 +50,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066fc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66fc.gif",
     "uri": "https://jisho.org/search/%E6%9B%BC%23kanji"
-  }
+  },
+  "hanviet": [
+    "man"
+  ],
+  "vietnameseMeaning": [
+    "mạn ① Nhỏ nhắn, xinh đẹp. ② Dài, rộng. ③ Một âm là man. Man man 曼曼 man mác, dài dặc, như man duyên 曼延 bò dài. (văn) Không có: 但弦曼矰，蒲苴不能以射 Nhưng nếu dây cung không có tên, thì Bồ Thư cũng không lấy gì bắn được (Vương Bao: Tứ tử giảng đức luận). ① Dịu dàng, uyển chuyển, mềm mại, nhỏ nhắn, xinh đẹp: 曼舞 Điệu múa uyển chuyển; ② Dài: 曼延 Kéo dài; 孔曼且碩 Rất dài và lại to (Thi Kinh); ③ (văn) Kéo dài ra: 曼余目以流觀兮 Ta phóng dài tầm mắt nhìn ra bốn phía (Khuất Nguyên: Cửu chương); ④ (văn) Bò dài, bò lan (dùng như 蔓, bộ 艹): 樹木有曼根，有直根 Cây cối có loại rễ bò, có loại rễ thẳng (Hàn Phi tử)."
+  ],
+  "frequency": "2395"
 }

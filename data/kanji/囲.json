@@ -352,5 +352,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56f2.gif",
     "uri": "https://jisho.org/search/%E5%9B%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "vi"
+  ],
+  "jlpt": "2",
+  "frequency": "771",
+  "grade": "4"
 }

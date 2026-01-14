@@ -49,5 +49,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09175.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9175.gif",
     "uri": "https://jisho.org/search/%E9%85%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "giếu",
+    "diếu"
+  ],
+  "vietnameseMeaning": [
+    "① Men, meo mốc là chất chảy hâm có chất đường, vì tác dụng hoá học sinh ra vi trùng nổi bọt meo lên thành ra chất chua, gọi là phát diếu 發酵 lên men. Như ủ rượu gây giấm biến ra mùi chua đều là vì thế, cho rượu vào bột cho nó bốc bồng lên cũng gọi là phát diếu. Men: 發酵 Lên men, dậy men."
+  ],
+  "jlpt": "1",
+  "frequency": "1862",
+  "grade": "8"
 }

@@ -65,5 +65,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0598a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/598a.gif",
     "uri": "https://jisho.org/search/%E5%A6%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhâm"
+  ],
+  "vietnameseMeaning": [
+    "① Chửa (có mang, có thai). Ðàn bà chửa gọi là nhâm phụ 妊婦. Chửa, có mang."
+  ],
+  "jlpt": "1",
+  "frequency": "1413",
+  "grade": "8"
 }

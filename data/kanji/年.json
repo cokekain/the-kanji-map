@@ -395,5 +395,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e74.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e74.gif",
     "uri": "https://jisho.org/search/%E5%B9%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "niên",
+    "nên"
+  ],
+  "vietnameseMeaning": [
+    "① Năm. ② Tuổi. ③ Người đỗ cùng khoa gọi là đồng niên 同年. Hai nhà đi lại với nhau gọi là niên nghị 年誼. ④ Ðược mùa. ① Năm: 去年 Năm ngoái; 全年收入 Thu nhập cả năm; ② Tuổi, lứa tuổi: 年過四十的人 Người đã quá bốn mươi; 她年方十八 Cô ấy mới mười lăm tuổi; 知命之年 Tuổi biết mệnh trời, tuổi năm mươi; ③ Thời, đời: 明朝末年 Cuối đời nhà Minh; 童年 Thời thơ ấu; ④ Tết: 過年 Ăn tết; 拜年 Chúc tết; ⑤ Mùa màng: 豐年 Được mùa; 荒年 Mất mùa; ⑥ (Họ) Niên."
+  ],
+  "jlpt": "4",
+  "frequency": "6",
+  "grade": "1"
 }

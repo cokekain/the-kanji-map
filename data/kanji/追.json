@@ -327,5 +327,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ffd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ffd.gif",
     "uri": "https://jisho.org/search/%E8%BF%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "truy"
+  ],
+  "vietnameseMeaning": [
+    "① Đuổi theo. ② Kịp. Như Luận Ngữ 論語 nói Lai giả do khả truy 來者猶可追 sau đây còn có thể theo kịp. ③ Đoái lại sự đã qua. Như truy niệm 追念 nhớ lại sự trước, truy điệu 追悼 nhớ lại lối cũ mà xót xa. ④ Tiễn theo. ⑤ Một âm là đôi. Cái núm chuông (chung nữu 鐘紐). ① Đuổi, đuổi theo: 追不上 Không đuổi kịp; 急起直追 Trỗi dậy mà đuổi theo; 來者猶可追 Cái sắp đến còn có thể theo kịp (Luận ngữ); ② Truy, tưởng nhớ lại (việc đã qua): 追授英雄稱號 Truy tặng danh hiệu anh hùng; 追悼 Truy điệu, nhớ lại và xót xa; ③ Đi sâu, truy tìm, tìm lại (vật đã mất...), tìm (moi) đến cùng: 這件事不必再追了 Việc này không cần phải đi sâu hơn nữa; ④ Đòi, truy đòi; ⑤ (văn) Tiễn theo."
+  ],
+  "jlpt": "2",
+  "frequency": "411",
+  "grade": "3"
 }

@@ -80,5 +80,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09727.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9727.gif",
     "uri": "https://jisho.org/search/%E9%9C%A7%23kanji"
-  }
+  },
+  "hanviet": [
+    "vụ"
+  ],
+  "vietnameseMeaning": [
+    "① Sương mù, nguyên nhân cũng như mây, xa đất là vân 雲 mây, gần đất là vụ 霧 mù. ① Sương mù; ② Bụi nước (ở bình bơm phun ra): 噴霧器 Bình phun."
+  ],
+  "jlpt": "1",
+  "frequency": "1747",
+  "grade": "8"
 }

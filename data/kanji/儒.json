@@ -52,5 +52,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05112.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5112.gif",
     "uri": "https://jisho.org/search/%E5%84%92%23kanji"
-  }
+  },
+  "hanviet": [
+    "nho"
+  ],
+  "vietnameseMeaning": [
+    "① Học trò. Tên chung của những người có học, như thạc học thông nho 碩學通儒 người học giỏi hơn người. ② Nho nhã. Phàm cái gì có văn vẻ nề nép đều gọi là nho. Như nho phong 儒風, nho nhã 儒雅, v.v. ③ Ðạo Nho, bây giờ thường gọi đạo học của đức Khổng là Nho giáo 儒教 để phân biệt với Ðạo giáo 道教, Phật giáo 佛教 vậy. ① Nho, người có học thức, học trò (chỉ chung người học sâu hiểu rộng thời xưa): 大儒 Đại nho; ② Đạo nho, nho học (một học phái do Khổng Tử sáng lập thời Chiến quốc ở Trung Quốc): 儒家 Nhà nho."
+  ],
+  "jlpt": "1",
+  "frequency": "2162",
+  "grade": "8"
 }

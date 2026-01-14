@@ -383,5 +383,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e2f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e2f.gif",
     "uri": "https://jisho.org/search/%E6%B8%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "cảng"
+  ],
+  "vietnameseMeaning": [
+    "① Sông nhánh, ngành sông. Sông lớn có một dòng chảy ngang ra mà đi thuyền được, gọi là cảng. ② Hương cảng 香港 (Hongkong) gọi tắt là cảng. ① Cảng, bến tàu: 海港 Cửa biển, hải cảng; 商港 Thương cảng, cảng buôn; ② Sông nhánh (phần nhiều dùng vào tên sông); ③ Hương Cảng (gọi tắt): 港澳 Hương Cảng và Áo Môn; 省港大罷工 Cuộc bãi công lớn ở Quảng Châu và Hương Cảng."
+  ],
+  "jlpt": "2",
+  "frequency": "495",
+  "grade": "3"
 }

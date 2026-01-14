@@ -97,5 +97,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05203.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5203.gif",
     "uri": "https://jisho.org/search/%E5%88%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhận",
+    "nhẫn"
+  ],
+  "vietnameseMeaning": [
+    "① Mũi nhọn. ② Chém giết, như thủ nhận 手刃 tự tay mình giết. Như 刃. ① Lưỡi dao, mũi nhọn; ② Con dao: 手持利刃 Tay cầm dao sắc; 白刃戰 Đánh giáp lá cà; ③ Giết (bằng dao...): 手刃頑敵 Ra tay giết giặc."
+  ],
+  "jlpt": "1",
+  "frequency": "1763",
+  "grade": "8"
 }

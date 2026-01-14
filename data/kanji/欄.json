@@ -54,5 +54,20 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b04.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b04.gif",
     "uri": "https://jisho.org/search/%E6%AC%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "lan",
+    "giàn",
+    "lán",
+    "lang",
+    "lơn",
+    "lườn",
+    "ràn"
+  ],
+  "vietnameseMeaning": [
+    "① Cùng nghĩa với chữ lan 闌 nghĩa là cái lan can. ② Cái chuồng trâu dê. ③ Một thứ cây thuộc loài quế, dùng để hồ lụa. ① Lan can, hàng chấn song (như 闌, bộ 門): 石欄 Chấn song đá; 橋欄 Lan can cầu; 憑欄遠望 Tựa lan can nhìn xa; ② Chuồng (nuôi gia súc): 牛欄 Chuồng bò; ③ (văn) Cột (báo), mục (trên báo): 每頁分四欄 Mỗi trang chia làm 4 cột; 廣告欄 Mục quảng cáo."
+  ],
+  "jlpt": "1",
+  "frequency": "1523",
+  "grade": "8"
 }

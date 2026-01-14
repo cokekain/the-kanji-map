@@ -81,5 +81,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cdc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cdc.gif",
     "uri": "https://jisho.org/search/%E8%B3%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "tứ"
+  ],
+  "vietnameseMeaning": [
+    "① Cho, trên cho dưới gọi là tứ. ② Ơn, như dân đáo vu kim thụ kì tứ 民到于今受其賜 (Luận ngữ 論語) dân đến bây giờ vẫn còn được chịu ơn. ③ Hết, như cuối bức thư nói dục ngôn bất tứ 欲言不賜 muốn nói chẳng hết lời. (văn) ① Ban, cho, ban cho: 恩賜 Ban ơn; 希賜回音 Xin trả lời cho biết; ② Ơn: 受賜 Chịu ơn; 厚賜 Ơn nặng, ơn to (tiếng lễ phép); ③ (văn) Hết: 欲言 不賜 Muốn nói chẳng hết lời."
+  ],
+  "jlpt": "1",
+  "frequency": "2190",
+  "grade": "8"
 }

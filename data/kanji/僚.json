@@ -53,5 +53,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50da.gif",
     "uri": "https://jisho.org/search/%E5%83%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "liêu"
+  ],
+  "vietnameseMeaning": [
+    "① Người bằng vai, là người bạn cùng làm việc, như quan liêu 官僚 người cùng làm quan với mình, cũng gọi là đồng liêu 同僚. ② Anh em rể cũng gọi là liêu tế 僚婿. (Quan) liêu, bạn, đồng nghiệp: 官僚 Quan liêu; 同僚 Đồng liêu, bạn cùng làm quan với nhau; 僚婿 Anh em bạn rể."
+  ],
+  "jlpt": "1",
+  "frequency": "709",
+  "grade": "8"
 }

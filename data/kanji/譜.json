@@ -55,5 +55,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b5c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b5c.gif",
     "uri": "https://jisho.org/search/%E8%AD%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "phổ",
+    "phả"
+  ],
+  "vietnameseMeaning": [
+    "① Phả, sổ chép về nhân vật và chia rành thứ tự. Như gia phổ 家譜 phả chép thế thứ trong nhà họ. ② Niên phổ 年譜 phả chép các người cùng tuổi hay cùng đỗ một khoa. Người cùng họ gọi là đồng phổ 同普. Vì thế nên anh em kết nghĩa cũng gọi là phổ huynh đệ 譜兄弟. ③ Các khúc âm nhạc phải chế ra phả để làm dấu hiệu. Vì thế nên khúc hát gọi là phổ. Ta quen đọc là phả. ① Phổ, phả, sổ, bảng ghi: 譜曲 Phổ nhạc; 家譜 Gia phả; 年譜 Niên phổ; ② (văn) Khúc hát, bản nhạc; ③ Vững lòng, vững tâm, chắc chắn: 他作事有譜 兒 Anh ấy làm việc chắc chắn lắm; 心中有譜 Vững lòng; 心裡沒個譜兒 Không vững tâm; 這事一點兒譜都沒有 Việc này chẳng chắc chắn gì cả."
+  ],
+  "jlpt": "1",
+  "frequency": "1919",
+  "grade": "8"
 }

@@ -60,5 +60,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e5f.gif",
     "uri": "https://jisho.org/search/%E4%B9%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "dã",
+    "giã",
+    "giả"
+  ],
+  "vietnameseMeaning": [
+    "① Vậy, Lời nói hết câu. Như nghĩa giả nghi dã 義者宜也 nghĩa, ấy là sự nên thế thì làm vậy. Có chỗ dùng làm lời mở đầu, như dã tri hương tín nhật ưng sơ 也知鄉信日應疎 vậy biết tin làng ngày phải thưa. ① Cũng: 你不去，我也不去 Anh không đi, tôi cũng không đi; 也只好這樣了 Cũng chỉ đành thế thôi; 爾的功勞也不低 Công lao của mày cũng không phải nhỏ (Hồ Chí Minh: Ngục trung nhật kí)."
+  ],
+  "jlpt": "1",
+  "frequency": "1404",
+  "grade": "9"
 }

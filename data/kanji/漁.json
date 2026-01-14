@@ -335,5 +335,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f01.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f01.gif",
     "uri": "https://jisho.org/search/%E6%BC%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngư"
+  ],
+  "vietnameseMeaning": [
+    "① Bắt cá, đánh cá. ② Lấy bừa. ③ Ngư lợi 漁利 lừa gạt lấy lời. ① Đánh cá, bắt cá: 漁船 Thuyền đánh cá; 竭澤而漁，豈不獲得？ Tát cạn đầm mà bắt cá, thì lẽ nào không bắt được? (Lã thị Xuân thu); ② Kiếm chác, lấy bừa, chiếm đoạt bằng thủ đoạn bất chính.【漁利】ngư lợi a. Mưu lợi bất chính; b. Món lợi kiếm được bằng thủ đoạn bất chính: 坐收漁利 Ngồi không ngư ông đắc lợi."
+  ],
+  "jlpt": "2",
+  "frequency": "1094",
+  "grade": "4"
 }

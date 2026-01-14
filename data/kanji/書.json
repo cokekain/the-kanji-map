@@ -430,5 +430,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66f8.gif",
     "uri": "https://jisho.org/search/%E6%9B%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "thư"
+  ],
+  "vietnameseMeaning": [
+    "① Sách. ② Ghi chép, viết. ③ Thư tín, như thướng thư 上書 dâng thơ. ④ Chữ, như thư pháp 書法 phép viết chữ, biết tinh tường các lối chữ gọi là thư gia 書家. ⑤ Kinh thư, gọi tắt tên kinh Thượng thư. Sách: 買幾本書 Mua mấy quyển sách; ② Thư: 家書 Thư nhà; 上書 Viết thư trình lên; ③ Văn kiện, giấy tờ, giấy, đơn: 證明書 Chứng minh thư, giấy chứng nhận; 申請書 Đơn xin; ④ Viết: 書寫 Viết; ⑤ Chữ, kiểu chữ: 楷書 Kiểu chữ khải; ⑥ Kinh Thư (nói tắt)."
+  ],
+  "jlpt": "4",
+  "frequency": "169",
+  "grade": "2"
 }

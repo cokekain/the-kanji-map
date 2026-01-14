@@ -296,5 +296,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e5.gif",
     "uri": "https://jisho.org/search/%E5%8F%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "cú",
+    "câu"
+  ],
+  "vietnameseMeaning": [
+    "cú ① Câu. Hết một lời văn gọi là nhất cú 一句 một câu. ② Một âm là câu, nguyên là chữ câu 勾 nghĩa là cong, là móc. ③ Một âm là cấu. Như cấu đương 句當 người phải liệu biện mọi việc công gọi là cấu đương. Ta quen gọi là câu đương. ① Như 勾; ② (Họ) Câu. Xem 句 . Câu: 造句 Đặt câu; 我講幾句 Tôi xin nói vài câu."
+  ],
+  "jlpt": "1",
+  "frequency": "1244",
+  "grade": "5"
 }

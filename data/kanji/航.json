@@ -303,5 +303,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0822a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/822a.gif",
     "uri": "https://jisho.org/search/%E8%88%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "hàng"
+  ],
+  "vietnameseMeaning": [
+    "① Thuyền, hai chiếc thuyền cùng sang gọi là hàng. ② Vượt qua. Như hàng hải 航海 vượt bể, hàng lộ 航路 đường nước, v.v. ③ Ken thuyền làm cầu nổi sang sông. ① Thuyền, tàu, tàu thuỷ; ② Đi (biển), bay, hàng (không), chạy: 遠航貨輪 Tàu hàng viễn dương; 飛機試航 Máy bay bay thử; 民航 Hàng không dân dụng; ③ (văn) Nối thuyền làm cầu nổi sang sông."
+  ],
+  "jlpt": "2",
+  "frequency": "665",
+  "grade": "4"
 }

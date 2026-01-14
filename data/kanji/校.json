@@ -369,5 +369,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06821.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6821.gif",
     "uri": "https://jisho.org/search/%E6%A0%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "hiệu",
+    "chò",
+    "giâu"
+  ],
+  "vietnameseMeaning": [
+    "① Cái cùm chân. ② Tranh, thi, như khảo giáo 考校 thi khảo, bất dữ giáo luận 不與校論 chẳng cùng tranh dành. ③ Tính số, như kiểm giáo 檢校 kiểm xét sự vật. ④ Tra xét đính chính lại sách vở gọi là giáo, như giáo khám 校勘 khảo xét lại. ④ Một âm là hiệu. Tràng, như học hiệu 學校 tràng học. ⑤ Cái chuồng ngựa. Một bộ quân cũng gọi là nhất hiệu 一校. ⑥ Một âm là hào. Chân cái bát đậu bát chở. ① Xem lại và sửa chữa: 校稿子 Xem lại và sửa chữa bản thảo; ② Bản in thử, sửa bản in thử: 五校 Bản in thử thứ năm, sửa bản in thử lần thứ năm; ③ So sánh, tranh, thi; ④ (văn) Tính: 故憂患不可勝校也 Cho nên sự gian nan khổ cực không thể tính xiết được (Tuân tử); ⑤ (văn) Khảo hạch; ⑥ (Họ) Hiệu. Xem 校 . ① Trường, trường học: 全校 Cả trường; 夜校 Trường học buổi tối; ② (Sĩ quan cấp) tá: 大校 Đại tá; 上校 Thượng tá; ③ (văn) Hiệu (biên chế quân đội thời xưa): 一校 Một hiệu quân; ④ (văn) Chuồng ngựa. Xem 校 ."
+  ],
+  "jlpt": "4",
+  "frequency": "294",
+  "grade": "1"
 }

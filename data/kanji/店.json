@@ -427,5 +427,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e97.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e97.gif",
     "uri": "https://jisho.org/search/%E5%BA%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "điếm"
+  ],
+  "vietnameseMeaning": [
+    "① Tiệm, chỗ để chứa đồ cầm đồ, tục gọi nhà trọ là khách điếm 客店. ① (Cửa) hiệu, (cửa) hàng, tiệm: 書店 Hiệu sách; 飯店 Tiệm ăn; 零售店 Cửa hàng bán lẻ; ② Nhà trọ: 客店 Nhà trọ; 住店 Ở (nhà) trọ."
+  ],
+  "jlpt": "4",
+  "frequency": "378",
+  "grade": "2"
 }

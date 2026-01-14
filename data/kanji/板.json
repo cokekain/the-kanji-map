@@ -348,5 +348,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0677f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/677f.gif",
     "uri": "https://jisho.org/search/%E6%9D%BF%23kanji"
-  }
+  },
+  "hanviet": [
+    "bản",
+    "ván"
+  ],
+  "vietnameseMeaning": [
+    "bản ① Ván, mảnh mỏng, như mộc bản 木板 tấm ván, đồng bản 銅板 lá đồng, ngày xưa gọi cái hốt là thủ bản 手板, tờ chiếu là chiếu bản 詔板 cũng do nghĩa ấy. ② Bản bản 板板 dở dáo, nhà nước hỗn loạn không có phép luật gọi là bản đãng 板蕩. ③ Ðờ đẫn, không hoạt động, như ngốc bản 呆板 ngờ nghệch chẳng biết gì, cổ bản 古板 cổ lỗ vô dụng, v.v. ④ Bản in sách, như nguyên bản 原板 bản in nguyên văn, phiên bản 翻板 bản khắc lại, xuất bản 出板 in sách ra. ⑤ Cái ván đánh phách, một thứ âm nhạc dùng để đánh dịp hát. ⑥ Cái bàn vả. ①Tấm: 鋼板 Thép tấm; ② Ván: 木板 Ván, tấm ván; ③ Bảng: 黑板 Bảng đen. Cv. 板子 hay 板兒; ④ Sênh, phách, nhịp: 離腔走板 Hát không đúng nhịp; 快板兒 Vè, hát vè; ⑤ Cứng nhắc, cứng đờ, đờ đẫn, máy móc, không hoạt động: 呆板 Cứng đờ; 古板 Cổ lỗ vô dụng; ⑥ Cố chấp, nghiêm lại: 板起面孔 Lầm lầm mặt, nghiêm sắc mặt lại; ⑦ Chủ hiệu, ông chủ: 後台老板 Trùm, quan thầy; ⑧ Bản sách in: 原板 Bản in nguyên gốc (nguyên văn); 譯板 Bản in lại, bản khắc lại; ⑨ Cái bàn vả. Như 闆"
+  ],
+  "jlpt": "2",
+  "frequency": "926",
+  "grade": "3"
 }

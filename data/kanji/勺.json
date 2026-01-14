@@ -41,5 +41,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52fa.gif",
     "uri": "https://jisho.org/search/%E5%8B%BA%23kanji"
-  }
+  },
+  "hanviet": [
+    "chước"
+  ],
+  "vietnameseMeaning": [
+    "① Múc lấy. Thường dùng chữ chước 酌. ② Cái chước, một phần trăm của một thưng gọi là chước. Mười chước là một cáp. ③ Cái môi dùng để múc canh. (văn) ① Múc lấy (dùng như 酌, bộ 酉); ② Cái thược (đồ đong lường, bằng 1/100 thưng); ③ Cái môi (để múc canh)."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

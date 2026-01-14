@@ -402,5 +402,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09001.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9001.gif",
     "uri": "https://jisho.org/search/%E9%80%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "tống"
+  ],
+  "vietnameseMeaning": [
+    "① Đưa đi. Như vận tống 運送 vận tải đi. ② Tiễn đi. Như tống khách 送客 tiễn khách ra. ③ Đưa làm quà. Như phụng tống 奉送 kính đưa tặng. ④ Vận tải đi, áp tải. ① Đưa đi, chuyển đi, chở đi: 送信 Đưa thư; 时来風送滕王閣 Thời vận đến thì gió thổi đưa đi tới gác Đằng vương; ② Tặng cho, biếu: 他送给我一枝钢笔 Anh ấy tặng cho tôi một cây bút máy; ③ Tiễn: 到车站送客 Ra ga tiễn khách."
+  ],
+  "jlpt": "3",
+  "frequency": "311",
+  "grade": "3"
 }

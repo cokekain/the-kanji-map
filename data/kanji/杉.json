@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06749.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6749.gif",
     "uri": "https://jisho.org/search/%E6%9D%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "sam"
+  ],
+  "vietnameseMeaning": [
+    "① Cây sam, là một thứ gỗ thông dùng rất nhiều việc. Cây sam, cây linh sam Trung Quốc."
+  ],
+  "jlpt": "1",
+  "frequency": "1095",
+  "grade": "8"
 }

@@ -51,5 +51,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06daf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6daf.gif",
     "uri": "https://jisho.org/search/%E6%B6%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhai",
+    "rượi"
+  ],
+  "vietnameseMeaning": [
+    "① Bờ bến, cái gì vô cùng vô tận gọi là vô nhai 無涯. Bờ, bờ bến, chân trời: 天涯海角 Chân trời góc biển; 一望無涯 Không bờ bến; 人慾無涯 Lòng tham muốn của con người là không có bờ bến; 人之生者有涯，而知者無涯，以有涯隨無涯，殆矣 Đời sống của con người là có bờ bến, mà cái biết thì không có bờ bến, lấy cái có bờ bến để theo đuổi cái không bờ bến, là nguy lắm vậy (Lão tử)."
+  ],
+  "jlpt": "1",
+  "frequency": "1525",
+  "grade": "8"
 }

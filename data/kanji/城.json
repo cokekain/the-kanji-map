@@ -342,5 +342,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057ce.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57ce.gif",
     "uri": "https://jisho.org/search/%E5%9F%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "thành"
+  ],
+  "vietnameseMeaning": [
+    "① Cái thành, ở trong gọi là thành 城 ở ngoài gọi là quách 郭. ② Ðắp thành. ① Thành: 升龍城 Thành Thăng Long; 城墻 Tường thành; ② (văn) Đắp thành: 土國城曹 Đắp đất trong nước, xây thành ở ấp Tào (Thi Kinh, Thiệu Nam); ③ Thành phố: 内城 Trong thành phố; 西城區 Khu Tây thành; ④ Đô thị, thành thị: 城鄉 Thành thị và nông thôn. (hoá) Chất kiềm."
+  ],
+  "jlpt": "2",
+  "frequency": "795",
+  "grade": "6"
 }

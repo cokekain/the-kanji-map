@@ -426,5 +426,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a5f.gif",
     "uri": "https://jisho.org/search/%E6%A9%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "cơ"
+  ],
+  "vietnameseMeaning": [
+    "cơ, ki ① Cái nẫy, cái máy, phàm cái gì do đấy mà phát động ra đều gọi là ki, như ki quan 機關, sự ki 事機, v.v. ② Ki trữ 機杼 cái máy dệt, cái khung cửi. ③ Khéo léo biến trá, như ki tâm 機心 cái lòng biến trá khéo léo, ki biến 機變 tài biến trá, v.v. ④ Then chốt, cốt yếu, như quân ki 軍機 nơi then chốt về việc quân. ⑤ Cơ hội, như đầu ki 投機 biết đón trước cơ hội, thừa ki 乘機 thừa cơ hội tốt. ⑥ Cơ khí (máy móc), như thuỷ ki 水機 máy nước, phát điện ki 發電機 máy phát điện, v.v. ⑦ Chân tính. ⑧ Máy móc, cơ khí, gọi tắt là ki. Ta quen đọc là cơ. ① Máy: 縫紉機 Máy khâu; 打字機 Máy đánh chữ; ② Máy bay: 運輸機 Máy bay vận tải; 客機 Máy bay hành khách; ③ Khả năng, cách...: 有了生機 Có cách sống; 轉機 Khả năng chuyển biến; ④ Dịp, cơ hội: 良機 Dịp tốt; 乘機 Lợi dụng cơ hội, thừa cơ; ⑤ Điểm cốt yếu, điểm then chốt; ⑥ Nhanh nhẹn, cơ trí: 機靈 Nhanh trí; ⑦ Linh động: 機變 Sự biến đổi, tùy cơ ứng biến."
+  ],
+  "jlpt": "2",
+  "frequency": "127",
+  "grade": "4"
 }

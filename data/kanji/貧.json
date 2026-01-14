@@ -372,5 +372,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ca7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ca7.gif",
     "uri": "https://jisho.org/search/%E8%B2%A7%23kanji"
-  }
+  },
+  "hanviet": [
+    "bần"
+  ],
+  "vietnameseMeaning": [
+    "① Nghèo, như bần sĩ 貧士 học trò nghèo. ② Thiếu, như bần huyết bệnh 貧血病 bệnh thiếu máu. ③ Lời nói nhún mình, như bần tăng 貧僧 kẻ tu hành hèn dốt này. ① Nghèo, bần, thiếu, túng: 貧戶 Nhà nghèo; 貧富 不均 Bần phú bất quân; 貧血 Thiếu máu; ② Lắm điều, lắm mồm, lắm lời: 他的嘴太貧了 Anh ấy lắm mồm quá."
+  ],
+  "jlpt": "2",
+  "frequency": "1211",
+  "grade": "5"
 }

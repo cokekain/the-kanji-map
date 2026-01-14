@@ -394,5 +394,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b97.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b97.gif",
     "uri": "https://jisho.org/search/%E7%AE%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "toán"
+  ],
+  "vietnameseMeaning": [
+    "① Số vật, như vô toán 無算 rất nhiều không tính xiết. ② Tính, tính số xem nhiều ít gọi là toán. Phép tính gọi là toán thuật 算術 hay toán học 算學. ③ Mưu toan, như toán kế 算計 toan tính. ① Tính: 算帳 Tính tiền, tính sổ; ② Thôi: 算了 Thôi, thôi vậy; ③ Đoán, định: 失算 Đoán sai mất; 我算着他今天該來 Tôi đoán anh ấy hôm nay sẽ đến; ④ Coi, tính, thừa nhận: 這個算我的 Cái đó coi như của tôi; 不能說了不算 Không thể nói rồi mà lại không thừa nhận."
+  ],
+  "jlpt": "2",
+  "frequency": "361",
+  "grade": "2"
 }

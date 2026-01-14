@@ -484,5 +484,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06570.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6570.gif",
     "uri": "https://jisho.org/search/%E6%95%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "số"
+  ],
+  "vietnameseMeaning": [
+    "sổ, số, sác Như 數"
+  ],
+  "jlpt": "2",
+  "frequency": "148",
+  "grade": "2"
 }

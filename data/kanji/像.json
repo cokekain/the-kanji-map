@@ -357,5 +357,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50cf.gif",
     "uri": "https://jisho.org/search/%E5%83%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "tượng"
+  ],
+  "vietnameseMeaning": [
+    "① Hình tượng, như tố tượng 塑像 tô tượng. ② Giống, như sau khi Phật tịch, chỉ còn thờ tượng giống như lúc còn, gọi là đời tượng pháp 像法. ① Tượng, tranh: 佛像 Tượng phật; 塑像 Tượng nặn; 繡像 Tranh thêu; ② Giống, giống như, trông như: 這小女孩很像她的媽媽 Khuôn mặt con bé này trông rất giống mẹ nó; ③ Như, y như, ví như: 像這樣的英雄人物將永遠活在人民的心中 Những con người anh hùng như vậy sẽ sống mãi trong lòng nhân dân."
+  ],
+  "jlpt": "2",
+  "frequency": "856",
+  "grade": "5"
 }

@@ -261,5 +261,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f81.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f81.gif",
     "uri": "https://jisho.org/search/%E5%BE%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "chinh"
+  ],
+  "vietnameseMeaning": [
+    "① Ði. ② Kẻ trên đem binh đánh kẻ dưới có tội gọi là chinh. ③ Lấy thuế. Như chinh phú 征賦 lấy thuế. ① Đi xa: 征帆 Thuyền đi xa; ② Đánh dẹp, chinh: 出征 Xuất chinh, đi đánh trận; 南征北戰 Đánh nam dẹp bắc; ③ Thu, trưng thu, đánh (thuế): 征糧 Trưng thu lương thực; 征稅（征賦） Đánh thuế, thu thuế. Xem 徵 , . Như 徵"
+  ],
+  "jlpt": "1",
+  "frequency": "1578",
+  "grade": "8"
 }

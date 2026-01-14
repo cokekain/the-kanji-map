@@ -411,5 +411,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089b3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89b3.gif",
     "uri": "https://jisho.org/search/%E8%A6%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "quan"
+  ],
+  "jlpt": "2",
+  "frequency": "476",
+  "grade": "4"
 }

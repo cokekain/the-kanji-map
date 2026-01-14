@@ -53,5 +53,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f3e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f3e.gif",
     "uri": "https://jisho.org/search/%E8%BC%BE%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Quay nghiêng, quay nửa vành. Kinh Thi 詩經 có câu: Triển chuyển phản trắc 輾轉反側 trằn trọc trở mình. Vì thế nên sự gì phản phúc bất định cũng gọi là triển chuyển. ② Một âm là niễn. Nghiến nhỏ, dùng vòng sắt quay cho nhỏ các vật gì ra gọi là niễn. Có khi viết là niễn 碾. Nghiến nhỏ (như 碾, bộ 石). Quay nghiêng, quay nửa vòng. 【輾轉】 triển chuyển ① Trằn trọc: 輾轉不能入睡 Trằn trọc mãi không ngủ được; 輾轉反側 Trằn trọc trở mình (Thi Kinh); ② Quanh co, không dễ dàng: 他從法國輾轉到河内 Anh ấy từ nước Pháp qua nhiều nơi mới đến được Hà Nội. Cv. 展轉."
+  ],
+  "hanviet": [
+    "triển",
+    "niễn"
+  ]
 }

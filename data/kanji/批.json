@@ -270,5 +270,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06279.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6279.gif",
     "uri": "https://jisho.org/search/%E6%89%B9%23kanji"
-  }
+  },
+  "hanviet": [
+    "phê"
+  ],
+  "vietnameseMeaning": [
+    "① Vả, lấy tay đánh vào mặt người gọi là phê. ② Phân xử, phán quyết phải trái cho biết gọi là phê. Như phê bình 批評 ý đoán thế nào là phải là trái rồi ghi lời bàn vào đấy, phê bác 批駁 phê chữ để bác lời của kẻ cầu gì hay chê văn chương chỗ nào hỏng, v.v. ③ Có một việc công gì khởi lên cũng gọi là nhất phê 一批. Số vật nhiều mà chia ra từng món để đưa dần đi cũng gọi là phê. Như đệ nhất phê 第一批 món thứ nhất, đệ nhị phê 第一批 món thứ hai, v.v. Vì thế nên bán đồ mà chia từng lô một gọi là phê phát 批發. ④ Vót, chẻ ra từng mảnh mỏng cũng gọi là phê. ① (cũ) Vả, tát: 批其頰 Tát (vả) vào mặt nó; ② Phê, chấm: 在卷上批了幾句 Phê mấy lời vào bài; 在作業本上批分 Chấm điểm bài vở; 報告已經批下來了 Báo cáo đã được phê chuẩn rồi; 自我批評 Tự phê (bình); ③ Phê phán: 批保守思想 Phê phán tư tưởng bảo thủ; ④ Tốp, loạt: 成批生產 Sản xuất hàng loạt; 一批人 Một tốp người; 一批批工人 Hàng loạt công nhân; ⑤ (văn) Vót, chẻ (ra từng mảnh)."
+  ],
+  "jlpt": "2",
+  "frequency": "568",
+  "grade": "6"
 }

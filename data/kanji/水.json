@@ -377,5 +377,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c34.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c34.gif",
     "uri": "https://jisho.org/search/%E6%B0%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "thủy",
+    "thuỷ"
+  ],
+  "vietnameseMeaning": [
+    "① Nước. ② Sông, ngòi, khe, suối, phàm cái gì bởi nước mà thành ra đều gọi là thuỷ. ③ Sao Thuỷ, một ngôi sao ở gần mặt trời nhất. ③ Bạc đúc có thứ tốt thứ kém, gia giảm cho nó đều gọi là thân thuỷ 申水, thiếp thuỷ 貼水, v.v. ① Nước: 雨水 Nước mưa; 藥水 Thuốc nước; 魚之有水 Cá gặp nước; ② Sông, hồ, biển: 漢水 Sông Hán Thuỷ; 湘水 Sông Tương; 水陸 Đường bộ và đường thuỷ; ③ Trình độ, mức: 文化水平 Trình độ văn hoá; 生活水平 Mức sống; ④ Tên chức quan thời xưa; ⑤ Tên một dân tộc ít người của Trung Quốc (ở tỉnh Quý Châu): 水族 Dân tộc Thuỷ; ⑥ Sao Thuỷ; ⑦ (Họ) Thuỷ."
+  ],
+  "jlpt": "4",
+  "frequency": "223",
+  "grade": "1"
 }

@@ -430,5 +430,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56db.gif",
     "uri": "https://jisho.org/search/%E5%9B%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "tứ"
+  ],
+  "vietnameseMeaning": [
+    "① Bốn (tên số đếm). ① Bốn: 四個人 Bốn người; ② Thứ tư: 第四年 Năm thứ tư; ③ Một nốt nhạc thời cổ Trung Quốc; ④ (Họ) Tứ."
+  ],
+  "jlpt": "4",
+  "frequency": "47",
+  "grade": "1"
 }

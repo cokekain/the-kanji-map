@@ -218,5 +218,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05197.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5197.gif",
     "uri": "https://jisho.org/search/%E5%86%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhũng"
+  ],
+  "vietnameseMeaning": [
+    "① Cũng như chữ nhũng 宂. ① Tản mạn, thừa, nhiều: 冗詞贅句 Câu văn rườm rà; 冗文 Văn rườm; 冗員 Viên chức dư thừa (ăn không ngồi rồi); 冗費 Phí nhảm vô ích; ② Bận rộn rối rít, phiền nhiễu: 希撥冗參加 Mong gác bỏ mọi việc bận rộn để đến dự; ③ (văn) Hèn kém; ④ Dân không có chỗ ở yên."
+  ],
+  "jlpt": "1",
+  "frequency": "1782",
+  "grade": "8"
 }

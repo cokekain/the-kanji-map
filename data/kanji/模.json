@@ -321,5 +321,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a21.gif",
     "uri": "https://jisho.org/search/%E6%A8%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "mô"
+  ],
+  "vietnameseMeaning": [
+    "mô ① Khuôn mẫu, như mô phạm 模範, mô dạng 模樣, v.v. ② Mô hồ 模糊 lờ mờ. Tục viết là 糢糊. ① Mô, khuôn mẫu: 模型 Mô hình; 楷模 Gương mẫu, mẫu mực; ② Mô phỏng: 模仿 Bắt chước, phỏng theo; ③ Gương mẫu (anh hùng): 勞模 Anh hùng lao động, lao động gương mẫu; ④ 【模糊】mô hồ a. Mờ, lờ mờ, mập mờ, mê man, mơ hồ, tối nghĩa: 字跡模糊 Nét chữ mờ (mờ); 神志模糊 Mê man; 認識模糊 Biết mập mờ, hiểu biết lơ mơ; b. Lẫn lộn. Cv. 模胡. Xem 模 . Khuôn: 鉛模 Khuôn chì; 銅模兒 Khuôn đồng. Xem 模 ."
+  ],
+  "jlpt": "1",
+  "frequency": "668",
+  "grade": "6"
 }

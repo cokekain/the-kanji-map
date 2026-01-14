@@ -74,5 +74,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0659c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/659c.gif",
     "uri": "https://jisho.org/search/%E6%96%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "tà"
+  ],
+  "vietnameseMeaning": [
+    "① Vẹo. ② Hình đất chéo lệch cũng gọi là tà. ③ Một âm là gia. Tên một cái hang ở Thiểm tây. Nghiêng, lệch, chéo, xiên, dốc, chếch: 斜着剪裁 Cắt chéo; 電線柱有點斜 Cột điện hơi chếch sang một bên; 這幅墻已傾斜，快要倒塌 Bức tường này nghiêng lệch sắp đổ."
+  ],
+  "jlpt": "1",
+  "frequency": "1504",
+  "grade": "8"
 }

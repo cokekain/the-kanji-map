@@ -322,5 +322,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e45.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e45.gif",
     "uri": "https://jisho.org/search/%E5%B9%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "phúc",
+    "bức"
+  ],
+  "vietnameseMeaning": [
+    "① Bức, một tiếng dùng để đo vải lụa. Như kỉ phúc 幾幅 mấy bức? ② Sửa sang, như tu sức biên phúc 修飾邊幅 sửa sang diêm dúa như tấm lụa phải chải chuốt hai bên mép. ③ Một âm là bức. Lấy lụa quần chéo từ chân đến gối như sa-cạp vậy. Ta quen đọc là chữ bức cả. ① Khổ (vải vóc): 單幅 Khổ đơn; 雙幅 Khổ kép; 寬幅 Khổ rộng; ② Mức độ, diện tích, đất đai. 【幅員】bức viên Diện tích, lãnh thổ: 幅員廣大 Đất đai rộng lớn; ③ (loại) Bức: 幾幅？ Mấy bức?; 一幅畫 Một bức tranh; 一幅壽幛 Một bức trướng mừng thọ; ④ Vải quấn đùi, xà cạp."
+  ],
+  "jlpt": "2",
+  "frequency": "641",
+  "grade": "8"
 }

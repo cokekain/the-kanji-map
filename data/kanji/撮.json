@@ -68,5 +68,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ae.gif",
     "uri": "https://jisho.org/search/%E6%92%AE%23kanji"
-  }
+  },
+  "hanviet": [
+    "toát"
+  ],
+  "vietnameseMeaning": [
+    "① Dúm, phép đong ngày xưa cứ đếm 256 hạt thóc gọi là một toát. ② Dúm lấy, rút lại, như toát yếu 撮要 rút lấy các cái cốt yếu. ③ Tụ họp. ① (văn) Chụm lại, túm lại, chắp lại.【撮合】toát hợp Xe duyên, xe tơ, chắp nối; ② Vun, xúc, đánh đống lại: 撮成一堆 Vun thành một đống; 撮了一簸箕土 Xúc một ki đất; ③ (đph) Bốc: 撮藥 Bốc thuốc; ④ Tóm tắt, tóm lấy, rút lại, toát (yếu). 【撮要】toát yếu Tóm tắt, trích yếu, toát yếu; ⑤ Toát (= 1/1000 thăng Trung Quốc); ⑥ (loại) Dúm, nhúm: 一撮鹽 Một dúm muối; 一小撮人 Một nhúm người. Xem 撮 . Dúm, chòm: 一撮兒黑毛 Một chòm lông đen. Xem 撮 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1023",
+  "grade": "8"
 }

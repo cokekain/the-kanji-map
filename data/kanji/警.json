@@ -385,5 +385,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b66.gif",
     "uri": "https://jisho.org/search/%E8%AD%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "cảnh",
+    "khểnh"
+  ],
+  "vietnameseMeaning": [
+    "① Răn bảo, lấy lời nói ghê gớm khiến cho người phải chú ý nghe gọi là cảnh. Như cảnh chúng 警眾 răn bảo mọi người. Vì thế nên báo cáo những tin nguy biến ngoài biên thùy gọi là cảnh. ② Phòng bị trước. Ngày xưa vua đi ra đều cấm không cho ai đi lại để phòng sự phi thường gọi là cảnh tất 警蹕. Nay các nơi đặt tuần phu hay đội xếp để phòng bị sự xảy ra cũng gọi là cảnh cả. Như tuần cảnh 巡警, cảnh sát 警察, v.v. ③ Đánh thức. ④ Nhanh nhẹn. ⑤ Kinh hãi. ① Răn bảo, cảnh cáo: 警戒 Cảnh giới; ② Báo động: 拉起警報 Kéo còi báo động; 火警 Báo động cháy; 他射幾槍示警 Họ bắn mấy phát súng báo động; ③ Còi báo động: 火警的警報器響了 Còi báo động cháy đã vang lên; ④ Nhanh nhẹn: 他很機警 Anh ấy rất nhanh nhạy; ⑤ Cảnh sát, công an: 民警 Cảnh sát dân sự; 交通警 Công an giao thông."
+  ],
+  "jlpt": "2",
+  "frequency": "366",
+  "grade": "6"
 }

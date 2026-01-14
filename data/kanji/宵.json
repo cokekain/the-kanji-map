@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bb5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bb5.gif",
     "uri": "https://jisho.org/search/%E5%AE%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiêu"
+  ],
+  "vietnameseMeaning": [
+    "① Ðêm, như trung tiêu 中宵 nửa đêm. ② Nhỏ bé, kẻ tiểu nhân gọi là tiêu nhân 宵人. ① Đêm: 中宵 Nửa đêm; 通宵 Suốt đêm, thâu đêm; 元宵 Nguyên tiêu (đêm rằm tháng giêng); ② (văn) Nhỏ bé: 宵人 Kẻ tiểu nhân."
+  ],
+  "jlpt": "1",
+  "frequency": "2262",
+  "grade": "8"
 }

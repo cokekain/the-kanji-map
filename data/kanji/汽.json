@@ -226,5 +226,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c7d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c7d.gif",
     "uri": "https://jisho.org/search/%E6%B1%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "khí"
+  ],
+  "vietnameseMeaning": [
+    "① Hơi nước, nước sôi bốc hơi lên gọi là khí, như khí ki 汽機 máy hơi, khí thuyền 汽船 tàu thuỷ, khí xa 汽車 xe hoả, v.v. ① Hơi nước: 汽機 Máy tuabin, máy hơi nước; ② Thể hơi: 汽化 Biến thành hơi, bốc thành hơi."
+  ],
+  "jlpt": "1",
+  "frequency": "2020",
+  "grade": "2"
 }

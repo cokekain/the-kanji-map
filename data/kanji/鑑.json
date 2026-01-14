@@ -78,5 +78,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09451.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9451.gif",
     "uri": "https://jisho.org/search/%E9%91%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "giám"
+  ],
+  "vietnameseMeaning": [
+    "① Cái gương soi. Ngày xưa dùng đồng làm gương soi gọi là giám. Ðem các việc hỏng trước chép vào sách để làm gương soi cũng gọi là giám. Như ông Tư Mã Quang 司馬光 làm bộ Tư trị thông giám 資治通鑑 nghĩa là pho sử để soi vào đấy mà giúp thêm các cách trị dân. ① Gương soi: 水平如鑑 Phẳng lì như mặt gương; ② Bài học, tấm gương, răn: 引以爲鑑 Lấy đó làm gương, đưa ra để răn; 資治通鑑 Sách \"Tư trị thông giám\" (của Tư Mã Quang, nghĩa là \"tấm gương chung để giúp cho việc trị nước\"); ③ Soi: 水清可鑑 Nước trong có thể soi bóng mình được; ④ Xem xét: 鑑別 Xem xét và phân biệt, phân biệt."
+  ],
+  "jlpt": "1",
+  "frequency": "1391",
+  "grade": "8"
 }

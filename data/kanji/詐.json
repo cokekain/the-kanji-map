@@ -60,5 +60,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a50.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a50.gif",
     "uri": "https://jisho.org/search/%E8%A9%90%23kanji"
-  }
+  },
+  "hanviet": [
+    "trá"
+  ],
+  "vietnameseMeaning": [
+    "① Giả dối. ② Tục gọi kẻ tạ cớ gì lấy của cải của người là trá (lừa). ① Giả vờ, trá: 詐死 Giả chết; 詐病 Vờ ốm; 詐降 Trá hàng; ② Lòe, lừa, bịp: 你別詐我 Anh đừng lòe (bịp) tôi."
+  ],
+  "jlpt": "1",
+  "frequency": "1511",
+  "grade": "8"
 }

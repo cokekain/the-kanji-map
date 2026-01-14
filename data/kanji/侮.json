@@ -269,5 +269,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fae.gif",
     "uri": "https://jisho.org/search/%E4%BE%AE%23kanji"
-  }
+  },
+  "hanviet": [
+    "vụ",
+    "vũ"
+  ],
+  "vietnameseMeaning": [
+    "① Khinh nhờn, như khi vũ 欺侮 lừa gạt hà hiếp. ② Kẻ lấn áp, như ngự vũ 禦侮 chống kẻ đến lấn áp mình. ① Khinh nhờn, khinh miệt, hà hiếp, lấn áp, doạ nạt: 夫人必自侮, 然後人侮之 Người ta tất tự khinh mình, rồi sau người khác mới khinh mình được (Mạnh tử); 不可侮 Không doạ nạt được; ② (văn) Kẻ lấn áp: 禦侮 Chống kẻ lấn áp mình."
+  ],
+  "jlpt": "1",
+  "frequency": "2004",
+  "grade": "8"
 }

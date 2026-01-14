@@ -62,5 +62,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62cd.gif",
     "uri": "https://jisho.org/search/%E6%8B%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "phách",
+    "phếch"
+  ],
+  "vietnameseMeaning": [
+    "① Vả, tát, vỗ. ② Dịp, cung bực (phím), mỗi một cung đàn gọi là một phách. ③ Cái phách, dùng để đánh nhịp mà hát. ④ Một thứ đồ để giữ thành. ① Vỗ, vả, tát, phủi: 拍胸膛 Vỗ ngực; 拍掉身上的土 Phủi bụi trên mình; 波浪拍擊著河岸 Sóng vỗ vào bờ sông; ② Nhịp (dịp), phách, cung bậc: 這支歌每節四拍 Bài hát này nhịp bốn; 打拍子 Đánh nhịp, giữ nhịp; ③ Cái phách (để đánh nhịp); ④ (cũ) Một thứ đồ để giữ thành; ⑤ Chụp: 拍了一張半身相 Chụp một tấm ảnh nửa người; 慢拍 Chụp chậm; ⑥ Đánh: 拍電報 Đánh điện tín; ⑦ (khn) Nịnh hót, bợ đỡ: 能吹會拍 Tâng bốc nịnh hót (nọt)."
+  ],
+  "jlpt": "1",
+  "frequency": "1373",
+  "grade": "8"
 }

@@ -79,5 +79,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c96.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c96.gif",
     "uri": "https://jisho.org/search/%E6%B2%96%23kanji"
-  }
+  },
+  "hanviet": [
+    "trùng",
+    "xung",
+    "trong"
+  ],
+  "vietnameseMeaning": [
+    "① Rỗng không, trong lòng lặng lẽ rỗng không, không cạnh tranh gì gọi là trùng, như khiêm trùng 謙沖 nhún nhường, lặng lẽ. ② Vui hoà, sâu xa. ③ Bay vọt lên, như nhất phi trùng thiên 一飛沖天 (Sử kí 史記) bay một cái vọt lên trời. ④ Nhỏ bé, vua còn nhỏ tự xưng là trùng nhân 沖人. ⑤ Xung đột. Tục mượn dùng như chữ xung 衝, phàm cái gì đã kị nhau mà lại gặp nhau gọi là xung, như tí ngọ tương xung 子午相沖. ⑥ Cho nước vào quấy đều cũng gọi là xung. Ta quen đọc là chữ xung cả. Như 冲 (bộ 冫). Như 衝 ① Pha: 冲茶 Pha chế; ② Xối, giội, trút: 冲水 Dội nước; ③ Xông lên, vọt lên: 火光冲天 Ánh lửa rực trời; 一飛冲天 Bay vọt một cái lên đến tận trời; ④ Xông tới (như 衝, bộ 行): 冲進着火的房子 Xông vào gian nhà bị cháy; 橫冲直撞 Xông xáo bừa bãi; ⑤ Đầu mối, nơi quan trọng: 交通要冲 Đầu mối giao thông; ⑥ Xung, xung khắc: 子午相冲 Tí Ngọ xung nhau. Xem 衝，冲 ."
+  ],
+  "jlpt": "1",
+  "frequency": "929",
+  "grade": "8"
 }

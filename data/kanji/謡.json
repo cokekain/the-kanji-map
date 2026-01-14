@@ -77,5 +77,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b21.gif",
     "uri": "https://jisho.org/search/%E8%AC%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "dao"
+  ],
+  "vietnameseMeaning": [
+    "(17n) ① Câu vè, bài hát có chương có khúc gọi là ca 歌, không có chương có khúc gọi là dao 謡. Như phong dao, ca dao, v.v. ② Lời bịa đặt, như dao ngôn 謡言 lời nói bịa đặt."
+  ],
+  "jlpt": "1",
+  "frequency": "1580",
+  "grade": "8"
 }

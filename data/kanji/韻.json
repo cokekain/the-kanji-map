@@ -53,5 +53,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97fb.gif",
     "uri": "https://jisho.org/search/%E9%9F%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "vận",
+    "vần"
+  ],
+  "vietnameseMeaning": [
+    "① Vần, tiếng gì đọc lên mà có vần với tiếng khác đều gọi là vận. Như công 公 với không 空 là có vần với nhau, cương 鋼 với khang 康 là có vần với nhau. Đem các chữ nó có vần với nhau chia ra từng mục gọi là vận thư 韻書 sách vần. Cuối câu thơ hay câu ca thường dùng những chữ cùng vần với nhau, luật làm thơ thì cách một câu mới dùng một vần, cho nên hai câu thơ gọi là nhất vận 一韻 (một vần). Lối thơ cổ có khi mỗi câu một vần, có khi chỉ đặt luôn hai ba vần rồi đổi sang vần khác gọi là chuyển vận 轉韻 (chuyển vần khác). ② Phong nhã. Người có cốt cách phong nhã gọi là vận nhân 韻人. Sự gì do phúc lành mới được gọi là vận sự 韻事. ① Vần, (các) nguyên âm: 詩韻 Vần thơ; 韻書 Sách vần, vận thư; 一韻 Một vần; 轉韻 Chuyển vần khác; ② Âm thanh êm dịu: 琴韻悠揚 Tiếng đàn du dương; ③ Thú vị, ý nhị, phong nhã, phong vận: 韻人 Người có cốt cách phong nhã, người có phong vận; 韻事 Việc phong nhã; ④ (Họ) Vận."
+  ],
+  "jlpt": "1",
+  "frequency": "2148",
+  "grade": "8"
 }

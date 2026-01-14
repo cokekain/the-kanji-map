@@ -351,5 +351,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a1.gif",
     "uri": "https://jisho.org/search/%E6%8E%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "thái",
+    "thải"
+  ],
+  "vietnameseMeaning": [
+    "① Hái, như thải liên 採蓮 hái sen, thải cúc 採菊 hái cúc, v.v. ② Chọn nhặt, như thải tuyển 採選 chọn lấy, nguyên viết là chữ thải 采. Ta quen đọc là chữ thái. ① Hái, bẻ, trảy, ngắt: 採茶 Hái chè; 採花 Bẻ hoa; ② Chọn nhặt, thu nhặt, tiếp thu (dùng như 採, bộ 釆): 採納 Tiếp thu; ③ Lôi kéo; ④ Vẫy tay ra hiệu."
+  ],
+  "jlpt": "2",
+  "frequency": "607",
+  "grade": "5"
 }

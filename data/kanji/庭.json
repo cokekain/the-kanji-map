@@ -353,5 +353,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ead.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ead.gif",
     "uri": "https://jisho.org/search/%E5%BA%AD%23kanji"
-  }
+  },
+  "hanviet": [
+    "đình"
+  ],
+  "vietnameseMeaning": [
+    "① Sân trước. ② Chỗ quan làm việc gọi là phủ đình 府庭. ③ Thẳng tuột. ④ Một âm là thính. Kính thính 逕庭 xa lắc. Tục gọi nhũng sự khác nhau là đại tương kính thính 大相逕庭. ① Sân: 前庭 Sân trước; ② Nhà: 庭前 Trước cửa nhà; ③ Toà án: 民庭 Toà án dân sự; 開庭 Mở phiên toà; ④ (văn) Triều đình, cung đình (dùng như 廷, bộ 廴); ⑤ (văn) Thẳng tuột."
+  ],
+  "jlpt": "2",
+  "frequency": "816",
+  "grade": "3"
 }

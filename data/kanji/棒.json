@@ -325,5 +325,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68d2.gif",
     "uri": "https://jisho.org/search/%E6%A3%92%23kanji"
-  }
+  },
+  "hanviet": [
+    "bổng",
+    "vổng"
+  ],
+  "vietnameseMeaning": [
+    "① Cái gậy. ② Ðánh gậy. ① Gậy: 木棒 Gậy gỗ; 棍棒 Gậy gộc; ② (văn) Đánh gậy; ③ (khn) Khỏe, tài, giỏi, hay, tốt, đẹp, cừ: 這小伙子身體眞棒 Cậu thanh niên này khỏe thật; 畫得棒 Vẽ rất tài; 字寫得棒 Chữ viết đẹp; 唱得眞棒 Hát rất hay; 他足球踢得眞棒 Anh ta đá bóng rất cừ; ④ (đph) Cứng, rắn, dai: 棒硬 Cứng nhắc, rắn đanh; 肉沒煮爛，還棒着哪！ Thịt nấu chưa nhừ, còn dai quá!"
+  ],
+  "jlpt": "2",
+  "frequency": "1455",
+  "grade": "6"
 }

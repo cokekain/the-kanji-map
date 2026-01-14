@@ -272,5 +272,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e4f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e4f.gif",
     "uri": "https://jisho.org/search/%E4%B9%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "phạp"
+  ],
+  "vietnameseMeaning": [
+    "① Thiếu, không có đủ. ② Mỏi mệt, chủ từ khách không tiếp gọi là đạo phạp 道乏 mệt lắm xin thứ cho. ① Không có, thiếu: 不 乏其人 Thiếu gì hạng người đó; ② Mệt nhọc: 人困馬乏 Người và ngựa đều mệt nhoài; 因其勞乏而乘之 Thừa lúc ông ta mỏi mệt mà truy đuổi theo (Tân Ngũ đại sử); 道乏 Mệt lắm xin thứ cho; ③ Yếu đuối, vu vơ: 乏人 Con người yếu đuối; 乏話 Lời nói vu vơ; 貼乏了的膏藥 Thuốc cao đã nhã rồi; ④ (văn) Xao lãng: 光不敢以乏國事 Quang không dám vì thế mà xao lãng việc nước (Chiến quốc sách)."
+  ],
+  "jlpt": "1",
+  "frequency": "1646",
+  "grade": "8"
 }

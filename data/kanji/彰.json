@@ -51,5 +51,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f70.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f70.gif",
     "uri": "https://jisho.org/search/%E5%BD%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "chương"
+  ],
+  "vietnameseMeaning": [
+    "① Rực rỡ, lấy văn chương thêu dệt cho rực rỡ thêm gọi là chương. ② Rõ rệt. ① Rõ rệt, rực rỡ: 昭彰 Rõ ràng; ② Lộ, hở: 慾蓋彌彰 Càng giấu càng hở, che càng thêm lộ; ③ (Họ) Chương."
+  ],
+  "jlpt": "1",
+  "frequency": "1310",
+  "grade": "8"
 }

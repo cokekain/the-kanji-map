@@ -430,5 +430,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0591c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/591c.gif",
     "uri": "https://jisho.org/search/%E5%A4%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "dạ"
+  ],
+  "vietnameseMeaning": [
+    "① Ban đêm. ② Ði đêm. ① Đêm, ban đêm, đêm hôm, buổi tối, tối: 晝夜不停 Ngày đêm không ngừng; 今夜 Tối nay, đêm nay; 白天黑夜 Ngày và đêm; 夜行 Đi đêm; ② (văn) Đi đêm; ③ (văn) Chất lỏng (dùng như 液, bộ 氵)."
+  ],
+  "jlpt": "3",
+  "frequency": "487",
+  "grade": "2"
 }

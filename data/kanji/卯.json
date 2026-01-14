@@ -65,5 +65,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0536f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/536f.gif",
     "uri": "https://jisho.org/search/%E5%8D%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "mão",
+    "mẹo"
+  ],
+  "vietnameseMeaning": [
+    "① Chi mão. Chi thứ tư trong 12 chi. Từ năm giờ sáng đến bảy giờ sáng là giờ mão. ② Lệ các quan làm việc từ gìờ mão, cho nên điểm tên gọi là điểm mão 點卯, xưng đến tên dạ lên gọi là ứng mão 應卯, sổ sách gọi là mão bạ 卯簿. Lập ra kì hẹn để thu tiền lương và so sánh nhiều ít gọi là tỉ mão 比卯. ① Chi thứ tư trong 12 chi; ② Lỗ mộng; ③ (Họ) Mão."
+  ],
+  "jlpt": "1",
+  "frequency": "2400",
+  "grade": "9"
 }

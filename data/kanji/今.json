@@ -442,5 +442,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eca.gif",
     "uri": "https://jisho.org/search/%E4%BB%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "kim"
+  ],
+  "vietnameseMeaning": [
+    "① Nay, hiện nay, bây giờ gọi là kim 今. ① Nay, hôm nay, hiện giờ, hiện tại: 當今 Ngày nay; 今世 Đời nay; 古往今來 Từ xưa đến nay, xưa nay; 今天 Hôm nay; 今晨 Sáng hôm nay; 今冬 Vụ đông năm nay; 今夜 Đêm nay; ② (văn) Đây (dùng như 此): 王曰：今是何神也？ Nhà vua hỏi: Đây là thần gì? (Quốc ngữ)."
+  ],
+  "jlpt": "4",
+  "frequency": "49",
+  "grade": "2"
 }

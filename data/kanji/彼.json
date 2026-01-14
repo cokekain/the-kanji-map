@@ -362,5 +362,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f7c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f7c.gif",
     "uri": "https://jisho.org/search/%E5%BD%BC%23kanji"
-  }
+  },
+  "hanviet": [
+    "bỉ"
+  ],
+  "vietnameseMeaning": [
+    "① Bên kia. Là tiếng trái lại với chữ thử. Như bất phân bỉ thử 不分彼此 chẳng phân biệt được đấy với đây. ② Kẻ khác, kẻ kia. ③ Lời nói coi xa không thiết gì. ① Kia, nọ, đó, đấy, cái kia, bên kia: 彼岸 Bờ bên kia; 彼時 Lúc đó, hồi đó, dạo nọ; 顧此失彼 Lo cái này mất cái kia; 由此及彼 Từ cái này tới cái kia; 彼仁義何其多憂也？ Bọn nói chuyện nhân nghĩa kia sao mà nhiều lo vậy? (Trang tử); ② Nó, kẻ kia, kẻ khác, người khác, người ấy, ông ấy: 知己知彼 Biết người biết ta; 彼，丈夫也，我，丈夫也，吾何畏彼哉？ Ông ấy là trượng phu, ta cũng là trượng phu, ta sợ gì ông ấy (Mạnh tử)."
+  ],
+  "jlpt": "2",
+  "frequency": "648",
+  "grade": "8"
 }

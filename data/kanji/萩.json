@@ -53,5 +53,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08429.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8429.gif",
     "uri": "https://jisho.org/search/%E8%90%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "tho",
+    "thưu"
+  ],
+  "vietnameseMeaning": [
+    "(văn) ① Một loài ngải; ② Như 楸 (bộ 木)."
+  ],
+  "jlpt": "1",
+  "frequency": "1544",
+  "grade": "9"
 }

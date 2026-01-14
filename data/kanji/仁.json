@@ -278,5 +278,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ec1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ec1.gif",
     "uri": "https://jisho.org/search/%E4%BB%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhân"
+  ],
+  "vietnameseMeaning": [
+    "① Nhân. Nhân là cái đạo lí làm người, phải thế mới gọi là người. Yêu người không lợi riêng mình gọi là nhân. ② Cái nhân ở trong hạt quả, như đào nhân 桃仁 nhân hạt đào. ③ Tê liệt, như chân tay tê dại không cử động được gọi là bất nhân 不仁. ① Lòng nhân từ, lòng thương yêu, đức nhân: 仁政 Nhân chính, chính sách nhân đạo; 愛人利物之謂仁 Yêu người làm lợi cho vật gọi là nhân (Trang tử); ② Hạt nhân của quả: 桃仁 Hột đào, nhân đào; ③ (Họ) Nhân."
+  ],
+  "jlpt": "1",
+  "frequency": "1332",
+  "grade": "6"
 }

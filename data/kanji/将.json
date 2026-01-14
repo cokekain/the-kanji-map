@@ -322,5 +322,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c06.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c06.gif",
     "uri": "https://jisho.org/search/%E5%B0%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "tướng",
+    "tương"
+  ],
+  "vietnameseMeaning": [
+    "tương, tướng, thương Như 將"
+  ],
+  "jlpt": "2",
+  "frequency": "634",
+  "grade": "6"
 }

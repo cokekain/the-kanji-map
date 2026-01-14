@@ -324,5 +324,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067d4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67d4.gif",
     "uri": "https://jisho.org/search/%E6%9F%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhu"
+  ],
+  "vietnameseMeaning": [
+    "① Mềm, mềm yếu, mềm mại, như nhu nhuyễn 柔軟 mềm lướt, nhu thuận 柔順 nhún thuận, v.v. ② Phục, làm cho yên, như nhu viễn nhân 柔遠人 làm cho người xa phục. ③ Cây cỏ mới mọc. ① Mềm mại: 柔枝嫩葉 Cành mềm lá non; 剛柔相推而生變化 Cứng và mềm thúc đẩy nhau mà sinh ra biến hoá (Chu Dịch); ② Dịu dàng: 性情溫柔 Tính nết dịu dàng; ③ Êm dịu, êm đềm: 柔和的聲音 Tiếng nói dịu dàng; 柔風 Gió hiu hiu; ④ (văn) Làm cho tin phục: 柔遠人 Làm cho người xa tin phục; ⑤ (văn) Cây cỏ mới mọc; ⑥ (Họ) Nhu."
+  ],
+  "jlpt": "2",
+  "frequency": "1187",
+  "grade": "8"
 }

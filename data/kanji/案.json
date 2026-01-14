@@ -418,5 +418,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06848.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6848.gif",
     "uri": "https://jisho.org/search/%E6%A1%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "án",
+    "an",
+    "yên"
+  ],
+  "vietnameseMeaning": [
+    "① Cái bàn. ② Cái mâm. ③ Khảo xét, làm sách tự phát biểu ý kiến mình ra cũng gọi là án. ④ Các bản thể lệ nhà nước định lại lệ cũ hay các bản kiện tụng đã quyết rồi đều gọi là án, như công án 公案, án bản 案本, v.v. ⑤ Cầm vững, như án kiếm 案劍 cầm vững gươm. ⑥ Lần lượt, như án đổ như cố 案堵如故 vẫn lần lượt yên như cũ, từ nghĩa thứ ba trở xuống cùng một nghĩa như chữ án 按. ① Án, cái bàn dài; ② Hồ sơ: 備案 Lập hồ sơ; 有案可查 Có hồ sơ để tra cứu; ③ Án, vụ, vụ án: 提案 Đề án, dự thảo nghị quyết; 五卅慘案 (sử) Vụ thảm sát ngày 30 tháng 5 (Trung Quốc, năm 1925); ④ (cũ) Khay; ⑤ Như 按 nghĩa ⑤."
+  ],
+  "jlpt": "2",
+  "frequency": "206",
+  "grade": "4"
 }

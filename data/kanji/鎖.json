@@ -83,5 +83,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09396.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9396.gif",
     "uri": "https://jisho.org/search/%E9%8E%96%23kanji"
-  }
+  },
+  "hanviet": [
+    "tỏa",
+    "toả"
+  ],
+  "vietnameseMeaning": [
+    "① Cái vòng. Lấy vòng móc liền nhau gọi là toả. Vì thế những vòng xúc xích đeo làm đồ trang sức gọi là liên toả 連鎖; lấy vòng móc liền nhau làm áo dày gọi là toả tử giáp 鎖子甲. ② Cái khoá. ③ Phòng kín, che lấp. Như vân phong vụ toả 雲封霧鎖 mây mù phủ kín. ④ Xiềng xích. ① Cái khóa: 開鎖 Mở khóa; ② Khóa lại, nhốt lại: 把門鎖上 Khóa cửa lại; 拿鎖上箱子 Lấy khóa khóa hòm lại; 銅雀春深鎖二³ì Một nền Đồng Tước khóa xuân hai Kiều (Đỗ Mục); ③ Phong kín, che lấp: 雲封霧鎖 Mây mù phủ kín; ④ (văn) Cái vòng; ⑤ Xiềng xích, gông cùm: 枷鎖 Xiềng xích; ⑥ Đính, thùa, viền: 鎖釦眼 Thùa khuy, đính khuy. Cg. 鎖紐門 : 鎖邊 Viền nẹp; ⑦ Nhăn nhó: 雙眉深鎖 Mặt mày nhăn nhó. Cv. 鎻， 鏁."
+  ],
+  "jlpt": "1",
+  "frequency": "1250",
+  "grade": "8"
 }

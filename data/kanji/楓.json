@@ -72,5 +72,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06953.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6953.gif",
     "uri": "https://jisho.org/search/%E6%A5%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "phong"
+  ],
+  "vietnameseMeaning": [
+    "① Cây phong, lá nó đến mùa thu thì đỏ đẹp, mùa xuân thì nở hoa xúm xít như quả bóng tròn. Ðời nhà Hán, hay giồng cây phong ở trong cung, vì thế đời sau gọi nơi cung cấm là phong thần 楓辰 hay phong bệ 楓陛 là vì lẽ đó. (thực) Cây phong: 江楓漁火 Đèn chài và cây phong bên bờ sông."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

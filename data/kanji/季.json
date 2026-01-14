@@ -306,5 +306,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b63.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b63.gif",
     "uri": "https://jisho.org/search/%E5%AD%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "quý",
+    "quí"
+  ],
+  "vietnameseMeaning": [
+    "① Nhỏ, em bé gọi là quý đệ 季弟. ② Cuối, tháng cuối mùa gọi là quý. Như tháng ba gọi là tháng quý xuân 季春. Ðời cuối cùng cũng gọi là quý thế 季世. ③ Mùa, ba tháng là một quý, nên bốn mùa cũng gọi là tứ quý 四季. ① Mùa: 四季 Bốn mùa; 雨季 Mùa mưa; ② Thời kì, vụ: 旺季 Thời kì bán chạy; ③ Quý (ba tháng): 第三季度 Quý ba; ④ Cuối, út: 秋季 Cuối thu; 季弟 Em (trai) út; ⑤ (Họ) Quý."
+  ],
+  "jlpt": "2",
+  "frequency": "842",
+  "grade": "4"
 }

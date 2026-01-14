@@ -407,5 +407,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ed5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ed5.gif",
     "uri": "https://jisho.org/search/%E4%BB%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "sĩ"
+  ],
+  "vietnameseMeaning": [
+    "① Quan, như xuất sĩ 出仕 ra làm quan, trí sĩ 致仕 về hưu (thôi không làm quan), v.v. (cũ) ① Quan lại (thời xưa): 出仕 Ra làm quan ② Làm quan."
+  ],
+  "jlpt": "3",
+  "frequency": "439",
+  "grade": "3"
 }

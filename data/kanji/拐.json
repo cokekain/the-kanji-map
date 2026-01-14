@@ -52,5 +52,17 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d0.gif",
     "uri": "https://jisho.org/search/%E6%8B%90%23kanji"
-  }
+  },
+  "hanviet": [
+    "quải",
+    "quảy",
+    "quái",
+    "quầy"
+  ],
+  "vietnameseMeaning": [
+    "① Quải phiến 拐騙 kẻ mìn, kẻ dỗ người đem bán gọi là quải tử 拐子. ② Cái gậy. ① Rẽ, ngoặt, quặt: 向左拐 Ngoặt sang bên trái; ② Gậy chống, cái nạng; ③ Đi tập tễnh; ④ Cuỗm tiền, thụt két, lừa đảo."
+  ],
+  "jlpt": "1",
+  "frequency": "1498",
+  "grade": "8"
 }

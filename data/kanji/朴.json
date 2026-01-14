@@ -73,5 +73,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06734.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6734.gif",
     "uri": "https://jisho.org/search/%E6%9C%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "phác",
+    "phắc"
+  ],
+  "vietnameseMeaning": [
+    "① Cây phác, vỏ nó dùng làm thuốc được gọi là hậu phác 厚朴. Thứ mọc ở tỉnh Tứ Xuyên thì tốt hơn, nên gọi là xuyên phác 川朴. ② Chất phác, cũng như chữ 樸. Như 樸 (Họ) Phác. Xem 朴 , . 【朴刀】phác đao Một loại binh khí thời xưa. Xem 朴 , , 樸 . (thực) Cây sếu Trung Quốc. Xem 朴 , , 樸 . Chất phác, đơn giản (như 樸)."
+  ],
+  "jlpt": "1",
+  "frequency": "1626",
+  "grade": "8"
 }

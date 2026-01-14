@@ -357,5 +357,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07bb1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7bb1.gif",
     "uri": "https://jisho.org/search/%E7%AE%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "tương",
+    "rương"
+  ],
+  "vietnameseMeaning": [
+    "sương, tương ① Cái hòm xe, trong xe đóng một cái ngăn để chứa đồ gọi là xa tương 車箱. ② Cái kho, như thiên thương vạn tương 千倉萬箱 ngàn vựa muôn kho, ý nói thóc nhiều lắm. ③ Cái hòm. Ta quen đọc là chữ sương. ① Hòm, rương: 衣箱 Hòm áo; 皮相 Va li da; ② Vật có dạng như chiếc hòm (rương): 電冰箱 Tủ lạnh; 風箱 Ống bễ; 集裝箱 Công-ten-nơ; 車箱 Ngăn chứa đồ trong xe; ③ (văn) Kho: 千倉萬箱 Ngàn vựa muôn kho, thóc lúa muôn kho."
+  ],
+  "jlpt": "2",
+  "frequency": "1357",
+  "grade": "3"
 }

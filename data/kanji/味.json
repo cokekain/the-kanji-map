@@ -412,5 +412,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05473.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5473.gif",
     "uri": "https://jisho.org/search/%E5%91%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "vị"
+  ],
+  "vietnameseMeaning": [
+    "① Mùi, chua, đắng, ngọt, cay, mặn là năm mùi (ngũ vị 五味). ② Nếm, xem vật ấy là mùi gì gọi là vị. Cái gì có hứng thú gọi là hữu vị 有味. ① Vị: 帶甜味兒 Có vị ngọt; ② Mùi: 香味兒 Mùi thơm; 焦味兒 Mùi khét (khê); ③ Thú vị, ý nghĩa: 趣味 Thú vị; 意味深長 Ý nghĩa sâu xa; ④ Hiểu, thấm thía, ngấm: 細味其言 Thấm thía lời nói của anh ấy; ⑤ Vị (thuốc): 這個方子一共八味藥 Thang thuốc này gồm có 8 vị; ⑥ (văn) Nếm (cho biết vị)."
+  ],
+  "jlpt": "3",
+  "frequency": "442",
+  "grade": "3"
 }

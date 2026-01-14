@@ -362,5 +362,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059cb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59cb.gif",
     "uri": "https://jisho.org/search/%E5%A7%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "thủy",
+    "thuỷ"
+  ],
+  "vietnameseMeaning": [
+    "thỉ, thuỷ ① Mới, trước. ② Một âm là thí. Tiếng trợ ngữ, như vị thí 未始 chưa từng. ① Bắt đầu, mở đầu: 開始報告 Bắt đầu báo cáo; 自始至終 Từ đầu chí cuối; ② (văn) Lúc đầu: 始吾於人也，聽其言而信其行 Lúc đầu đối với người khác, ta nghe lời họ nói mà tin ở việc họ làm (Luận ngữ); ③ (văn) Vừa mới, mới vừa: 今上始得天下 Nay nhà vua vừa mới có được thiên hạ (Sử kí).【始終】 thuỷ chung Trước sau, từ đầu chí cuối: 始終不渝 Trước sau không thay đổi; 始終如一 Trước sau như một; 始終不懈 Bền bỉ; ④ Mới: 遊行至下午五時始畢 Tuần hành đến 5 giờ chiều mới tan; 千呼萬喚始出來 Kêu mãi gọi mãi mới chịu ra (Bạch Cư Dị: Tì bà hành); ⑤ Từng: 未始 Chưa từng."
+  ],
+  "jlpt": "3",
+  "frequency": "244",
+  "grade": "3"
 }

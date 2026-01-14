@@ -402,5 +402,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0639b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/639b.gif",
     "uri": "https://jisho.org/search/%E6%8E%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "quải",
+    "quẩy"
+  ],
+  "vietnameseMeaning": [
+    "① Treo, như treo phàm 掛帆 treo buồm, quải niệm 掛念 lòng thắc mắc, quải hiệu 掛號 thơ bảo đảm. ① Treo, quặc: 掛衣 服 Treo áo; 掛在半空 Treo lủng lẳng; ② Nhớ; ③ Ghi tên, vào sổ; ④ (loại) Chuỗi, đoàn: 一掛珠子 Một chuỗi hạt ngọc; 一掛車 Một đoàn xe. Như 掛 (bộ 扌)."
+  ],
+  "jlpt": "1",
+  "frequency": "1027",
+  "grade": "8"
 }

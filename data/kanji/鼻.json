@@ -347,5 +347,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f3b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f3b.gif",
     "uri": "https://jisho.org/search/%E9%BC%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "tị"
+  ],
+  "vietnameseMeaning": [
+    "① Cái mũi. ② Trước tiên. Như ông thuỷ tổ gọi là tị tổ 鼻祖. ③ Xỏ mũi. ④ Cái chuôi ấm. ⑤ Cái núm ấn. ① Mũi, vòi, núm: 剖之，如有煙撲口鼻 Bửa nó (quả cam) ra thì như có hơi khói hắt lên miệng mũi (Lưu Cơ: Mại cam giả ngôn); 象鼻子 Vòi voi; 印鼻 Núm con dấu; ② (văn) Xỏ mũi (thú vật): 鼻赤象 Xỏ mũi voi đỏ (Trương Hoành: Tây kinh phú); ③ (văn) Ngửi thấy (mùi): 可鼻，則有荷葉之清香 Có thể ngửi, ngửi thì có mùi thơm mát của lá sen (Lí Ngư: Phù cừ); ④ Lỗ, trôn: 針鼻兒 Trôn kim; 釦鼻兒 Lỗ khuy; 針鼻細而穿空 Trôn kim nhỏ mà xuyên được vào khoảng trống (Canh Tín: Thất tịch phú); ⑤ Tổ, thuỷ tổ, trước tiên, đầu tiên: 鼻祖 Ông tổ đầu tiên, tị tổ."
+  ],
+  "jlpt": "2",
+  "frequency": "1632",
+  "grade": "3"
 }

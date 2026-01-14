@@ -382,5 +382,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f9e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f9e.gif",
     "uri": "https://jisho.org/search/%E8%BE%9E%23kanji"
-  }
+  },
+  "hanviet": [
+    "từ"
+  ],
+  "vietnameseMeaning": [
+    "từ ① Tục dùng như chữ từ 辭. Xem 辭. Như 辭"
+  ],
+  "jlpt": "2",
+  "frequency": "633",
+  "grade": "4"
 }

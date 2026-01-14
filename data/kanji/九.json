@@ -399,5 +399,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e5d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e5d.gif",
     "uri": "https://jisho.org/search/%E4%B9%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "cửu"
+  ],
+  "vietnameseMeaning": [
+    "cưu ① Chín, tên số đếm. ② Một âm là cưu 九 họp, như Hoàn Công cưu hợp chư hầu 桓公九合諸侯 vua Hoàn Công tụ họp các chư hầu, cùng nghĩa với chữ củ 紏. ① Chín: 七加二等於九 Bảy cộng với hai là chín; ② Nhiều lần hoặc số nhiều: 九宵 Chín tầng mây; 九泉 Chín suối; 雖九死其猶未悔 Cho dù có chết đi nhiều lần vẫn không hối hận (Khuất Nguyên: Li tao). Hợp (dùng như 鳩, bộ 鳥 và 糾, bộ 糸): 桓公九合諸侯 Vua Tề Hoàn công tụ họp các chư hầu."
+  ],
+  "jlpt": "4",
+  "frequency": "55",
+  "grade": "1"
 }

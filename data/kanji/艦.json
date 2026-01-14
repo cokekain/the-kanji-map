@@ -51,5 +51,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08266.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8266.gif",
     "uri": "https://jisho.org/search/%E8%89%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "hạm"
+  ],
+  "vietnameseMeaning": [
+    "① Tàu trận. Nay gọi quân đánh trên mặt bể là hạm đội 艦隊, tàu trận gọi là quân hạm 軍艦. Tàu chiến, hạm: 航空母艦 Hàng không mẫu hạm, tàu sân bay."
+  ],
+  "jlpt": "1",
+  "frequency": "1363",
+  "grade": "8"
 }

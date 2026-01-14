@@ -73,5 +73,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bec.gif",
     "uri": "https://jisho.org/search/%E6%AF%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "cầu"
+  ],
+  "vietnameseMeaning": [
+    "① Quả bóng. ② Cái gì vo thành hình tròn đều gọi là cầu. Quả cầu, hình cầu, vật có hình cầu: 毬果 Nón (của cây thông, cây vân sam...)."
+  ],
+  "jlpt": "1",
+  "frequency": "2431",
+  "grade": "9"
 }

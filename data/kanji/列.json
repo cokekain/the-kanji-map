@@ -343,5 +343,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05217.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5217.gif",
     "uri": "https://jisho.org/search/%E5%88%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "liệt"
+  ],
+  "vietnameseMeaning": [
+    "① Hàng lối, cái gì xếp một hàng thẳng gọi là hàng 行, xếp ngang gọi là liệt 列. ② Số nhiều, như liệt quốc 列國 các nước, liệt vị 列位 các vị. ③ Bầy, như liệt trở đậu 列詛豆 bầy cái trở cái đậu (đồ tiến lễ). ① Bày, dàn, xếp, kê: 羅列 Phô bày; 列隊歡迎 Xếp hàng chào đón; 按清單上列的一項一項地清點 Kiểm điểm lại từng khoản theo như trong đơn đã kê; 列俎豆 Bày cái trở cái đậu, bày đồ tế lễ; 列陣 Dàn trận; ② Đưa, đặt, liệt vào: 列入議程 Đưa vào chương trình nghị sự; 列爲甲等 Liệt vào hạng A; ③ Hàng: 站在最前列 Đứng ở hàng đầu; ④ Đoàn: 一列火車 Một đoàn tàu hoả; ⑤ Loại, hạng: 不在此列 Không thuộc loại này; ⑥ Các, nhiều: 列位觀衆 Các vị khán giả; ⑦ (Họ) Liệt."
+  ],
+  "jlpt": "2",
+  "frequency": "927",
+  "grade": "3"
 }

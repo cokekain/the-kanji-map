@@ -421,5 +421,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05909.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5909.gif",
     "uri": "https://jisho.org/search/%E5%A4%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "biến"
+  ],
+  "jlpt": "2",
+  "frequency": "238",
+  "grade": "4"
 }

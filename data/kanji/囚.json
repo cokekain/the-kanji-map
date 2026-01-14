@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56da.gif",
     "uri": "https://jisho.org/search/%E5%9B%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "tù"
+  ],
+  "vietnameseMeaning": [
+    "① Bỏ tù, bắt người có tội giam lại gọi là tù, người có tội cũng gọi là tù. ① Bỏ tù: 被囚 Bị bỏ tù; ② Tù phạm, người bị tù: 死囚 Tù tử hình."
+  ],
+  "jlpt": "1",
+  "frequency": "2107",
+  "grade": "8"
 }

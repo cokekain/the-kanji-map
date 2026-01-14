@@ -334,5 +334,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0676f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/676f.gif",
     "uri": "https://jisho.org/search/%E6%9D%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "bôi"
+  ],
+  "vietnameseMeaning": [
+    "① Cái chén. ① Cốc, chén: 玻璃杯 Cốc thuỷ tinh; 乾杯 Cạn chén; ② Cúp, giải thưởng: 銀杯 Cúp bạc."
+  ],
+  "jlpt": "2",
+  "frequency": "1235",
+  "grade": "8"
 }

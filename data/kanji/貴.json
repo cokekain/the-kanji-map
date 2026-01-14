@@ -374,5 +374,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb4.gif",
     "uri": "https://jisho.org/search/%E8%B2%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "quý"
+  ],
+  "vietnameseMeaning": [
+    "① Sang, quý hiển. ② Đắt, như ngang quý 昂貴 giá đắt. ③ Quý trọng. ④ Muốn. ① Quý, quý trọng, quý ở: 珍貴的產品 Sản phẩm quý giá, đồ quý; 寶貴的意見 Ý kiến quý báu; 兵貴精，不貴多 Binh quý ở tinh nhuệ, không quý ở số nhiều; ② Đắt: 太貴了，買不起 Đắt quá không mua nổi; 鋼比鐵貴 Thép đắt hơn sắt; ③ Quý (xưng hô lễ phép): 貴國 Quý quốc; 貴客 Quý khách. ④ Sang: 顯貴之家 Gia đình sang trọng; ⑤ Tỉnh Quý Châu (nói tắt); ⑥ (Họ) Quý."
+  ],
+  "jlpt": "1",
+  "frequency": "970",
+  "grade": "6"
 }

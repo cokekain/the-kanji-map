@@ -254,5 +254,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b5d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b5d.gif",
     "uri": "https://jisho.org/search/%E5%AD%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "hiếu"
+  ],
+  "vietnameseMeaning": [
+    "① Thảo, con thờ cha mẹ hết lòng gọi là hiếu. ② Tục gọi đồ tang phục là hiếu. Như xuyên hiếu 穿孝 mặc đồ tang, thoát hiếu 脫孝 trút đồ tang (đoạn tang), v.v. ① Hiếu thảo: 盡孝 Tận hiếu; ② Để tang, để trở: 守孝 Chịu tang, để tang; ③ Đồ tang, tang phục: 穿孝 Mặc tang phục; 脫孝 Trút đồ tang, đoạn tang, xả tang."
+  ],
+  "jlpt": "1",
+  "frequency": "1030",
+  "grade": "6"
 }

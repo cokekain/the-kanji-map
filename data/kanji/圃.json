@@ -46,5 +46,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05703.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5703.gif",
     "uri": "https://jisho.org/search/%E5%9C%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "bo"
+  ],
+  "vietnameseMeaning": [
+    "① Vườn trồng rau. Vườn (trồng hoa quả, rau cỏ): 菜圃 Vườn rau; 花圃 Vườn trồng hoa."
+  ],
+  "grade": "9"
 }

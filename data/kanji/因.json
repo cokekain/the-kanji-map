@@ -327,5 +327,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056e0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56e0.gif",
     "uri": "https://jisho.org/search/%E5%9B%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhân"
+  ],
+  "vietnameseMeaning": [
+    "① Nhưng, vẫn thế. ② Nương tựa. ③ Nguyên nhân. ④ Tính nhân, tính gấp lên gọi là tính nhân. ⑤ Chỗ duyên theo đó mà phát ra, như nhân quả 因果. Nhà Phật cho phần đã làm ra là nhân, phần phải chịu lấy là quả, làm ác phải tội, làm thiện được phúc, thế là nhân quả. ① Nguyên nhân, căn do: 事出有因 Sự việc xảy ra là có nguyên nhân; ② Bởi, do, vì: 因病請假 Xin nghỉ vì bệnh. 【因此】 nhân thử Vì vậy, do vậy, bởi vậy, bởi thế, vì thế: 他辦事公道，因此大家都擁護他 Anh ấy làm việc công bằng, vì thế được mọi người ủng hộ; 【因而】nhân nhi Vì vậy, bởi thế, nên, cho nên: 他當過教師，因而他很有教學經驗 Anh ấy từng là giáo viên, nên có nhiều kinh nghiệm giảng dạy; 【因爲】nhân vị Bởi, vì, bởi vì, vì rằng: 因爲下雨，不出門 Vì mưa nên không đi ra ngoài; ③ (văn) Theo, thể theo, y theo, tùy theo: 療效因人而異 Hiệu quả chữa bệnh khác nhau tùy theo từng người; ④ (văn) Kế tiếp, tiếp theo, theo: 陳陳相因 Theo nếp cũ không thay đổi; ⑤ Nương theo, nương tựa; ⑥ Tính nhân."
+  ],
+  "jlpt": "2",
+  "frequency": "636",
+  "grade": "5"
 }

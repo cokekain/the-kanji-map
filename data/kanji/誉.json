@@ -72,5 +72,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a89.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a89.gif",
     "uri": "https://jisho.org/search/%E8%AA%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "dự"
+  ],
+  "vietnameseMeaning": [
+    "Như 譽"
+  ],
+  "jlpt": "1",
+  "frequency": "1064",
+  "grade": "8"
 }

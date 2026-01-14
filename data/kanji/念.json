@@ -351,5 +351,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ff5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ff5.gif",
     "uri": "https://jisho.org/search/%E5%BF%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "niệm"
+  ],
+  "vietnameseMeaning": [
+    "① Nghĩ nhớ. ② Ngâm đọc, như niệm thư 念書 đọc sách, niệm kinh 念經 niệm kinh, v.v. ③ Hai mươi, như niệm ngũ nhật 念五日 ngày 25. ① Nhớ, nhớ nhung: 念家 Nhớ nhà; ② Suy nghĩ, ngẫm nghĩ, nghĩ ngợi: 心無二念 Trong lòng không có suy nghĩ gì khác; ③ Đọc, học: 請把這封信念給我聽 Xin đọc thư này cho tôi nghe; 念經 Đọc kinh, niệm kinh; 他念過中學 Cậu ấy từng học ở trường trung học. Cv. 唸; ④ Hai mươi: 念五日 Ngày hai mươi lăm; ⑤ (Họ) Niệm."
+  ],
+  "jlpt": "2",
+  "frequency": "390",
+  "grade": "4"
 }

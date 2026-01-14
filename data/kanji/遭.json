@@ -59,5 +59,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906d.gif",
     "uri": "https://jisho.org/search/%E9%81%AD%23kanji"
-  }
+  },
+  "hanviet": [
+    "tao"
+  ],
+  "vietnameseMeaning": [
+    "① Gặp, vô ý mà gặp nhau gọi là tao. Như tao phùng ý ngoại 遭逢意外 gặp gỡ ý không ngờ tới. ② Vòng. Như chu tao 周遭 khắp vòng. ③ Lượt. Như kỉ tao 幾遭 mấy lượt (lần) rồi? ① Gặp, bị: 遭遇困難 Gặp phải khó khăn; 遭逢意外 Gặp nhau bất ngờ; 遭到暗害 Bị ám hại; ② Vòng: 周遭 Khắp vòng; 我去轉了一遭 Tôi đi quanh một vòng; 繞兩遭 Quấn hai vòng; ③ Lần, lượt: 頭一遭 Lần đầu; 一遭生，兩遭熟 Lần đầu thì lạ, lần sau thì quen, trước lạ sau quen; 幾遭 Mấy lượt rồi?"
+  ],
+  "jlpt": "1",
+  "frequency": "1554",
+  "grade": "8"
 }

@@ -333,5 +333,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fd4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fd4.gif",
     "uri": "https://jisho.org/search/%E8%BF%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "phản"
+  ],
+  "vietnameseMeaning": [
+    "① Trả lại. ② Trở lại. Nguyễn Du 阮攸: Thận vật tái phản linh nhân xi 愼勿再返令人嗤 (Khuất Nguyên) đừng trở lại đây nữa để người ta mai mỉa. ① Trở về, trở lại: 往返 Đi và trở về; 重返故鄉 Trở về quê hương; 一去不復返 Đã qua rồi không bao giờ trở lại nữa; ② Trả lại."
+  ],
+  "jlpt": "2",
+  "frequency": "685",
+  "grade": "3"
 }

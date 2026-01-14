@@ -63,5 +63,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c6f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c6f.gif",
     "uri": "https://jisho.org/search/%E5%B1%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "đồn",
+    "truân"
+  ],
+  "vietnameseMeaning": [
+    "① Khó, khó tiến lên được gọi là truân chiên 屯邅. ② Một âm là đồn. Ðồn, họp. Chỗ đông binh giữ các nơi hiểm yếu gọi là đồn. Ðóng binh làm ruộng gọi là đồn điền 屯田. Bây giờ họp người khai khẩn ruộng nương cũng gọi là đồn điền là do nghĩa ấy. ③ Cái đống đất. ① Tụ tập, cất giữ: 屯糧 Chứa cất lương thực. (Ngr) Đóng quân: 屯兵 Đóng quân; ② Đống đất; ③ Thôn, xóm: 屯子 Thôn; 皇姑屯 Thôn Hoàng Cô. Khó khăn: 天地風塵，紅顏多屯 Thuở trời đất nổi cơn gió bụi, khách má hồng nhiều nỗi truân chiên (Đặng Trần Côn: Chinh phụ ngâm khúc)."
+  ],
+  "jlpt": "1",
+  "frequency": "1980",
+  "grade": "8"
 }

@@ -84,5 +84,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e1.gif",
     "uri": "https://jisho.org/search/%E5%87%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "phàm"
+  ],
+  "vietnameseMeaning": [
+    "① Gồm, lời nói nói tóm hết thẩy. ② Hèn, như phàm dân 凡民 dân hèn, phàm nhân 凡人 người phàm. ③ Cõi phàm, khác nơi tiên cảnh. ① Thường: 凡庸 Tầm thường; ② Trần tục, chốn trần tục, cõi phàm, cõi trần gian: 凡心 Lòng tục; 天仙下凡 Tiên trên trời xuống cõi trần gian; ③ Tất cả, hết thảy, gồm: 凡年滿十八歲的公民都有選舉權 Tất cả công dân từ 18 tuổi trở lên đều có quyền bầu cử; 全書凡十二卷 Bộ sách gồm có 20 cuốn; 凡今之人，莫如兄弟 Hết thảy những người đời nay không ai bằng anh em (Thi Kinh). 【凡是】phàm thị Phàm, phàm là, hễ là, tất cả, mọi: 凡是新生的事物 Tất cả những sự vật mới sinh ra; ④ (văn) Đại khái, tóm tắt; ⑤ Một nốt nhạc dân tộc của Trung Quốc (tương đương nốt “pha” hiện nay)."
+  ],
+  "jlpt": "1",
+  "frequency": "1730",
+  "grade": "8"
 }

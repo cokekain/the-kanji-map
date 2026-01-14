@@ -60,5 +60,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a93.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a93.gif",
     "uri": "https://jisho.org/search/%E8%AA%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "thệ",
+    "thề"
+  ],
+  "vietnameseMeaning": [
+    "① Răn bảo. Họp các tướng sĩ lại mà răn bảo cho biết kỉ luật gọi là thệ sư 誓師. ② Thề, đối trước cửa thần thánh nói rõ việc ra để làm tin gọi là thệ. Như chiết tiễn vi thệ 折箭爲誓 bẻ tên làm phép thề. ③ Mệnh lệnh. ④ Kính cẩn. ① Thề, quyết: 山盟海誓 Thề non hẹn biển; 吾誓與城爲殉 Ta thề cùng chết với thành (theo thành) (Toàn Tổ Vọng: Mai Hoa lãnh kí); 誓將去汝 Quyết bỏ mày đi (Thi Kinh); ② (văn) Lời ước hẹn, lời thề, lời hứa: 申之以明誓 Lấy lời thề hẹn để tỏ rõ (Tả truyện); ③ (văn) Lời răn bảo các tướng sĩ (thời xưa): 湯誓 Lời răn bảo tướng sĩ khi Thang phạt Trụ; ④ (văn) Răn bảo chiến sĩ trước khi xuất quân (biểu thị quyết tâm): 勒三軍，誓將帥 Cầm đầu ba quân, răn bảo tướng sĩ (Ban Cố: Đông Đô phú); ⑤ (văn) Cẩn thận."
+  ],
+  "jlpt": "1",
+  "frequency": "1567",
+  "grade": "8"
 }

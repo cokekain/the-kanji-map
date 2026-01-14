@@ -74,5 +74,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a9.gif",
     "uri": "https://jisho.org/search/%E6%86%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "khế"
+  ],
+  "vietnameseMeaning": [
+    "① Nghỉ ngơi, như sảo khế 稍憩 nghỉ một chút. Nghỉ: 同作同憩 Cùng làm cùng nghỉ; 憩息 Nghỉ, nghỉ ngơi; 稍憩 Nghỉ một chút."
+  ],
+  "jlpt": "1",
+  "frequency": "1731",
+  "grade": "8"
 }

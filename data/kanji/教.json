@@ -450,5 +450,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06559.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6559.gif",
     "uri": "https://jisho.org/search/%E6%95%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "giáo"
+  ],
+  "vietnameseMeaning": [
+    "① Cũng như chữ giáo 敎. Dạy: 教學 Dạy học; 教手藝 Dạy nghề. Xem 教 . ① Dạy, dạy bảo, chỉ bảo; ② Bảo, sai, khiến, cho, để cho, cho phép: 誰教你去？ Ai bảo (khiến) anh đi?; 誰教你進那屋子的？ Ai cho phép mày vào nhà đó?; 打起黃鶯兒，莫教枝上啼 Nhờ ai đuổi hộ con oanh, đừng cho nó hót trên cành (Y Châu từ); 忽見陌頭楊柳色，悔教夫婿覓封侯 Đầu đường chợt thấy xanh tơ liễu, hối để chồng đi kiếm tước hầu (Vương Xương Linh: Khuê oán); ③ Đạo, tôn giáo: 佛教 Đạo Phật; 天主教 Đạo Thiên chúa; ④ (cũ) Lệnh dạy, lệnh truyền (lệnh truyền của thiên tử gọi là chiếu 詔, của thái tử hoặc các chư hầu gọi là giáo). Xem 教 ."
+  ],
+  "jlpt": "3",
+  "frequency": "166",
+  "grade": "2"
 }

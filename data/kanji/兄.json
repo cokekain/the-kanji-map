@@ -337,5 +337,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05144.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5144.gif",
     "uri": "https://jisho.org/search/%E5%85%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "huynh"
+  ],
+  "vietnameseMeaning": [
+    "① Anh. ② Cùng chơi với nhau cũng gọi là huynh, như nhân huynh 仁兄 anh bạn nhân đức (tiếng tôn xưng bạn). Anh: 兄弟倆 Hai anh em."
+  ],
+  "jlpt": "3",
+  "frequency": "1219",
+  "grade": "2"
 }

@@ -363,5 +363,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09244.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9244.gif",
     "uri": "https://jisho.org/search/%E9%89%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "thiết"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ thiết 鐵. Như 鐵."
+  ],
+  "jlpt": "2",
+  "frequency": "672",
+  "grade": "3"
 }

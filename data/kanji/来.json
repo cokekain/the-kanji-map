@@ -468,5 +468,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06765.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6765.gif",
     "uri": "https://jisho.org/search/%E6%9D%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "lai"
+  ],
+  "vietnameseMeaning": [
+    "① Cũng như chữ 來. Như 來"
+  ],
+  "jlpt": "4",
+  "frequency": "102",
+  "grade": "2"
 }

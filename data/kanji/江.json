@@ -75,5 +75,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c5f.gif",
     "uri": "https://jisho.org/search/%E6%B1%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "giang"
+  ],
+  "vietnameseMeaning": [
+    "① Sông Giang. ② Sông lớn, sông cái. ① Sông lớn: 九龍江 Sông Cửu Long; ② Trường Giang: 江南 Miền nam sông Trường Giang; 江北 Miền bắc sông Trường Giang; 江淮 Sông Trường Giang và sông Hoài; 孫權據有江東 Tôn Quyền chiếm cứ phía đông Trường Giang (Tam quốc chí); ③ Nước Giang (tên một nước thời cổ, thuộc huyện Chính Dương, tỉnh Hà Nam, Trung Quốc ngày nay); ④ Tỉnh Giang Tô (gọi tắt); ⑤ (Họ) Giang."
+  ],
+  "jlpt": "1",
+  "frequency": "704",
+  "grade": "8"
 }

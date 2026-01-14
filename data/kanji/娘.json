@@ -334,5 +334,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a18.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a18.gif",
     "uri": "https://jisho.org/search/%E5%A8%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "nương"
+  ],
+  "vietnameseMeaning": [
+    "① Nàng, con gái trẻ tuổi gọi là nương tử 娘子 hay cô nương 姑娘 cô nàng. ② Mẹ cũng gọi là nương, nguyên là chữ nương 孃. ③ Tiếng gọi tôn các bà, như các cung phi gọi hoàng hậu là nương nương 娘娘. Tục thường gọi đàn bà là đại nương 大娘. ① Mẹ, má, mạ, u, bầm, đẻ, me: 爹娘 Bố mẹ; ② Bác gái, mẹ, má: 王大娘 Má Vương; ③ Cô, nàng (con gái trẻ tuổi): 娘子 Cô gái trẻ; 姑娘 Cô nàng; 大娘 Đàn bà; 新娘 Cô dâu."
+  ],
+  "jlpt": "2",
+  "frequency": "1145",
+  "grade": "8"
 }

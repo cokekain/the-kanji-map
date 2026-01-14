@@ -69,5 +69,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55aa.gif",
     "uri": "https://jisho.org/search/%E5%96%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "tang"
+  ],
+  "vietnameseMeaning": [
+    "① Lễ tang, như cư tang 居喪 để tang, điếu tang 弔喪 viếng kẻ chết, v.v. ② Một âm là táng. Mất, như táng minh 喪明 mù mắt, táng vị 喪位 mất ngôi, v.v. Việc tang: 居喪 Để tang; 弔喪 Viếng người chết; 治喪委員會 Ban tổ chức lễ tang. Xem 喪 . ① Mất: 喪明 Mù mắt; 喪位 Mất ngôi; 喪失立場 Mất lập trường; ② (văn) Chết: 尋程氏妹喪于武昌 Chẳng bao lâu em của Trình thị chết ở Vũ Xương (Đào Uyên Minh: Quy khứ lai hề từ tự). Xem 喪 ."
+  ],
+  "jlpt": "1",
+  "frequency": "885",
+  "grade": "8"
 }

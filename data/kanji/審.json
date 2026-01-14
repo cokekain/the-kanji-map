@@ -59,5 +59,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be9.gif",
     "uri": "https://jisho.org/search/%E5%AF%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "thẩm"
+  ],
+  "vietnameseMeaning": [
+    "① Xét rõ, xét kĩ. ② Xét đoán, xét hỏi. Nay nha tư pháp có một toà gọi là thẩm phán sảnh 審判廳 là chỗ xét hỏi hình ngục kiện tụng vậy. ③ Dùng làm tiếng giúp lời, có cái ý quyết định hẳn, như thẩm như thị dã 審如是也 xét quả đúng như thế vậy. ① Xét kĩ, chặt chẽ, tỉ mỉ, (một cách) thận trọng: 精審 Xét kĩ; 審擇左右 Chọn kĩ những kẻ tả hữu (Án tử Xuân thu); ② Xử, xét hỏi, tra hỏi: 公審 Xử công khai; 審案 Xử án; ③ (văn) Hiểu được: 不審近況如何？ Không hiểu tình hình dạo này ra sao?. Như 讅 , 諗 ; ④ (văn) Quả là, đúng: 審如其言 Đúng như lời... đã nói; 審如是也 Quả đúng như thế."
+  ],
+  "jlpt": "1",
+  "frequency": "412",
+  "grade": "8"
 }

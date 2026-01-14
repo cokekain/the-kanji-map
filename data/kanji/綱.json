@@ -80,5 +80,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07db1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7db1.gif",
     "uri": "https://jisho.org/search/%E7%B6%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "cương"
+  ],
+  "vietnameseMeaning": [
+    "① Giềng lưới. Lưới có giềng mới kéo được các mắt, cho nên cái gì mà có thống hệ không thể rời được đều gọi là cương. Cương thường 綱常 đạo thường của người gồm: tam cương 三綱 là quân thần, phụ tử, phu phụ 君臣、父子、夫婦, ngũ thường 五常 là nhân, lễ, nghĩa, trí, tín 仁、義、禮、智、信.Cương kỉ 綱紀 giềng mối, v.v. ② Phàm sự gì lấy một cái làm cốt rồi chia ra các ngành đều gọi là cương. Như sử cương mục 史綱目 nghĩa là lối chép sử theo cách này. ③ Vận tải hàng hoá kết từng bọn đi cũng gọi là cương, như trà cương 茶綱 tụi buôn chè (trà). ① Cái rường (giềng) của lưới; ② Những phần (điểm) chủ yếu: 提綱挈領 Nắm những điểm chủ yếu; ③ Cương lĩnh: 總綱 Cương lĩnh chung; ④ (sinh) Lớp: 哺乳動物綱 Lớp động vật có vú; ⑤ (văn) Bọn người chở hàng đi buôn: 茶綱 Bọn buôn trà."
+  ],
+  "jlpt": "1",
+  "frequency": "1053",
+  "grade": "8"
 }

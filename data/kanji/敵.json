@@ -381,5 +381,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06575.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6575.gif",
     "uri": "https://jisho.org/search/%E6%95%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "địch"
+  ],
+  "vietnameseMeaning": [
+    "① Giặc thù, như địch quốc 敵國 nước thù. ② Ngang, như địch thể 敵體 ngang nhau. ③ Chống cự, đối địch. ① Kẻ thù, địch: 殘敵 Quân thù còn sót lại; ② Chống chọi, chống đối, (đối) địch: 寡不敵衆 Ít không địch nổi nhiều; ③ Ngang nhau, tương đương nhau: 勢均力敵 Thế lực ngang nhau."
+  ],
+  "jlpt": "1",
+  "frequency": "1205",
+  "grade": "5"
 }

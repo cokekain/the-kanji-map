@@ -381,5 +381,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052d9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52d9.gif",
     "uri": "https://jisho.org/search/%E5%8B%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "vụ"
+  ],
+  "vietnameseMeaning": [
+    "① Việc, như thứ vụ 庶務 các việc. ② Chuyên, chăm. Như tham đa vụ đắc 貪多務得 chỉ cốt tham lấy cho nhiều, vụ bản 務本 cốt chăm cái căn bản. ③ Tất dùng, như vụ khất 務乞 cần xin, vụ tất 務必 cần thế. ④ Sở thu thuế cũng gọi là vụ. ⑤ Một âm là vũ, cũng nghĩa như chữ 侮. ① Việc, vụ: 公 務 Việc công; ② Làm: 不務正業 Không làm ăn chính đáng; 務農 Làm nghề nông; ③ Nhất thiết, cốt phải: 務須 Nhất thiết phải; 除惡務本 Trừ kẻ gian tà phải cốt trừ cho tận gốc (Thượng thư: Thái thệ hạ); 君子之事君也，務引其君以當道 Người quân tử thờ vua cốt phải hướng dẫn cho vua mình vận dụng chính xác đạo trị nước (Mạnh tử: Cáo tử hạ).【務必】vụ tất Nhất thiết, cốt phải, cần phải, quyết phải: 你務必去一趟 Anh nhất thiết phải đi một chuyến; 朋友們務必注意 Các bạn cần phải chú ý; 【務須】vụ tu Như 務必."
+  ],
+  "jlpt": "2",
+  "frequency": "111",
+  "grade": "5"
 }

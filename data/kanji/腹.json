@@ -378,5 +378,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08179.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8179.gif",
     "uri": "https://jisho.org/search/%E8%85%B9%23kanji"
-  }
+  },
+  "hanviet": [
+    "phục",
+    "phúc"
+  ],
+  "vietnameseMeaning": [
+    "① Bụng, dưới ngực là bụng. Bụng ở đằng trước mình người ta, nên cái gì ở đằng trước cũng gọi là phúc. Như phúc bối thụ địch 腹背受敵 trước sau bị giặc vây cả. ② Tấm lòng. Như cảm bố phúc tâm 敢布腹心 (Tả truyện 左傳) dám bày dãi tấm lòng. ③ Ðùm bọc. ① Bụng: 腹漲 Đầy bụng; ② Phía trước, đằng trước: 腹背受敵 Trước sau đều có quân địch; ③ Bụng dạ, tấm lòng: 敢布腹心 Dám giãi bày tấm lòng."
+  ],
+  "jlpt": "2",
+  "frequency": "1286",
+  "grade": "6"
 }

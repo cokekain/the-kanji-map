@@ -3,7 +3,17 @@
     "allow": [
       "Bash(docker --version:*)",
       "Bash(git config:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(curl:*)",
+      "Bash(node /tmp/parse_hanviet.js:*)",
+      "Bash(npx tsx:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(node /tmp/check_hanviet_coverage.js:*)",
+      "Bash(node /tmp/verify_new_coverage.js:*)",
+      "Bash(node -e:*)",
+      "Bash(node /tmp/analyze_kanjidic_vietnamese.js:*)",
+      "Bash(node /tmp/final_coverage_report.js:*)"
     ]
   }
 }

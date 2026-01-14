@@ -385,5 +385,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06355.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6355.gif",
     "uri": "https://jisho.org/search/%E6%8D%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "bộ",
+    "bõ"
+  ],
+  "vietnameseMeaning": [
+    "bổ, bộ ① Bắt, tới thẳng nhà kẻ có tội mà bắt gọi là đãi 逮, lùng đuổi kẻ có tội trốn là bộ 捕. Bắt, đánh, tróc nã: 捕蛇 Bắt rắn; 捕魚 Đánh cá; 逮捕 Đuổi bắt."
+  ],
+  "jlpt": "2",
+  "frequency": "604",
+  "grade": "8"
 }

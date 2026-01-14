@@ -311,5 +311,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08102.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8102.gif",
     "uri": "https://jisho.org/search/%E8%84%82%23kanji"
-  }
+  },
+  "hanviet": [
+    "chi"
+  ],
+  "vietnameseMeaning": [
+    "① Mỡ tảng, mỡ dót lại từng mảng. ② Yên chi 燕脂 phấn, đàn bà dùng để làm dáng. Nguyên viết là 燕支. Có khi viết là 胭脂 hay 臙脂. Tục gọi tắt là chi 脂, như chi phấn 脂粉 phấn sáp. ① 【脂肪】 chi phương a. Mỡ, chất mỡ, béo, chất béo; b. Chất bổ của cây cỏ; ② Sáp đỏ, son: 涂脂抹粉 Tô son điểm phấn, tô điểm."
+  ],
+  "jlpt": "2",
+  "frequency": "1548",
+  "grade": "8"
 }

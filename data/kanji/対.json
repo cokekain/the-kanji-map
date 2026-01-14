@@ -408,5 +408,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bfe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bfe.gif",
     "uri": "https://jisho.org/search/%E5%AF%BE%23kanji"
-  }
+  },
+  "hanviet": [
+    "đối"
+  ],
+  "vietnameseMeaning": [
+    "(6n) ① Cũng như chữ đối 對."
+  ],
+  "jlpt": "2",
+  "frequency": "34",
+  "grade": "3"
 }

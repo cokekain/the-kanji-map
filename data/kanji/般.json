@@ -262,5 +262,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0822c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/822c.gif",
     "uri": "https://jisho.org/search/%E8%88%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "ban",
+    "bàn"
+  ],
+  "vietnameseMeaning": [
+    "bát bàn ① Quanh co. Như bàn du 般遊 chơi quanh mãi, bàn hoàn 般桓 quấn quít không nỡ rời. ② Tải đi. Như bàn vận 般運 vận tải. ③ Một âm là ban. Về. Như ban sư 般師 đem quân về. ④ Bực. Như nhất ban 一般 một bực như nhau, giá ban 這般 bực ấy, v.v. ⑤ Lại một âm là bát. Bát nhã 般若 dịch âm chữ Phạn, nghĩa là trí tuệ, trí tuệ thanh tịnh. ① Loại, giống, cách, kiểu, thế, vậy: 百般刁難 Làm khó dễ đủ điều; 如此這般 Như thế. Xem 一般 ; ② Như, chung, thường: 兄弟般的友誼 Tình hữu nghị (như) anh em; 一般地說 Nói chung; ③ Như 搬 . (tôn) Trí huệ. 【般若】bát nhã Trí huệ thanh tịnh (Prajna). (văn) ① Quanh co, chần chừ: 般遊 Chơi quanh mãi; 般桓 Quấn quýt không nỡ rời; ② Sự an ủi; ③ Cái túi da."
+  ],
+  "jlpt": "2",
+  "frequency": "649",
+  "grade": "8"
 }

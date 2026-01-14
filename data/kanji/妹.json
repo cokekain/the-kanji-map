@@ -308,5 +308,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059b9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59b9.gif",
     "uri": "https://jisho.org/search/%E5%A6%B9%23kanji"
-  }
+  },
+  "hanviet": [
+    "muội"
+  ],
+  "vietnameseMeaning": [
+    "Em gái: 小妹 Em gái út; 姐妹 Chị em; 兄妹 Anh em (gái)."
+  ],
+  "jlpt": "3",
+  "frequency": "1446",
+  "grade": "2"
 }

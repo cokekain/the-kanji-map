@@ -323,5 +323,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ab2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ab2.gif",
     "uri": "https://jisho.org/search/%E8%AA%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "khóa",
+    "khoá"
+  ],
+  "vietnameseMeaning": [
+    "① Thi, tính. Phàm định ra khuôn phép mà thí nghiệm tra xét đều gọi là khoá. Như khảo khoá 考課 khoá thi, công khoá 工課 khoá học, v.v. ② Thuế má. Như diêm khoá 鹽課 thuế muối. ③ Quẻ bói. Như lục nhâm khoá 六壬課 phép bói lục nhâm. ① Bài học: 這本書共有30課 Quyển sách này gồm có 30 bài học; ② Môn học: 我們這學期共有8門課 Kì học này chúng ta có tất cả 8 môn học; ③ Giờ học: 數學課 Giờ học toán; ④ Thuế, đánh thuế: 課以重稅 Đánh thuế nặng; 鹽課 Thuế muối; ⑤ (cũ) Phòng, khoa: 會計課 Phòng kế toán; ⑥ (văn) Quẻ bói: 六壬課 Phép bói lục nhâm."
+  ],
+  "jlpt": "2",
+  "frequency": "455",
+  "grade": "4"
 }

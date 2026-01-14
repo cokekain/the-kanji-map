@@ -53,5 +53,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080f4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80f4.gif",
     "uri": "https://jisho.org/search/%E8%83%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "đổng",
+    "đỗng"
+  ],
+  "vietnameseMeaning": [
+    "① Cái thân người, từ cổ xuống đến bẹn, trừ chân tay ra, gọi là đỗng. ② Ruột già. ① Thân mình; ② (văn) Ruột già."
+  ],
+  "jlpt": "1",
+  "frequency": "1904",
+  "grade": "8"
 }

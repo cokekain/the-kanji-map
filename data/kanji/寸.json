@@ -298,5 +298,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bf8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bf8.gif",
     "uri": "https://jisho.org/search/%E5%AF%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "thốn"
+  ],
+  "vietnameseMeaning": [
+    "① Tấc, mười phân là một tấc. ② Nói ví dụ các sự nhỏ bé. Như thốn bộ nan hành 寸步難行 tấc bước khó đi, thốn âm khả tích 寸音可惜 tấc bóng quang âm khá tiếc, v.v. ① Tấc (= 1/10 thước): 一寸布 Một tấc vải; 手無寸鐵 Tay không tấc sắt. (Ngr) Ngắn ngủi, hẹp hòi, nông cạn, nhỏ bé, ít ỏi: 寸草心 Tấm lòng tấc cỏ; 寸陰可惜 Tấc thời gian đáng tiếc; 鼠目寸光 Tầm mắt hẹp hòi; ② (y) Mạch cổ tay (寸口 nói tắt); ③ (Họ) Thốn."
+  ],
+  "jlpt": "1",
+  "frequency": "1669",
+  "grade": "6"
 }

@@ -343,5 +343,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06280.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6280.gif",
     "uri": "https://jisho.org/search/%E6%8A%80%23kanji"
-  }
+  },
+  "hanviet": [
+    "kĩ"
+  ],
+  "vietnameseMeaning": [
+    "① Nghề, như tràng kĩ 長技 nghề tài, mạt kĩ 末技 nghề mạt hạng, v.v. ② Tài năng. Kĩ năng, kĩ xảo, tài năng, tài khéo, tài nghệ, năng lực chuyên môn, nghề: 一技之長 Giỏi một nghề; 末技 Nghề mạt hạng; 黔驢技窮 Hết kế khả thi, mưu cùng kế tận."
+  ],
+  "jlpt": "2",
+  "frequency": "434",
+  "grade": "5"
 }

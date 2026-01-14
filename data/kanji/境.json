@@ -406,5 +406,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05883.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5883.gif",
     "uri": "https://jisho.org/search/%E5%A2%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "cảnh"
+  ],
+  "vietnameseMeaning": [
+    "① Cõi. ② Cảnh ngộ, như cảnh thuận, cảnh nghịch, v.v. ③ Cảnh trí, như thắng cảnh 勝境, giai cảnh 佳境, v.v. ① Cảnh, cõi, biên giới: 出境 Xuất cảnh; 入境 Nhập cảnh; 驅逐出境 Trục xuất ra khỏi biên giới; ② Nơi, chỗ, chốn: 如入無人之境 Như vào chỗ không người; ③ Cảnh, hoàn cảnh, cảnh ngộ: 家境 Cảnh nhà; 處境 Hoàn cảnh; ④ Cảnh trí."
+  ],
+  "jlpt": "2",
+  "frequency": "346",
+  "grade": "5"
 }

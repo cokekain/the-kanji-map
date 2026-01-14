@@ -307,5 +307,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e0c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e0c.gif",
     "uri": "https://jisho.org/search/%E5%B8%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "hi",
+    "hơi"
+  ],
+  "vietnameseMeaning": [
+    "① Ít, như ki hi 幾希 hầu ít, hiếm, hi hãn 希罕 hiếm có, hi kì 希奇 lạ lùng ít thấy, v.v. ② Mong, như hi kí 希冀 mong cầu, hi vọng 希望 mong ngóng, v.v. ③ Vô hình. ① Hiếm, ít: 地廣人希 Đất rộng người thưa (Sử kí); 物以希爲貴 Vật hiếm là quý; 幾希 Hầu ít, hiếm; ② Mong, mong cầu: 希准時出席 Mong đến dự đúng giờ; 敬希讀者指正 Kính mong bạn đọc chỉ giáo; ③ (văn) Chờ xem, xem xét; ④ (văn) Ngưỡng mộ; ⑤ (văn) Đón ý hùa theo: 弘希世用事，位至公卿 Hoằng làm việc hùa theo thói đời, địa vị lên tới hàng công khanh (Sử kí); ⑥ Ngưng dần; ⑦ Im lặng; ⑧ Rất; ⑨ (Họ) Hi."
+  ],
+  "jlpt": "2",
+  "frequency": "896",
+  "grade": "4"
 }

@@ -418,5 +418,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a4d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a4d.gif",
     "uri": "https://jisho.org/search/%E7%A9%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "tích"
+  ],
+  "vietnameseMeaning": [
+    "① Chứa góp. ② Chồng chất. ③ Tích lâu, như tích niên 積年 đã lâu năm. ④ Cái số nhân được, như diện tích 面積 số đo bề mặt được bao nhiêu. ⑤ Một âm là tí. Chất đống, dành dụm. ① Chất, xếp: 積土成山 Chất đất thành núi; ② Tích lại, chứa, trữ: 積少成多 Tích ít thành nhiều; 積年累月 Năm này qua năm khác, lâu dài; ③ Lâu ngày, lưu cửu: 積弊 Thói tệ lâu đời; 積習 Thói quen đã lâu, thói cũ; ④ (y) Bệnh cam tích; ⑤ (toán) Số nhân được: 積數 Số nhân được, tích số."
+  ],
+  "jlpt": "2",
+  "frequency": "541",
+  "grade": "4"
 }

@@ -455,5 +455,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f37.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f37.gif",
     "uri": "https://jisho.org/search/%E5%BC%B7%23kanji"
-  }
+  },
+  "hanviet": [
+    "cường",
+    "cưỡng",
+    "càng"
+  ],
+  "vietnameseMeaning": [
+    "cưỡng Cưỡng lại, không chịu khuất phục: 倔強 Quật cường. Xem 強 , . ① Mạnh, khỏe: 身強力壯 Thân thể khỏe mạnh; ② Giỏi, cứng: 他是一個能力很強的人 Anh ấy là một người rất giỏi; ③ Khá: 日子過得一天比一天強 Đời sống ngày một khá hơn; ④ Trên, hơn, già, quá: 三分之一強 Già (trên, quá, hơn) một phần ba; ⑤ (văn) Con mọt thóc gạo; ⑥ (Họ) Cường. Xem 強 , . ① Ép buộc, gò ép: 強要 Ép buộc phải cho; ② Gượng: 強笑 Cười gượng; ③ (văn) Kiên quyết, cực lực, cố sức: 強與之盟 Kiên quyết liên minh với họ (Tả truyện: Chiêu công thập tam niên); 宮之奇之爲人也，懦而不能強諫 Cung Chi Kì là người nhu nhược, không dám cực lực can vua (Tả truyện: Hi công nhị niên). Xem 強 , ."
+  ],
+  "jlpt": "3",
+  "frequency": "112",
+  "grade": "2"
 }

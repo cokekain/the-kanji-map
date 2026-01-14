@@ -53,5 +53,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05544.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5544.gif",
     "uri": "https://jisho.org/search/%E5%95%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "trốc"
+  ],
+  "vietnameseMeaning": [
+    "① Mổ, chim ăn gọi là trác. Mổ: 小雞啄米 Gà con mổ gạo."
+  ],
+  "jlpt": "1",
+  "frequency": "2463",
+  "grade": "9"
 }

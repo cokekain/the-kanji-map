@@ -441,5 +441,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09055.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9055.gif",
     "uri": "https://jisho.org/search/%E9%81%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "vi"
+  ],
+  "vietnameseMeaning": [
+    "① Lìa. Như cửu vi 久違 li biệt đã lâu. ② Trái. Như vi mệnh 違命 trái mệnh, vi pháp 違法 trái phép. Người hay du di không quả quyết gọi là y vi 依違. ③ Lánh. ④ Lầm lỗi. ① Trái, ngược: 不違農時 Không trái thời vụ; 違命 Trái mệnh; ② Xa cách, xa lìa: 久違 Li biệt đã lâu, bao năm xa cách; ③ (văn) Lánh; ④ (văn) Lầm lỗi."
+  ],
+  "jlpt": "2",
+  "frequency": "344",
+  "grade": "8"
 }

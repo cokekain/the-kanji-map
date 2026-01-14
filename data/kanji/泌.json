@@ -55,5 +55,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ccc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ccc.gif",
     "uri": "https://jisho.org/search/%E6%B3%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiết",
+    "bí"
+  ],
+  "vietnameseMeaning": [
+    "bí ① Sông Bí. ② Phòi ra, phàm chất lỏng vì ép mà do các lỗ nhỏ chảy ra đều gọi là bí. ③ Suối chảy tuôn tuôn. ① Sông Bí (ở tỉnh Hà Nam, Trung Quốc); ② Tên huyện (ở tỉnh Hà Nam, Trung Quốc): 泌陽縣 Huyện Bí Dương. Xem 泌 . ① Tiết ra, rỉ ra; ② (văn) Suối chảy tuôn tuôn. Xem 泌 ."
+  ],
+  "jlpt": "1",
+  "frequency": "2112",
+  "grade": "8"
 }

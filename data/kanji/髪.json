@@ -392,5 +392,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09aea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9aea.gif",
     "uri": "https://jisho.org/search/%E9%AB%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "phát"
+  ],
+  "jlpt": "2",
+  "frequency": "1474",
+  "grade": "8"
 }

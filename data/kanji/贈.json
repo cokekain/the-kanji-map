@@ -357,5 +357,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d08.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d08.gif",
     "uri": "https://jisho.org/search/%E8%B4%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "tặng"
+  ],
+  "vietnameseMeaning": [
+    "① Đưa tặng, như di tặng 遺贈 đưa tặng đồ quý, tặng thi 贈詩 tặng thơ v.v. Ðỗ Phủ 杜甫: Ưng cộng oan hồn ngữ, đầu thi tặng Mịch La 應共冤魂語，投詩贈汩羅 hãy nên nói chuyện cùng hồn oan, và gieo thơ tặng sông Mịch La (chỉ Khuất Nguyên 屈原). ② Phong tặng, lấy hàm quan của mình mà truy phong cho các tiên nhân gọi là cáo tặng 誥贈. ③ Tiễn, xua đuổi. ① Biếu, tặng, đưa tặng, phong tặng: 敬贈 Kính biếu, kính tặng; ② (văn) Tiễn xua đuổi."
+  ],
+  "jlpt": "2",
+  "frequency": "1001",
+  "grade": "8"
 }

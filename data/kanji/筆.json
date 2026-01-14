@@ -383,5 +383,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b46.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b46.gif",
     "uri": "https://jisho.org/search/%E7%AD%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "bút"
+  ],
+  "vietnameseMeaning": [
+    "① Cái bút. ② Chép truyện, như bút chi ư thư 筆之書於 chép vào trong sách. Ðức Khổng Tử san kinh Xuân Thu chỗ nào đáng chép thì chép đáng bỏ thì bỏ gọi là bút tước 筆削. Nay nhờ người ta sửa lại văn bài cho cũng gọi là bút tước là vì cớ ấy. ③ Phàm các loài viết vẽ văn tự đều phải dùng đến bút cả, như bút pháp 筆法 phép viết, phép vẽ, thi bút 詩筆 phép thơ, v.v. ① Cây bút, cây viết: 毛筆 Bút lông; 自來水筆 Bút máy; 粉筆 Phấn; ② Viết, soạn: 代筆 Viết hộ; ③ Nét (chữ): “日”字有四筆 Chữ “日” (nhật) có 4 nét; ④ Ngay, thẳng: 筆挺 Ngay ngắn; 筆直 Thẳng tắp; ⑤ (loại) Món, số, khoản: 一筆錢 Một món tiền."
+  ],
+  "jlpt": "2",
+  "frequency": "1132",
+  "grade": "3"
 }

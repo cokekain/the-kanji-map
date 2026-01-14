@@ -76,5 +76,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d0e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d0e.gif",
     "uri": "https://jisho.org/search/%E5%B4%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "khi"
+  ],
+  "vietnameseMeaning": [
+    "kì, khi ① Khi khu 崎嶇 đường núi gập ghềnh. 【崎嶇】khi khu (Đường núi) gập ghềnh, gồ ghề, mấp mô: 崎嶇不平 Gập ghềnh không bằng phẳng."
+  ],
+  "jlpt": "1",
+  "frequency": "533",
+  "grade": "8"
 }

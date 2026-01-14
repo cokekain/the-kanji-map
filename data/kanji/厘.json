@@ -48,5 +48,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05398.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5398.gif",
     "uri": "https://jisho.org/search/%E5%8E%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "li"
+  ],
+  "vietnameseMeaning": [
+    "① Cũng như chữ 釐. Như 釐 (bộ 里). Như 釐"
+  ],
+  "jlpt": "1",
+  "frequency": "1835",
+  "grade": "8"
 }

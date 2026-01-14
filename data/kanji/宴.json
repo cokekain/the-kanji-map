@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bb4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bb4.gif",
     "uri": "https://jisho.org/search/%E5%AE%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "yến"
+  ],
+  "vietnameseMeaning": [
+    "① Yên nghỉ. ② Thết, ăn yến. Lấy rượu thịt thết nhau gọi là yến. ③ Vui. ① Đãi, mời, thết (tiệc): 宴客 Đãi khách, thết khách; ② Yến tiệc, tiệc tùng: 赴宴 Dự tiệc; ③ Yên vui: 宴安 Yên vui."
+  ],
+  "jlpt": "1",
+  "frequency": "1675",
+  "grade": "8"
 }

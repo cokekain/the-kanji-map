@@ -66,5 +66,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0868a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/868a.gif",
     "uri": "https://jisho.org/search/%E8%9A%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "văn"
+  ],
+  "vietnameseMeaning": [
+    "① Con muỗi. Có một thứ muỗi vàng đốt người hay lây bệnh sốt rét gọi là ngược môi văn 瘧媒蚊 muỗi nọc sốt rét. Nguyễn Du 阮攸: Hư trướng tụ văn thanh 虛帳聚蚊聲 (Quế Lâm công quán 桂林公館) màn thưa tiếng muỗi vo ve. Muỗi: 瘧媒蚊 Muỗi truyền bệnh sốt rét; 蚊子叮人 Muỗi đốt người."
+  ],
+  "jlpt": "1",
+  "frequency": "2121",
+  "grade": "8"
 }

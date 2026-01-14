@@ -404,5 +404,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b20.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b20.gif",
     "uri": "https://jisho.org/search/%E6%AC%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "khiếm"
+  ],
+  "vietnameseMeaning": [
+    "① Ngáp, như khiếm thân 欠伸 vươn vai ngáp. ② Thiếu, như khiếm khuyết 欠缺 thiếu thốn. ③ Nợ, như khiếm trướng 欠帳 còn nợ. ① Nợ: 欠債 Mắc nợ, thiếu nợ; ② Thiếu: 說話欠考慮 Nói năng thiếu suy nghĩ; ③ Không: 身體欠安 Không khỏe; ④ Nhổm: 欠身 Nhổm mình; ⑤ Ngáp: 打呵欠 Ngáp ngủ; 欠伸 Vươn vai ngáp."
+  ],
+  "jlpt": "2",
+  "frequency": "860",
+  "grade": "4"
 }

@@ -65,5 +65,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e13.gif",
     "uri": "https://jisho.org/search/%E6%B8%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "khê"
+  ],
+  "jlpt": "1",
+  "frequency": "2063",
+  "grade": "8"
 }

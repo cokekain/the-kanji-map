@@ -375,5 +375,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06674.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6674.gif",
     "uri": "https://jisho.org/search/%E6%99%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "tình",
+    "tạnh"
+  ],
+  "vietnameseMeaning": [
+    "① Tạnh, lúc không mưa gọi là tình. (Trời) quang, tạnh: 天已放晴 Trời đã quang; 雨過天晴 Trời quang mưa tạnh; 晴川 Sông tạnh."
+  ],
+  "jlpt": "2",
+  "frequency": "1022",
+  "grade": "2"
 }

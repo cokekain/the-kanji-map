@@ -357,5 +357,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05178.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5178.gif",
     "uri": "https://jisho.org/search/%E5%85%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "điển"
+  ],
+  "vietnameseMeaning": [
+    "① Kinh điển, phép thường, như điển hình 典刑 phép tắc. Tục viết là 典型. ② Sự cũ, sách ghi các sự cũ gọi là cổ điển 古典. Viết văn dẫn điển tích ngày xưa là điển. ③ Giữ, chủ trương một công việc gì gọi là điển. Như điển tự 典祀 quan coi việc cúng tế. Nhà chùa có chức điển toạ 典座, coi chín việc về chỗ nằm chỗ ngồi. ④ Cầm cố. Thế cái gì vào để vay gọi là điển. ① Mẫu, mẫu mực, phép thường.【典範】điển phạm Mẫu mực, kiểu mẫu, gương mẫu; ② Điển, kinh điển: 詞典 Từ điển; 藥典 Dược điển; ③ Chuyện cũ, việc cũ, điển.【典故】điển cố Điển, điển tích, điển cố; ④ Lễ, lễ nghi: 盛典 Lễ lớn, 開國大盛典 Lễ dựng nước, lễ quốc khánh; ⑤ (văn) Chủ trì, chủ quản, coi giữ: 典試 Quan coi thi; 典獄 Người giữ ngục; 典祀 Quan coi việc cúng tế; 典禮司 Cơ quan coi về các việc nghi tiết, điển lễ; 專典機密 Chuyên coi giữ việc cơ mật (Tam quốc chí); ⑥ Cầm, cầm cố: 出典房子 Đem nhà đi cầm cố; ⑦ (Họ) Điển."
+  ],
+  "jlpt": "1",
+  "frequency": "1055",
+  "grade": "4"
 }

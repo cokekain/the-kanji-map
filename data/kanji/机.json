@@ -252,5 +252,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0673a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/673a.gif",
     "uri": "https://jisho.org/search/%E6%9C%BA%23kanji"
-  }
+  },
+  "hanviet": [
+    "cơ",
+    "kỉ"
+  ],
+  "vietnameseMeaning": [
+    "cơ, ki Như 機"
+  ],
+  "jlpt": "2",
+  "frequency": "1671",
+  "grade": "6"
 }

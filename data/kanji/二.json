@@ -376,5 +376,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e8c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e8c.gif",
     "uri": "https://jisho.org/search/%E4%BA%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhị",
+    "nhì"
+  ],
+  "vietnameseMeaning": [
+    "① Hai, tên số đếm. ① Hai; ② Thứ hai, bậc hai: 二次世界大戰 Chiến tranh thế giới lần thứ hai; 二等貨 Loại hàng bậc hai; ③ Thay đổi, không chuyên nhất: 不二價 Không thách giá; 有死無二 Chết thì chết chứ không thay lòng đổi dạ; 二事敗業 Không chuyên nhất một việc thì sự nghiệp sẽ thất bại (Hậu Hán thư); ④ (văn) Có hai, sánh ngang: 此所謂功無二于天下 Như thế gọi là công lao không có hai (không có ai sánh ngang) trong thiên hạ (Sử kí: Hoài Âm hầu liệt truyện)."
+  ],
+  "jlpt": "4",
+  "frequency": "9",
+  "grade": "1"
 }

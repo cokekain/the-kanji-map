@@ -218,5 +218,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b87.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b87.gif",
     "uri": "https://jisho.org/search/%E5%AE%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "vũ"
+  ],
+  "vietnameseMeaning": [
+    "① Dưới mái hiên, nhà ở cũng gọi là vũ, như quỳnh lâu ngọc vũ 瓊樓玉宇 lầu quỳnh nhà ngọc. ② Bốn phương trên dưới, như gọi thiên hạ là vũ nội 宇內, hoàn vũ 寰宇 nghĩa là ở trong gầm trời vậy. ③ Có nghĩa chỉ về riêng từng bộ, như khí vũ 器宇 khí cục, mi vũ 眉宇 đầu lông mày, v.v. ④ Vũ trụ 宇宙 vũ là chỉ về khoảng không gian, trụ là chỉ về khoảng thời gian, ý nói là hết thẩy trong khoảng trời đất vậy. ① Nhà (cửa), hiên nhà: 屋宇 Nhà cửa; 玉宇 Nhà ngọc; ② Bốn phương trên dưới, không gian, thế giới.【宇宙】vũ trụ Vũ trụ;【宇内】vũ nội Trong gầm trời, trong nước, trong thế giới, trong thiên hạ.【寰宇】hoàn vũ a. Hoàn cầu, toàn thế giới; b. Hoàn vũ, vũ trụ."
+  ],
+  "jlpt": "2",
+  "frequency": "883",
+  "grade": "6"
 }

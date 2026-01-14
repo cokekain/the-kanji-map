@@ -375,5 +375,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05317.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5317.gif",
     "uri": "https://jisho.org/search/%E5%8C%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "bắc"
+  ],
+  "vietnameseMeaning": [
+    "① Phương bắc. ② Trái, cùng ngang trái nhau. Như sĩ vô phản bắc chi tâm 士無反北之心 tướng sĩ không có lòng ngang trái. ③ Thua, như tam chiến tam bắc 三戰三北 đánh ba trận thua cả ba. ① Phương bắc, bắc, bấc: 由南往北 Từ nam sang bắc; 北門 Cửa phía bắc; 東北地區 Vùng Đông Bắc; 北風 Gió bấc; ② (văn) Thua trận: 三戰三北 Đánh ba trận thua cả ba; 連戰皆北 Đánh nhiều trận đều thua; ③ (văn) Phản bội (dùng như 背, bộ 肉): 士無反北之心 Binh sĩ không có lòng phản bội."
+  ],
+  "jlpt": "4",
+  "frequency": "153",
+  "grade": "2"
 }

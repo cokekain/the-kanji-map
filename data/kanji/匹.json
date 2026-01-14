@@ -288,5 +288,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05339.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5339.gif",
     "uri": "https://jisho.org/search/%E5%8C%B9%23kanji"
-  }
+  },
+  "hanviet": [
+    "thất"
+  ],
+  "vietnameseMeaning": [
+    "① Xếp, con. Tính số vải lụa gọi là thất, đời xưa tính dài bốn trượng là một thất. Một con ngựa cũng gọi là nhất thất 一匹. Tục cũng dùng cả chữ thất 疋. ② Ðôi, như thất địch 匹敵, thất trù 匹儔 nghĩa là đây đấy bằng vai xứng đôi cùng nhau. ③ Ðơn, lẻ. Như thất phu 匹夫, thất phụ 匹婦 một người đàn ông thường, một người đàn bà thường. ① (loại) Con (ngựa...), tấm, xấp, súc (vải...): 一匹馬 Một con ngựa; 一匹布 Một tấm vải; ② Xứng đôi, ngang nhau; ③ Lẻ loi, thường."
+  ],
+  "jlpt": "2",
+  "frequency": "1384",
+  "grade": "8"
 }

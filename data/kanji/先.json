@@ -395,5 +395,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05148.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5148.gif",
     "uri": "https://jisho.org/search/%E5%85%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiên"
+  ],
+  "vietnameseMeaning": [
+    "① Trước. ② Người đã chết gọi là tiên, như tiên đế 先帝 vua đời trước, tiên nghiêm 先嚴 cha xưa. ③ Một âm là tiến. Làm trước, như tiến ngã trước tiên 先我著鞭 liệu thế làm trước ta. ① Trước: 先難後易 Trước khó sau dễ; 我已有約在先 Tôi đã có hẹn từ trước. 【先後】 tiên hậu a. Trước sau: 先後互相矛盾 Trước sau mâu thuẫn với nhau; 先後發生的事件 Những sự việc xảy ra trước và sau; b. Tuần tự, lần lượt: 先後展出 Lần lượt triển lãm;【先行】tiên hành a. Đi trước, đi đầu; b. Tiến hành trước, làm trước: 這些新產品將在本省先行供應 Những sản phẩm mới này sẽ cung cấp trước cho tỉnh nhà; ② Tổ tiên, ông cha.【先人】tiên nhân a. Tổ tiên; b. Người cha đã qua đời; ③ (Tôn xưng) những người đời trước đã khuất: 先嚴 Người cha đã khuất; 先烈 Các vị tiên liệt; 先帝 Vua đời trước; ④ Trước kia: 他的技術比先前強多了 Kĩ thuật của anh ta giỏi hơn trước kia rất nhiều; ⑤ (Họ) Tiên."
+  ],
+  "jlpt": "4",
+  "frequency": "173",
+  "grade": "1"
 }

@@ -387,5 +387,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ca1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ca1.gif",
     "uri": "https://jisho.org/search/%E8%B2%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "tài"
+  ],
+  "vietnameseMeaning": [
+    "① Của, là một tiếng gọi tất cả các thứ của cải như tiền nong đồ đạc nhà cửa ruộng đất, hễ có giá trị đều gọi là tài sản 財產, các đồ đạc trong cửa hàng buôn đều gọi là sinh tài 生財. ① Tiền của: 錢財 Tiền của, của cải; 愛財如命 Coi đồng tiền như mạng sống; ② (văn) Vừa mới (dùng như 裁, bộ 衣 và 才, bộ 扌)."
+  ],
+  "jlpt": "2",
+  "frequency": "494",
+  "grade": "5"
 }

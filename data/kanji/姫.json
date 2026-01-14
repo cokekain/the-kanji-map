@@ -62,5 +62,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059eb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59eb.gif",
     "uri": "https://jisho.org/search/%E5%A7%AB%23kanji"
-  }
+  },
+  "hanviet": [
+    "cơ"
+  ],
+  "jlpt": "1",
+  "frequency": "1566",
+  "grade": "8"
 }

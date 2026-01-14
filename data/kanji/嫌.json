@@ -369,5 +369,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05acc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5acc.gif",
     "uri": "https://jisho.org/search/%E5%AB%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "hiềm"
+  ],
+  "vietnameseMeaning": [
+    "① Ngờ, cái gì hơi giống sự thực khiến cho người ngờ gọi là hiềm nghi 嫌疑. ② Không được thích ý cũng gọi là hiềm. ① Hiềm nghi, nghi ngờ, ngờ vực: 避嫌 Tránh sự hiềm nghi; ② Hiềm, hiềm thù, hiềm ghét, không thích ý: 清釋前嫌 Làm tiêu tan mọi hiềm oán trước kia; 這種布很結實，就嫌太厚了 Thứ vải này rất bền, chỉ hiềm cái dày quá."
+  ],
+  "jlpt": "1",
+  "frequency": "1207",
+  "grade": "8"
 }

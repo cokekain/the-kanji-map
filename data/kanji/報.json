@@ -403,5 +403,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05831.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5831.gif",
     "uri": "https://jisho.org/search/%E5%A0%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "báo"
+  ],
+  "vietnameseMeaning": [
+    "① Báo trả, thù đáp lại. ② Quả báo. ③ Bảo rõ, vì thế nên tờ nhật-trình gọi là báo chỉ 報紙, tin dây thép gọi là điện báo 電報, v.v. ④ Kẻ dưới dâm với người trên. ⑤ Vội vã. ① Báo tin, đưa tin, báo cáo, cho biết: 頻頻報捷 Đưa tin thắng lợi liên tiếp; ② Tin tức: 喜報 Tin mừng; 警報 Báo động; ③ Báo chí: 日報 Nhật báo, báo ra hằng ngày; 畫報 Báo ảnh; 周報 Tuần báo, báo ra hằng tuần; ④ Báo đáp, báo đền, đáp lại, đền lại, trả lại: 恩將仇報 Lấy oán trả ơn, ăn mật trả gừng, ăn cháo đá bát."
+  ],
+  "jlpt": "2",
+  "frequency": "167",
+  "grade": "5"
 }

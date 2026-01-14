@@ -82,5 +82,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e8.gif",
     "uri": "https://jisho.org/search/%E6%97%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "chỉ"
+  ],
+  "vietnameseMeaning": [
+    "① Ngon, như chỉ tửu 旨酒 rượu ngon, cam chỉ 甘旨 ngon ngọt, v.v. ② Ý chỉ, như kì chỉ viễn 其旨遠 thửa ý xa, ý nói hàm có ý sâu xa. ③ Chỉ dụ, lời vua ban bảo tôi dân gọi là chỉ. ④ Dùng làm trợ từ như chữ chỉ 只. ① Ý, ý định, ý tứ, ý đồ, mục đích: 要旨 Ý chính, ý định chính; 主旨 Chủ ý, mục đích chính; 宗旨 Tôn chỉ; 其旨遠 Ý sâu xa; ② (cũ) Thánh chỉ, chỉ dụ, lệnh của vua; ③ (văn) Ngon, ngọt: 旨酒 Rượu ngon."
+  ],
+  "jlpt": "1",
+  "frequency": "1166",
+  "grade": "8"
 }

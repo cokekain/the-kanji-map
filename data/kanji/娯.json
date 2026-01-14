@@ -39,5 +39,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a2f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a2f.gif",
     "uri": "https://jisho.org/search/%E5%A8%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngu"
+  ],
+  "jlpt": "1",
+  "frequency": "1827",
+  "grade": "8"
 }

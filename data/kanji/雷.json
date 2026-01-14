@@ -88,5 +88,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096f7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96f7.gif",
     "uri": "https://jisho.org/search/%E9%9B%B7%23kanji"
-  }
+  },
+  "hanviet": [
+    "lôi"
+  ],
+  "vietnameseMeaning": [
+    "① Sấm. Như lôi điện 雷電 sấm sét. ② Dùng thuốc nổ nhồi vào trong cái ống sắt to dùng để phá thành phá luỹ hay phá tàu chiến gọi là lôi. Chôn ở dưới đất gọi là địa lôi 地雷, thả ở mặt nước gọi là thuỷ lôi 水雷. ③ Họ Lôi. ① Sấm: 打雷 Sấm nổ, sấm dậy.【雷電】lôi điện Sấm sét; ② Mìn, vũ khí nổ, lôi: 地雷 Mìn; 水雷 Thuỷ lôi; 布雷 Cài (đặt, chôn, thả, rải) mìn; 掃雷 Quét mìn; ③ (Họ) Lôi."
+  ],
+  "jlpt": "1",
+  "frequency": "1491",
+  "grade": "8"
 }

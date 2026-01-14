@@ -323,5 +323,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f29.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f29.gif",
     "uri": "https://jisho.org/search/%E8%BC%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "bối"
+  ],
+  "vietnameseMeaning": [
+    "① Bực, lũ, bọn. Như tiền bối 前輩 bực trước, hậu bối 後輩 bọn sau, ngã bối 我輩 lũ chúng ta, nhược bối 若輩 lũ chúng bay, v.v. ② Hàng xe, rặng xe. ③ Ví, so sánh. ① Bậc, bề, bối: 前輩 Bậc tiền bối; 長輩 Bậc đàn anh, bề trên; ② Đời: 活了半輩子 Đã nửa đời người; ③ Đồ, hạng, những kẻ: 無能之輩 Đồ bất lực, những kẻ bất tài. (Ngr) Lũ, bọn (chỉ số đông): 我輩 Chúng tôi; 若輩 Lũ chúng bây; ④ (văn) Hàng xe; ⑤ (văn) Ví, so sánh; ⑥ (văn) Hàng loạt, số nhiều: 于是名臣輩出 Nhờ vậy bầy tôi giỏi xuất hiện hàng loạt (Hậu Hán thư: Sái Ung truyện)."
+  ],
+  "jlpt": "1",
+  "frequency": "1365",
+  "grade": "8"
 }

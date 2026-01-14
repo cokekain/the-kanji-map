@@ -305,5 +305,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06016.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6016.gif",
     "uri": "https://jisho.org/search/%E6%80%96%23kanji"
-  }
+  },
+  "hanviet": [
+    "bố"
+  ],
+  "vietnameseMeaning": [
+    "① Hãi. Sợ hãi cuống quýt lên gọi là khủng phố 恐怖. ② Doạ nạt. ① Sợ, sợ hãi, khiếp: 可 怖 Đáng sợ; 白色恐怖 Khủng bố trắng; ② Doạ nạt."
+  ],
+  "jlpt": "2",
+  "frequency": "1325",
+  "grade": "8"
 }

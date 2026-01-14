@@ -372,5 +372,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bbf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bbf.gif",
     "uri": "https://jisho.org/search/%E6%AE%BF%23kanji"
-  }
+  },
+  "hanviet": [
+    "điện"
+  ],
+  "vietnameseMeaning": [
+    "điện, điến ① Cung đền, nhà vua ở gọi là điện, chỗ thờ thần thánh cũng gọi là điện. Ta gọi vua hay thần thánh là điện hạ 殿下 là bởi nghĩa đó. ② Một âm là điến. Trấn định, yên tĩnh, đi sau quân cũng gọi là điến. ③ Xét công thua kém người gọi là điến. ① Điện: 宮殿 Cung điện; ② (Đi) sau (trong cuộc hành quân): 打殿後 Đi sau cùng; ③ (văn) Trấn định, trấn thủ: 殿天子之邦 Giúp thiên tử trấn thủ bốn phương (Thi Kinh: Tiểu nhã, Thái thúc)."
+  ],
+  "jlpt": "2",
+  "frequency": "1199",
+  "grade": "8"
 }

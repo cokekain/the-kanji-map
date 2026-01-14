@@ -61,5 +61,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0755d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/755d.gif",
     "uri": "https://jisho.org/search/%E7%95%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "mẫu"
+  ],
+  "vietnameseMeaning": [
+    "① Mẫu, mười sào là một mẫu (3600 thước vuông tây là một mẫu). ② Khu ruộng, phần ruộng. ① Mẫu (bằng 1/15 hecta); ② (văn) Khu ruộng, phần ruộng."
+  ],
+  "jlpt": "1",
+  "frequency": "2327",
+  "grade": "8"
 }

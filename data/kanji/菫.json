@@ -61,5 +61,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083eb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83eb.gif",
     "uri": "https://jisho.org/search/%E8%8F%AB%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngẩn"
+  ],
+  "vietnameseMeaning": [
+    "cẩn ① Rau cần cạn. Như 墐 (bộ 土). Rau cần cạn."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

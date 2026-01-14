@@ -53,5 +53,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69fd.gif",
     "uri": "https://jisho.org/search/%E6%A7%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "tào",
+    "tàu"
+  ],
+  "vietnameseMeaning": [
+    "① Cái máng cho giống muông ăn. ② Cái gác dây đàn tì bà. ③ Cái gì hai bên cao mà giữa trũng đều gọi là tào, như nghiên tào 研槽 cái thuyền tán, dục tào 浴槽 cái bồn để tắm. ④ Tửu tào 酒槽 cái đồ đựng rượu. ⑤ Tên cây gỗ mềm. ① Máng (cho súc vật ăn, hoặc để dẫn nước): 馬槽 Máng cho ngựa ăn; ② Lòng (sông): 河槽 Lòng sông; ③ Rãnh, mương: 挖水槽 Đào mương, khơi rãnh; ④ Xem 跳槽 ; ⑤ (văn) Cái gác dây đàn tì bà."
+  ],
+  "jlpt": "1",
+  "frequency": "1809",
+  "grade": "8"
 }

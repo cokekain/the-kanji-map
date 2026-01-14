@@ -91,5 +91,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e8f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e8f.gif",
     "uri": "https://jisho.org/search/%E7%BA%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "triền"
+  ],
+  "vietnameseMeaning": [
+    "① Ràng rịt, quấn quanh, vây bọc, như triền nhiễu 纏繞 chèn chặn. ② Người theo đạo Hồi lấy vải chằng chịt vào đầu gọi là triền hồi 纏回. ① Quấn, vấn, bó, ràng, bọc: 纏繃帶 Quấn băng; 拿繃帶纏傷口 Lấy băng bó vết thương; 頭上纏着一塊毛巾 Đầu vấn một chiếc khăn mặt; ② Quấy phá, quấy rầy, vướng víu: 你別纏我 Đừng có quấy rầy tôi; 他被事情纏住了，不能來 Anh ấy vướng víu công việc không đến được."
+  ],
+  "grade": "9"
 }

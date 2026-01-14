@@ -405,5 +405,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0523b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/523b.gif",
     "uri": "https://jisho.org/search/%E5%88%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "khắc"
+  ],
+  "vietnameseMeaning": [
+    "① Khắc, lấy dao chạm trổ vào cái gì gọi là khắc. ② Thời khắc, ngày xưa dùng cái gáo đồng, giữa châm một lỗ để nước dần dần rỏ xuống, để định thời giờ, gọi là khắc lậu 刻漏. Theo đồng hồ bây giờ định cứ mười lăm phút là một khắc, bốn khắc là một giờ. ③ Ngay tức thì, như lập khắc 立刻 lập tức. ④ Bóc lột, như khắc bác 刻剝 bóc lột của người. ⑤ Sâu sắc, như hà khắc 苛刻 xét nghiệt ngã, khắc bạc 刻薄 cay nghiệt, v.v. ① Khắc: 刻圖章 Khắc dấu; ② Một khắc (= 15 phút); ③ Khoảnh khắc: 即刻 Tức khắc; 此刻 Bây giờ, giờ đây; ④ Khắc nghiệt, khắt khe, nghiệt ngã: 待人太刻 Đối đãi quá khắt khe!; 荷刻 Hà khắc, nghiệt ngã; ⑤ Bóc lột: 刻剝 Bóc lột."
+  ],
+  "jlpt": "2",
+  "frequency": "866",
+  "grade": "6"
 }

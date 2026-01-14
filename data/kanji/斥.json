@@ -51,5 +51,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65a5.gif",
     "uri": "https://jisho.org/search/%E6%96%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "xích",
+    "xịch"
+  ],
+  "vietnameseMeaning": [
+    "① Ðuổi, gạt ra. ② Chê, bác, như chỉ xích 指斥 chỉ chỗ lầm ra mà bác đi. ③ Bới thấy, như sung xích 充斥 bới thấy rất nhiều. Sự vật đầy dẫy cũng gọi là sung xích. ④ Dò xem, như xích hậu 斥候 dò xét xem tình hình quân địch thế nào. ⑤ Khai thác, như xích thổ 斥土 khai thác đất cát. ⑥ Ðất mặn. ① Khiển trách, công kích, bài xích, lên án: 痛斥 Kịch liệt lên án; ② Gạt, đuổi: 他被排斥在外 Nó bị gạt ra ngoài; ③ Bác: 駁斥 Bác bỏ, bác lại; ④ Nhiều, đầy: 充斥 Đầy dẫy; ⑤ (văn) Dò xét.【斥候】xích hậu (văn) Xích hậu (người đi dò xét tình hình quân địch ở mặt trận); ⑥ (văn) Khai thác: 斥土 Khai thác đất đai; ⑦ (văn) Đất mặn."
+  ],
+  "jlpt": "1",
+  "frequency": "2231",
+  "grade": "8"
 }

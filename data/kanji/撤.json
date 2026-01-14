@@ -34,5 +34,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064a4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64a4.gif",
     "uri": "https://jisho.org/search/%E6%92%A4%23kanji"
-  }
+  },
+  "hanviet": [
+    "triệt"
+  ],
+  "vietnameseMeaning": [
+    "① Bỏ đi, trừ đi, cất đi. ① Rút (ra khỏi), rút lui: 邊打邊撤 Vừa đánh vừa rút lui; ② Bãi bỏ, cách, cất (chức), (dọn) dẹp: 撤他的職 Cách chức nó; 把這些碗筷撤了 Dẹp chén đũa này đi."
+  ],
+  "jlpt": "1",
+  "frequency": "811",
+  "grade": "8"
 }

@@ -339,5 +339,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e2d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e2d.gif",
     "uri": "https://jisho.org/search/%E5%B8%AD%23kanji"
-  }
+  },
+  "hanviet": [
+    "tịch"
+  ],
+  "vietnameseMeaning": [
+    "① Cái chiếu. ② Nhờ, nhân vì. Như tịch tiền nhân chi dư liệt 席前人之餘烈 nhờ chưng nghiệp thừa của người trước. ③ Chỗ ngồi, ngày xưa giải chiếu xuống đất mà ngồi nên gọi chỗ ngồi là tịch. ④ Ngày xưa giải chiếu để làm việc nên gọi chức vụ là tịch, như hình tịch 刑席, người bàn giúp về việc hình danh. ⑤ Bao quát, như tịch quyển thiên hạ 席卷天下 cuốn sách cả thiên hạ. ① (Chiếc) chiếu: 草席 Chiếu cói; 籐席 Chiếu mây; ② Chỗ ngồi, ghế (trong nghị trường): 請入席 Mời vào chỗ ngồi; 來賓席 Chỗ ngồi của khách, hàng ghế danh dự; 在議會占有五十席 Chiếm được 50 ghế trong nghị trường (viện); ③ Tiệc rượu, mâm cỗ: 擺了十桌席 Bày ra mười bàn tiệc; 訂做五席酒 Đặt làm năm bàn tiệc; ④ Buồm; ⑤ (văn) Nhờ, dựa vào: 席前人之餘烈 Nhờ vào nghiệp thừa của người đời trước; ⑥ (Ngb) Bao quát, tất cả, sạch hết.【席捲】tịch quyển Cuộn vào tất cả, cuộn sạch (cuốn chiếu): 席捲而逃 Lấy sạch của cải trốn chạy; 已席捲全國 Đã lan rộng khắp cả nước; ⑦ (Họ) Tịch."
+  ],
+  "jlpt": "2",
+  "frequency": "370",
+  "grade": "4"
 }

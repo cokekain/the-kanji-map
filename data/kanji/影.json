@@ -350,5 +350,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f71.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f71.gif",
     "uri": "https://jisho.org/search/%E5%BD%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "ảnh"
+  ],
+  "vietnameseMeaning": [
+    "① Bóng, cái gì có hình tất có bóng, nên sự gì có quan thiệp đến gọi là ảnh hưởng 影響. ② Tấm ảnh. ① (Bức, tấm) ảnh: 合影 Ảnh chụp chung; ② Điện ảnh, chiếu bóng (nói tắt): 影院 Rạp chiếu bóng; 影評 Bình luận điện ảnh; ③ Bóng: 樹影 Bóng cây."
+  ],
+  "jlpt": "1",
+  "frequency": "464",
+  "grade": "8"
 }

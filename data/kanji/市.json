@@ -405,5 +405,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e02.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e02.gif",
     "uri": "https://jisho.org/search/%E5%B8%82%23kanji"
-  }
+  },
+  "hanviet": [
+    "thị"
+  ],
+  "vietnameseMeaning": [
+    "① Chợ, nơi mua bán: 菜市 Chợ rau; 開市 Mở hàng; 罷市 Bãi chợ, bãi thị; ② Thành phố, thành thị: 胡志明市 Thành phố Hồ Chí Minh; 都市 Đô thị; 城市 Thành thị, thành phố; ③ Chỉ các thứ đo lường của Trung Quốc: 市鬥 Đấu Trung Quốc; 市斤 Cân Trung Quốc; 市里 Dặm; ④ (văn) Mua: 市恩 Mua ơn."
+  ],
+  "jlpt": "3",
+  "frequency": "42",
+  "grade": "2"
 }

@@ -65,5 +65,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09855.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9855.gif",
     "uri": "https://jisho.org/search/%E9%A1%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "hiển"
+  ],
+  "jlpt": "1",
+  "frequency": "1536",
+  "grade": "8"
 }

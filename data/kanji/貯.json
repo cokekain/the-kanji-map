@@ -298,5 +298,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08caf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8caf.gif",
     "uri": "https://jisho.org/search/%E8%B2%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "trữ"
+  ],
+  "vietnameseMeaning": [
+    "① Tích chứa. Như trữ tồn 貯存. Cất chứa, tích chứa, trữ: 缸裏貯滿了水 Trong vại chứa đầy nước; 貯糧備荒 Trữ lương thực để phòng thiên tai."
+  ],
+  "jlpt": "2",
+  "frequency": "1100",
+  "grade": "4"
 }

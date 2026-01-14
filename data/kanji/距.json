@@ -68,5 +68,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ddd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ddd.gif",
     "uri": "https://jisho.org/search/%E8%B7%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "cự",
+    "cựa"
+  ],
+  "vietnameseMeaning": [
+    "① Cựa gà. ② Khoảng cách nhau. Như tương cự tam thốn 相距三寸 chỗ cùng cách nhau ba tấc. ③ Chống cự, cùng nghĩa với chữ 拒. ④ Lớn. ⑤ Đến. ① Cách: 相距不遠 Cách nhau không xa; 距今數日 Cách đây ít ngày; ② Khoảng cách: 等距 Khoảng cách đều nhau; 株距 Khoảng cách giữa hai cây (khóm) lúa hoặc ngô v.v. ③ (động) Cựa gà; ④ (văn) Chống cự (dùng như 拒, bộ 扌); ⑤ (văn) Lớn; ⑥ (văn) Đến."
+  ],
+  "jlpt": "1",
+  "frequency": "1191",
+  "grade": "8"
 }

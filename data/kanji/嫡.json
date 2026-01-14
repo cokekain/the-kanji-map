@@ -70,5 +70,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ae1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ae1.gif",
     "uri": "https://jisho.org/search/%E5%AB%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "đích"
+  ],
+  "vietnameseMeaning": [
+    "① Vợ cả, con vợ cả gọi là đích tử 嫡子. ① (Vợ, dòng) chính, cả, đích: 嫡長子 Con trai đích, con trưởng vợ cả; ② Dòng họ gần nhất, ruột thịt."
+  ],
+  "jlpt": "1",
+  "frequency": "2130",
+  "grade": "8"
 }

@@ -38,5 +38,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59a5.gif",
     "uri": "https://jisho.org/search/%E5%A6%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "thỏa",
+    "thoả"
+  ],
+  "vietnameseMeaning": [
+    "① Yên, như thoả thiếp 妥帖, thoả đáng 妥當, v.v. ① Xong xuôi, ổn, ổn thoả, thoả đáng: 已經商量妥了 Đã bàn xong xuôi rồi; 這樣做不妥 Làm như thế không ổn."
+  ],
+  "jlpt": "1",
+  "frequency": "1102",
+  "grade": "8"
 }

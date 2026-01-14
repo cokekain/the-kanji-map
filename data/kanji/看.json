@@ -294,5 +294,19 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0770b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/770b.gif",
     "uri": "https://jisho.org/search/%E7%9C%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "khán",
+    "khan",
+    "khản",
+    "khăn",
+    "khen",
+    "khớn"
+  ],
+  "vietnameseMeaning": [
+    "① Coi, xem. ② Giữ gìn, như khán thủ 看守, khán hộ 看護, v.v. ③ Coi, đãi. Như bất tác bố y khán 不作布衣看 chẳng đãi như bực hèn. ④ Hãy coi thử một cái, dùng làm trợ ngữ. Trông, coi, giữ, gác: 看門 Gác cửa, giữ cửa; 看家 Trông nhà, coi nhà. (Ngr) Canh giữ, theo dõi, bám sát: 把他看起來 Theo dõi nó, bám sát nó. Xem 看 . ① Nhìn, trông, nom, xem: 看書 Xem sách, đọc sách; 看問題 Nhìn vấn đề, nhìn nhận vấn đề, nhận xét vấn đề; 床前看月光，疑是地上霜 Đầu giường nhìn trăng sáng, tưởng là sương trên đất (Lí bạch: Tĩnh dạ tư); ② Xem (xét), khám, chữa: 察看 Xem xét; 看脈 Xem mạch, bắt mạch; 大夫把我的病看好了 Bác sĩ đã chữa khỏi bệnh cho tôi; ③ Thăm: 出門看朋友 Đi thăm bạn; ④ Đối đãi, coi: 另眼相看 Đối đãi khác, biệt nhãn; 不作布衣看 Không đối đãi như đối với kẻ nghèo hèn; ⑤ Thấy, nghĩ, cho rằng: 我看應該這麼辦 Tôi thấy phải làm như vậy; ⑥ Thử xem: 問一聲看 Thử hỏi xem; 做做看 Thử làm xem; ⑦ Khéo, kẻo: 別跑，看摔着 Đừng chạy, khéo (kẻo) ngã đấy! Xem 看 ."
+  ],
+  "jlpt": "2",
+  "frequency": "1060",
+  "grade": "6"
 }

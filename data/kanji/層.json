@@ -326,5 +326,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c64.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c64.gif",
     "uri": "https://jisho.org/search/%E5%B1%A4%23kanji"
-  }
+  },
+  "hanviet": [
+    "tầng"
+  ],
+  "vietnameseMeaning": [
+    "① Từng, lớp, hai lần. Như tằng lâu 層樓 gác hai từng. Phàm cái gì hai lần chập chồng đều gọi là tằng. Sự gì có trật tự gọi là tằng thứ 層次. ① Tầng, từng: 二層樓 Nhà lầu hai tầng; ② Lớp: 兩層玻璃窗 Cửa sổ hai lớp kính; 一層土 Một lớp đất; ③ Lượt: 兩層棉花 Hai lượt bông; ④ Việc: 還有一層務必注意 Còn một việc nữa cần chú ý; ⑤ Trùng điệp, trập trùng"
+  ],
+  "jlpt": "2",
+  "frequency": "801",
+  "grade": "6"
 }

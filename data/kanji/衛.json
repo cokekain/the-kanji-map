@@ -351,5 +351,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0885b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/885b.gif",
     "uri": "https://jisho.org/search/%E8%A1%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "vệ"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ 衞. Như 衞."
+  ],
+  "jlpt": "1",
+  "frequency": "400",
+  "grade": "5"
 }

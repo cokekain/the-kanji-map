@@ -270,5 +270,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90e1.gif",
     "uri": "https://jisho.org/search/%E9%83%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "quận"
+  ],
+  "vietnameseMeaning": [
+    "① Quận. Một tên riêng để gọi khu đất đã chia giới hạn. Như nước ta ngày xưa chia làm 12 quận. Quận: 郡縣 Quận và huyện; 昔我越分國爲十二郡Nước ta thời xưa chia làm 12 quận; 交趾郡 Quận Giao Chỉ."
+  ],
+  "jlpt": "1",
+  "frequency": "965",
+  "grade": "4"
 }

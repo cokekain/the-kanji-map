@@ -49,5 +49,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0540f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/540f.gif",
     "uri": "https://jisho.org/search/%E5%90%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "lại"
+  ],
+  "vietnameseMeaning": [
+    "① Sửa trị. Chức xử sự trị dân gọi là lại, vì thế nên quan cũng gọi là lại. Cái việc chức phận các quan địa phương phải làm gọi là lại trị 吏治. ② Kẻ lại, các chức dưới quyền quan gọi là lại. Như thông lại 通吏, đề lại 題吏, v.v. Quan lại: 胥吏 Quan lại nhỏ; 通吏 Thuộc viên ở các phủ huyện; 題吏 Thư kí ở huyện sảnh."
+  ],
+  "jlpt": "1",
+  "grade": "8"
 }

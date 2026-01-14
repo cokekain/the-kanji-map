@@ -363,5 +363,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d3e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d3e.gif",
     "uri": "https://jisho.org/search/%E6%B4%BE%23kanji"
-  }
+  },
+  "hanviet": [
+    "phái"
+  ],
+  "vietnameseMeaning": [
+    "① Dòng nước. ② Sự gì chia ngành riêng cũng gọi là phái, như học phái 學派 phái học, đảng phái 黨派, v.v. ③ Phân phối các việc gọi là phái, như phái viên 派員 người chính phủ sai đi làm một chức sự gì. 【派司】ba ti (đph) ① Bài tây; ② Giấy thông hành, thẻ ra vào. Xem 派 . ① Phe, cánh, phái, phe phái, bè phái, bè lũ: 左派 Cánh tả, phe tả; 浪漫派 Phái lãng mạn; 宗派主義 Chủ nghĩa bè phái; ② Cử đi, sai đi, phái đi, cho người đến (đi): 派專人去 Cử người chuyên trách đi; 派人到河内去 Cử (cho) người đi Hà Nội; 派軍隊上前線 Cho bộ đội ra mặt trận; 派人回去取錢 Sai người về nhà lấy tiền; 被派當廠長 Được uỷ (cử) làm quản đốc nhà máy. Xem 派 ."
+  ],
+  "jlpt": "1",
+  "frequency": "164",
+  "grade": "6"
 }

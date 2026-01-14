@@ -376,5 +376,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0618e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/618e.gif",
     "uri": "https://jisho.org/search/%E6%86%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "tăng"
+  ],
+  "vietnameseMeaning": [
+    "① Ghét, trái lại với tiếng yêu, như diện mục khả tăng 面目可憎 mặt mắt khá ghét. Ghét: 面目可憎 Mặt mày dễ ghét; 憎會遇 Ghét mà lại gặp nhau; 愛憎分明 Yêu ghét rõ ràng."
+  ],
+  "jlpt": "2",
+  "frequency": "1808",
+  "grade": "8"
 }

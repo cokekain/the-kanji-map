@@ -410,5 +410,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09006.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9006.gif",
     "uri": "https://jisho.org/search/%E9%80%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "nghịch"
+  ],
+  "vietnameseMeaning": [
+    "① Trái. Trái lại với chữ thuận 順. Phàm cái gì không thuận đều gọi là nghịch cả. ② Can phạm, kẻ dưới mà phản đối người trên cũng gọi là nghịch. Như ngỗ nghịch 忤逆 ngang trái. bạn nghịch 叛逆 bội bạn. ③ Rối loạn. ④ Đón. Bên kia lại mà bên này nhận lấy gọi là nghịch. Như nghịch lữ 逆旅 khách trọ. ⑤ Toan lường, tính trước lúc việc chưa xảy ra. Như nghịch liệu 逆料 liệu trước. ⑥ Tờ tâu vua. Từ nghĩa 4 trở xuống ta quen đọc là chữ nghịnh. ① Ngược, trái, nghịch: 逆时代潮流而动 Đi ngược lại trào lưu thời đại; 逆耳 Trái tai; ② (văn) Đón, tiếp rước: 逆旅 Nơi đón nhận quán trọ; ③ (văn) Chống lại, làm phản, bội phản, phản nghịch: 叛逆 Phản nghịch; ④ (văn) (Tính) trước: 逆料 Lo lường trước, tính trước; ⑤ (văn) Rối loạn; ⑥ (văn) Tờ tâu vua."
+  ],
+  "jlpt": "2",
+  "frequency": "683",
+  "grade": "5"
 }

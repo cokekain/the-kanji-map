@@ -75,5 +75,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09418.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9418.gif",
     "uri": "https://jisho.org/search/%E9%90%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "chung",
+    "chuông"
+  ],
+  "vietnameseMeaning": [
+    "① Cái chuông. Trong chùa cứ sớm và tối thì khua chuông, cho nên mới gọi cái đồng hồ đánh chuông là chung. ① Đồng hồ; ② Cái chuông; ③ (Họ) Chung."
+  ],
+  "jlpt": "1",
+  "frequency": "1681",
+  "grade": "8"
 }

@@ -52,5 +52,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09091.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9091.gif",
     "uri": "https://jisho.org/search/%E9%82%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "ấp"
+  ],
+  "vietnameseMeaning": [
+    "① Một tên riêng để gọi một khu đất. Ngày xưa tự xưng nước mình là tệ ấp 敝邑, người cùng một huyện gọi là đồng ấp 同邑. Một mình đứng lên chiêu tập một số người cùng ở một chòm để khai khẩn ruộng nương cũng gọi là ấp. ② Ư ấp 於邑 nghẹn hơi. Hơi bốc ngược lên chẹn chặt cổ họng không xuôi xuống được gọi là ư ấp. ① Thành phố, thị trấn: 都邑 Đô thành, thành phố, thành thị; 通都大邑 Thành phố rộng lớn; ② Huyện: 同邑 Người cùng huyện; ③ (văn) Ấp (thời xưa, chỗ đất lớn là đô, chỗ đất nhỏ là ấp), nước chư hầu: 傅不以蠻堿而丹不肖，乃使先生來降敝邑 Ngài không cho nước Yên là đất của mọi rợ và Đan này bất tiếu, nên mới khiến cho tiên sinh đến nước tôi (Yên Đan tử); ④ Xem 於邑 (bộ 方)."
+  ],
+  "jlpt": "1",
+  "frequency": "2452",
+  "grade": "9"
 }

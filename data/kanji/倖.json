@@ -56,5 +56,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05016.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5016.gif",
     "uri": "https://jisho.org/search/%E5%80%96%23kanji"
-  }
+  },
+  "hanviet": [
+    "hãnh"
+  ],
+  "vietnameseMeaning": [
+    "① May, như kiểu hãnh 僥倖 cầu may. Cũng cùng nghĩa như chữ hạnh 幸 may. Như 幸 (bộ 干). Xem 僥倖."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

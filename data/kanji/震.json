@@ -375,5 +375,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09707.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9707.gif",
     "uri": "https://jisho.org/search/%E9%9C%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "chấn"
+  ],
+  "vietnameseMeaning": [
+    "① Sét đánh. ② Rung động. Như địa chấn 地震 động đất, nguyên nhân vì núi lửa phun lửa mạnh quá, vì vùng đất nó thụt hay vì vỏ quả đất nó rút lại. ③ Sợ hãi. Như chấn kinh 震驚 sợ khiếp. ④ Quẻ Chấn, trong bốn phương thuộc về phương đông. ① Rung động, chấn động: 把玻璃震¸H了 Kính bị rung vỡ rồi; 地震 Động đất; 地震學 Địa chấn học; ② Inh, vang: 震耳 Inh tai; 名震全球 Tiếng vang khắp thế giới; ③ Hoảng, hoảng sợ, sợ hãi: 敵人大震 Kẻ địch rất hoảng sợ; ④ Kích động, chạm mạnh; ⑤ (văn) Sét đánh, sấm động; ⑥ Quẻ Chấn (trong Bát quái)."
+  ],
+  "jlpt": "2",
+  "frequency": "893",
+  "grade": "8"
 }

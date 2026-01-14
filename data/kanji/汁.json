@@ -92,5 +92,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c41.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c41.gif",
     "uri": "https://jisho.org/search/%E6%B1%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "trấp",
+    "chấp"
+  ],
+  "vietnameseMeaning": [
+    "① Nước, nhựa. Vật gì có nước lỏng chảy ra gọi là trấp. ② Vừa mưa vừa sa tuyết. ③ Một âm là hiệp. Hoà, cùng nghĩa với chữ hiệp 協. ① Chất nước đặc, nhựa: 乳汁 Nước sữa; 豆汁 Sữa đậu; 桔子汁 Nước cam; 檸檬汁 Nước chanh; ② (văn) Vừa mưa vừa có tuyết. Như 協 (bộ 十)."
+  ],
+  "jlpt": "1",
+  "frequency": "1843",
+  "grade": "8"
 }

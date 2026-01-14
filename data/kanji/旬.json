@@ -64,5 +64,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65ec.gif",
     "uri": "https://jisho.org/search/%E6%97%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "tuần"
+  ],
+  "vietnameseMeaning": [
+    "① Tuần, mười ngày gọi là một tuần, một tháng có ba tuần. Từ mồng một đến mồng mười là thượng tuần 上旬, từ mười một đến hai mươi là trung tuần 中旬, từ hai mười mốt đến ba mươi là hạ tuần 下旬. Tục bảo một năm dưới trần bằng một ngày trên trời, cho nên sự chúc thọ gọi mười năm là một tuần, như thất tuần thượng thọ 七旬上壽, bát tuần thượng thọ 八旬上壽, v.v. ② Khắp, như lai tuần lai tuyên 來旬來宣đi khắp nơi để tuyên bố đức chánh của vua. ③ Một âm là quân. Một thứ thuế bắt dân phải làm việc. (văn) Rất lớn. ① Mười ngày, tuần: 五月上旬 Thượng tuần tháng 5; 圍梁數旬 Vây đất Lương vài tuần (vài chục ngày) (Hàn Phi tử); ② Mười tuổi, chục, tuần: 年約四旬 Tuổi trạc bốn mươi, tuổi trạc tứ tuần; ③ (văn) Tròn vòng: 旬歲 Tròn một năm; 旬月 Tròn một tháng."
+  ],
+  "jlpt": "1",
+  "frequency": "1162",
+  "grade": "8"
 }

@@ -71,5 +71,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f31.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f31.gif",
     "uri": "https://jisho.org/search/%E6%BC%B1%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Súc miệng. ② Mòn, vật gì bị nước ngâm thám xói nát đều gọi là sấu. ③ Giặt, tục viết là 潄. Ta quen đọc là chữ thấu. ① Súc miệng: 漱口 Súc miệng; ② (văn) Thấm mòn (do nước); ③ (văn) Giặt."
+  ],
+  "hanviet": [
+    "sấu",
+    "thấu"
+  ],
+  "jlpt": "1",
+  "frequency": "2054",
+  "grade": "9"
 }

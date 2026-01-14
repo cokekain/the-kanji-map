@@ -49,5 +49,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05506.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5506.gif",
     "uri": "https://jisho.org/search/%E5%94%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "toa"
+  ],
+  "vietnameseMeaning": [
+    "① Xuýt làm, xúi làm, như toa tụng 唆訟 xúi kiện. Sai khiến, xúi giục, xúi bẩy: 唆使 Xúi giục, xúi bẩy, xúi; 唆訟 Xúi kiện cáo."
+  ],
+  "jlpt": "1",
+  "frequency": "1278",
+  "grade": "8"
 }

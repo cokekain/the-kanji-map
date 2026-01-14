@@ -406,5 +406,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e38.gif",
     "uri": "https://jisho.org/search/%E4%B8%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "hoàn"
+  ],
+  "vietnameseMeaning": [
+    "① Viên, phàm vật gì nhỏ mà tròn đều gọi là hoàn, như đạn hoàn 彈丸 viên đạn. ② Thẳng thắn, như tùng bách hoàn toàn 松柏丸全 cây tùng cây bách thẳng thắn. ① Viên: 一丸藥 Một viên thuốc; 彈丸 Viên đạn; 奉藥一丸 Dâng cho một viên thuốc (Tào Thực: Thiện chiến hành); ② Viên đạn: 從台上彈人，而觀其辟丸也 Từ trên đài bắn người, mà xem người tránh đạn (Tả truyện: Tuyên công nhị niên); ③ Trứng: 流沙之西，丹山之南有鳳之丸 Ở phía tây Lưu Sa, phía nam Đan Sơn, có trứng con phượng (Lã thị Xuân thu: Bản vị)."
+  ],
+  "jlpt": "2",
+  "frequency": "542",
+  "grade": "2"
 }

@@ -349,5 +349,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066ae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66ae.gif",
     "uri": "https://jisho.org/search/%E6%9A%AE%23kanji"
-  }
+  },
+  "hanviet": [
+    "mộ"
+  ],
+  "vietnameseMeaning": [
+    "① Tối, lúc mặt trời sắp lặn gọi là mộ. ② Già, cuối, như mộ niên 暮年 tuổi già, tuế mộ 歲暮 cuối năm, mộ khí 暮氣 hơi tàn, v.v. (nói lúc ý khí đã suy kém). ① Trời sắp tối: 暮色 Mờ mờ tối, xâm xẩm tối; ② (Thời gian) sắp hết, cuối, già: 暮年 Tuổi cuối đời; 歲暮 Cuối năm; 日暮鄉關何處是，煙波江上使人愁 Trời tối quê hương đâu tá nhỉ? Đầy sông khói sóng gợi niềm tây (Thôi Hiệu: Hoàng hạc lâu)."
+  ],
+  "jlpt": "2",
+  "frequency": "978",
+  "grade": "6"
 }

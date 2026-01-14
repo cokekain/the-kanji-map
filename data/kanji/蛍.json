@@ -62,5 +62,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86cd.gif",
     "uri": "https://jisho.org/search/%E8%9B%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "huỳnh"
+  ],
+  "jlpt": "1",
+  "frequency": "2031",
+  "grade": "8"
 }

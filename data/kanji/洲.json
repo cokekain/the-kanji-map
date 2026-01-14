@@ -82,5 +82,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d32.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d32.gif",
     "uri": "https://jisho.org/search/%E6%B4%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "chao",
+    "châu"
+  ],
+  "vietnameseMeaning": [
+    "① Bãi cù lao, trong nước có chỗ ở được gọi là châu. ② Châu, đất liền lớn gọi là châu. Ðịa cầu chia làm sáu châu là châu Á, Âu, Phi, Úc, Nam Mĩ, Bắc Mĩ. ① Cồn, bãi, cù lao (giữa sông): 沙洲 Cồn cát; 綠洲 Ốc đảo; 關關睢鳩，在河之州 Quan quan cái con thư cưu, con sống con mái cùng nhau bãi ngoài (Thi Kinh); ② Châu: 亞洲 Châu Á; 五大洲 Năm đại châu; 五洲四海 Năm châu bốn biển."
+  ],
+  "jlpt": "1",
+  "frequency": "1979",
+  "grade": "9"
 }

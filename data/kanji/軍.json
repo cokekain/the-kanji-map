@@ -379,5 +379,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ecd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ecd.gif",
     "uri": "https://jisho.org/search/%E8%BB%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "quân"
+  ],
+  "vietnameseMeaning": [
+    "① Quân lính. Như lục quân 陸軍 quân bộ, hải quân 海軍 quân thuỷ, ngày xưa vua có sáu cánh quân, mỗi cánh quân có 125000 quân. Phép binh bây giờ thì hai sư đoàn gọi là một cánh quân. ② Một tiếng thông thường gọi về việc binh. Như tòng quân 從軍 ra lính, hành quân 行軍 đem quân đi, v.v. ③ Chỗ đóng binh cũng gọi là quân. ④ Tội đày đi xa. ⑤ Một tên gọi về sự chia đất đai cũng như huyện, tổng, xã vậy. ① Quân lính, quân đội, đội quân: 我軍 Quân ta; 敵軍 Quân địch; 生產大軍 Đội quân sản xuất; 勞動後備軍 Đội quân dự bị lao động; ② Quân đoàn: 第一軍軍長 Quân đoàn trưởng quân đoàn 1; 軍政委 Chính uỷ quân đoàn; 兩個軍 Hai quân đoàn; ③ (văn) Chỗ đóng quân; ④ (văn) Tội đày đi xa; ⑤ (văn) Quân (đơn vị hành chánh thời xưa, như huyện, tổng...)."
+  ],
+  "jlpt": "2",
+  "frequency": "189",
+  "grade": "4"
 }

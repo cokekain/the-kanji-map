@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63e1.gif",
     "uri": "https://jisho.org/search/%E6%8F%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "ác"
+  ],
+  "vietnameseMeaning": [
+    "① Cầm, nắm. ② Nắm tay lại. ③ Cầm lấy. ④ Cùng nghĩa với chữ ác 幄. ① Nắm, cầm: 緊握手中槍 Nắm chắc tay súng; ② (văn) Như 幄 (bộ 巾)."
+  ],
+  "jlpt": "1",
+  "frequency": "1003",
+  "grade": "8"
 }

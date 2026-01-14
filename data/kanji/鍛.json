@@ -51,5 +51,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0935b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/935b.gif",
     "uri": "https://jisho.org/search/%E9%8D%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "đoạn",
+    "đoán"
+  ],
+  "vietnameseMeaning": [
+    "① Gió sắt, rèn sắt. ② Rửa, mài giũa cho sắc bén. Như đoán luyện 鍛鍊 rèn đúc, rèn luyện. ① Luyện; ② Rèn."
+  ],
+  "jlpt": "1",
+  "frequency": "1793",
+  "grade": "8"
 }

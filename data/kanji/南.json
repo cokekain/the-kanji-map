@@ -365,5 +365,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05357.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5357.gif",
     "uri": "https://jisho.org/search/%E5%8D%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "nam"
+  ],
+  "vietnameseMeaning": [
+    "① Phương nam. ② Tên bài nhạc, như chu nam 周南, triệu nam 召南 tên bài hát nhạc trong kinh Thi. 【南無】na mô Na mô, nam mô (từ dùng của các tín đồ Phật giáo, có nghĩa là quy y, là chí tâm đỉnh lễ): 南無阿彌陀佛 Na mô A-di-đà Phật. Xem 南 . ① Hướng nam: 往南去 Đi về phía nam; 朝南行駛 Lái về phía nam; ② Tên bài hát: 周南 Chu nam; 召南 Thiệu nam (trong Kinh Thi); ③ (Họ) Nam. Xem 南 ."
+  ],
+  "jlpt": "4",
+  "frequency": "341",
+  "grade": "2"
 }

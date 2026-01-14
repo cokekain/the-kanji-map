@@ -352,5 +352,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b97.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b97.gif",
     "uri": "https://jisho.org/search/%E5%AE%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "tôn",
+    "tông"
+  ],
+  "vietnameseMeaning": [
+    "tông, tôn ① Ông tông, ông tổ nhất gọi là tổ, thứ nữa là tông. Thường gọi là tông miếu, nghĩa là miếu thờ ông tổ ông tông vậy. Tục thường gọi các đời trước là tổ tông 祖宗. ② Họ hàng dòng trưởng là đại tông 大宗, dòng thứ là tiểu tông 小宗, cùng họ gọi là đồng tông 同宗. ③ Chủ, như tông chỉ 宗旨 chủ ý quy về cái gì. ④ Dòng phái, đạo phật từ ông Ngũ-tổ trở về sau chia làm hai dòng nam bắc, gọi là nam tông 南宗 và bắc tông 北宗. ⑤ Tục gọi một kiện là một tông, như tập văn tự gọi là quyển tông 卷宗, một số đồ lớn gọi là đại tông 大宗. ① Ông tông (ông tổ thứ nhất là tổ, ông tổ thứ hai là tông), tổ tiên: 列祖列宗 Các tổ tiên; ② Họ (hàng): 同宗 Cùng họ; 宗兄 Anh họ; ③ Phe, dòng, phái: 北宗 Phái Bắc; ④ (loại) Sự, món, kiện, vụ: 一宗事 Một việc; 大宗貨物 Số hàng lớn; 案件三宗 Ba vụ án; ⑤ Chủ, chính: 宗冨 Chủ ý."
+  ],
+  "jlpt": "1",
+  "frequency": "997",
+  "grade": "6"
 }

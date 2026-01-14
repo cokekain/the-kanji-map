@@ -47,5 +47,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58cc.gif",
     "uri": "https://jisho.org/search/%E5%A3%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhưỡng"
+  ],
+  "jlpt": "1",
+  "frequency": "1407",
+  "grade": "8"
 }

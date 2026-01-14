@@ -330,5 +330,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05065.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5065.gif",
     "uri": "https://jisho.org/search/%E5%81%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "kiện"
+  ],
+  "vietnameseMeaning": [
+    "① Khỏe, như dũng kiện 勇健 khỏe mạnh. ② Khỏe khoắn, như khang kiện 康健 sức vóc khỏe khoắn. ① Sức khỏe: 健康 Sức khỏe, khỏe mạnh; ② Bổ, làm mạnh: 健腦 Bổ óc; 健身 Làm cho thân thể khỏe mạnh; ③ Giỏi, khỏe, có tài: 健談 Nói giỏi (tài) lắm."
+  ],
+  "jlpt": "2",
+  "frequency": "572",
+  "grade": "4"
 }

@@ -60,5 +60,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0980c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/980c.gif",
     "uri": "https://jisho.org/search/%E9%A0%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "tụng"
+  ],
+  "vietnameseMeaning": [
+    "① Khen, ca tụng. Như ca công tụng đức 歌功頌德. Như Kinh Thi 詩經 có những thiên Chu tụng 周頌, Lỗ tụng 魯頌 đều là thơ ca tụng công đức cả. Những bài văn ca ngợi công đức cũng gọi là tụng. Lối văn kệ của nhà Phật, Tàu cũng dịch là tụng. ① Khen, ca ngợi, ca tụng, chúc tụng: 歌頌 Ca tụng, ca ngợi; 頌聲載道 Đâu đâu cũng khen ngợi; 歌功頌德 Ca tụng công đức; ② Bài ca tụng: 英雄頌 Bài ca anh hùng; ③ (tôn) Bài tụng, bài kệ (trong kinh sách Phật giáo)."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

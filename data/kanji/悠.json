@@ -46,5 +46,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a0.gif",
     "uri": "https://jisho.org/search/%E6%82%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "du"
+  ],
+  "vietnameseMeaning": [
+    "① Lo lắng. ② Xa, như du du 悠悠 dằng dặc. ① Lâu dài, xa xôi; ② Nhàn rỗi, rỗi rãi; ③ (khn) Đu đưa: 站在秋千上來回悠 Đứng trên cái đu đu qua đu lại; ④ (văn) Lo lắng."
+  ],
+  "jlpt": "1",
+  "frequency": "1921",
+  "grade": "8"
 }

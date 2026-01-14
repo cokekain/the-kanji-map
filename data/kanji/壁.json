@@ -75,5 +75,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58c1.gif",
     "uri": "https://jisho.org/search/%E5%A3%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "bích"
+  ],
+  "vietnameseMeaning": [
+    "① Bức vách. ② Sườn núi dốc. ③ Sao bích. ④ Luỹ đắp trong trại quân. ① Tường, vách: 墻壁 Vách tường, bức tường; 銅墻鐵壁 Thành đồng vách sắt; ② Vách đá, vách núi: 絕壁 Vách đá cheo leo; 峭壁 Vách núi dựng đứng; ③ Tường xây quanh trại lính: 堅壁清野 Tường kiên cố vườn trống không; 作壁上觀 Dửng dưng nhìn xem, bàng quan; ④ Sao Bích."
+  ],
+  "jlpt": "2",
+  "frequency": "1037",
+  "grade": "8"
 }

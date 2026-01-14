@@ -232,5 +232,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80af.gif",
     "uri": "https://jisho.org/search/%E8%82%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "khẳng"
+  ],
+  "vietnameseMeaning": [
+    "① Khá, ừ được. Bằng lòng cho gọi là khẳng. ② Một âm là khải. Thịt thăn, thịt áp xương. Chỗ cần cốt của sự lí gì cũng gọi là khải khính 肯綮. ① Bằng lòng, đồng ý: 我勸了半天，他才肯了 Tôi khuyên mãi, anh ấy mới bằng lòng; ② Vui lòng, nguyện, chịu: 肯虛心接受意見 Chịu khiêm tốn tiếp nhận ý kiến; 今人主非肯用法術之士 Nay bậc nhân chủ không chịu dùng những người có pháp thuật (Hàn Phi tử); ③ (đph) Hay, thường hay: 這幾天肯下雨 Mấy hôm nay thường hay mưa; ④ (văn) Thịt thăn, thịt áp xương."
+  ],
+  "jlpt": "2",
+  "frequency": "1813",
+  "grade": "8"
 }

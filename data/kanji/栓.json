@@ -49,5 +49,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06813.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6813.gif",
     "uri": "https://jisho.org/search/%E6%A0%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "xuyên",
+    "thoen"
+  ],
+  "vietnameseMeaning": [
+    "① Cái then cửa, cái chốt cửa. Tục gọi cái nút chai là xuyên. ① Bộ phận mở và khóa, như chốt, then, nút...: 槍栓 Quy lát súng, chốt an toàn của súng; 消火栓 Đầu vòi rồng chữa cháy; ② (văn) Then cửa, chốt cửa; ③ Nút chai."
+  ],
+  "jlpt": "1",
+  "frequency": "2199",
+  "grade": "8"
 }

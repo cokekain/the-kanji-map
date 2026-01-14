@@ -303,5 +303,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0501f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/501f.gif",
     "uri": "https://jisho.org/search/%E5%80%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "tá"
+  ],
+  "vietnameseMeaning": [
+    "① Vay mượn, mình vay của người hay mình cho người vay đều gọi là tá. ② Mượn, cái gì vốn không có mà mượn dùng thì gọi là tá. ① Mượn, vay: 借書回來讀 Mượn sách về đọc; 借錢 Vay tiền; ② Cho mượn, cho vay: 我借給你一本好小說 Tôi cho anh mượn một cuốn tiểu thuyết hay; ③ Mượn cớ, viện cớ, lợi dụng, thừa cơ, nhân cơ hội.【借故】tá cố Viện cớ, mượn cớ: 他借故走了 Anh ấy viện cớ đi mất rồi."
+  ],
+  "jlpt": "3",
+  "frequency": "932",
+  "grade": "4"
 }

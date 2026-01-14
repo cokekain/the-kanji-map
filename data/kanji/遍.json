@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0904d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/904d.gif",
     "uri": "https://jisho.org/search/%E9%81%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "biến"
+  ],
+  "vietnameseMeaning": [
+    "① Khắp. Cùng nghĩa với chữ biến 徧. Như độc thư bách biến 讀書百遍 đọc sách trăm lượt. Ðọc suốt từ đầu chí cuối gọi là nhất biến 一遍. Nguyễn Du 阮攸: Khứ biến đông nam lộ 去遍東南路 đi khắp đường đông nam. ① Khắp, khắp nơi, khắp cả (như 徧, bộ 彳): 跑遍了全市書店也沒有買到你要的那本書 Đi khắp các hiệu sách trong thành phố cũng không mua được quyển sách mà anh muốn tìm; 我們的朋友遍天下 Bầu bạn ta ở khắp đó đây (trên thế giới); 公疾，遍賜大夫 Chiêu công bệnh, ban thưởng khắp cho các đại phu (Tả truyện: Chiêu công tam thập nhị niên); ② (văn) Đều: 故聖人爲法，必使之明白易知，名正，愚知遍能知之 Cho nên bậc thánh nhân tạo ra pháp độ, tất phải làm cho nó rõ ràng dễ hiểu, danh phận phải đâu vào đó, khiến cho kẻ ngu người trí đều hiểu được (Thương Quân thư: Định phận); ③ Lần, lượt, đợt: 念一遍 Đọc một lượt; 問了三遍 Đã hỏi ba lần rồi."
+  ],
+  "jlpt": "1",
+  "frequency": "1845",
+  "grade": "8"
 }

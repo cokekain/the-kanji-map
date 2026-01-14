@@ -377,5 +377,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbc.gif",
     "uri": "https://jisho.org/search/%E8%BE%BC%23kanji"
-  }
+  },
+  "hanviet": [
+    "<N/A>"
+  ],
+  "jlpt": "2",
+  "frequency": "675",
+  "grade": "8"
 }

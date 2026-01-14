@@ -319,5 +319,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09014.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9014.gif",
     "uri": "https://jisho.org/search/%E9%80%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "đồ"
+  ],
+  "vietnameseMeaning": [
+    "① Đường lối. Như quy đồ 歸途 đường về, sĩ đồ 仕途 con đường làm quan. Nguyên là chữ đồ 涂, thông dụng chữ đồ 塗. Cao Bá Quát 高伯适: Cổ lai danh lợi nhân, Bôn tẩu lộ đồ trung 古來名利人，奔走路塗中 Xưa nay hạng người danh lợi, Vẫn tất tả ngoài đường sá. Đường đi, con đường: 坦途 Con đường bằng phẳng; 用途 Công dụng; 半途而廢 Nửa chừng bỏ dở; 歸途 Đường về; 仕途 Con đường làm quan."
+  ],
+  "jlpt": "2",
+  "frequency": "717",
+  "grade": "8"
 }

@@ -95,5 +95,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07db4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7db4.gif",
     "uri": "https://jisho.org/search/%E7%B6%B4%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Nối liền, khíu liền, khâu lại. ② Một âm là chuyết. Ngăn cấm. ③ Bó buộc. Ta quen đọc là chữ xuyết. ① Díu, khíu, vá, đính, đơm: 把這個扣子綴上 Đính (đơm) cái khuy này vào; 綴網 Vá lưới; ② Liền, nối liền: 綴合 Liền lại; ③ Trang điểm, tô điểm, tô vẽ: 點綴 Tô điểm; ④ (văn) Ngăn cấm; ⑤ (văn) Bó buộc."
+  ],
+  "hanviet": [
+    "chuế",
+    "chuyết",
+    "xuyết"
+  ],
+  "frequency": "2149",
+  "grade": "9"
 }

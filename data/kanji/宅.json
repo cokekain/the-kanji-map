@@ -313,5 +313,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b85.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b85.gif",
     "uri": "https://jisho.org/search/%E5%AE%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "trạch"
+  ],
+  "vietnameseMeaning": [
+    "① Nhà ở, ở vào đấy cũng gọi là trạch. ② Trạch triệu 宅兆 phần mộ (mồ mả). Nay gọi nhà ở là dương trạch 陽宅, mồ mả là âm trạch 陰宅 là noi ở nghĩa ấy. ③ Yên định. ① Nhà (lớn và rộng): 住宅 Nhà ở; 深宅大院 Nhà cao vườn rộng; ② (văn) Ở vào nhà; ③ (văn) Yên định."
+  ],
+  "jlpt": "2",
+  "frequency": "357",
+  "grade": "6"
 }

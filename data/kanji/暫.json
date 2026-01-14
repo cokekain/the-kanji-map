@@ -52,5 +52,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66ab.gif",
     "uri": "https://jisho.org/search/%E6%9A%AB%23kanji"
-  }
+  },
+  "hanviet": [
+    "tạm"
+  ],
+  "vietnameseMeaning": [
+    "① Chốc lát, không lâu, như tạm thì 暫時. ② Bỗng (thốt nhiên). ① Tạm (thời), không lâu, trong thời gian ngắn: 此事暫擱下來 Việc này tạm gác lại; 暫住 Ở tạm.【暫且】tạm thả Tạm, khoan: 你暫且在機關住幾天，等分配了工作再安排住處 Anh ở tạm cơ quan vài hôm, đợi phân phối công tác rồi sẽ sắp xếp nhà ở; 這是以後的事，暫且不提 Đó là chuyện sau này, hãy khoan nhắc đến;【暫時】tạm thời tạm thời: 暫時困難 Khó khăn tạm thời; 暫時現象 Hiện tượng tạm thời; ② (văn) Bỗng, thốt nhiên."
+  ],
+  "jlpt": "1",
+  "frequency": "1112",
+  "grade": "8"
 }

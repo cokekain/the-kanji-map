@@ -326,5 +326,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09280.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9280.gif",
     "uri": "https://jisho.org/search/%E9%8A%80%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngân"
+  ],
+  "vietnameseMeaning": [
+    "① Bạc (Argentum, Ag), một loài kim sắc trắng dùng để đúc tiền và làm đồ trang sức. ② Trắng. Như ngân hạnh 銀杏 hạnh trắng. ③ Họ Ngân. ① Bạc (kí hiệu Ag): 金銀 Vàng bạc; ② (Màu) trắng, bạc. 【銀白】ngân bạch Trắng bạc, bạc, trắng xóa, trắng ngần; ③ (Họ) Ngân."
+  ],
+  "jlpt": "3",
+  "frequency": "395",
+  "grade": "3"
 }

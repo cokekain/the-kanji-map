@@ -344,5 +344,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08178.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8178.gif",
     "uri": "https://jisho.org/search/%E8%85%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "trường",
+    "tràng"
+  ],
+  "vietnameseMeaning": [
+    "① Ruột. Phần nhỏ liền với dạ dầy gọi là tiểu tràng 小腸 ruột non, phần to liền với lỗ đít gọi là đại tràng 大腸 ruột già. Còn đọc là trường. ② Ðoạn tràng 斷腸 rất đau lòng. Lí Bạch 李白: Nhất chi hồng diễm lộ ngưng hương, Vân vũ Vu sơn uổng đoạn trường 一枝紅艷露凝香，雲雨巫山枉斷腸 Nàng (Dương Quý Phi 楊貴妃) như một cành hồng đẹp phủ móc đọng hương, (khiến cho) thần nữ mây mưa ở Vu sơn cũng phải đứt ruột. Ruột, lòng: 大腸 Ruột già, đại tràng; 心腸好 Lòng ngay dạ thẳng."
+  ],
+  "jlpt": "1",
+  "frequency": "1807",
+  "grade": "4"
 }

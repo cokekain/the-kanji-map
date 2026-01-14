@@ -360,5 +360,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0888b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/888b.gif",
     "uri": "https://jisho.org/search/%E8%A2%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "đại",
+    "đãy"
+  ],
+  "vietnameseMeaning": [
+    "① Cái đẫy. ① Túi, đẫy, bao, bị: 麻袋 Bao tải; 酒囊飯袋 Túi cơm giá áo; ② (loại) Bao, túi: 一袋大米 Một bao gạo; 一袋旱煙 Một túi thuốc rê."
+  ],
+  "jlpt": "2",
+  "frequency": "1125",
+  "grade": "8"
 }

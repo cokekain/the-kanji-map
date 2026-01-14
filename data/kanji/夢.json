@@ -358,5 +358,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05922.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5922.gif",
     "uri": "https://jisho.org/search/%E5%A4%A2%23kanji"
-  }
+  },
+  "hanviet": [
+    "mộng"
+  ],
+  "vietnameseMeaning": [
+    "① Chiêm bao, nằm mê. ② Một âm là mông. Mông mông 夢夢 lờ mờ, nghĩa là không biết đích xác gì cứ lờ mờ như người nằm mê. Tục viết là 夣. ① Giấc mơ, giấc mộng, giấc chiêm bao: 惡夢 Cơn ác mộng; ② Mê, nằm mơ, nằm mộng, chiêm bao: 夢見 Nằm mê thấy, chiêm bao thấy; ③ Mộng tưởng, ao ước; ④ (Họ) Mộng."
+  ],
+  "jlpt": "2",
+  "frequency": "943",
+  "grade": "5"
 }

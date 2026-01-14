@@ -420,5 +420,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90e8.gif",
     "uri": "https://jisho.org/search/%E9%83%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "bộ"
+  ],
+  "vietnameseMeaning": [
+    "① Tóm. Như bộ hạ 部下 những người dưới quyền mình cai quản. ② Xếp bày. Như bộ thự 部署 bố trí, xếp đặt. ③ Dinh sở quan. ④ Bộ. Bộ sách nào đầu đuôi hoàn toàn gọi là nhất bộ 一部, có khi sổ quyển nhiều mà cùng là một sách cũng gọi là một bộ. ⑤ Cơ quan hành chính. Ngày xưa đặt ra sáu bộ như bộ Lễ, bộ Binh, v.v. ① Một nơi, một phần, bộ phận: 内部 Bên trong; 南部 Miền nam, Nam bộ; 局部 Cục bộ; ② Bộ, ban: 外交部 Bộ Ngoại giao; 禮部 Bộ lễ (thời xưa); 編輯部 Ban biên tập; ③ (cũ) Đứng đầu, chỉ huy, dưới quyền chỉ huy của...: 吳廣所部三千人 Ba nghìn người dưới quyền chỉ huy của Ngô Quảng; ④ (loại) Bộ, cuốn, quyển: 兩部字典 Hai quyển tự điển; 一部故事片 Bộ phim truyện; ⑤ (đph) Chiếc, cỗ: 一部機器 Một cỗ máy; 三部汽車 Ba chiếc xe hơi."
+  ],
+  "jlpt": "2",
+  "frequency": "36",
+  "grade": "3"
 }

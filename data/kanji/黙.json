@@ -60,5 +60,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed9.gif",
     "uri": "https://jisho.org/search/%E9%BB%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "mặc"
+  ],
+  "jlpt": "1",
+  "frequency": "1338",
+  "grade": "8"
 }

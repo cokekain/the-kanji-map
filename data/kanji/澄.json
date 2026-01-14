@@ -70,5 +70,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f84.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f84.gif",
     "uri": "https://jisho.org/search/%E6%BE%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "trừng",
+    "chừng"
+  ],
+  "vietnameseMeaning": [
+    "① Lắng trong. ② Gạn. Nước trong. (Ngr) Làm cho sáng tỏ vấn đề. Xem 澄 . Lắng, lóng, gạn, lọc.【澄清】trừng thanh Lắng, lóng (cho trong): 這水太渾，等澄清了再用 Nước đục quá, chờ cho cặn lắng rồi mới dùng. Xem 澄 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1722",
+  "grade": "8"
 }

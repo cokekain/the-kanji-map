@@ -44,5 +44,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088d5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88d5.gif",
     "uri": "https://jisho.org/search/%E8%A3%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "dụ",
+    "dịu"
+  ],
+  "vietnameseMeaning": [
+    "① Lắm áo nhiều đồ. Vì thế nên giàu có thừa thãi gọi là dụ. ② Rộng rãi, không đến nỗi kiệt quệ. ③ Ðủ. ④ Thong thả. ① Đầy đủ, giàu có: 富裕 Giàu có; 充裕 Sung túc; ② (văn) Làm cho giàu có; ③ (văn) Thong thả; ④ (Họ) Dụ."
+  ],
+  "jlpt": "1",
+  "frequency": "1048",
+  "grade": "8"
 }

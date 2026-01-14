@@ -378,5 +378,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05931.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5931.gif",
     "uri": "https://jisho.org/search/%E5%A4%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "thất"
+  ],
+  "vietnameseMeaning": [
+    "① Mất. ② Lỗi. ③ Bỏ qua. ④ Có khi dùng như chữ dật 佚. ① Mất: 遺失 Đánh mất, sót mất; 失物拾領 Nhận của đánh mất; 坐失良機 Để mất dịp tốt; ② (Ngr) Sai lầm, làm trái ngược: 失信 Không giữ lời hứa, thất tín; 失約 Sai hẹn, lỡ hẹn; ③ Lạc: 失群之鳥 Chim lạc đàn; 迷失方向 Lạc hướng, mất phương hướng; ④ Không cẩn thận, lỡ, nhỡ: 失足 Lỡ bước, trượt chân; 失言 Lỡ lời; ⑤ Không đạt mục đích, thua thiệt: 失意 Bất đắc ý, thất ý, chán nản; 失望 Thất vọng, chán nản; ⑥ Sai lầm, lầm lẫn, sơ hở: 千慮一失 Suy nghĩ chu đáo thế mà vẫn có chỗ sơ hở; ⑦ Dáng bộ thất thường: 失聲痛哭 Khóc không ra tiếng (nức nở); 失色 Thất sắc, tái mặt; ⑧ (văn) Như 佚 (bộ 亻)."
+  ],
+  "jlpt": "2",
+  "frequency": "447",
+  "grade": "4"
 }

@@ -93,5 +93,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0811a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/811a.gif",
     "uri": "https://jisho.org/search/%E8%84%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "cước"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ cước 腳. Như 腳."
+  ],
+  "jlpt": "1",
+  "frequency": "1228",
+  "grade": "8"
 }

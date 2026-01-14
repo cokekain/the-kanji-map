@@ -50,5 +50,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06930.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6930.gif",
     "uri": "https://jisho.org/search/%E6%A4%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "da"
+  ],
+  "vietnameseMeaning": [
+    "① Cây dừa. Cây dừa. 【椰子】da tử ① Cây dừa; ② Quả dừa."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

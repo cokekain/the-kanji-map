@@ -412,5 +412,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09003.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9003.gif",
     "uri": "https://jisho.org/search/%E9%80%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "đào"
+  ],
+  "vietnameseMeaning": [
+    "① Trốn. Như đào nạn 逃難 trốn nạn, lánh nạn. Đào trái 逃債 trốn nợ v.v. ② Bỏ. Như Mạnh Tử 孟子 nói Đào Mặc tất quy ư Dương 逃墨必歸於楊 bỏ họ Mặc tất về họ Dương. ③ Lánh. ① Tháo chạy, chạy trốn, trốn: 逃敌 Kẻ địch tháo chạy; ②Trốn tránh, tránh, lánh: 逃避 Trốn tránh, chạy trốn; 逃难 Lánh nạn, chạy nạn; ③ (văn) Bỏ: 逃墨必归于楊 Ai bỏ họ Mặc (Mặc Tử) thì tất theo về với họ Dương (Dương Chu) (Mạnh tử)."
+  ],
+  "jlpt": "2",
+  "frequency": "931",
+  "grade": "8"
 }

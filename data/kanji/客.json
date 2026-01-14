@@ -379,5 +379,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ba2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ba2.gif",
     "uri": "https://jisho.org/search/%E5%AE%A2%23kanji"
-  }
+  },
+  "hanviet": [
+    "khách"
+  ],
+  "vietnameseMeaning": [
+    "① Khách, đối lại với chủ 主. ② Gửi, trọ, ở ngoài đến ở nhờ gọi là khách. ③ Mượn tạm, như khách khí dụng sự 客氣用事 mượn cái khí hão huyền mà làm việc, nghĩa là dùng cách kiêu ngạo hão huyền mà làm, chớ không phải là chân chính. Tục cho sự giả bộ ngoài mặt không thực bụng là khách khí 客氣, như ta quen gọi là làm khách vậy. ① Khách, môn khách, thực khách, khách khanh, khách khứa: 會客 Tiếp khách; 賓客 Tân khách, khách khứa; 臣聞吏議逐客，竊以爲過矣 Thần nghe các quan đề nghị đuổi khách khanh, trộm nghĩ như vậy là lầm (Lí Tư: Gián trục khách thư); ② Hành khách: 客車 Xe hành khách; ③ Khách (hàng): 顧客 Khách hàng; ④ (văn) Ở trọ, ở nhờ, làm khách, sống nơi đất khách: 五載客蜀郡 Năm năm làm khách (ở nhà) nơi Thục Quận (Đỗ Phủ: Khứ Thục); ⑤ (cũ) Người, kẻ...: 俠客 Người hào hiệp; 說客 Thuyết khách; ⑥ (Họ) Khách."
+  ],
+  "jlpt": "2",
+  "frequency": "557",
+  "grade": "3"
 }

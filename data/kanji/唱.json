@@ -311,5 +311,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05531.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5531.gif",
     "uri": "https://jisho.org/search/%E5%94%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "xướng"
+  ],
+  "vietnameseMeaning": [
+    "① Hát. ② Xướng, hát trước để cho người ta hoạ gọi là xướng. ① Hát: 唱一支歌 Hát một bài; 跟著大家唱 Hát theo mọi người; ② Hát trước, xướng lên trước, đề xướng; ③ Gọi, (gà) gáy: 唱名 Gọi tên, xướng danh; 雞唱三遍 Gà đã gáy ba đợt rồi; ④ (Họ) Xướng."
+  ],
+  "jlpt": "1",
+  "frequency": "1123",
+  "grade": "4"
 }

@@ -77,5 +77,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0584a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/584a.gif",
     "uri": "https://jisho.org/search/%E5%A1%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "khối"
+  ],
+  "vietnameseMeaning": [
+    "① Hòn, phàm vật gì tích dần lại thành từng hòn gọi là khối. 2 Khối nhiên 塊然 lù vậy. Ðứng trơ trọi một mình không cầu chi gọi là khối nhiên. ① Cục, hòn, miếng, khoảnh...: 把肉切成塊兒 Thái thịt ra từng miếng; ② (loại) Cục, hòn, miếng, khoảnh...: 一塊肉 Một miếng thịt; 一塊地 Một khoảnh ruộng (đất); 一塊石頭 Một hòn đá; ③ Đồng bạc: 五塊錢 Năm đồng bạc; ④ (văn) Trơ trọi một mình: 塊然 Trơ trọi."
+  ],
+  "jlpt": "1",
+  "frequency": "1800",
+  "grade": "8"
 }

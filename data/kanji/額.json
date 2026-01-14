@@ -395,5 +395,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0984d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/984d.gif",
     "uri": "https://jisho.org/search/%E9%A1%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngạch"
+  ],
+  "vietnameseMeaning": [
+    "① Bộ trán, trên chỗ lông mày dưới mái tóc gọi là ngạch. ② Cái số chế ra nhất định. Như số binh đã chế nhất định gọi là binh ngạch 兵額. Số lương đã chế nhất định gọi là ngạch hướng 額餉. ③ Cái hoành phi. Cái hoành phi treo ở trên cửa trên mái. Như cái trán của người nên gọi là biển ngạch 匾額. ① Trán: 短髮覆額 Tóc ngắn che lấp cả trán; ② Mức: 超額完成計划 Hoàn thành vượt mức kế hoạch; 額餉 Số lượng theo mức đã định; ③ (văn) Tấm hoành phi, bức hoành; ④ (Họ) Ngạch."
+  ],
+  "jlpt": "2",
+  "frequency": "407",
+  "grade": "5"
 }

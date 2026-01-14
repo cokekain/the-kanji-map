@@ -57,5 +57,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06edd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6edd.gif",
     "uri": "https://jisho.org/search/%E6%BB%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "lang",
+    "sông"
+  ],
+  "jlpt": "1",
+  "frequency": "1478",
+  "grade": "8"
 }

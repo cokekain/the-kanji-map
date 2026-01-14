@@ -407,5 +407,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f7f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f7f.gif",
     "uri": "https://jisho.org/search/%E4%BD%BF%23kanji"
-  }
+  },
+  "hanviet": [
+    "sử",
+    "sứ"
+  ],
+  "vietnameseMeaning": [
+    "sứ, sử ① Khiến, sai khiến người ta gọi là sử. ② Giả sử, lời đặt điều ra, như sách Mạnh Tử nói như sử nhân chi sở dục thậm vu kì sinh 如使人之所欲甚于其生 giá khiến lòng muốn của người hơn cả sự sống. ③ Một âm là sứ. Ði sứ, như công sứ 公使 quan sứ, sứ quân 使君 chức quan đi sứ, v.v. Chức quan thứ sử cũng gọi là sứ quân. ① Dùng: 使勁 Dùng sức, cố sức; ② Sai, cử, cho: 使人前往 Cử người đến; ③ Khiến cho, làm cho, để: 使人高興 Làm cho người ta phấn khởi; ④ Nếu: 使有事故, 請來告我 Nếu có việc gì trục trặc xin đến báo cho tôi biết; 鳴呼！使國可長保而傳于子孫, 豈不樂哉！ Than ôi! Nếu nước có thể giữ được lâu dài mà truyền cho con cháu, thì há chẳng vui ư? (Án tử Xuân thu); ⑤ Sứ: 大使 Đại sứ; 公使 Công sứ."
+  ],
+  "jlpt": "3",
+  "frequency": "219",
+  "grade": "3"
 }

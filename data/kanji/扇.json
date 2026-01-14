@@ -78,5 +78,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06247.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6247.gif",
     "uri": "https://jisho.org/search/%E6%89%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "phiến"
+  ],
+  "vietnameseMeaning": [
+    "① Cánh cửa. ② Cái quạt. ③ Một âm là thiên. Quạt mát, cùng nghĩa như chữ 煽. ① Cái quạt: 蒲扇 Quạt cói; 電扇 Quạt điện; ② Quạt mát (như 煽, bộ 火); ③ (loại) Cánh (cửa), cái...: 一扇門 Một cánh cửa; 一扇磨 Một cái cối xay. Xem 煽 (bộ 火)."
+  ],
+  "jlpt": "1",
+  "frequency": "1805",
+  "grade": "8"
 }

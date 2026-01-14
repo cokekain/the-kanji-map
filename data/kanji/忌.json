@@ -92,5 +92,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fcc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fcc.gif",
     "uri": "https://jisho.org/search/%E5%BF%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "kị"
+  ],
+  "vietnameseMeaning": [
+    "kị, kí ① Ghen ghét, như đố kị 妒忌 thấy người đẹp hơn mà tức, gọi là đố 妒, thấy người giỏi hơn mà tức gọi là kị 忌. ② Sợ, như vô sở kị đạn 無所忌憚 không thửa sợ hãi. ③ Ngày kị, ngày đứng thân chết gọi là kị. Phàm những ngày nào là ngày người trước mình chết đều gọi là kị, như ta gọi ngày giỗ là ngày kị là theo nghĩa ấy. ④ Kiêng kị. ⑤ Một âm là kí, dùng làm tiếng trợ ngữ (giúp lời). ① Ghen, ghét: 忌才 Ghen (ghét) người có tài; ② (Ăn) kiêng: 忌食生冷 Kiêng những đồ sống và lạnh; ③ Nể, kiêng dè, sợ: 無所忌憚 Không kiêng sợ gì cả; ④ Cai, chừa: 忌煙 Cai thuốc; 忌賭 Chừa cờ bạc; ⑤ Ngày giỗ; ⑥ (văn) Trợ từ cuối câu: 叔善射忌，又良御忌 Đại thúc bắn tên giỏi, lại cỡi ngựa hay (Thi Kinh: Trịnh phong, Đại thúc vu điền)."
+  ],
+  "jlpt": "1",
+  "frequency": "1882",
+  "grade": "8"
 }

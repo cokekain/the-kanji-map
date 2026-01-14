@@ -49,5 +49,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fc5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fc5.gif",
     "uri": "https://jisho.org/search/%E8%BF%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "tấn"
+  ],
+  "vietnameseMeaning": [
+    "① Nhanh chóng. Ði lại vùn vụt, người không lường được gọi là tấn. Như tấn lôi bất cập yểm nhĩ 迅雷不及掩耳 sét đánh không kịp bưng tai. Nhanh chóng, mau lẹ."
+  ],
+  "jlpt": "1",
+  "frequency": "1888",
+  "grade": "8"
 }

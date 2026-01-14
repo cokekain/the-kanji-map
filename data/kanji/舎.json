@@ -263,5 +263,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0820e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/820e.gif",
     "uri": "https://jisho.org/search/%E8%88%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "xá"
+  ],
+  "jlpt": "1",
+  "frequency": "1170",
+  "grade": "5"
 }

@@ -53,5 +53,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050e7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50e7.gif",
     "uri": "https://jisho.org/search/%E5%83%A7%23kanji"
-  }
+  },
+  "hanviet": [
+    "tăng"
+  ],
+  "vietnameseMeaning": [
+    "① Sư nam, đàn ông đi tu đạo Phật gọi là tăng. Nguyên tiếng Phạm gọi là Tăng già 僧伽 nghĩa là một đoàn thể đệ tử Phật, trong luật định bốn vị sư trở lên mới gọi là Tăng già. ① Thầy tu, sư (tiếng gọi tắt của từ 僧伽 ): 僧多粥少 Sư nhiều cháo ít."
+  ],
+  "jlpt": "1",
+  "frequency": "1724",
+  "grade": "8"
 }

@@ -377,5 +377,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed2.gif",
     "uri": "https://jisho.org/search/%E9%BB%92%23kanji"
-  }
+  },
+  "hanviet": [
+    "hắc"
+  ],
+  "jlpt": "3",
+  "frequency": "573",
+  "grade": "2"
 }

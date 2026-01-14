@@ -292,5 +292,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ca9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ca9.gif",
     "uri": "https://jisho.org/search/%E8%B2%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "phán",
+    "phiến"
+  ],
+  "vietnameseMeaning": [
+    "① Mua rẻ bán đắt, buôn bán. ② Cũng đọc là phán . ① Buôn bán: 販布 Buôn vải; 販米 Buôn gạo; ② Người (kẻ, cửa hàng) buôn bán: 小販 Kẻ buôn thúng bán mẹt; 攤販 Người bày hàng bán bên đường, người buôn bán nhỏ; 水果販 Cửa hàng bán hoa quả."
+  ],
+  "jlpt": "2",
+  "frequency": "627",
+  "grade": "8"
 }

@@ -361,5 +361,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a39.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a39.gif",
     "uri": "https://jisho.org/search/%E6%A8%B9%23kanji"
-  }
+  },
+  "hanviet": [
+    "thụ"
+  ],
+  "vietnameseMeaning": [
+    "thụ, thọ ① Cây. ② Cái bình phong che cửa, như bang quân thụ tắc môn 邦君樹塞門 vua dựng bình phong che cửa. ③ Trồng trọt (trồng tỉa). ④ Thụ lập (dựng nên), như kiến thụ 建樹 sáng lập hết thảy các cái. ⑤ Tên số vật. ① Cây: 桃樹 Cây đào; 庭樹不知人去盡 Cây sân chẳng biết người đi hết (Sầm Tham: Sơn phòng xuân sự); ② Trồng: 百年之計莫如樹人 Kế trăm năm không gì bằng trồng người (gây dựng nhân tài); ③ Dựng: 樹碑 Dựng bia; ④ (văn) Tấm bình phong che cửa."
+  ],
+  "jlpt": "1",
+  "frequency": "988",
+  "grade": "6"
 }

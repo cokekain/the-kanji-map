@@ -61,5 +61,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05553.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5553.gif",
     "uri": "https://jisho.org/search/%E5%95%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "khải"
+  ],
+  "vietnameseMeaning": [
+    "(11n) ① Mở, như khải môn 啟門 mở cửa tỏ ý mình ra, cũng gọi là khải. ② Khải xử 啟處 yên nghỉ. ③ Bầy giải, như khải sự 啟事 bầy giải công việc. Tơ bồi cũng gọi là thư khải 書啟."
+  ],
+  "jlpt": "1",
+  "frequency": "1403",
+  "grade": "8"
 }

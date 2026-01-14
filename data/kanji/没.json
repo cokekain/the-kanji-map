@@ -64,5 +64,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ca1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ca1.gif",
     "uri": "https://jisho.org/search/%E6%B2%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "một"
+  ],
+  "vietnameseMeaning": [
+    "Như 沒 (1)，(2)."
+  ],
+  "jlpt": "1",
+  "frequency": "1385",
+  "grade": "8"
 }

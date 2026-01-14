@@ -354,5 +354,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ff0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ff0.gif",
     "uri": "https://jisho.org/search/%E8%BF%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "thuật"
+  ],
+  "vietnameseMeaning": [
+    "① Bày ra, thuật ra. Chép các điều đã nghe từ trước ra gọi là thuật. ② Noi theo. Như Trung Dung 中庸 Phụ tác chi, tử thuật chi 父作之子述之 cha làm ra, con noi theo. Lễ kí 禮記: Trọng Ni tổ thuật Nghiêu Thuấn 仲尼祖述堯舜 Trọng Ni noi theo Nghiêu, Thuấn. ③ Phàm làm cho trọn công việc của người đã gây ra hay biên chép được những lời của người đã nói ra đều gọi là thuật. Luận Ngữ 論語: Thuật nhi bất tác 述而不作 (Thuật nhi 述而) ta truyền thuật (đạo cổ nhân) mà không sáng tác. ④ Bày tỏ. Bày tỏ trước sau mánh thớ của một việc gì gọi là thuật. Như truyền thuật 傳述 dùng văn tự chép rõ để truyền cho người xem, khẩu thuật 口述 kể miệng, v.v. ① Nói, kể, thuật lại: 口述 Kể; 重述 Kể lại; ② (văn) Noi theo: 父作之，子述之 Cha làm ra, con noi theo (Trung dung); 仲尼祖述堯舜 Trọng Ni noi theo Nghiêu, Thuấn (Lễ kí)."
+  ],
+  "jlpt": "2",
+  "frequency": "379",
+  "grade": "5"
 }

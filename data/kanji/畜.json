@@ -269,5 +269,18 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0755c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/755c.gif",
     "uri": "https://jisho.org/search/%E7%95%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "súc",
+    "róc",
+    "sộc",
+    "sục",
+    "xộc"
+  ],
+  "vietnameseMeaning": [
+    "súc ① Giống muông nuôi trong nhà. Như ngựa, trâu, dê, gà, chó, lợn gọi là lục súc 六畜. ② Súc tích, chứa. Một âm là húc. ③ Nuôi. ④ Bao dong. ⑤ Lưu lại. ⑥ Thuận. ⑦ Giữ, vực dậy. Súc vật: 六畜 Lục súc (súc vật nuôi ở nhà gồm ngựa, bò, dê, gà, chó, lợn); 家畜 Gia súc; 牲畜 Súc vật. Xem 畜 . ① Súc vật, gia súc; ② (văn) Nuôi nấng, nuôi dưỡng: 爾不我畜 Chàng chẳng nuôi ta (Thi Kinh); ③ (văn) Chứa, tích chứa, súc tích, tàng trữ: 故其畜積足恃 Vì vậy sự tích chứa của nó đủ để nhờ (Giả Nghị: Luận tích trữ số); ④ (văn) Dung nạp, bao dung: 獲罪不兩君，天下誰畜之 Đắc tội với cả hai vua thì thiên hạ ai dung nạp cho (Tả truyện); ⑤ (văn) Cất giữ: 禁京城民畜兵器 Cấm dân trong kinh thành cất giữ võ khí (Tống sử); ⑥ (văn) Trị lí: 非畜天下者也，何足貴哉！ Không phải là người trị thiên hạ thì có gì đáng tôn trọng! (Sử kí: Lí Tư liệt truyện); ⑦ (văn) Thuận; ⑧ (văn) Vực dậy. Xem 畜 ."
+  ],
+  "jlpt": "2",
+  "frequency": "1824",
+  "grade": "8"
 }

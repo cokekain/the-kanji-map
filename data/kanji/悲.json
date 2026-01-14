@@ -405,5 +405,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60b2.gif",
     "uri": "https://jisho.org/search/%E6%82%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "bi"
+  ],
+  "vietnameseMeaning": [
+    "① Ðau, khóc không có nước mắt gọi là bi. ② Thương xót, đạo Phật lấy từ bi làm tôn chỉ, nghĩa là thương xót chúng sinh mà ra tay tế độ. ① Buồn, sầu, bi. 【悲哀】bi ai Bi ai, buồn rầu; ② Thương hại, thương đau, thương xót, lòng thương, lòng trắc ẩn.【悲天憫人】bi thiên mẫn nhân Buồn trời thương người, khóc hão thương hoài."
+  ],
+  "jlpt": "2",
+  "frequency": "1014",
+  "grade": "3"
 }

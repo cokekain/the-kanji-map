@@ -43,5 +43,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c6.gif",
     "uri": "https://jisho.org/search/%E5%87%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "chuẩn",
+    "chốn"
+  ],
+  "vietnameseMeaning": [
+    "① Ðịnh đúng. ② So sánh, như luật chuẩn đạo luận 律准盜論 cứ luật cũng cho như ăn trộm. ③ Chuẩn cho. ④ Cứ, như chuẩn mỗ bộ tư hành 准某部咨行 cứ như bản tư văn bộ mỗ. Chữ chuẩn 准 tục vẫn dùng như chữ chuẩn 準. Như 準 (bộ 氵)."
+  ],
+  "jlpt": "1",
+  "frequency": "1441",
+  "grade": "8"
 }

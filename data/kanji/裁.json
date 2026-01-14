@@ -382,5 +382,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88c1.gif",
     "uri": "https://jisho.org/search/%E8%A3%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "tài",
+    "trài"
+  ],
+  "vietnameseMeaning": [
+    "① Cắt áo. Như tài phùng 裁縫 cắt may. Phàm cứ theo cái khuôn khổ nhất định mà rọc ra đều gọi là tài. Như chỉ tài 紙裁 rọc giấy. ② Dè bớt, như tài giảm 裁減 xén bớt. ③ Xét lựa. Như tổng tài 總裁 xét kĩ và phân biệt hơn kém. Người đứng xét các trò chơi như đá bóng, đánh quần xem bên nào được bên nào thua gọi là tổng tài 總裁. ④ Thể chế, lối văn. Như thể tài 體裁 lựa ra từng lối. ⑤ Quyết đoán. Như tài phán 裁判 xử đoán phân phán phải trái, ⑥ Lo lường. ① Cắt: 裁衣服 Cắt quần áo; ② Rọc: 裁紙 Rọc giấy; ③ Giảm, bớt: 裁減軍備 Giảm bớt quân bị; ④ Xét, xử: 制裁 Trừng phạt; ⑤ Xét định, quyết đoán: 裁奪 Xét định; ⑥ Lối, cách: 體裁 Thể tài, cách thức; ⑦ (văn) Vừa mới (dùng như 才, bộ 扌): 裁近岸，犬即騰上 Vừa đến gần bờ, con chó liền nhảy lên (thuyền) (Thuật dị kí); 手裁舉，則又超忽而躍 Tay vừa mới giơ lên, thì (con dế) lại nhảy tưng lên cao (Liêu trai chí dị: Xúc chức)."
+  ],
+  "jlpt": "1",
+  "frequency": "297",
+  "grade": "6"
 }

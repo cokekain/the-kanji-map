@@ -69,5 +69,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df3.gif",
     "uri": "https://jisho.org/search/%E5%B7%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "tị",
+    "tỵ"
+  ],
+  "vietnameseMeaning": [
+    "① Chi tị, chi thứ sáu trong mười hai chi. Từ chín giờ sáng đến mười một giờ trưa là giờ tị. Ngày tị đầu tháng ba gọi là ngày thượng tị 上巳. Tục nước Trịnh cứ ngày ấy làm lễ cầu mát. Chi Tị (ngôi thứ 6 trong 12 địa chi)."
+  ],
+  "jlpt": "1",
+  "frequency": "2142",
+  "grade": "9"
 }

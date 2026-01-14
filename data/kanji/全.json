@@ -439,5 +439,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05168.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5168.gif",
     "uri": "https://jisho.org/search/%E5%85%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "toàn"
+  ],
+  "vietnameseMeaning": [
+    "① Xong, đủ. ② Vẹn, như toàn quốc 全國 vẹn cả nước. ③ Giữ cho toàn vẹn, như toàn hoạt thậm đa 全活甚多 cứu sống cho được hẳn rất nhiều. ① Đủ, trọn, hoàn toàn, chính: 這套書不全了 Bộ sách này không đủ; 方家以磁石磨針峰，則能指南，然常微偏東，不全南也 Người xem phong thuỷ dùng đá nam châm mài vào mũi kim, thì mũi kim chỉ hướng nam, nhưng thường hơi lệch về hướng đông, chứ không chỉ ngay hướng chính nam (hoàn toàn nam) (Mộng khê bút đàm).【全然】toàn nhiên Hoàn toàn: 全然不懂 Hoàn toàn không hiểu, không hiểu tí gì cả; ② Cả, tất cả, toàn, toàn bộ: 全校 Cả trường; 全國 Toàn quốc; 全殲 Tiêu diệt toàn bộ; 全勝 Toàn thắng (chiến thắng hoàn toàn); ③ Đông đủ, đầy đủ: 代表全來了 Các đại biểu đã đến đông đủ cả rồi; ④ Vẹn, toàn vẹn: 兩全其美 Vẹn cả đôi đường, tốt cho cả đôi bên; ⑤ (văn) Giữ cho toàn vẹn: 全活甚多 Cứu sống được rất nhiều; 予以全軍爲上，而慾民得息 Ta muốn toàn quân là cốt, cho dân được nghỉ ngơi (Bình Ngô đại cáo); ⑥ (Họ) Toàn."
+  ],
+  "jlpt": "2",
+  "frequency": "75",
+  "grade": "3"
 }

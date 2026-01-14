@@ -367,5 +367,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eb6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eb6.gif",
     "uri": "https://jisho.org/search/%E6%BA%B6%23kanji"
-  }
+  },
+  "hanviet": [
+    "dung",
+    "ròng"
+  ],
+  "vietnameseMeaning": [
+    "① Dong dong 溶溶 nước mông mênh. ② Tan, cho vật chất tan ra nước gọi là dong giải 溶解. ① Tan, hoà tan: 糖還未有溶 Đường còn chưa tan; ② 【溶溶】dung dung (văn) Rộng rãi, bao la, mênh mông: 江水溶溶 Nước sông mênh mông."
+  ],
+  "jlpt": "2",
+  "frequency": "1364",
+  "grade": "8"
 }

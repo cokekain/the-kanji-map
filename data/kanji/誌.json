@@ -302,5 +302,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a8c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a8c.gif",
     "uri": "https://jisho.org/search/%E8%AA%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "chí"
+  ],
+  "vietnameseMeaning": [
+    "① Ghi nhớ, như chí chi bất vong 誌之不忘 ghi nhớ chẳng quên. ② Một lối văn kí sự. Như bi chí 碑誌 bài văn bia, mộ chí 墓誌 văn mộ chí, v.v. ③ Phả chép các sự vật gì. Như địa chí 地誌 sách chép một xứ nào, danh sơn chí 名山誌 sách chép quả núi có tiếng. ④ Nêu, mốc. ① Ghi nhớ: 永誌不忘 Ghi nhớ mãi không quên; ② Ghi chép lại, ghi chép: 太古之事滅矣，孰誌之哉？ Việc đời thượng cổ tiêu mất hết rồi, ai ghi chép lại? (Liệt tử); ③ Bài văn chép, sách ghi chép (như 志, bộ 心): 嘉定城通誌 Sách \"Gia Định thành thông chí\" (của Trịnh Hoài Đức); ④ Nêu, mốc, dấu (hiệu): 標誌 Đánh dấu, tiêu biểu, dấu hiệu; ⑤ (văn) Như 痣 (bộ 疒)."
+  ],
+  "jlpt": "2",
+  "frequency": "851",
+  "grade": "6"
 }

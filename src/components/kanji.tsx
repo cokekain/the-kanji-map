@@ -4,6 +4,7 @@ import * as React from "react";
 import { joyoList } from "@/../data/joyo";
 import { jinmeiyoList } from "@/../data/jinmeiyo";
 import { KanjiStrokeAnimation } from "./kanji-animation";
+import { useLanguage } from "@/lib/language-store";
 
 interface Props {
   kanjiInfo: KanjiInfo | null;
@@ -28,6 +29,8 @@ export const Kanji = ({
   strokeAnimation,
   screen,
 }: Props) => {
+  const [language] = useLanguage();
+
   return (
     <div className="min-h-[330px] relative size-full overflow-hidden grid grid-rows-[36px_100px_1fr] grid-cols-[125px_1fr]">
       <div>
@@ -84,6 +87,44 @@ export const Kanji = ({
               Onyomi: <strong>{kanjiInfo.jishoData.onyomi.join(", ")}</strong>
             </p>
           </>
+        )}
+        {language === "vi" && kanjiInfo?.hanviet && kanjiInfo.hanviet.length > 0 && (
+          <>
+            <p className="font-sans">
+              Hán Việt: <strong>{kanjiInfo.hanviet.join(", ")}</strong>
+            </p>
+          </>
+        )}
+        {language === "vi" && kanjiInfo?.vietnameseMeaning && kanjiInfo.vietnameseMeaning.length > 0 && (
+          <div className="mt-2">
+            <p className="font-semibold font-sans">Nghĩa tiếng Việt:</p>
+            <div className="pl-2 text-primary text-[13px] leading-[1.6] font-sans">
+              {kanjiInfo.vietnameseMeaning.map((meaning, index) => (
+                <p key={index} className="mb-2">
+                  {meaning}
+                </p>
+              ))}
+            </div>
+          </div>
+        )}
+        {language === "vi" && (kanjiInfo?.jlpt || kanjiInfo?.frequency || kanjiInfo?.grade) && (
+          <div className="flex flex-wrap gap-2 mt-2">
+            {kanjiInfo.jlpt && (
+              <span className="inline-flex items-center px-2 py-1 text-xs font-medium rounded-md bg-primary/10 text-primary">
+                JLPT N{kanjiInfo.jlpt}
+              </span>
+            )}
+            {kanjiInfo.frequency && (
+              <span className="inline-flex items-center px-2 py-1 text-xs font-medium rounded-md bg-secondary/50 text-foreground">
+                Tần suất: #{kanjiInfo.frequency}
+              </span>
+            )}
+            {kanjiInfo.grade && (
+              <span className="inline-flex items-center px-2 py-1 text-xs font-medium rounded-md bg-muted text-foreground">
+                Cấp {kanjiInfo.grade}
+              </span>
+            )}
+          </div>
         )}
 
         {graphData?.noOutLinks?.links && (

@@ -424,5 +424,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ac.gif",
     "uri": "https://jisho.org/search/%E8%96%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "dược"
+  ],
+  "jlpt": "3",
+  "frequency": "702",
+  "grade": "3"
 }

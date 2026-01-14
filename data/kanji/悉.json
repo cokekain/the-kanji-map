@@ -74,5 +74,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06089.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6089.gif",
     "uri": "https://jisho.org/search/%E6%82%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "tạt"
+  ],
+  "vietnameseMeaning": [
+    "① Biết hết, như tường tất 詳悉 tường hết. ② Ðều, hết, như tất dẫn binh độ hà 悉引兵渡河 đều dẫn binh sang sông. ① Biết, rõ, hiểu: 得悉 一切 Được biết mọi việc; 熟悉此事 Am hiểu việc này; ② (văn) Kể lại hết, biết hết: 書不能悉意 Thư không thể kể lại hết ý (Tư Mã Thiên: Báo Nhiệm Thiếu Khanh thư); 丞相亮其悉朕意 Thừa tướng Lượng có lẽ đã biết hết ý trẫm (Tam quốc chí); ③ Tất cả, đầy đủ, toàn bộ, hết thảy, hết: 齊悉複得其故城 Tề đã lấy lại được tất cả những thành cũ của mình (Sử kí)."
+  ],
+  "grade": "9"
 }

@@ -77,5 +77,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85fb.gif",
     "uri": "https://jisho.org/search/%E8%97%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "tảo"
+  ],
+  "vietnameseMeaning": [
+    "① Rong, rau bể, tên gọi tất cả các thứ cỏ mọc ở dưới nước. ② Rong là một thứ cỏ mọc dưới nước có văn vẻ đẹp, cổ nhân dùng để trang sức mũ áo cho đẹp, cho nên cái gì dùng làm văn sức đều gọi là tảo. Như từ tảo 詞藻 lời đẹp, cũng viết là 辭藻. Lấy lời tốt đẹp mà khen lao người gọi là tảo sức 藻飾. Bình luận nhân vật gọi là phẩm tảo 品藻 hay tảo giám 藻鑑. ① Rong: 海藻 Rong biển; ② Văn vẻ, hoa mĩ: 辭藻 Lời văn vẻ; 藻飾 Khen lao bằng lời lẽ hoa mĩ; 品藻 (hay 藻鑑) Bình phẩm (nhân vật)."
+  ],
+  "jlpt": "1",
+  "frequency": "2124",
+  "grade": "8"
 }

@@ -342,5 +342,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a5e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a5e.gif",
     "uri": "https://jisho.org/search/%E8%A9%9E%23kanji"
-  }
+  },
+  "hanviet": [
+    "từ"
+  ],
+  "vietnameseMeaning": [
+    "① Lời văn. ② Một lối văn để hát. Như từ khúc 詞曲. ③ Các chữ dùng để giúp lời văn đều gọi là từ. Như những chữ hề, ta, chỉ, tư 兮, 些, 只, 斯, v.v. ④ Bảo, nói. ① Từ, tiếng: 動詞 Động từ; 複音詞 Từ đa âm, từ ghép; ② Lời, bài: 歌詞 Lời ca; 義正嚴詞 Lời nghiêm nghĩa chính; 演 講詞 Bài diễn thuyết; ③ Bài từ (một thể văn vần): 詩詞 Thơ và từ; ④ (văn) Bảo, nói."
+  ],
+  "jlpt": "2",
+  "frequency": "1636",
+  "grade": "6"
 }

@@ -371,5 +371,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d19.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d19.gif",
     "uri": "https://jisho.org/search/%E7%B4%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "chỉ"
+  ],
+  "vietnameseMeaning": [
+    "① Giấy. Sái Luân nhà Hán sáng tạo ra phép làm giấy trước nhất. ① Giấy: 包裝紙 Giấy đóng gói; 吸墨紙 Giấy thấm (chặm); 一張紙 Một tờ giấy; ② (loại) Tờ, bản: 單據三紙 Ba tờ biên lai; 一紙公文 Một bản công văn."
+  ],
+  "jlpt": "3",
+  "frequency": "559",
+  "grade": "2"
 }

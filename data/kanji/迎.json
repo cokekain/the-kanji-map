@@ -325,5 +325,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fce.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fce.gif",
     "uri": "https://jisho.org/search/%E8%BF%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "nghênh"
+  ],
+  "vietnameseMeaning": [
+    "① Đón. Chờ vật ngoài nó tới mà ngửa mặt ra đón lấy gọi là nghênh. Như tống nghênh 送迎 đưa đón. Hoan nghênh 歡迎 vui đón. Nghênh phong 迎風 hóng gió, v.v. ② Đón trước, suy xét cái mối mừng giận của người khác mà đón trước chiều ý gọi là nghênh hợp 迎合 hay phùng nghênh 逢迎. ③ Một âm là nghịnh. Ði đón về. Như thân nghịnh 親迎 lễ đi đón dâu. Phàm cái gì nó tới mà mình đón lấy thì gọi là nghênh, nó chưa lại mà mình tới đón trước gọi là nghịnh. ① Nghênh tiếp, đón, đón tiếp: 送迎 Đưa đón; 歡迎 Vui đón, hoan nghênh; 迎接 Đón chào; 出迎 Ra đón; ② Trước mặt.【迎面】nghênh diện Trước mặt, đối diện."
+  ],
+  "jlpt": "2",
+  "frequency": "625",
+  "grade": "8"
 }

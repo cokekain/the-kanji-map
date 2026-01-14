@@ -390,5 +390,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06301.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6301.gif",
     "uri": "https://jisho.org/search/%E6%8C%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "trì"
+  ],
+  "vietnameseMeaning": [
+    "① Cầm, giữ, như trì tiết 持節 giữ tiết, thao trì 操持 giữ gìn, chủ trì 主持 chủ trương công cuộc gì. Ta gọi vị sư coi cả của chùa là trụ trì 住持 cũng là do nghĩa ấy cả. Phàm nói về chữ trì đều có ý chỉ về sự giữ chắc không rời cả. Như bảo trì 保持 giữ giàng, bả trì 把持 cầm giữ lấy, hiệp trì 挾持 cậy thế bắt buộc người phải theo mình, căng trì 矜持 cố đánh đổ cái tính xấu mà giữ lấy cái hay, bất tự trì 不自持 không có định kiến gì, phù trì 扶持 nâng đỡ, duy trì 維持 dàng giữ, chi trì 支持 chống chỏi, v.v. Hai bên ngang sức chống nhau gọi là tương trì bất hạ 相持不下. ① Cầm: 持筆 Cầm bút; ② Giữ, giữ lấy: 保持 Giữ lấy; ③ Trông nom, trông coi, quản: 持家 Lo liệu việc nhà; 主持 Chủ trì; ④ Chống đối: 相持階段 Giai đoạn cầm cự."
+  ],
+  "jlpt": "3",
+  "frequency": "119",
+  "grade": "3"
 }

@@ -296,5 +296,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09285.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9285.gif",
     "uri": "https://jisho.org/search/%E9%8A%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "đồng"
+  ],
+  "vietnameseMeaning": [
+    "① Ðồng (Copper, Cu), một loài kim chất đỏ, ngày xưa gọi là xích kim 赤金. Đồng (Cuprum kí hiệu Cu): 銅鑛 Quặng đồng; 銅像 Tượng đồng; 銅版 Bản khắc đồng. Cg. 赤金 ."
+  ],
+  "jlpt": "2",
+  "frequency": "1505",
+  "grade": "5"
 }

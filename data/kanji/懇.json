@@ -68,5 +68,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061c7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61c7.gif",
     "uri": "https://jisho.org/search/%E6%87%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "khẩn",
+    "khấn"
+  ],
+  "vietnameseMeaning": [
+    "① Khẩn khoản. ② Khẩn cầu, cầu người khác một cách cần thiết gọi là khẩn. ① Thành khẩn, chân thành: 懇談 Ăn nói chân thành; ② Thiết tha yêu cầu, khẩn cầu: 敬懇 Kính cẩn yêu cầu."
+  ],
+  "jlpt": "1",
+  "frequency": "1135",
+  "grade": "8"
 }

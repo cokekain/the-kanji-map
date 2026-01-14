@@ -76,5 +76,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ce1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ce1.gif",
     "uri": "https://jisho.org/search/%E6%B3%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "bào",
+    "bàu"
+  ],
+  "vietnameseMeaning": [
+    "bào ① Bọt nước. ② Ngâm nước. Ta quen đọc là chữ bào. ① Phồng: 豆腐泡兒 Đậu phụ rán phồng; ② Mềm xốp: 這塊木料發泡 Tấm gỗ này đã mềm xốp; ③ Bãi: 一泡尿 Một bãi phân. Xem 泡 . ① Bóng, bọt: 水泡 Bóng nước; 肥皂泡 Bọt xà phòng; ② Sủi bọt, sủi tăm: 水剛起泡，還不大開 Nước đun mới sủi bọt, chưa thật sôi; ③ Phồng: 才走一天腳就起泡 Mới đi có một ngày đường đã phồng cả chân; ④ Rộp, dộp: 燙泡了 Bỏng rộp, dộp da; ⑤ Ngâm (nước): 把買來的布泡一夜 Đem vải mới mua về ngâm một đêm; ⑥ Pha: 泡茶 Pha chè; 茶泡得挺濃了 Trà pha đậm lắm rồi; ⑦ Giết thì giờ: 呆在那裡泡時間 Ngồi ỳ đấy giết thì giờ. Xem 泡 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1872",
+  "grade": "8"
 }

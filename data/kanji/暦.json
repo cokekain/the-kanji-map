@@ -85,5 +85,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66a6.gif",
     "uri": "https://jisho.org/search/%E6%9A%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "lịch"
+  ],
+  "vietnameseMeaning": [
+    "① Lịch; ② Thời đại; ③ Tính toán."
+  ],
+  "jlpt": "1",
+  "frequency": "1765",
+  "grade": "8"
 }

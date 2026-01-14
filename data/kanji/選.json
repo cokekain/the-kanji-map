@@ -408,5 +408,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09078.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9078.gif",
     "uri": "https://jisho.org/search/%E9%81%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "tuyển"
+  ],
+  "vietnameseMeaning": [
+    "① Chọn. Tới trong số nhiều mà kén chọn lấy một số tốt đẹp gọi là tuyển. Như tinh tuyển 精選 chọn kĩ. Người hay vật gì đã kén chọn rồi cũng gọi là tuyển. ② Lọc chọn các bài văn của cổ nhân đóng thành từng quyển cũng gọ là tuyển. Như Lương Chiêu Minh 良昭明 thái tử Tiêu Thống 蕭統 có dọn một bộ văn tuyển 文選 ba mươi quyển, về sau cứ bắt chước lối ấy mà lựa chọn văn thơ, tục gọi là tuyển thể 選體. ③ Thiểu tuyển 少選 chốc lát (thí nữa). ④ Một âm là tuyến. Chức quan do bộ chọn rồi cử lên gọi là tuyến. ① Tuyển lựa, chọn lọc, lựa chọn: 選種 Chọn giống; 文選 Văn tuyển, tập văn chọn lọc; ② Tuyển, bầu, bầu cử: 普選 Tổng tuyển cử; 應選 Ứng cử."
+  ],
+  "jlpt": "2",
+  "frequency": "57",
+  "grade": "4"
 }

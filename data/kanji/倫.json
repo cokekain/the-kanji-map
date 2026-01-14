@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0502b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/502b.gif",
     "uri": "https://jisho.org/search/%E5%80%AB%23kanji"
-  }
+  },
+  "hanviet": [
+    "luân"
+  ],
+  "vietnameseMeaning": [
+    "① Thường, như luân lí 倫理 cái đạo thường người ta phải noi theo. ② Loài, bực, như siêu quần tuyệt luân 超群絕倫 tài giỏi hơn cả các bực. ① Nhân luân, luân thường: 倫常 Luân thường; 五倫 Ngũ luân; ② Nền nếp, thứ tự: 倫次 Thứ tự; ③ Sự so sánh, người ngang hàng, cùng loại, ngang nhau: 不倫不類 Không đâu vào đâu; 無與倫比 Không gì sánh bằng; 絕倫 Tuyệt luân; ④ (Họ) Luân."
+  ],
+  "jlpt": "1",
+  "frequency": "1322",
+  "grade": "8"
 }

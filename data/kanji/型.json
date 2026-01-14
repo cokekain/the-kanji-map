@@ -385,5 +385,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0578b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/578b.gif",
     "uri": "https://jisho.org/search/%E5%9E%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "hình"
+  ],
+  "vietnameseMeaning": [
+    "① Cái khuôn. Cái khuôn bằng đất để đúc các đồ gọi là hình. ② Nói bóng nghĩa là làm khuôn phép. ① Khuôn, khuôn đúc: 砂型 Khuôn đúc (bằng cát); 模型 Mô hình; ② Loại hình, cỡ, kiểu: 新型 Kiểu mới; 大型 Cỡ lớn; ③ (văn) Làm khuôn phép."
+  ],
+  "jlpt": "2",
+  "frequency": "482",
+  "grade": "4"
 }

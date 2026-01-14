@@ -65,5 +65,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e7b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e7b.gif",
     "uri": "https://jisho.org/search/%E5%B9%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "huyễn",
+    "ảo"
+  ],
+  "vietnameseMeaning": [
+    "ảo, huyễn ① Dối giả, làm giả mê hoặc người. ② Giả mà làm hệt như thực gọi là huyễn, như huyễn tượng 幻象, huyễn thuật 幻術, ta quen gọi là ảo thuật, là quỷ thuật, nghĩa là làm giả mà giống như có thực vậy. Sự vật biến thiên, khó tìm được rõ chân tướng gọi là huyễn, như biến huyễn 變幻 hay huyễn hoá 幻化, v.v. ① Ảo, giả, không thật. 【幻景】ảo cảnh Ảo cảnh (ảnh): 沙漠上的幻景 Ảo ảnh trên sa mạc; ② (Biến) hoá: 變幻多端 Biến hoá nhiều; 變幻 Biến đổi khôn lường."
+  ],
+  "jlpt": "1",
+  "frequency": "1564",
+  "grade": "8"
 }

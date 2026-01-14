@@ -327,5 +327,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aa4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aa4.gif",
     "uri": "https://jisho.org/search/%E8%AA%A4%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngộ"
+  ],
+  "vietnameseMeaning": [
+    "① Lầm. Như thác ngộ 錯誤 lầm lẫn. ② Làm mê hoặc. ③ Bị sự gì nó làm luỵ. ① Sai, lầm, nhầm: 錯誤 Sai lầm; 筆誤 Viết sai; 群臣議皆誤 Lời bàn của quần thần đều sai cả (lầm cả) (Sử kí); ② (văn) Làm mê hoặc; ③ Lỡ làm (không cố ý); ④ Lỡ, nhỡ, bỏ lỡ: 誤事 Lỡ việc, nhỡ việc; 誤點 Lỡ giờ; ⑤ Hại, làm hại, làm lỡ: 誤人子弟 Làm hại con em người ta."
+  ],
+  "jlpt": "2",
+  "frequency": "1150",
+  "grade": "6"
 }

@@ -365,5 +365,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08853.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8853.gif",
     "uri": "https://jisho.org/search/%E8%A1%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "thuật"
+  ],
+  "vietnameseMeaning": [
+    "① Nghề thuật, kẻ có nghề riêng đi các nơi kiếm tiền gọi là thuật sĩ 術士. ② Phương pháp do đó mà suy ra, như bất học vô thuật 不學無術 không học không có phương pháp để làm. ③ Ðường đi trong ấp. ④ Cùng nghĩa với chữ thuật 述. ① Kĩ thuật, thuật, nghề: 武術 Võ, võ thuật; 藝術 Nghệ thuật; ② Phương pháp, cách, thuật: 戰術 Chiến thuật; 游泳術 Cách bơi; ③ (văn) Đường đi trong ấp; ④ (văn) Như 述 (bộ 辶). Xem 術 (bộ 木)."
+  ],
+  "jlpt": "2",
+  "frequency": "350",
+  "grade": "5"
 }

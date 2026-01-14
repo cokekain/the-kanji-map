@@ -345,5 +345,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f38.gif",
     "uri": "https://jisho.org/search/%E8%BC%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "thâu"
+  ],
+  "vietnameseMeaning": [
+    "① Chuyển vần, lấy xe vận tải đồ đi. Như thâu tống 輸送 vận tải đưa đi, thâu xuất 輸出 vận tải ra, v.v. ② Nộp, đưa đồ gì cho ai gọi là thâu. Lấy ý thành thực đối với người cũng gọi là thâu. Như thâu trung 輸忠 dốc hết lòng thực. ③ Thua. Như thâu doanh 輸贏 được thua. Một âm là thú. Cái đồ đưa cho người. ① Chở, vận tải: 運輸 Vận tải, chuyên chở; ② Tiếp dẫn: 輸血 Tiếp máu; 輸油管 Ống dẫn dầu; ③ Biếu, cho, đưa cho: 捐輸 Quyên cho; ④ Thua: 輸了兩個球Thua 2 điểm (2 quả)."
+  ],
+  "jlpt": "2",
+  "frequency": "371",
+  "grade": "5"
 }

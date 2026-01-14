@@ -288,5 +288,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81e3.gif",
     "uri": "https://jisho.org/search/%E8%87%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "thần"
+  ],
+  "vietnameseMeaning": [
+    "① Bầy tôi. Quan ở trong nước có vua gọi là thần. ② Kẻ chịu thống thuộc dưới quyền người cũng gọi là thần. Như thần bộc 臣僕 tôi tớ, thần thiếp 臣妾 nàng hầu, v.v. Ngày xưa gọi những kẻ làm quan hai họ là nhị thần 貳臣. ③ Cổ nhân nói chuyện với bạn cũng hay xưng là thần 臣, cũng như bây giờ xưng là bộc 僕. (cũ) ① Thần, bầy tôi (của vua), bộ trưởng: 阮朝大臣 Đại thần triều Nguyễn; 外交大臣 Bộ trưởng bộ ngoại giao; ② Thần, hạ thần (từ quan lại xưng với vua); ③ (văn) Tôi (đại từ nhân xưng thời xưa, dùng cho ngôi thứ nhất, số ít, tương đương với 僕, bộ 亻) ."
+  ],
+  "jlpt": "2",
+  "frequency": "1249",
+  "grade": "4"
 }

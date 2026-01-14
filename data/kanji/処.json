@@ -326,5 +326,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e6.gif",
     "uri": "https://jisho.org/search/%E5%87%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "xử",
+    "xứ"
+  ],
+  "vietnameseMeaning": [
+    "xử, xứ ① Nguyên là chữ 處 chốn. Như 處 (bộ 虎)."
+  ],
+  "jlpt": "2",
+  "frequency": "547",
+  "grade": "6"
 }

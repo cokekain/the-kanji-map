@@ -292,5 +292,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05742.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5742.gif",
     "uri": "https://jisho.org/search/%E5%9D%82%23kanji"
-  }
+  },
+  "hanviet": [
+    "phản",
+    "phẳng"
+  ],
+  "vietnameseMeaning": [
+    "① Sườn núi. (văn) Sườn núi, dốc: 坂上走丸 Như xe xuống dốc không phanh, được thể lên như diều. Cv. 阪."
+  ],
+  "jlpt": "2",
+  "frequency": "865",
+  "grade": "3"
 }

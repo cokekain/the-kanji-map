@@ -391,5 +391,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56f3.gif",
     "uri": "https://jisho.org/search/%E5%9B%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "đồ"
+  ],
+  "jlpt": "3",
+  "frequency": "539",
+  "grade": "2"
 }

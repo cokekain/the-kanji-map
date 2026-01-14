@@ -76,5 +76,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0925b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/925b.gif",
     "uri": "https://jisho.org/search/%E9%89%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "duyên"
+  ],
+  "vietnameseMeaning": [
+    "① Chì, một loài kim giống như thiếc mà mềm (Plumbum, Pb). Cho giấm vào nấu, có thể chế ra phấn. Các nhà tu đạo ngày xưa dùng để luyện thuốc. ② Phấn đánh mặt làm bằng chì cũng gọi tắt là duyên. ③ Duyên bút 鉛筆 bút chì chế bằng một chất than trời sinh rất thuần tuý. ① Chì (Plumbum, kí hiệu Pb); ② Than chì, graphit."
+  ],
+  "jlpt": "1",
+  "frequency": "1710",
+  "grade": "8"
 }

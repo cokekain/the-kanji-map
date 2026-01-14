@@ -342,5 +342,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0666f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/666f.gif",
     "uri": "https://jisho.org/search/%E6%99%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "cảnh"
+  ],
+  "vietnameseMeaning": [
+    "① Cảnh, cái gì hình sắc phân phối có vẻ đẹp thú đều gọi là cảnh, như phong cảnh 風景, cảnh vật 景物, v.v. ② Cảnh ngộ, quang cảnh. ③ Hâm mộ, tưởng vọng người nào gọi là cảnh ngưỡng 景仰. ④ To lớn, như dĩ giới cảnh phúc 以介景福 lấy giúp phúc lớn. ① Cảnh (phong cảnh, cảnh ngộ, hoàn cảnh): 風景優美 Phong cảnh rất đẹp; 雪景 Cảnh tuyết; 遠景 Cảnh xa, viễn cảnh, cảnh tương lai; ② Khâm phục, ngưỡng mộ, hâm mộ, mến phục; ③ (văn) To lớn: 景福 Phúc lớn; ④ (Họ) Cảnh."
+  ],
+  "jlpt": "2",
+  "frequency": "419",
+  "grade": "4"
 }

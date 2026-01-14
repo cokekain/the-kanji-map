@@ -279,5 +279,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06291.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6291.gif",
     "uri": "https://jisho.org/search/%E6%8A%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "ức"
+  ],
+  "vietnameseMeaning": [
+    "① Ðè nén, như ức chế 抑制. ② Ðè xuống. ③ Chỉn, hay lời nói chuyển câu, như cầu chi dư, ức dư chi dư 求之與抑與之與 cầu đấy ư? hay cho đấy ư? ① Dằn ép, đè nén, dìm xuống; ② (văn) (lt) Hoặc, hay là, song, nhưng, mà: 南方之強與？北方之強與？抑而強與？ Đó là sức mạnh của phương nam? Đó là sức mạnh của phương bắc? Hay là sức mạnh của nhà ngươi? (Trung dung). 【抑或】ức hoặc (văn) Hoặc, hay là;【抑亦】ức diệc (văn) a. (Không chỉ...) mà còn; b. Hay là: 仲子所居之室，伯夷之所築與？抑亦盜蹠之所築與？ Nhà của Trọng Tử ở, là do ông Bá Di cất ư? Hay là do Đạo Chích cất? (Mạnh tử)."
+  ],
+  "jlpt": "1",
+  "frequency": "834",
+  "grade": "8"
 }

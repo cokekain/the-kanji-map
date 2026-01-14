@@ -352,5 +352,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e45.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e45.gif",
     "uri": "https://jisho.org/search/%E4%B9%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "cửu"
+  ],
+  "vietnameseMeaning": [
+    "① Lâu, nói thì giờ đã lâu, như cửu mộ 久慕 mến đã lâu, cửu ngưỡng 久仰 kính đã lâu. ② Ðợi, như quả quân dĩ vi minh chủ chi cố thị dĩ cửu tử 寡君以為盟主之故是以久子 tôi vì làm người chủ thể nên phải chờ đợi anh. Lâu: 很久不見了 Lâu lắm không gặp; 其境過清，不可久居 Vùng này vắng lạnh quá, không thể ở lại lâu được (Liễu Tôn Nguyên); ② (văn) Chờ đợi: 寡君以爲盟主之故，是以久子 Vua chúng tôi vì là minh chủ, nên chờ đợi ông (Tả truyện: Chiêu công nhị thập tứ niên); ③ (văn) Che phủ: 冪用疏布久之 Khi che phủ thì dùng vải thô để che (Nghi lễ: Sĩ táng lễ)."
+  ],
+  "jlpt": "2",
+  "frequency": "688",
+  "grade": "5"
 }

@@ -79,5 +79,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09154.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9154.gif",
     "uri": "https://jisho.org/search/%E9%85%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "túy"
+  ],
+  "jlpt": "1",
+  "frequency": "1640",
+  "grade": "8"
 }

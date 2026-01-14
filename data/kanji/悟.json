@@ -275,5 +275,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0609f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/609f.gif",
     "uri": "https://jisho.org/search/%E6%82%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngộ"
+  ],
+  "vietnameseMeaning": [
+    "① Tỏ ngộ, biết. Trong lòng hiểu thấu gọi là ngộ, đọc sách hiểu được ý hay gọi là ngộ tính 悟性. ② Mở, bảo cho người biết tỉnh lại không mê muội nữa. ① Ngộ, tỉnh ngộ, giác ngộ: 執迷不悟 Mê muội mãi không tỉnh ngộ; 恍然大悟 Bỗng nhiên tỉnh ngộ, bừng tỉnh; ② (văn) Làm cho tỉnh ngộ, giác ngộ (người khác)."
+  ],
+  "jlpt": "1",
+  "frequency": "1411",
+  "grade": "8"
 }

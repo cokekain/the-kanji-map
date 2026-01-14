@@ -50,5 +50,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e1a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e1a.gif",
     "uri": "https://jisho.org/search/%E6%B8%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "chã"
+  ],
+  "vietnameseMeaning": [
+    "① Bãi nhỏ. (văn) Bãi nhỏ, gò, cồn (ở giữa hồ, sông): 騰王高閣臨江渚 Gác cao Đằng Vương trông ra bãi sông (Vương Bột: Đằng Vương các tự)."
+  ],
+  "jlpt": "1",
+  "frequency": "2226",
+  "grade": "9"
 }

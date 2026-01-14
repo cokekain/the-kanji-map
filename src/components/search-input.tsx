@@ -16,14 +16,16 @@ import {
 import { ChevronsUpDown } from "lucide-react";
 import { Virtuoso } from "react-virtuoso";
 import { useRouter } from "next/navigation";
+import { useLanguage } from "@/lib/language-store";
 
 import searchlist from "@/../data/searchlist.json";
 
-const OPTIONS: SearchOption[] = searchlist.map((el) => {
+const OPTIONS: SearchOption[] = searchlist.map((el: any) => {
   return {
     kanji: el.k,
     kunyomi: el.r,
     meaning: el.m,
+    hanviet: el.hv || "",
     group: el.g === 1 ? "joyo" : el.g === 2 ? "jinmeiyo" : "other",
   };
 });
@@ -32,6 +34,7 @@ type SearchOption = {
   kanji: string;
   kunyomi: string;
   meaning: string;
+  hanviet: string;
   group: "joyo" | "jinmeiyo" | "other";
 };
 
@@ -52,6 +55,7 @@ const VirtualizedCommand = ({
 }: VirtualizedCommandProps) => {
   const [filteredOptions, setFilteredOptions] =
     React.useState<SearchOption[]>(options);
+  const [language] = useLanguage();
 
   const handleSearch = (search: string) => {
     setFilteredOptions(
@@ -59,7 +63,8 @@ const VirtualizedCommand = ({
         (option) =>
           option.kanji.toLowerCase().includes(search.toLowerCase()) ||
           option.kunyomi.toLowerCase().includes(search.toLowerCase()) ||
-          option.meaning.toLowerCase().includes(search.toLowerCase())
+          option.meaning.toLowerCase().includes(search.toLowerCase()) ||
+          (language === "vi" && option.hanviet.toLowerCase().includes(search.toLowerCase()))
       )
     );
   };
@@ -116,6 +121,9 @@ const VirtualizedCommand = ({
 
                     <div className="text-xs">
                       <div>{data.value.kunyomi}</div>
+                      {language === "vi" && data.value.hanviet && (
+                        <div className="text-primary">{data.value.hanviet}</div>
+                      )}
                       <div>{data.value.meaning}</div>
                     </div>
                   </div>

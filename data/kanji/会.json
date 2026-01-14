@@ -441,5 +441,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f1a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f1a.gif",
     "uri": "https://jisho.org/search/%E4%BC%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "hội"
+  ],
+  "vietnameseMeaning": [
+    "hội, cối Xem 會 (bộ 曰). Như 會"
+  ],
+  "jlpt": "4",
+  "frequency": "4",
+  "grade": "2"
 }

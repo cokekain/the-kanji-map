@@ -404,5 +404,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f8b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f8b.gif",
     "uri": "https://jisho.org/search/%E4%BE%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "lệ",
+    "lề"
+  ],
+  "vietnameseMeaning": [
+    "① Lệ, ví. Lấy cái này làm mẫu mực cho cái kia gọi là lệ, như thể lệ 體例, điều lệ 調例, luật lệ 律例, v.v. ① Thí dụ: 舉例 Nêu thí dụ; ② Lệ, tiền lệ, thói quen: 援例 Dẫn chứng tiền lệ; 破例 Phá thói quen; ③ Ca, trường hợp: 病例 Ca bệnh, trường hợp bệnh (của những người đã mắc trước); ④ Thể lệ, quy tắc, ước lệ: 條例 Điều lệ; 發凡起例 Giới thiệu ý chính và thể lệ biên soạn (một bộ sách); ⑤ Thường lệ, lệ thường, theo lệ thường.【例會】lệ hội Hội nghị thường lệ (thường kì);【例行公事】lệ hành công sự a. Làm việc công theo thường lệ; b. Lối làm việc theo hình thức; ⑥ (văn) Đều, thảy đều, tất cả đều, toàn bộ: 其兵總飲河水, 例聞水中有酒氣味 Binh của ông ta đều uống nước sông, tất cả đều nghe trong nước có mùi rượu (Ngũ Tử Tư biến văn). 【例皆】 lệ giai (văn) Đều, thảy đều;【例總】lệ tổng (văn) Như 例皆."
+  ],
+  "jlpt": "2",
+  "frequency": "399",
+  "grade": "4"
 }

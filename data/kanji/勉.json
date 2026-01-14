@@ -295,5 +295,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52c9.gif",
     "uri": "https://jisho.org/search/%E5%8B%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "miễn"
+  ],
+  "vietnameseMeaning": [
+    "① Cố sức. ② Gắng gỏi, như miễn lệ 勉勵 gắng gỏi cho người cố sức làm. ① Gắng sức, cố sức: 奮勉 Cố gắng; ② Khuyến khích: 互勉 Khuyến khích nhau; 有則改之，無則加勉 Có sai thì sửa, không sai thì khuyến khích thêm; ③ Gắng gượng: 勉強 Miễn cưỡng."
+  ],
+  "jlpt": "3",
+  "frequency": "1066",
+  "grade": "3"
 }

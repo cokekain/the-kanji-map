@@ -271,5 +271,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05104.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5104.gif",
     "uri": "https://jisho.org/search/%E5%84%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "ức"
+  ],
+  "vietnameseMeaning": [
+    "① Ức, mười vạn là một ức. ② Liệu lường, như ức tắc lũ trúng 億則屢中 lường thì thường trúng. ③ Yên, như cung ức 供億 cung cấp cho đủ dùng, cho được yên ổn. (Một) trăm triệu."
+  ],
+  "jlpt": "2",
+  "frequency": "716",
+  "grade": "4"
 }

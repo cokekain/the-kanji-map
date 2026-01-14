@@ -545,5 +545,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ee3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ee3.gif",
     "uri": "https://jisho.org/search/%E4%BB%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "đại"
+  ],
+  "vietnameseMeaning": [
+    "① Ðổi, như hàn thử điệt đại 寒暑迭代 rét nóng thay đổi.② Thay, như đại lí 代理 liệu trị thay kẻ khác. ③ Ðời, như Hán đại 漢代 đời nhà Hán, tam đại 三代 đời thứ ba, v.v. ① Thay (mặt), thế: 這事情我代他辦 Việc này tôi làm cho anh ấy; 經理不在時由他代 Khi giám đốc đi vắng, anh ấy thay mặt; 莊子來, 慾代子相 Trang tử đến định thay cho Tử Tương (Trang tử); ② (văn) Thay đổi nhau, luân lưu, luân phiên: 寒暑选代 Rét nóng thay đổi luân phiên nhau; 春與秋其代序 Xuân và thu lần lượt luân phiên (Khuất Nguyên: Li tao); ③ Quyền, tạm thay: 代主席 Quyền chủ tịch; 我代了一個月的班長 Tôi tạm thay chức tiểu đội trưởng một tháng; ④ Đời (nhà), thời, triều đại: 唐代 Đời (nhà) Đường; 當代 Thời nay; ⑤ Đời (cha con kế tiếp nhau là một đời); ⑥ Thế hệ, lớp: 下一代 Thế hệ sau; 年青一代 Lớp trẻ, thế hệ trẻ; ⑦ (địa) Đại, giới: 古生 代 Đại Cổ sinh, đại Paleozoi; 新生代 Giới Tân sinh, giới Neozoi; ⑧ (Họ) Đại."
+  ],
+  "jlpt": "3",
+  "frequency": "66",
+  "grade": "3"
 }

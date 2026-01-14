@@ -299,5 +299,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63cf.gif",
     "uri": "https://jisho.org/search/%E6%8F%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "miêu"
+  ],
+  "vietnameseMeaning": [
+    "① Phỏng vẽ, miêu tả, nghĩa là trông bức vẽ nào hay chữ nào mà vẽ phỏng ra, viết phỏng ra cho giống vậy. Cái ván trẻ con viết dạm (tô lại) cũng gọi là miêu hồng 描紅. ① Đồ, vẽ theo (bức hoạ), miêu tả: 描圖 Đồ một bức hoạ; ② Tô (cho rõ nét, cho đậm màu): 描紅 Tô hồng, tô (màu) đỏ; 不要描 Không nên tô đi tô lại."
+  ],
+  "jlpt": "1",
+  "frequency": "876",
+  "grade": "8"
 }

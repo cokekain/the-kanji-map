@@ -63,5 +63,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058d5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58d5.gif",
     "uri": "https://jisho.org/search/%E5%A3%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "hào"
+  ],
+  "vietnameseMeaning": [
+    "① Cái hào. ① Hầm, hào: 防空壕 Hầm phòng không, hầm trú ẩn; 戰壕 Chiến hào, hầm núp; 交通壕 Giao thông hào; ② Hào luỹ."
+  ],
+  "frequency": "2273",
+  "grade": "9"
 }

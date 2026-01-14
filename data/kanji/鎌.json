@@ -59,5 +59,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0938c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/938c.gif",
     "uri": "https://jisho.org/search/%E9%8E%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "gươm"
+  ],
+  "vietnameseMeaning": [
+    "① Cũng như chữ liêm 鐮. Như 鐮."
+  ],
+  "jlpt": "1",
+  "frequency": "1587",
+  "grade": "8"
 }

@@ -78,5 +78,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07db2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7db2.gif",
     "uri": "https://jisho.org/search/%E7%B6%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "võng"
+  ],
+  "vietnameseMeaning": [
+    "① Cái lưới, cái chài. ② Phàm cái gì kết thành từng mắt đều gọi là võng, như thù võng 蛛網 mạng nhện. ③ Cái để ràng buộc người và vật, như trần võng 塵網 lưới trần, ý nói sự đời nó ràng buộc người như thể phải bị mắc vào lưới vậy, vì thế nên gọi pháp luật là văn võng 文網. ① Lưới, chài: 魚網 Lưới bắt cá. (Ngr) Bủa vây để bắt: 天羅地網 Lưới trời khó thoát, thiên la địa võng; ② Mạng: 蜘蛛網 Mạng nhện; 電網 Mạng điện; ③ Hệ thống, mạng lưới, bộ máy: 通訊網 Hệ thống thông tin; ④ Đánh bắt bằng lưới: 網着了一條魚 Đánh được một con cá."
+  ],
+  "jlpt": "1",
+  "frequency": "1194",
+  "grade": "8"
 }

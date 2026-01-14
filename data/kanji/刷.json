@@ -291,5 +291,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05237.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5237.gif",
     "uri": "https://jisho.org/search/%E5%88%B7%23kanji"
-  }
+  },
+  "hanviet": [
+    "loát"
+  ],
+  "vietnameseMeaning": [
+    "① Tẩy xạch. ② Cái bàn chải, nhà in dùng cái bàn chải, chải cho đẹp chữ, nên gọi sự in là ấn xoát 印刷. Tục thường đọc là chữ loát. ① Bàn chải: 牙刷 Bàn chải đánh răng; ② Chải, lau, rửa, tẩy sạch: 刷鞋 Chải giầy, đánh giầy; 刷鍋 Lau chảo, cọ nồi; ③ Như 唰 . Xem 刷 . 【刷白】loát bạch (đph) Trắng toát, trắng xóa, trắng bệch: 月亮升起來了，把麥地照得刷白 Trăng lên, rọi ánh sáng xuống cánh đồng lúa mì trắng xóa; 一聽這話，他的臉立刻變得刷白 Nghe câu nói đó, mặt anh ấy trắng bệch ra. Xem 刷 ."
+  ],
+  "jlpt": "2",
+  "frequency": "1352",
+  "grade": "4"
 }

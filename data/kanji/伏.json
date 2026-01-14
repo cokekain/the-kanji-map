@@ -326,5 +326,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f0f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f0f.gif",
     "uri": "https://jisho.org/search/%E4%BC%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "phục"
+  ],
+  "vietnameseMeaning": [
+    "① Nép, nằm phục xuống. ② Nấp, giấu, như phục binh 伏兵 giấu binh một chỗ để rình giặc đến thì đánh. ① Cúi xuống: 伏案 Cúi đầu xuống bàn; ② Lên xuống: 此起彼伏 Chỗ này dâng lên, chỗ kia lắng xuống; ③ Ẩn nấp, ẩn náu, phục: 伏擊 Phục kích; 晝伏夜出 Ngày ẩn đêm ra (hoạt động); ④ Ba mươi ngày nóng nhất trong mùa hạ (sơ phục, trung phục và mạt phục); ⑤ Khuất phục, cúi đầu thừa nhận: 伏輸 Chịu thua; 伏罪 Nhận tội; ⑥ (văn) Kính, cúi (đặt trước động từ, biểu thị sự tôn kính đối với đối phương, thường dùng trong thể văn thư tín, tấu sớ...): 伏望執事以同明之義, 命將北征 Cúi (kính) mong ngài lấy cái tình nghĩa đồng minh mà ra lệnh cho các tướng sĩ tiến quân đánh về phía bắc (Gia Cát Lượng: Dữ Tôn Quyền thư); 伏惟 Cúi nghĩ; ⑦ (điện) Vôn; ⑧ (Họ) Phục."
+  ],
+  "jlpt": "1",
+  "frequency": "1604",
+  "grade": "8"
 }

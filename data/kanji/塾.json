@@ -52,5 +52,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0587e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/587e.gif",
     "uri": "https://jisho.org/search/%E5%A1%BE%23kanji"
-  }
+  },
+  "hanviet": [
+    "thục"
+  ],
+  "vietnameseMeaning": [
+    "① Cái chái nhà. Gian nhà hai bên cửa cái gọi là thục. Là chỗ để cho con em vào học, cho nên gọi chỗ chái học là gia thục 家塾. Ðời sau nhân thế mới gọi tràng học tư là tư thục 私塾, mà gọi thầy học là thục sư 塾師 vậy. ① Trường học tư (thời xưa): 私塾 Trường tư; 家塾 Lớp dạy gia đình; ② (văn) Chái nhà."
+  ],
+  "jlpt": "1",
+  "frequency": "1297",
+  "grade": "8"
 }

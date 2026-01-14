@@ -374,5 +374,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08003.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8003.gif",
     "uri": "https://jisho.org/search/%E8%80%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "khảo"
+  ],
+  "vietnameseMeaning": [
+    "① Thọ khảo, già nua. ② Bố đã chết rồi gọi là khảo. Các tiên nhân về bên đàn ông đều dùng chữ khảo cả, như tổ khảo 祖考 ông. ③ Khảo xét. ④ Thí, như khảo thí 考試 thi khảo. Lấy các bài văn học để chọn lấy học trò xem ai hơn ai kém gọi là khảo. ⑤ Xong, khánh thành nhà. ⑥ Ðánh, khua. ⑦ Trọn, kết cục. ⑧ Vết. ① Sát hạch, kiểm tra, thi: 考外語 Sát hạch môn ngoại ngữ; 考上大學 Thi vào đại học; ② Kiểm tra, kiểm sát: 待考 Đợi kiểm tra lại; ③ Khảo cứu, nghiên cứu; ④ (cũ) (Tôn xưng) người cha đã chết: 先考 Người cha đã khuất; 考妣 Cha và mẹ đã mất; ⑤ (văn) Già nua; ⑥ (văn) Xong, khánh thành nhà; ⑦ (văn) Đánh, khua; ⑧ (văn) Chọn, kết cục; ⑨ (văn) Vết."
+  ],
+  "jlpt": "3",
+  "frequency": "196",
+  "grade": "2"
 }

@@ -310,5 +310,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06628.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6628.gif",
     "uri": "https://jisho.org/search/%E6%98%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "tạc"
+  ],
+  "vietnameseMeaning": [
+    "① Hôm qua, như tạc nhật 昨日 ngày hôm qua, tạc dạ 昨夜 đêm qua, tạc niên 昨年 năm ngoái, v.v. ② Ngày xưa. ③ Mới rồi. ① (Hôm) qua: 昨晚 Đêm qua, đêm hôm qua; 昨已到京 Đã đến Bắc Kinh hôm qua; 昨年 Năm ngoái; ② (văn) Ngày xưa; ③ (văn) Mới rồi."
+  ],
+  "jlpt": "2",
+  "frequency": "226",
+  "grade": "4"
 }

@@ -64,5 +64,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96cc.gif",
     "uri": "https://jisho.org/search/%E9%9B%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "thư"
+  ],
+  "vietnameseMeaning": [
+    "① Con mái, loài có lông cánh thuộc về tính âm (giống cái) gọi là thư, con thú cái cũng gọi là thư. ② Yếu lướt. Như thủ thư 守雌 giữ lối mềm nhũn. ① (Giống) cái, mái: 雌兔 Thỏ cái; 雌雞 Gà mái; ② (văn) Mềm yếu, yếu ớt; ③ (văn) Bị đánh bại; ④ (văn) Trách mắng; ⑤ (văn) Nhe ra (răng...) (dùng như 齜, bộ 齒)."
+  ],
+  "jlpt": "1",
+  "frequency": "1951",
+  "grade": "8"
 }

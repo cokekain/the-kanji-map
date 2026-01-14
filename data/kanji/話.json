@@ -441,5 +441,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a71.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a71.gif",
     "uri": "https://jisho.org/search/%E8%A9%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "thoại"
+  ],
+  "vietnameseMeaning": [
+    "① Lời nói, phàm các lời nói tầm thường đều gọi là thoại. Như bạch thoại 白話 lời nói thông thường dễ hiểu. Một lối văn viết cho những người học ít xem dễ hiểu. Như nhàn thoại 閒話 câu chuyện thường. ② Bảo. ③ Tốt, hay. ① Lời, chuyện, tiếng: 說話 Nói chuyện; 講 了幾句話 Nói vài lời; 中國話 Tiếng Trung Quốc; ② Nói, kể: 話家常 Kể chuyện phiếm, tán gẫu; ③ Ngôn ngữ; ④ (văn) Bảo; ⑤ (văn) Tốt, hay; ⑥ Xem 的話 ."
+  ],
+  "jlpt": "4",
+  "frequency": "134",
+  "grade": "2"
 }

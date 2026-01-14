@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d66.gif",
     "uri": "https://jisho.org/search/%E6%B5%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "phổ"
+  ],
+  "vietnameseMeaning": [
+    "phố, phổ ① Bến sông, ngạch sông đổ ra bể. ② Tên đất. Ta quen đọc là chữ phố. ① Bến sông, ven bờ: 江浦 Ven sông; ② (văn) Cửa sông; ③ (Họ) Phổ."
+  ],
+  "jlpt": "1",
+  "frequency": "977",
+  "grade": "8"
 }

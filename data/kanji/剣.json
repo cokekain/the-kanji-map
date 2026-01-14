@@ -76,5 +76,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05263.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5263.gif",
     "uri": "https://jisho.org/search/%E5%89%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "kiếm"
+  ],
+  "jlpt": "1",
+  "frequency": "1305",
+  "grade": "8"
 }

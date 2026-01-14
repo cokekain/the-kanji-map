@@ -494,5 +494,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f62.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f62.gif",
     "uri": "https://jisho.org/search/%E5%BD%A2%23kanji"
-  }
+  },
+  "hanviet": [
+    "hình"
+  ],
+  "vietnameseMeaning": [
+    "① Hình thể. ② Hình dáng. ③ Hình dong, tưởng tượng ra rồi vẽ cho hệt hình trạng người hay vật nào mà mình đã biết ra gọi là hình. ④ So sánh, như tương hình kiến chuyết 相形見絀 cùng so thấy vụng. ⑤ Hiện ra, như hữu ư trung hình ư ngoại 有於中形於外 có ở trong hiện ra ngoài. ⑥ Hình thế đất. ① Hình, hình thể, hình dáng: 三角形 Hình tam giác; ② Hình dung, hình: 形影不離 Như hình với bóng; ③ Hình thế đất: 地形 Địa hình; ④ Biểu lộ, hiện ra, tỏ ra: 有於中形於外 Có ở trong hiện ra ngoài; 喜形于色 Niềm vui lộ rõ trên nét mặt; ⑤ So sánh: 相形之下 So sánh với nhau; 相形見拙 Cùng so thấy vụng."
+  ],
+  "jlpt": "2",
+  "frequency": "418",
+  "grade": "2"
 }

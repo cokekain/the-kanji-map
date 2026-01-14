@@ -98,5 +98,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f25.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f25.gif",
     "uri": "https://jisho.org/search/%E5%BC%A5%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ di 彌. Xem 彌. Như 彌 Như 瀰"
+  ],
+  "hanviet": [
+    "di"
+  ],
+  "jlpt": "1",
+  "frequency": "1687",
+  "grade": "8"
 }

@@ -309,5 +309,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ef6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ef6.gif",
     "uri": "https://jisho.org/search/%E4%BB%B6%23kanji"
-  }
+  },
+  "hanviet": [
+    "kiện"
+  ],
+  "vietnameseMeaning": [
+    "① Phân biệt, phân biệt cái này cái khác. ② Món, tục gọi một món đồ đựng trong một cái bồ hay cái sọt là một kiện. ① (loại) Cái, món, việc: 一件事 Một việc; 一件衣服 Một cái áo; 有件事想和你商量 Có một việc định bàn với anh; 三件行李 Ba kiện hành lí; ② (Chỉ các bộ phận trong máy móc): 零件 Đồ phụ tùng; ③ Công văn: 急件 Công văn khẩn; 密件 Công văn mật; ④ Phân biệt (cái này với cái khác)."
+  ],
+  "jlpt": "2",
+  "frequency": "212",
+  "grade": "5"
 }

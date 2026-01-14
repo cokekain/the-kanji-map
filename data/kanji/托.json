@@ -59,5 +59,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06258.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6258.gif",
     "uri": "https://jisho.org/search/%E6%89%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "thác",
+    "thách",
+    "thốc",
+    "thước",
+    "thướt"
+  ],
+  "vietnameseMeaning": [
+    "① Nâng, lấy tay mà nhấc vật gì lên gọi là thác. ② Bày ra. Như hoà bàn thác xuất 和盤托出 bày hết khúc nhôi ra. ③ Cái khay, như trà thác 茶托 khay chè. ① Cầm, chống, nâng, nhắc lên: 托著槍 Cầm súng; 兩手托著下巴 Hai tay chống cằm; ② Làm cho nổi lên: 襯托 Nổi bật; ③ Cái đế, cái khay: 茶託兒 Khay nước; ④ Nhờ, gởi: 托人代買 Nhờ người mua hộ; ⑤ Mượn cớ từ chối, thoái thác: 托辭 Vin cớ từ chối; ⑥ (văn) Bày ra: 和盤托出 Bày hết khúc nhôi ra. Như 託"
+  ],
+  "grade": "9"
 }

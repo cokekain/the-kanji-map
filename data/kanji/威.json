@@ -85,5 +85,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a01.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a01.gif",
     "uri": "https://jisho.org/search/%E5%A8%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "uy"
+  ],
+  "vietnameseMeaning": [
+    "① Oai, cái dáng tôn nghiêm đáng sợ gọi là uy. Uy, oai (có vẻ tôn nghiêm khiến người ta phải kính phục hay sợ hãi): 發威 Ra oai; 聲威大震 Thanh thế lẫy lừng; 作威作福 Tác uy tác phúc, làm mưa làm gió."
+  ],
+  "jlpt": "1",
+  "frequency": "1103",
+  "grade": "8"
 }

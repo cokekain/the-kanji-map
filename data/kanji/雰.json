@@ -39,5 +39,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096f0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96f0.gif",
     "uri": "https://jisho.org/search/%E9%9B%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "phân"
+  ],
+  "vietnameseMeaning": [
+    "① Khí sương mù. ② Phân phân 雰雰 sương tuyết sa lả tả. Sương mù. 【雰雰】 phân phân (văn) (Cảnh) sương tuyết mịt mù, sương tuyết rơi lả tả."
+  ],
+  "jlpt": "1",
+  "frequency": "1341",
+  "grade": "8"
 }

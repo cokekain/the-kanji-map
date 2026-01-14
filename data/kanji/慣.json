@@ -340,5 +340,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06163.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6163.gif",
     "uri": "https://jisho.org/search/%E6%85%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "quán",
+    "quen"
+  ],
+  "vietnameseMeaning": [
+    "① Quen, như tập quán 習慣 tập quen. ① Quen thói, thói quen: 吃不慣 Ăn không quen; ② Nuông chiều, nuông: 慣壞了脾氣 Nuông quá hoá hư."
+  ],
+  "jlpt": "2",
+  "frequency": "1177",
+  "grade": "5"
 }

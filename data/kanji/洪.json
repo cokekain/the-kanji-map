@@ -45,5 +45,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d2a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d2a.gif",
     "uri": "https://jisho.org/search/%E6%B4%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "hồng",
+    "hòng"
+  ],
+  "vietnameseMeaning": [
+    "① Cả, lớn. Như hồng lượng 洪量 lượng cả, hồng phúc 洪福 phúc lớn. ② Hồng thuỷ 洪水 nước lụt, thường gọi tắt là hồng. ③ Mạch hồng 脈洪 mạch chạy đùn đùn như nước lên gọi là mạch hồng. ① Lũ, nước lũ: 山洪 Mưa lũ; 防洪 Chống lũ; ② Lớn, nhiều, dữ: 洪醉 Say dữ. 【洪大】 hồng đại To lớn, vang dội, sang sảng: 洪大的回聲 Tiếng vang dội; ③ Mạch hồng (mạch chạy ùn ùn như nước lên); ④ (Họ) Hồng."
+  ],
+  "jlpt": "1",
+  "frequency": "1778",
+  "grade": "8"
 }

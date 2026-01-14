@@ -54,5 +54,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05075.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5075.gif",
     "uri": "https://jisho.org/search/%E5%81%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "trinh"
+  ],
+  "vietnameseMeaning": [
+    "① Rình xét, như trinh thám 偵探 dò xét. Điều tra, thám thính, rình rập (để xem xét): 進行偵柦 Tiến hành điều tra."
+  ],
+  "jlpt": "1",
+  "frequency": "1857",
+  "grade": "8"
 }

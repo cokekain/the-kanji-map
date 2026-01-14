@@ -402,5 +402,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fc0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fc0.gif",
     "uri": "https://jisho.org/search/%E6%BF%80%23kanji"
-  }
+  },
+  "hanviet": [
+    "kích",
+    "khích"
+  ],
+  "vietnameseMeaning": [
+    "① Xói, cản nước đang chảy mạnh cho nó vọt lên gọi là kích, như kích lệ 激厲, kích dương 激揚 đều chỉ vệ sự khéo dùng người khiến cho người ta phấn phát chí khí lên cả. ③ Nhanh nhẹn (tả cái thế mạnh và mau chóng). ④ Bàn bạc thẳng quá gọi là kích thiết 激切. ⑤ Cảm động, phấn phát lên gọi là cảm kích 感激. ⑥ Cứ tự ý mình làm ra khác lạ không theo như người gọi là kích. ① (Thế nước bị cản) bắn tung lên, vọt lên: 水沖到山腳，激起三尺多高 Nước đập vào chân núi, bắn lên cao hơn ba thước; ② Bị mưa hay nước lạnh làm cho bệnh: 他被雨水激着了 Anh ấy đi mưa về bị cảm rồi; ③ Nói khích, nói kháy, châm chọc: 用話激他 Nói khích (nói kháy) anh ấy; ④ Xúc động, cảm động, bị khích động: 感激 Cảm kích; ⑤ Mạnh và mau, xiết, kịch liệt, mạnh mẽ, gay go: 激戰 Chiến đấu ác liệt; 激浪 Sóng lớn, sóng cả; ⑥ (đph) Ngâm (nước lạnh), rửa: 把西瓜放在冰水裡激一激 Ngâm quả dưa hấu vào nước đá; ⑦ (văn) Tự ý làm theo ý mình."
+  ],
+  "jlpt": "1",
+  "frequency": "560",
+  "grade": "6"
 }

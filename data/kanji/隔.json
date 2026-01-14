@@ -69,5 +69,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09694.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9694.gif",
     "uri": "https://jisho.org/search/%E9%9A%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "cách"
+  ],
+  "vietnameseMeaning": [
+    "① Ngăn cách, giữa khoảng hai cái gì mà lại có một cái ngăn cách ở giữa khiến cho không thông với nhau được gọi là cách. ② Xa lìa. Như khuê cách 暌隔 cách biệt xa xôi. ① Chặn, ngăn cách, tách riêng ra, phân ra, chia ra, gạn ra: 一間屋隔成兩間 Một căn nhà ngăn thành hai gian; ② Cách, xa cách, cách biệt: 相隔很遠 Cách nhau rất xa; 睽隔 Cách biệt xa xôi; 商女不知亡國恨，隔江猶唱“後庭花” Các thương nữ (con hát) không biết gì tới cái hận mất nước, nên cách bên kia sông vẫn cứ hát bài \"Hoa sau vườn\" (Đỗ Mục: Bạc Tần Hoài)."
+  ],
+  "jlpt": "1",
+  "frequency": "1382",
+  "grade": "8"
 }

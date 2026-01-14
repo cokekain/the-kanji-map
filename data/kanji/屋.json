@@ -380,5 +380,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4b.gif",
     "uri": "https://jisho.org/search/%E5%B1%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "ốc"
+  ],
+  "vietnameseMeaning": [
+    "① Nhà ở. ② Mui xe, như hoàng ốc tả đạo 黃屋左纛 mui xe vàng cờ tiết mao cắm bên tả. ① Nhà: 在屋裡 Ở trong nhà; ② Buồng, phòng: 裡屋 Buồng trong; ③ (văn) Mui xe."
+  ],
+  "jlpt": "3",
+  "frequency": "616",
+  "grade": "3"
 }

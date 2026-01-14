@@ -68,5 +68,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99a8.gif",
     "uri": "https://jisho.org/search/%E9%A6%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "hanh"
+  ],
+  "vietnameseMeaning": [
+    "① Thơm lừng. Mùi thơm xa gọi là hinh. Làm được sự gì tốt tiếng thơm truyền mãi mãi cũng gọi là hinh. ② Một âm là hấn. Ngày xưa dùng làm lời trợ từ. Như ninh hấn nhi 寧馨兒 đứa bé ấy. (văn) ① Hương thơm toả ra xa, hương thơm lừng: ¶Á稷非馨，明德惟馨Chẳng phải hương thơm ngào ngạt của lúa thử lúa tắc, mà chỉ có hương thơm của chính trị đạo đức anh minh (Thượng thư: Quân trần); ② Tiếng tốt lưu truyền lâu dài: 垂馨千祀 Tiếng tốt lưu truyền ngàn năm (Tấn thư); ③ Thơm: 折芳馨兮遺所思 Bẻ nhánh cỏ thơm hề trao cho người mà ta thương nhớ (Khuất Nguyên: Cửu ca); ④ Tốt: 斯是陋室，惟吾德馨 Đây tuy chỉ là căn nhà tồi tàn, nhưng phẩm hạnh ta tốt (thì không cảm thấy có gì tồi tàn) (Lưu Vũ Tích: Lậu thất minh)."
+  ],
+  "jlpt": "1",
+  "frequency": "2164",
+  "grade": "9"
 }

@@ -50,5 +50,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68fa.gif",
     "uri": "https://jisho.org/search/%E6%A3%BA%23kanji"
-  }
+  },
+  "hanviet": [
+    "quan"
+  ],
+  "vietnameseMeaning": [
+    "① Cái áo quan. ② Một âm là quán. Liệm xác bỏ vào áo quan. Săng, áo quan, quan tài. (văn) Liệm vào áo quan."
+  ],
+  "jlpt": "1",
+  "frequency": "2161",
+  "grade": "8"
 }

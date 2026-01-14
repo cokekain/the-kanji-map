@@ -56,5 +56,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e19.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e19.gif",
     "uri": "https://jisho.org/search/%E4%B8%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "bính"
+  ],
+  "vietnameseMeaning": [
+    "① Một can trong mười can. Nhà tu luyện xưa cho can bính thuộc hành hoả, nên có nghĩa là lửa, như phó bính 付丙 cho lửa vào đốt. ① Ngôi thứ ba trong thập can, tương đương với 3 hay C: 丙等 Hạng 3; 丙班 Lớp C; ② (văn) Lửa: 付丙 Đem đốt đi; 其日丙丁 Ngày này là ngày lửa (Lã thị Xuân thu); ③ Đuôi cá: 魚尾謂之丙 Đuôi cá gọi là \"bính\" (Nhĩ nhã: Thích ngư)."
+  ],
+  "jlpt": "1",
+  "grade": "8"
 }

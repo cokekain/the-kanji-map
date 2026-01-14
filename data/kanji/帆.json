@@ -72,5 +72,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e06.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e06.gif",
     "uri": "https://jisho.org/search/%E5%B8%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "phàm"
+  ],
+  "vietnameseMeaning": [
+    "① Buồm, một thứ căng bằng vải hay bằng chiếu dựng lên trên thuyền cho gió thổi thuyền đi. ② Một âm là phám thuyền xuôi gió. Buồm: 帆檣林立 Cột buồm san sát; 一帆風順 Thuận buồm xuôi gió; 孤帆 Cánh buồm đơn chiếc."
+  ],
+  "jlpt": "1",
+  "frequency": "1923",
+  "grade": "8"
 }

@@ -57,5 +57,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05100.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5100.gif",
     "uri": "https://jisho.org/search/%E5%84%80%23kanji"
-  }
+  },
+  "hanviet": [
+    "nghi"
+  ],
+  "vietnameseMeaning": [
+    "① Dáng, như uy nghi 威儀 có cái dáng nghiêm trang đáng sợ. ② Làm mẫu, làm phép, như nghi khí 儀器 đồ để cho người bắt chước. ③ Ðồ lễ, hạ nghi 下儀 đồ lễ mừng. ① Vẻ, dáng, dáng điệu, phong thái; ② Nghi thức, lễ nghi: 行禮如儀 Chào theo nghi thức; ③ Lễ vật, đồ lễ: 賀儀 Đồ lễ chúc mừng; ④ Nghi khí, dụng cụ, máy: 地震儀 Máy ghi địa chấn; ⑤ (Họ) Nghi."
+  ],
+  "jlpt": "1",
+  "frequency": "739",
+  "grade": "8"
 }

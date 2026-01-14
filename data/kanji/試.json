@@ -411,5 +411,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a66.gif",
     "uri": "https://jisho.org/search/%E8%A9%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "thí"
+  ],
+  "vietnameseMeaning": [
+    "① Thử. Như thí dụng 試用 thử dùng. ② Thi, so sánh tài nghệ để xem hơn kém gọi là thí. Như khảo thí 考試 thi khảo. ③ Dùng, ④ Nếm. ⑤ Dò thử. ① Thử: 試用 Dùng thử; 試一試看 Thử xem sao; ② Thi, so sánh, kiểm nghiệm: 口 試 Thi miệng; 試題 Đề thi, câu hỏi thi; 試場 Nơi (trường) thi; 初試 Thi đợt đầu; ③ (văn) Dùng; ④ (văn) Nếm."
+  ],
+  "jlpt": "3",
+  "frequency": "392",
+  "grade": "4"
 }

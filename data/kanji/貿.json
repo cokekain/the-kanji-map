@@ -254,5 +254,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cbf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cbf.gif",
     "uri": "https://jisho.org/search/%E8%B2%BF%23kanji"
-  }
+  },
+  "hanviet": [
+    "mậu"
+  ],
+  "vietnameseMeaning": [
+    "① Đổi lẫn cho nhau, như mậu dịch 貿易 mua bán. ② Lẫn lộn. ③ Mậu mậu 貿貿 lèm nhèm, mắt coi lờ mờ. ① Mậu dịch, trao đổi (hàng hoá); ② Lẫn lộn; ③ (văn) Ẩu, bừa bãi, cẩu thả."
+  ],
+  "jlpt": "2",
+  "frequency": "652",
+  "grade": "5"
 }

@@ -324,5 +324,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cf3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cf3.gif",
     "uri": "https://jisho.org/search/%E6%B3%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "vịnh"
+  ],
+  "vietnameseMeaning": [
+    "① Lặn, đi ngầm dưới đáy nước. Bơi, lặn: 游泳 Bơi lội; 仰泳 Bơi ngửa; 蛙泳 Bơi ếch (nhái); 蝶泳 Bơi bướm."
+  ],
+  "jlpt": "2",
+  "frequency": "1223",
+  "grade": "3"
 }

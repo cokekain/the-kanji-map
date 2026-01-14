@@ -64,5 +64,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b8a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b8a.gif",
     "uri": "https://jisho.org/search/%E6%AE%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "thù",
+    "thùa"
+  ],
+  "vietnameseMeaning": [
+    "① Dứt, hết tiệt, như sát nhi vị thù 殺而未殊 giết mà chưa dứt nóc (chém chưa đứt cổ), thù tử 殊死 quyết chết (liều chết), v.v. ② Khác, như phong cảnh bất thù 風景不殊 phong cảnh chẳng khác. ③ Rất, lắm, chữ làm trợ từ, như thù giai 殊佳 tốt đẹp lắm, thù dị 殊異 lạ quá! ① Khác: 特殊情況 Tình hình đặc biệt; 殊途同歸 Khác đường nhưng cũng gặp nhau; ② Rất, thật, hết sức, vô cùng: 殊佳 Rất tốt đẹp; 殊異 Rất lạ, quái lạ; 殊感抱歉 Thật cảm thấy có lỗi; 我還在家裡等候，殊不知他早已去學校了 Tôi vẫn ở nhà chờ, thật chẳng ngờ nó đã đi học trước rồi; 良殊大驚 Lương hết sức (vô cùng) kinh ngạc (Hán thư: Trương Lương truyện); ③ Nhất quyết, sống mái: 殊死戰 Quyết chiến, chiến đấu sống mái; ④ (văn) Dứt, hết tiệt: 殺而未殊 Giết mà chưa dứt nọc."
+  ],
+  "jlpt": "1",
+  "frequency": "1361",
+  "grade": "8"
 }

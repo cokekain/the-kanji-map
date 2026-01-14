@@ -304,5 +304,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bee.gif",
     "uri": "https://jisho.org/search/%E5%AF%AE%23kanji"
-  }
+  },
+  "hanviet": [
+    "liêu"
+  ],
+  "vietnameseMeaning": [
+    "① Cái cửa sổ nhỏ. ② Ðồng liêu 同寮 cũng như đồng song 同窗 nghĩa kẻ cùng làm quan một sở với mình, có khi viết chữ liêu 僚. ③ Cái am của sư ở. Phàm cái nhà nhỏ đều gọi là liêu cả. Quán bán nước cũng gọi là trà liêu 茶寮. ① Cửa sổ nhỏ; ② (đph) Nhà nhỏ, lều quán: 茅寮 Lều tranh; 茶寮酒肆 Hàng chè và quán rượu; ③ Cái am (của nhà sư); ④ Như 僚 (bộ 亻); ⑤ 【寮國】Liêu quốc Nước Lào."
+  ],
+  "jlpt": "1",
+  "frequency": "1705",
+  "grade": "8"
 }

@@ -36,5 +36,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e1e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e1e.gif",
     "uri": "https://jisho.org/search/%E4%B8%9E%23kanji"
-  }
+  },
+  "hanviet": [
+    "thừa"
+  ],
+  "vietnameseMeaning": [
+    "① Giúp đỡ, như thừa tướng 丞相 chức quan giúp vua. Các nha có đặt người giúp việc cũng gọi là thừa, như phủ thừa 府丞 huyện thừa 縣丞 v.v. Nguyên âm là chưng. ① Phụ giúp, giúp đỡ. 【丞相】 thừa tướng Thừa tướng (chức quan giúp vua); ② Các chức phó của quan đứng đầu các cấp từ đời Tần, Hán về sau cũng gọi là “thừa”, như 縣丞，府丞; ③ Vâng theo (dùng như 承, bộ 手): 于是丞上指 Do vậy vâng theo ý chỉ của nhà vua (Sử kí). Cứu vớt (dùng như 拯): 丞民乎農桑 Cứu dân ở việc nông tang (Dương Hùng: Vũ lạp phú)."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

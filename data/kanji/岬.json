@@ -49,5 +49,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cac.gif",
     "uri": "https://jisho.org/search/%E5%B2%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "giáp"
+  ],
+  "vietnameseMeaning": [
+    "① Vệ núi. Giữa khoảng hai quả núi gọi là giáp. Núi thè vào bể cũng gọi là giáp. ① Khe núi; ② Phần núi gie ra biển."
+  ],
+  "jlpt": "1",
+  "frequency": "1972",
+  "grade": "8"
 }

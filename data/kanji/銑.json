@@ -46,5 +46,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09291.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9291.gif",
     "uri": "https://jisho.org/search/%E9%8A%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiển",
+    "ten"
+  ],
+  "vietnameseMeaning": [
+    "① Gang, một loài kim có chất rất sáng, dùng để đúc nồi đúc chảo. (hoá) Axin (Acyl). Cg. 銑基 . Phay. Xem 銑 . Gang.【銑鐵】tiển thiết Gang đúc. Xem 銑 ."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

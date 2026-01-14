@@ -58,5 +58,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d29.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d29.gif",
     "uri": "https://jisho.org/search/%E5%B4%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "băng"
+  ],
+  "vietnameseMeaning": [
+    "① Lở, núi sạt gọi là băng. ② Hỏng, mất. ③ Vua thiên tử chết cũng gọi là băng. ① Đổ, lở, sạt: 山崩地裂 Núi lở đất sụp; ② Sứt mẻ, sứt, mẻ, vỡ, hỏng: 把氣球吹崩了 Thổi vỡ chiếc bong bóng; 刨子崩了 Bào bị mẻ rồi; ③ Bắn phải, nổ phải: 放爆竹崩了手 Pháo nổ bỏng tay; ④ Băng huyết.【崩症】băng chứng Băng huyết. Cg. 血崩 ; ⑤ (khn) Bắn chết, bắn bỏ; ⑥ (Vua) chết: 崩遐 Băng hà, vua băng (vua chết)."
+  ],
+  "jlpt": "1",
+  "frequency": "778",
+  "grade": "8"
 }

@@ -331,5 +331,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056f0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56f0.gif",
     "uri": "https://jisho.org/search/%E5%9B%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "khốn"
+  ],
+  "vietnameseMeaning": [
+    "① Khốn cùng. Phàm các sự nhọc mệt quẫn bách đều gọi là khốn. ① Khốn đốn, khốn khổ, khốn cùng, nghèo túng: 爲病所困 Khốn đốn vì bệnh tật; 貧困 Nghèo túng; ② Vây hãm: 把敵人圍困在城裡 Vây hãm quân địch ở trong thành; ③ Mỏi mệt: 孩子困了 Em bé mỏi mệt rồi; ④ Buồn ngủ: 你困了就先睡 Anh buồn ngủ thì cứ ngủ trước đi; ⑤ (đph) Ngủ: 困覺 Ngủ."
+  ],
+  "jlpt": "2",
+  "frequency": "843",
+  "grade": "6"
 }

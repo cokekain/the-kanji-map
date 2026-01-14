@@ -50,5 +50,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052d8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52d8.gif",
     "uri": "https://jisho.org/search/%E5%8B%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "khám"
+  ],
+  "vietnameseMeaning": [
+    "① So sánh, định lại, như xét lại văn tự để sửa chỗ nhầm gọi là hiệu khám 校勘. ② Tra hỏi tù tội. Như thẩm khám 審勘 xét lại cho tường tình tự trong án. ① So sánh (để sửa lại cho đúng), đối chiếu, duyệt, sửa chữa: 校勘 Duyệt, soát, rà lại, dò lại; ② Tra xét, tra hỏi, xem xét: 實地勘柦 Xem xét điều tra tại chỗ (tại hiện trường)."
+  ],
+  "jlpt": "1",
+  "frequency": "1494",
+  "grade": "8"
 }

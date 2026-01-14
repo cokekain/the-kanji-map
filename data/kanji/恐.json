@@ -395,5 +395,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06050.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6050.gif",
     "uri": "https://jisho.org/search/%E6%81%90%23kanji"
-  }
+  },
+  "hanviet": [
+    "khủng"
+  ],
+  "vietnameseMeaning": [
+    "① Sợ. ② Doạ nạt. ③ Một âm là khúng. E ngại, lo đến việc ngoài ý tưởng đều gọi là khúng. ① Sợ hãi, sợ sệt, lo sợ; ② E, e rằng, có lẽ: 恐不可 信 E không đáng tin. 【恐怕】 khủng phạ a. E sợ, lo sợ, ngại rằng: 恐怕他不會贊成 E rằng anh ấy sẽ không bằng lòng; b. E chừng, ước chừng: 她走了恐怕有十天了 Cô ấy đi chừng 10 hôm rồi; ③ (văn) Doạ nạt."
+  ],
+  "jlpt": "2",
+  "frequency": "878",
+  "grade": "8"
 }

@@ -293,5 +293,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0821f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/821f.gif",
     "uri": "https://jisho.org/search/%E8%88%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "chu",
+    "châu"
+  ],
+  "vietnameseMeaning": [
+    "① Thuyền. Các cái như thuyền, bè dùng qua sông qua nước đều gọi là chu. Nguyễn Du 阮攸: Thiên địa thiên chu phù tự diệp, văn chương tàn tức nhược như ti 天地扁舟浮似葉, 文章殘息弱如絲 Chiếc thuyền con như chiếc lá nổi giữa đất trời, Hơi tàn văn chương yếu ớt như tơ. Bùi Giáng dịch thơ: Thuyền con chiếc lá giữa trời, thơ văn tiếng thở như lời tơ than. ② Cái đài đựng chén. ③ Ðeo. ① Thuyền, đò: 小舟 Thuyền con; 柏舟 Thuyền gỗ bách; 柏舟求劍 Khắc thuyền tìm gươm; ② (văn) Cái đài đựng chén; ③ (văn) Đeo."
+  ],
+  "jlpt": "2",
+  "frequency": "1786",
+  "grade": "8"
 }

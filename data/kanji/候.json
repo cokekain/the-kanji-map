@@ -357,5 +357,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05019.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5019.gif",
     "uri": "https://jisho.org/search/%E5%80%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "hậu",
+    "hầu"
+  ],
+  "vietnameseMeaning": [
+    "① Dò ngóng, như vấn hậu 問候 tìm hỏi thăm bạn, trinh hậu 偵候 dò xét, đều là cái ý nghĩa lặng đợi dò xét cả. ② Chực, như đẳng hậu 等候 chờ chực. ③ Khí hậu. Phép nhà lịch cứ năm ngày gọi là một hậu, ba hậu là một khí tiết, vì thế nên tóm gọi thì tiết trời là khí hậu 氣候, tiết hậu 節候, v.v. ④ Cái tình trạng của sự vật gì cũng gọi là hậu, như hoả hậu 火候 thế lửa, chứng hậu 症候 tình thế, chứng bệnh. ① Đợi, chờ chực: 你稍候一會 Anh hãy đợi một lúc; ② Thăm, hỏi thăm, thăm hỏi: 致候 Gởi lời thăm (hỏi thăm); 問候 Hỏi thăm; ③ (Thời) gian, (khí) hậu: 時候 Thời gian; 氣候 Khí hậu; ④ Tình hình, tình hình diễn biến, tình thế: 症候 Tình hình diễn biến của bệnh tật; 火候 Thế lửa."
+  ],
+  "jlpt": "2",
+  "frequency": "510",
+  "grade": "4"
 }

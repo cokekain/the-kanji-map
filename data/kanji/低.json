@@ -367,5 +367,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f4e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f4e.gif",
     "uri": "https://jisho.org/search/%E4%BD%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "đê",
+    "đây"
+  ],
+  "vietnameseMeaning": [
+    "① Thấp, đối lại với chữ cao. ② Cúi, như đê đầu 低頭, đê hồi 低回 nghĩ luẩn quẩn, v.v. ③ Khẽ, như đê ngữ 低語 nói khẽ. ① Thấp: 這房子太低 Nhà này thấp quá; 我比他低一頭 Tôi thấp hơn anh ấy (một đầu); ② Rẻ, hạ: 價錢很低 Giá rẻ lắm, giá hạ lắm; ③ Cúi, gục: 低頭認罪 Cúi đầu nhận tội; 舉頭望明月, 低頭思故鄉 Ngẩng đầu ngó bóng gương vàng, cúi đầu lại những mơ màng non quê (Lí Bạch: Tĩnh dạ tứ); ④ Sẽ, khẽ: 低語 Nói khẽ."
+  ],
+  "jlpt": "3",
+  "frequency": "435",
+  "grade": "4"
 }

@@ -405,5 +405,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06708.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6708.gif",
     "uri": "https://jisho.org/search/%E6%9C%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "nguyệt"
+  ],
+  "vietnameseMeaning": [
+    "① Mặt trăng. ② Tháng. ① Trăng, mặt trăng, nguyệt: 月食 Nguyệt thực; 月落烏啼霜滿天 Trăng lặn quạ kêu sương toả đầy trời (Trương Kế: Phong kiều dạ bạc); ② Tháng, hàng tháng, nguyệt: 月底 Cuối tháng: 月產量 Sản lượng hàng tháng; 月刊 Nguyệt san; ③ Vật có hình tròn như mặt trăng: 月琴 Đàn nguyệt, cầm trăng."
+  ],
+  "jlpt": "4",
+  "frequency": "23",
+  "grade": "1"
 }

@@ -73,5 +73,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f64.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f64.gif",
     "uri": "https://jisho.org/search/%E6%BD%A4%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhuận",
+    "nhuần"
+  ],
+  "vietnameseMeaning": [
+    "① Nhuần, thấm, thêm. ② Nhuận, nhuần nhã, phàm cái gì không khô ráo đều gọi là nhuận. ③ Lấy của mà đền công cho người gọi là nhuận, như nhuận bút 潤筆 (xin văn xin chữ của người rồi lấy tiền mà tặng trả). ④ Nhuận sắc 潤色 tô điểm cho thêm văn vẻ, sửa lại văn tự cũng gọi là nhuận sắc. ① Ẩm ướt: 土潤苔青 Đất ẩm rêu xanh; 濕潤 Ẩm ướt; ② Thấm, xấp (làm cho bớt khô): 潤潤嗓子 Thấm giọng, xấp giọng; 潤腸 Nhuận tràng; ③ Trơn bóng, tươi nhuận, mịn: 皮膚光潤 Nước da mịn: ④ Chải chuốt, gọt giũa (bài văn): 潤飾 Gọt giũa (bài văn) cho thêm hay; ⑤ Lời, lãi: 分潤 Chia lãi; 利潤 Lợi nhuận, tiền lời."
+  ],
+  "jlpt": "1",
+  "frequency": "1644",
+  "grade": "8"
 }

@@ -36,5 +36,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ce3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ce3.gif",
     "uri": "https://jisho.org/search/%E8%B3%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "mại"
+  ],
+  "vietnameseMeaning": [
+    "① Bán, lấy đồ đổi lấy tiền gọi là mại, như đoạn mại 斷賣 bán đứt. ② Làm hại người để lợi mình gọi là mại, như mại quốc 賣國 làm hại nước, mại hữu 賣友 làm hại bạn. ① Bán; ② Bán đứng, phản bội, làm hại: 他被朋友出賣 Anh ta bị bạn bè phản bội (bán đứng); 賣友 Hại bạn; 賣國求榮 Bán nước cầu vinh; ③ Cố sức: 賣力氣 Cố sức làm; ④ Khoe, phô trương (tài): 賣弄才能 Khoe tài."
+  ],
+  "grade": "10"
 }

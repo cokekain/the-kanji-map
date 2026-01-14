@@ -306,5 +306,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ca9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ca9.gif",
     "uri": "https://jisho.org/search/%E5%B2%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "nham"
+  ],
+  "vietnameseMeaning": [
+    "① Ðá nham, một chất lẫn cả đá cát để làm thành vỏ đất bọc quả địa cầu. Do khí nóng của đất mà thành gọi là hoả thành nham 火成岩, do gió thổi nước chảy mòn gọi là thuỷ thành nham 水成岩.Tục dùng như chữ nham 巖. Như 巖."
+  ],
+  "jlpt": "2",
+  "frequency": "787",
+  "grade": "2"
 }

@@ -59,5 +59,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09149.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9149.gif",
     "uri": "https://jisho.org/search/%E9%85%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "dậu",
+    "dấu"
+  ],
+  "vietnameseMeaning": [
+    "① Chi Dậu, chi thứ mười trong mười hai chi. ② Giờ dậu, từ 5 đến 7 giờ chiều. ③ Gà. ① Chi Dậu (ngôi thứ 10 trong 12 địa chi); ② Giờ dậu (từ 5 đến 7 giờ chiều); ③ Gà; ④ Chữ 酒 cổ (bộ 氵)."
+  ],
+  "jlpt": "1",
+  "frequency": "2468",
+  "grade": "9"
 }

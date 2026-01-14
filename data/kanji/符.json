@@ -289,5 +289,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b26.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b26.gif",
     "uri": "https://jisho.org/search/%E7%AC%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "phù",
+    "bùa"
+  ],
+  "vietnameseMeaning": [
+    "① Cái thẻ, làm bằng tre viết chữ vào rồi chẻ làm đôi, mỗi người giữ một mảnh khi nào sóng vào nhau mà đúng thì phải, là một vật để làm tin, ngày xưa phong các chư hầu hay sai các đại thần đi, đều lấy cái thẻ làm tin, cho nên gọi các phan (phiên) các trấn là phân phù 分符 hay phẩu phù 剖符, v.v. ② Ðiềm tốt lành. ③ Cái bùa, các thầy cúng vẽ son vẽ mực vào giấy để trừ ma gọi là phù, như phù lục 符籙, phù chú 符咒, v.v. Tục xưa cứ tết thì cắm cành đào lên mái nhà để trừ ma gọi là đào phù 桃符. ④ Hợp, đúng, như tương phù 相符 cùng hợp, bất phù 不符 chẳng đúng, v.v. ① Thẻ tre để làm tin (ấn tín do chủ tướng giữ): 虎符 Hổ phù (binh phù có khắc hình con hổ); ② Dấu hiệu, kí hiệu; ③ Phù hợp, ăn khớp, đúng: 相符 Khớp nhau, hợp nhau; 他所說的與事實不符 Anh ấy nói không đúng với sự thật; ④ Bùa: 畫了一張符 Vẽ một lá bùa; 護身符 Bùa hộ thân; ⑤ (văn) Điềm tốt; ⑥ (Họ) Phù."
+  ],
+  "jlpt": "2",
+  "frequency": "1798",
+  "grade": "8"
 }

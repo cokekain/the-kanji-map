@@ -456,5 +456,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b88.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b88.gif",
     "uri": "https://jisho.org/search/%E5%AE%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "thủ",
+    "thú"
+  ],
+  "vietnameseMeaning": [
+    "① Giữ, coi. Như bảo thủ 保守 ôm giữ. ② Quan thủ, phép nhà Hán ông quan đứng đầu một quận gọi là thái thủ 太守, đời sau gọi quan tri phủ 知府 là thủ là do nghĩa ấy. ③ Thao thủ (giữ trọn tiết nghĩa), ngay thẳng cạnh góc, không lấy sằng của ai một tí gì gọi là hữu thủ 有守. ④ Ðợi, như nói thủ hậu 守侯 chờ đợi. ⑤ Một âm là thú. Như tuần thú 巡守 đi tuần địa hạt mình giữ. ① Giữ, bảo vệ: 堅守陣地 Giữ vững trận địa; 守城 Giữ thành; ② Trông nom, coi: 守門 Coi cửa; 守着病人 Trông nom người bệnh; ③ Tuân theo, theo đúng: 守紀律 Tuân theo kỉ luật; ④ Ở gần: 守着水的地方，要多種水稻 Những nơi ở gần sông ngòi nên trồng nhiều lúa nước."
+  ],
+  "jlpt": "2",
+  "frequency": "457",
+  "grade": "3"
 }

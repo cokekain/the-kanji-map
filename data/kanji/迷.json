@@ -353,5 +353,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ff7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ff7.gif",
     "uri": "https://jisho.org/search/%E8%BF%B7%23kanji"
-  }
+  },
+  "hanviet": [
+    "mê"
+  ],
+  "vietnameseMeaning": [
+    "① Lạc. Như mê lộ 迷路 lạc đường. ② Lầm mê. Dùng thuốc hay dùng thuật làm cho người ta mê mẩn gọi là mê. Như mê dược 迷藥 thuốc mê. ③ Lờ mờ. Tinh thần lờ mờ không được thanh sảng gọi là mê. ④ Mê tín. Tâm say mê về một sự gì gọi là mê. Như mê tín 迷信 tin nhảm, trầm mê 沈迷 mê mãi, v.v. ① Không phân biệt được, lạc: 迷了路 Lạc đường; ② Say, mê, ham mê, say sưa, đắm đuối, thích: 迷戀 Say mê, đắm đuối; 她對游泳着了迷 Chị ấy rất thích bơi; 足球迷 Mê bóng đá; 戲迷 Mê kịch, mê tuồng; 景色迷人 Cảnh đẹp làm cho người ta say sưa; 金錢迷住心竅 Tiền bạc làm mê lòng người; ③ Mê tín, mê muội, hão huyền, nhảm: 迷信 Tin nhảm; ④ Người say mê, người ham thích: 他是個棒球迷 Anh ấy là người mê bóng chày."
+  ],
+  "jlpt": "2",
+  "frequency": "942",
+  "grade": "5"
 }

@@ -61,5 +61,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fc3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fc3.gif",
     "uri": "https://jisho.org/search/%E4%BF%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "xúc"
+  ],
+  "vietnameseMeaning": [
+    "① Gặt, sự cần kíp đến nơi gọi là xúc, như cấp xúc 急促 vội gấp, đoản xúc 短促 ngắn gặt, xuyễn xúc 喘促 thở gặt, v.v. ② Thúc dục. ① Vội, gấp, ngặt, liền, ngay, thời gian ngắn: 急促 Gấp gáp, thúc bách, gấp rút; 短促 Ngắn gấp; 庚午春，漳州司理叔促赴署 Mùa xuân năm Canh ngọ, quan phụ trách Chương Châu là Lí Thúc đến nhận nhiệm sở ngay (Từ Hà Khách du kí); ② Thúc giục, thúc đẩy: 督促 Đốc thúc; 催促 Thôi thúc, thúc giục; ③ (văn) Kề, gần, sát, (bên) cạnh: 促坐 Ngồi kề bên nhau, ngồi vây quanh. 【促膝談心】xúc tất đàm tâm Ngồi kề nhau tâm sự, chuyện trò thân mật."
+  ],
+  "jlpt": "1",
+  "frequency": "998",
+  "grade": "8"
 }

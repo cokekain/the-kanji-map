@@ -296,5 +296,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b0.gif",
     "uri": "https://jisho.org/search/%E6%A2%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "giới"
+  ],
+  "vietnameseMeaning": [
+    "① Ðồ khí giới, như binh giới 兵械 đồ binh. ② Cái cùm chân tay. ③ Thuật khéo, người hay dối dá gọi là ki giới bách xuất 機械白出 dối trá trăm điều. ④ Bó buộc. ① Cơ giới, khí cụ: 機械 Máy móc, cơ giới; ② Khí giới: 繳械 Tước khí giới; ③ (cũ) Gông xiềng, cái cùm (chân tay); ④ Xảo trá, dối trá: 機械百出 Dối trá trăm chiều; ⑤ (văn) Bó buộc."
+  ],
+  "jlpt": "2",
+  "frequency": "1321",
+  "grade": "4"
 }

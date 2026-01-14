@@ -54,5 +54,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fd7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fd7.gif",
     "uri": "https://jisho.org/search/%E4%BF%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "tục"
+  ],
+  "vietnameseMeaning": [
+    "① Phong tục. Trên hoá kẻ dưới gọi là phong 風, dưới bắt chước trên gọi là tục 俗. ② Tục tằn, người không nhã nhặn gọi là tục. Những cái ham chuộng của đời, mà bị kẻ trí thức cao thượng chê đều gọi là tục. ① Phong tục, tục lệ, thói tục: 土俗 Tục lệ địa phương; 移風易俗 Thay đổi phong tục tập quán; ② Đại chúng hoá, dễ hiểu, thông thường, thường thấy: 俗字 Chữ thường viết; 通俗 Dễ hiểu; 俗稱 Tục gọi là, thường gọi là; ③ Tục tĩu, tục tằn, thô tục, phàm tục, nhàm: 這張畫畫得太俗 Bức tranh này vẽ tục tằn quá; 這些話都聽俗了 Những chuyện ấy nghe nhàm cả tai rồi; 俗不可耐 Tục tĩu không chịu được; 庸俗 Tầm thường, dung tục."
+  ],
+  "jlpt": "1",
+  "frequency": "1610",
+  "grade": "8"
 }

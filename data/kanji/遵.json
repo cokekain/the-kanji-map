@@ -44,5 +44,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09075.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9075.gif",
     "uri": "https://jisho.org/search/%E9%81%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "tuân"
+  ],
+  "vietnameseMeaning": [
+    "① Lần theo. ② Noi, tuân theo. Cứ nói theo lẽ phải cùng pháp luật mà là gọi là tuân. Như tuân kỉ 遵紀 tuân theo kỉ luật. Theo, tuân theo, vâng theo, đi theo, lần theo, noi theo: 遵紀 Tuân theo kỉ luật; 遵醫囑 (Vâng) theo lời dặn của thầy thuốc; 遵大路而行 Theo đường cái mà đi."
+  ],
+  "jlpt": "1",
+  "grade": "8"
 }

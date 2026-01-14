@@ -338,5 +338,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05175.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5175.gif",
     "uri": "https://jisho.org/search/%E5%85%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "binh"
+  ],
+  "vietnameseMeaning": [
+    "① Ðồ binh. Các đồ như súng ống, giáo mác đều gọi là binh khí 兵器. Lính, phép binh bây giờ chia làm ba: 1) hạng thường bị; 2) tục bị; 3) hậu bị. Hiện đang ở lính gọi là thường bị binh, hết hạn ba năm về nhà; có việc lại ra là tục bị binh; lại đang hạn ba năm nữa rồi về là hậu bị binh, lại hết bốn năm cho về hưu hẳn, lại như dân thường. ① Quân, quân sự, quân đội, lính, binh, chiến sĩ: 民兵 Dân quân; 練兵 Huấn luyện quân đội, tập luyện (quân sự); 士兵 Binh lính, chiến sĩ; 步兵 Bộ binh; ② Việc binh, việc quân cơ: 兵者，國之大事 Việc binh là việc lớn của quốc gia (Tôn tử binh pháp); 兵貴神速 Việc binh quý ở thần tốc; 紙上談兵 Bàn việc quân trên qiấy, lí luận suông; ③ (văn) Binh khí, võ khí; ④ Con tốt (chốt) trong cờ tướng."
+  ],
+  "jlpt": "2",
+  "frequency": "522",
+  "grade": "4"
 }

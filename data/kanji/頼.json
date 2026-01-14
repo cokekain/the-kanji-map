@@ -377,5 +377,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0983c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/983c.gif",
     "uri": "https://jisho.org/search/%E9%A0%BC%23kanji"
-  }
+  },
+  "hanviet": [
+    "lại"
+  ],
+  "jlpt": "2",
+  "frequency": "708",
+  "grade": "8"
 }

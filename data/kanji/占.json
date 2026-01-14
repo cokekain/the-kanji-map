@@ -341,5 +341,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05360.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5360.gif",
     "uri": "https://jisho.org/search/%E5%8D%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "chiêm",
+    "chiếm"
+  ],
+  "vietnameseMeaning": [
+    "① Xem, coi điềm gì để biết xấu tốt gọi là chiêm. Bói cho khỏi ngờ cũng gọi là chiêm. ② Một âm là chiếm. Tự tiện chiếm cứ của người. ③ Làm thơ làm ca chưa viết ra gọi là khẩu chiếm 口占. ① Xem bói: 占卜 Bói toán, bói số, bói; ② (Họ) Chiêm. Xem 占 . ① Chiếm: 占壓倒優勢 Chiếm thế áp đảo; ② Đọc ra thơ bằng miệng (chưa viết thành bài): 口占 Khẩu chiếm. Xem 占 ."
+  ],
+  "jlpt": "2",
+  "frequency": "694",
+  "grade": "8"
 }

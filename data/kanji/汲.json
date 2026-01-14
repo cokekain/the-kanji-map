@@ -48,5 +48,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c72.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c72.gif",
     "uri": "https://jisho.org/search/%E6%B1%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "bập",
+    "cấp",
+    "ngập"
+  ],
+  "vietnameseMeaning": [
+    "① Múc nước. ② Cấp cấp 汲汲 miệt mài, làm sa sả. ③ Cấp dẫn 汲引 dắt, kéo lên. ① Múc nước (ở giếng lên): 從井裡汲水 Múc nước ở giếng; ② 【汲汲】cấp cấp (văn) Gấp rút, tất bật, sa sả, miệt mài, vội: 不汲汲成名 Đừng vội nên danh; ③ 【汲引】cấp dẫn (văn) Cất nhắc, đề bạt, kéo lên; ④ (Họ) Cấp."
+  ],
+  "grade": "9"
 }

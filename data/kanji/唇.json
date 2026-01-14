@@ -73,5 +73,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05507.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5507.gif",
     "uri": "https://jisho.org/search/%E5%94%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "thần"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ thần 脣. Như 脣 (bộ 肉)."
+  ],
+  "jlpt": "1",
+  "frequency": "1992",
+  "grade": "8"
 }

@@ -78,5 +78,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e9d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e9d.gif",
     "uri": "https://jisho.org/search/%E6%BA%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "câu"
+  ],
+  "vietnameseMeaning": [
+    "① Cái ngòi (rãnh), ngòi nước qua các cánh đồng. ② Câu thông 溝通 cùng lưu thông với nhau. ③ Cái hào. ① Rãnh, cống, ngòi, lạch, khe: 山溝 Khe núi; 排水溝 Rãnh thoát nước, cống tháo nước; 陰溝 Cống ngầm; 河溝 Lạch ngòi; ② Cái hào; ③ Chỗ lõm, ổ gà: 路面上軋了一道溝 Trên mặt đường có một vạch lõm (ổ gà); ④ 【溝通】câu thông Khai thông, nối liền: 溝通南北的長江大橋 Cầu Trường Giang nối liền Nam Bắc; 溝通兩國文化 Khai thông sự trao đổi văn hoá giữa hai nước."
+  ],
+  "jlpt": "1",
+  "frequency": "1736",
+  "grade": "8"
 }

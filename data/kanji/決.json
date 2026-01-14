@@ -403,5 +403,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c7a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c7a.gif",
     "uri": "https://jisho.org/search/%E6%B1%BA%23kanji"
-  }
+  },
+  "hanviet": [
+    "quyết"
+  ],
+  "vietnameseMeaning": [
+    "① Khơi, tháo. ② Vỡ đê. ③ Xử chém (trảm quyết). ④ Quyết đoán. ⑤ Nhất quyết, như quyết ý 決意, quyết tâm 決心, v.v. ⑥ Cắn. ⑦ Dứt, quyết liệt. ① Vỡ: 決提 Vỡ đê; ② (văn) Khoi, tháo; ③ Kiên quyết, quả quyết, quyết đoán, quyết: 決心 Quyết tâm; 遲疑不決 Chần chừ không quyết; ④ Quyết không..., không đời nào..., không bao giờ..., nhất định không...: 我決不反對 Tôi quyết không phản đối; 他決不會這麼說 Anh ấy không đời nào nói như vậy; 今年決不比去年差 Năm nay nhất định không kém năm ngoái; ⑤ Xử chém, xử tử: 槍決 Xử bắn; 處決 Xử tử; ⑥ (văn) Cắn."
+  ],
+  "jlpt": "2",
+  "frequency": "71",
+  "grade": "3"
 }

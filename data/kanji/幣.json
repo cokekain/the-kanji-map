@@ -74,5 +74,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e63.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e63.gif",
     "uri": "https://jisho.org/search/%E5%B9%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "tệ",
+    "giẻ"
+  ],
+  "vietnameseMeaning": [
+    "① Lụa, đời xưa thường dùng làm đồ tặng nhau. ② Của dùng, đời xưa cho ngọc là thượng tệ 上幣, vàng là trung tệ 中幣, dao vải là hạ tệ 下幣. Từ nhà Hán về sau đều gọi tiền là tệ. ① Lụa (thời xưa thường làm đồ tặng nhau); ② Của dùng: 上幣 Ngọc; 中幣 Vàng; ③ Tiền: 貨幣 Tiền tệ; 金幣 Tiền vàng; 銅幣 Tiền đồng; 紙幣 Tiền giấy, giấy bạc."
+  ],
+  "jlpt": "1",
+  "frequency": "1803",
+  "grade": "8"
 }

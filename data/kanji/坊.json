@@ -338,5 +338,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0574a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/574a.gif",
     "uri": "https://jisho.org/search/%E5%9D%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "phường"
+  ],
+  "vietnameseMeaning": [
+    "① Phường, tên gọi các ấp các làng. ② Trong thành chia ra từng khu để cai trị cho dễ cũng gọi là phường. ③ Một vật gì xây đắp để tiêu-biểu các người hiền ở các làng mạc cũng gọi là phường. Như trung hiếu phường 忠孝坊, tiết nghĩa phường 節義坊, v.v. ④ Tràng sở, như tác phường 作坊 sở chế tạo các đồ. ⑤ Cái đê, cùng nghĩa như chữ phòng 防. ① Phố, phường: 和平坊 Phường Hoà Bình; ② Toà nhà lưu niệm có khung vòm: 節義坊 Phường Tiết Nghĩa; ③ (văn) Đê (dùng như 防, bộ 阜). Xem 坊 . Khu tập trung của một ngành nghề, phường: 鐵器坊 Phường hàng sắt; 染坊 Phường nhuộm. Xem 坊 ."
+  ],
+  "jlpt": "2",
+  "frequency": "1832",
+  "grade": "8"
 }

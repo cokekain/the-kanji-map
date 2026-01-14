@@ -316,5 +316,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59c9.gif",
     "uri": "https://jisho.org/search/%E5%A7%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "tỉ",
+    "chị"
+  ],
+  "vietnameseMeaning": [
+    "Như 姊."
+  ],
+  "jlpt": "3",
+  "frequency": "1473",
+  "grade": "2"
 }

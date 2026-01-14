@@ -379,5 +379,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06771.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6771.gif",
     "uri": "https://jisho.org/search/%E6%9D%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "đông",
+    "đang"
+  ],
+  "vietnameseMeaning": [
+    "① Phương đông, tục gọi người chủ là đông. Nước Trịnh nói với người nước Sở tự xưng nước mình là đông đạo chủ 東道主 nghĩa là người chủ ở phương đông. Tục gọi các chủ cổ phần công ti là cổ đông 股東 là do nghĩa đó. ② Nước Nhật Bản ở phía đông nước Tàu nên gọi là đông dương 東洋, văn tự Nhật Bản gọi là đông văn 東文. ③ Ðông sàng 東牀 chàng rể (theo tích truyện Vương hi Chi, đời Tấn). ① Đông (một trong bốn hướng chính): 東邊兒 Phía đông; 東風 Gió đông; 從東到西 Từ đông sang tây; ② Chủ: 房東 Chủ nhà; 股東 Người góp cổ phần; 東家 Người chủ, ông chủ; ③ Chủ nhà, chủ tiệc: 我做東，請你們吃飯 Tôi thết các anh một bữa; ④ 【東床】đông sàng (văn) Chàng rể; ⑤ (Thuộc) nước Nhật Bản: 東洋 Nước Nhật Bản; 東方 Chữ Nhật; ⑥ (Họ) Đông."
+  ],
+  "jlpt": "4",
+  "frequency": "37",
+  "grade": "2"
 }

@@ -321,5 +321,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0526f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/526f.gif",
     "uri": "https://jisho.org/search/%E5%89%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "phó"
+  ],
+  "vietnameseMeaning": [
+    "① Thứ hai, như phó sứ 副使, phó lí 副里, v.v. ② Thứ kém, như chính hiệu 正號 hạng nhất, phó hiệu 副號 hạng nhì, nghĩa là cùng một thứ đồ mà hơi kém. ③ Xứng, như thịnh danh chi hạ, kì thực nan phó 盛名之下其實難副 đối với cái danh tiếng lừng lẫy ấy, thực khó xứng nổi. ④ Bộ, như phó kê lục già 副笄六珈 bộ trâm sáu nhãn. Phàm vật gì phải gồm các cái lại mới dùng được đều gọi là phó, như nhất phó 一副 một bộ, toàn phó 全副 cả bộ, v.v. ① Phó, thứ, thứ hai, thứ nhì: 副主席 Phó chủ tịch; 副班長 Tiểu đội phó; 副隊長 Đội phó; 副部長 Thứ trưởng; ② Phụ: 副產品 ; ③ Phù hợp, đúng với, xứng với: 名副其實 Danh đúng với thực; 盛名之下，其實難副 Dưới cái danh tiếng lừng lẫy ấy, thực khó xứng nổi; ④ Bộ, đôi: 一副對聯 Đôi câu đối; 一副手套 Đôi găng tay; 全副武裝 Toàn bộ võ trang; 一副笑臉 Bộ mặt tươi cười; 副笄六珈 Bộ trâm sáu nhãn (Thi Kinh)."
+  ],
+  "jlpt": "2",
+  "frequency": "360",
+  "grade": "4"
 }

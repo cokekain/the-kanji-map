@@ -476,5 +476,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06226.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6226.gif",
     "uri": "https://jisho.org/search/%E6%88%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "chiến"
+  ],
+  "jlpt": "2",
+  "frequency": "78",
+  "grade": "4"
 }

@@ -333,5 +333,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06db2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6db2.gif",
     "uri": "https://jisho.org/search/%E6%B6%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "dịch",
+    "giá"
+  ],
+  "vietnameseMeaning": [
+    "① Nước dãi, phàm những chất lỏng chảy đều gọi là dịch thể 液體. ② Ngâm. ① Chất lỏng, nước, dịch: 溶液 Dung dịch; ② (văn) Ngâm."
+  ],
+  "jlpt": "2",
+  "frequency": "1210",
+  "grade": "5"
 }

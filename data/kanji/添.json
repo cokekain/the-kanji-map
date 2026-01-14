@@ -75,5 +75,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dfb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dfb.gif",
     "uri": "https://jisho.org/search/%E6%B7%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "thiêm",
+    "thêm"
+  ],
+  "vietnameseMeaning": [
+    "① Thêm, thêm lên. ① Thêm: 再添幾台機器 Thêm vài cỗ máy nữa; 添設醫院 Xây thêm bệnh viện; ② (đph) Sinh: 她最近添了個女孩兒 Chị ta mới đây sinh cháu gái."
+  ],
+  "jlpt": "1",
+  "frequency": "1501",
+  "grade": "8"
 }

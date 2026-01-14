@@ -59,5 +59,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05841.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5841.gif",
     "uri": "https://jisho.org/search/%E5%A1%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "lũy"
+  ],
+  "jlpt": "1",
+  "frequency": "651",
+  "grade": "8"
 }

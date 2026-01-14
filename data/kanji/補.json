@@ -392,5 +392,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88dc.gif",
     "uri": "https://jisho.org/search/%E8%A3%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "bổ"
+  ],
+  "vietnameseMeaning": [
+    "① Vá áo. ② Bù, phàm cái gì nó thiếu mà bù cho đủ đều gọi là bổ. Thiếu máu uống thuốc bù máu gọi là thuốc bổ huyết 補血. Ðỗ Phủ 杜甫: Thị tì mại châu hồi, Khiên la bổ mao ốc 侍婢賣珠迴，牽蘿補茅屋 thị tì đi bán ngọc trai trở về, kéo dây leo sửa kín nhà cỏ. ③ Giúp. Như xuân tỉnh canh nhi bổ bất túc 春省耕而補不足 mùa xuân xem xét sự cày bừa mà giúp cho các cái thiếu thốn. ④ Ích lợi, như bất vô tiểu bổ 不無小補 không phải là không có ích lợi chút đỉnh. ① Vá, hàn: 補衣服 Vá quần áo; 補鍋 Hàn nồi; ② Bù, thêm, bổ khuyết: 彌補 Bù đắp; 取長補短 Lấy hơn bù kém; 候補委員 Ủy viên dự khuyết (chờ bổ khuyết); ③ Bổ: 滋補 Tẩm bổ; ④ (văn) Bổ ích, có ích, giúp ích: 無補于事 Không giúp ích gì; 不無小補 Chẳng phải là không có lợi ích nhỏ."
+  ],
+  "jlpt": "2",
+  "frequency": "332",
+  "grade": "6"
 }

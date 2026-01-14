@@ -459,5 +459,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ed8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ed8.gif",
     "uri": "https://jisho.org/search/%E4%BB%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "phó"
+  ],
+  "vietnameseMeaning": [
+    "① Giao phó cho 交付. ② Tiêu ra, số tiền tiêu ra gọi là khoản phó 款付. ① Đưa, giao: 交付 Giao cho; 付表決 Đưa ra biểu quyết; 付諸實施 Đưa ra thi hành; ② Trả (tiền): 付款 Trả tiền; ③ (Họ) Phó; ④ Như 副 ."
+  ],
+  "jlpt": "2",
+  "frequency": "322",
+  "grade": "4"
 }

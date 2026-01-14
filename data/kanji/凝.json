@@ -74,5 +74,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51dd.gif",
     "uri": "https://jisho.org/search/%E5%87%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngưng"
+  ],
+  "vietnameseMeaning": [
+    "① Ðọng lại. Chất lỏng đọng lại gọi là ngưng. Đông lại, đọng lại, đặc lại, cứng lại, rắn lại."
+  ],
+  "jlpt": "1",
+  "frequency": "1712",
+  "grade": "8"
 }

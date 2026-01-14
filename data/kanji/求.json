@@ -354,5 +354,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c42.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c42.gif",
     "uri": "https://jisho.org/search/%E6%B1%82%23kanji"
-  }
+  },
+  "hanviet": [
+    "cầu"
+  ],
+  "vietnameseMeaning": [
+    "① Tìm, phàm muốn được cái gì mà hết lòng tìm tòi cho được đều gọi là cầu, như sưu cầu 搜求 lục tìm, nghiên cầu 研求 nghiền tìm, v.v. ② Trách, như quân tử cầu chư kỉ, tiểu nhân cầu chư nhân 君子求諸己，小人求諸人 người quân tử trách ở mình, kẻ tiểu nhân trách ở người. ③ Xin. ④ Tham, như bất kĩ bất cầu 不忮不求 chẳng ghen ghét chẳng tham lam. ⑤ Ngang bực, ngang nhau. ① Nhờ: 求鄰居照顧看門戶 Nhờ hàng xóm trông nhà hộ; ② Xin, cầu: 求助 Xin người khác giúp đỡ mình; 求救 Cầu cứu; ③ Yêu cầu, mong cầu: 不能急于求成 Không thể yêu cầu thành công ngay được; ④ Tìm tòi: 還要深求 Cần phải đi sâu tìm tòi; ⑤ Hám, tham, cầu, tìm: 不求名利 Không hám danh cầu lợi; 不忮不求 Chẳng ganh ghét chẳng tham lam (Thi Kinh); 賢愚兩者不相侔，亦各自求其所慾 Hai hạng người hiền và người ngu không so sánh được với nhau, cũng là đều tự tìm điều mong muốn của mình (Nguyễn Trãi: Côn Sơn ca); ⑥ (văn) Ngang bực, ngang nhau; ⑦ Nhu cầu: 供求相應 Cung cấp đáp ứng nhu cầu."
+  ],
+  "jlpt": "2",
+  "frequency": "220",
+  "grade": "4"
 }

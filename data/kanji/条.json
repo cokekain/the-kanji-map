@@ -318,5 +318,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06761.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6761.gif",
     "uri": "https://jisho.org/search/%E6%9D%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "điều"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ điều 條. Như 條"
+  ],
+  "jlpt": "2",
+  "frequency": "363",
+  "grade": "5"
 }

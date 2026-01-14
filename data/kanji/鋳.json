@@ -75,5 +75,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f3.gif",
     "uri": "https://jisho.org/search/%E9%8B%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "chú"
+  ],
+  "jlpt": "1",
+  "frequency": "2005",
+  "grade": "8"
 }

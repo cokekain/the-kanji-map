@@ -374,5 +374,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bcc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bcc.gif",
     "uri": "https://jisho.org/search/%E5%AF%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "phú"
+  ],
+  "vietnameseMeaning": [
+    "① Giàu. ② Phàm cái gì thừa thãi đều gọi là phú, như niên phú 年富 tuổi khỏe, văn chương hoành phú 文章宏富 văn chương rộng rãi dồi dào. ① Giàu có, giàu: 貧富不均 Giàu nghèo không đồng đều; ② Giàu, dồi dào, phong phú: 富饒 Giàu có: 富于養分 Có nhiều chất bổ; 文章宏富 Văn chương rộng rãi phong phú; ③ (Họ) Phú."
+  ],
+  "jlpt": "2",
+  "frequency": "644",
+  "grade": "5"
 }

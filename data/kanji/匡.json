@@ -41,5 +41,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05321.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5321.gif",
     "uri": "https://jisho.org/search/%E5%8C%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "khuôn"
+  ],
+  "vietnameseMeaning": [
+    "① Sửa cho chính lại. Như khuông cứu 匡救 cứu cho đi vào đường phải để khỏi lầm lỗi. ② Giúp, như khuông tương 匡襄 giúp rập. (văn) ① Sửa cho chính lại, sửa sang lại: 管仲相桓公，霸諸侯一匡天下 Quản Trọng giúp Hoàn Công, làm bá các chư hầu, sửa sang lại cả thiên hạ (Luận ngữ); ② Giúp đỡ, giúp giập, cứu giúp: 匡乏困，救災患 Giúp người nghèo thiếu, cứu kẻ nạn tai (Tả truyện); 匡襄 Giúp giập; ③ Hao hụt, mòn khuyết: 月盈而匡 Trăng đầy rồi khuyết (Quốc ngữ)."
+  ],
+  "jlpt": "1",
+  "frequency": "2176",
+  "grade": "9"
 }

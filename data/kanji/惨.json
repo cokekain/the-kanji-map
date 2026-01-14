@@ -85,5 +85,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60e8.gif",
     "uri": "https://jisho.org/search/%E6%83%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "thảm"
+  ],
+  "vietnameseMeaning": [
+    "Như 慘. Như 慘"
+  ],
+  "jlpt": "1",
+  "frequency": "1463",
+  "grade": "8"
 }

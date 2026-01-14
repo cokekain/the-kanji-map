@@ -394,5 +394,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e1b.gif",
     "uri": "https://jisho.org/search/%E6%B8%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "giảm"
+  ],
+  "vietnameseMeaning": [
+    "① Bớt, ít đi, giảm đi, trừ bớt đi. ① Trừ (đi): 五減三得二 5 trừ 3 còn 2; ② Giảm, giảm sút: 減稅 Giảm thuế; 工作熱情有增無減 Lòng hăng hái làm việc chỉ tăng thêm chứ không giảm sút; ③ Bớt, đỡ: 病害漸減 Bệnh đỡ (bớt) dần."
+  ],
+  "jlpt": "2",
+  "frequency": "261",
+  "grade": "5"
 }

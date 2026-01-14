@@ -64,5 +64,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08df3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8df3.gif",
     "uri": "https://jisho.org/search/%E8%B7%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "khiêu",
+    "khêu"
+  ],
+  "vietnameseMeaning": [
+    "① Nhảy. ① Nhảy: 他從高處跳下 Anh ta từ trên cao nhảy xuống; ② Đập: 心跳 Tim đập."
+  ],
+  "jlpt": "1",
+  "frequency": "1716",
+  "grade": "8"
 }

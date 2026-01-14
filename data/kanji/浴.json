@@ -354,5 +354,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d74.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d74.gif",
     "uri": "https://jisho.org/search/%E6%B5%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "dục"
+  ],
+  "vietnameseMeaning": [
+    "① Tắm. ② Phàm cái gì rửa cho sạch đi đều gọi là dục. ① Tắm: 海水浴 Tắm biển; 日光浴 Tắm nắng; ② Rửa cho sạch."
+  ],
+  "jlpt": "2",
+  "frequency": "1136",
+  "grade": "4"
 }

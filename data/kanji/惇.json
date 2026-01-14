@@ -47,5 +47,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060c7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60c7.gif",
     "uri": "https://jisho.org/search/%E6%83%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "run"
+  ],
+  "vietnameseMeaning": [
+    "① Hậu, đôn đốc. ② Tin. ① Hiền hoà, đôn hậu, trung hậu, dầy dặn; ② (văn) Coi trọng, tôn sùng."
+  ],
+  "jlpt": "1",
+  "frequency": "2265",
+  "grade": "9"
 }

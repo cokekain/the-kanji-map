@@ -333,5 +333,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092fc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92fc.gif",
     "uri": "https://jisho.org/search/%E9%8B%BC%23kanji"
-  }
+  },
+  "hanviet": [
+    "cương",
+    "gang"
+  ],
+  "vietnameseMeaning": [
+    "cương ① Thép. Sắt luyện kĩ gọi là cương. Thép: 鍊鋼 Luyện thép; 角鋼 Thép cạnh;槽形鋼 Thép chữ U; 不銹鋼 Thép không gỉ. Xem 鋼 . Liếc dao: 這把刀鈍了，要鋼一鋼 Con dao này cùn rồi, phải liếc lại. Xem 鋼 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1246",
+  "grade": "6"
 }

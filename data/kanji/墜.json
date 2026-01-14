@@ -59,5 +59,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0589c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/589c.gif",
     "uri": "https://jisho.org/search/%E5%A2%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "trụy",
+    "truỵ"
+  ],
+  "vietnameseMeaning": [
+    "① Rơi, rụng. ① Rơi xuống, rụng xuống, ngã, ngã xuống: 從天上墜下來 Từ trên trời rơi xuống; 飛機墜入海中 Máy bay rơi xuống biển; 墜馬 Ngã ngựa; ② Chìm, chìm xuống, trĩu, trĩu xuống, trệ xuống: 船錨往下墜 Neo chìm xuống dưới nước; 蘋果把樹枝墜得鸞鸞的 Táo sai quá nặng trĩu cành; 肚子往下墜 Trệ bụng, bụng trệ xuống; ③ (Treo) lủng lẳng: 墜着一個擺 Lủng lẳng một quả lắc."
+  ],
+  "jlpt": "1",
+  "frequency": "1466",
+  "grade": "8"
 }

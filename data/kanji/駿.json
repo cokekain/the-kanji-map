@@ -58,5 +58,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099ff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99ff.gif",
     "uri": "https://jisho.org/search/%E9%A7%BF%23kanji"
-  }
+  },
+  "hanviet": [
+    "tuấn"
+  ],
+  "vietnameseMeaning": [
+    "① Con ngựa tốt. Như tuấn mã 駿馬. Phàm sự gì cao lớn nhanh nhẹn đều gọi là gọi là tuấn cả. Như thần thái tuấn phát 神采駿發 tinh thần sung mãn, vẻ mặt tươi sáng. ② Nghiêm chỉnh. ③ Tài giỏi. ① Ngựa tốt. 【駿馬】tuấn mã Ngựa tốt, tuấn mã: 居數月，其馬將胡駿馬而歸 Vài tháng sau, con ngựa đó đem con ngựa Hồ tốt trở về (Hoài Nam tử); ② (văn) Lớn; ③ (văn) Nhanh; ④ (văn) Nghiêm khắc, nghiêm ngặt, chặt chẽ (như 峻, bộ 山) ⑤ (văn) Tài giỏi, nổi bật (như 俊, bộ 亻)."
+  ],
+  "jlpt": "1",
+  "frequency": "1817",
+  "grade": "9"
 }

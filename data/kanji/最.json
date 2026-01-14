@@ -429,5 +429,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06700.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6700.gif",
     "uri": "https://jisho.org/search/%E6%9C%80%23kanji"
-  }
+  },
+  "hanviet": [
+    "tối"
+  ],
+  "vietnameseMeaning": [
+    "① Rất, như tối hảo 最好 rất tốt. ② Giỏi hơn. Nhà Hán khảo sát quan lại chia ra hai hạng, tối 最 và điến 殿. Ðiến là kẻ không xứng chức, tối là kẻ có tài giỏi. ③ Cùng tột, dùng làm trợ từ. ① Nhất: 最大 Lớn nhất; 最爲積極 Tích cực nhất; 最快 Nhanh nhất; 最可愛的人 Những người đáng yêu nhất; ② Vô cùng: 最敬愛 Vô cùng kính mến; ③ (văn) Tụ họp: 冬，收五藏，最萬物 Mùa đông, thu và cất chứa ngũ cốc, tụ họp vạn vật (Quản tử); ④ (văn) Tổng cộng, tính tổng, tính gộp: 最從高帝得相國一人，丞相二人，將軍，二千石各三人 Tính tổng cộng từ vua Cao đế có được một (người làm) tướng quốc, hai thừa tướng, tướng quân và chức quan bổng lộc hai ngàn thạch thóc mỗi thứ ba người (Sử kí)."
+  ],
+  "jlpt": "2",
+  "frequency": "82",
+  "grade": "4"
 }

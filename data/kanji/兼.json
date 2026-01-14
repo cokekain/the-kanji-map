@@ -50,5 +50,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0517c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/517c.gif",
     "uri": "https://jisho.org/search/%E5%85%BC%23kanji"
-  }
+  },
+  "hanviet": [
+    "kiêm"
+  ],
+  "vietnameseMeaning": [
+    "① Gồm, như kiêm quản 兼管 gồm coi, kiêm nhân 兼人 một người làm việc gồm cả việc của hai người. Tục viết là 𠔥. ① Kiêm, gồm cả, chung cả, có cả: 副總理兼外交部長 Phó Thủ tướng kiêm Bộ trưởng Bộ ngoại giao; 這個字兼有褒貶兩義 Chữ này có cả hai nghĩa tốt và xấu; 兼管 Coi sóc chung cả; 兼人 Người làm kiêm thêm việc khác; 兼愛 Yêu gồm hết mọi người; ② Thêm, gấp (đôi): 兼人之量 Thêm số người; 兼旬 Hai tuần (20 ngày); ③ (văn) Kiêm tính, thôn tính, nhập chung (vào của mình): 秦人以急農兼天下 Người nước Tần nhờ coi trọng nghề nông mà thôn tính được cả thiên hạ (Tào Tháo: Trí đồn điều lịnh)."
+  ],
+  "jlpt": "1",
+  "frequency": "1164",
+  "grade": "8"
 }

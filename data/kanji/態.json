@@ -354,5 +354,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614b.gif",
     "uri": "https://jisho.org/search/%E6%85%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "thái"
+  ],
+  "vietnameseMeaning": [
+    "① Thái độ (thói). ② Tình trạng, như biến thái bách xuất 變態百出 tình trạng biến đổi nhiều. ① Hình dạng, vẻ, thói, thái độ: 形態 Hình dạng, hình thái; ② Trạng thái, tình trạng: 變態百出 Tình trạng biến đổi liên tục."
+  ],
+  "jlpt": "1",
+  "frequency": "353",
+  "grade": "5"
 }

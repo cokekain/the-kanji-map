@@ -331,5 +331,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08846.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8846.gif",
     "uri": "https://jisho.org/search/%E8%A1%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "chúng"
+  ],
+  "vietnameseMeaning": [
+    "Như眾 (bộ 目)."
+  ],
+  "jlpt": "1",
+  "frequency": "450",
+  "grade": "6"
 }

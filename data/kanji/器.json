@@ -403,5 +403,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05668.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5668.gif",
     "uri": "https://jisho.org/search/%E5%99%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "khí"
+  ],
+  "vietnameseMeaning": [
+    "① Ðồ, như khí dụng 器用 đồ dùng. ② Tài năng. ③ Ðộ lượng. Trông người nào mà cho là có tài gọi là khí trọng 器重. ④ Các thứ thuộc về tước vị danh hiệu cũng gọi là khí. ① (Gọi chung các) công cụ, đồ dùng: 武器 Vũ khí; 容器 Đồ đựng; 石器 Đồ đá; 銅器 Đồ đồng; ② Cơ quan: 消化器 Cơ quan tiêu hoá; ③ Máy, hộp: 變壓器 Máy biến thế; 變速器 Hộp số, hộp biến tốc; ④ Bụng dạ, độ lượng, khí độ: 小器 Bụng dạ hẹp hòi."
+  ],
+  "jlpt": "2",
+  "frequency": "525",
+  "grade": "4"
 }

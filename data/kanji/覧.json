@@ -342,5 +342,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089a7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89a7.gif",
     "uri": "https://jisho.org/search/%E8%A6%A7%23kanji"
-  }
+  },
+  "hanviet": [
+    "lãm"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ lãm 覽. Như 覽."
+  ],
+  "jlpt": "1",
+  "frequency": "1510",
+  "grade": "6"
 }

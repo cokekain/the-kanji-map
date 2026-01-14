@@ -371,5 +371,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0690d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/690d.gif",
     "uri": "https://jisho.org/search/%E6%A4%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "thực"
+  ],
+  "vietnameseMeaning": [
+    "① Các loài có rễ, như thực vật 植物 các cây cỏ. ② Giồng (trồng), như chủng thực 種植 giồng giọt (trồng tỉa). ③ Cắm, tựa, như thực kì trượng nhi vân 植其杖而芸 cắm thửa gậy mà làm cỏ ruộng. ④ Phù thực, vun giồng cho con em đông đúc khá giả gọi là bồi thực 培植. ⑤ Cái dõi cửa. ⑥ Một âm là trĩ. Cái cột treo né tằm. ⑦ Chức coi xét. ① Trồng, cấy: 植樹造林 Trồng cây gây rừng; 合理密植 Cấy dầy hợp lí; ② Dựng, cắm: 植其杖于門側 Dựng chiếc gậy bên cửa; ③ Thực vật, cây trồng."
+  ],
+  "jlpt": "2",
+  "frequency": "699",
+  "grade": "3"
 }

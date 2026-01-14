@@ -378,5 +378,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c71.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c71.gif",
     "uri": "https://jisho.org/search/%E5%B1%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "sơn"
+  ],
+  "vietnameseMeaning": [
+    "① Núi, giữa chỗ đất phẳng có chỗ cao gồ lên, hoặc toàn đất, hoặc toàn đá, hoặc lẫn cả đất cả đá nữa, cao ngất gọi là núi, thuần đất mà thấp gọi là đồi. Vì trong tim đất phun lửa ra mà thành núi gọi là hoả sơn 火山 núi lửa. ② Mồ mả, như san lăng 山陵, san hướng 山向 đều là tên gọi mồ mả cả. ③ Né tằm, tằm lên né gọi là thượng san 上山. Cũng đọc là chữ sơn. ① Núi, non: 火山Núi lửa; 深山老林 Rừng sâu núi thẳm; 山高坡陡 Non cao đèo dốc; ② Hình dạng như núi: 冰山Núi băng; ③ Né tằm: 蠶上山了 Tằm đã lên né (dụm lại như quả núi); ④ Đầu hồi (của ngôi nhà): 山墻 Đầu hồi, đầu chái nhà. Cg. 房山 ; ⑤ (văn) Mồ mả: 山陵 Mồ mả; ⑥ (Họ) Sơn."
+  ],
+  "jlpt": "4",
+  "frequency": "131",
+  "grade": "1"
 }

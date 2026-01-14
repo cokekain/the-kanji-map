@@ -54,5 +54,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05208.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5208.gif",
     "uri": "https://jisho.org/search/%E5%88%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngải"
+  ],
+  "vietnameseMeaning": [
+    "① Cắt cỏ. Cắt (cỏ hoặc lúa): 刈 草機 Máy cắt cỏ."
+  ],
+  "jlpt": "1",
+  "frequency": "1738",
+  "grade": "8"
 }

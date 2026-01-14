@@ -69,5 +69,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e6.gif",
     "uri": "https://jisho.org/search/%E6%97%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "đán"
+  ],
+  "vietnameseMeaning": [
+    "① Sớm, lúc trời mới sáng gọi là đán. ② Nói sự thốt nhiên không lường được, như nhất đán địch chí 一旦敵至 một mai giặc đến. ③ Vai tuồng đóng đàn bà gọi là đán. ① (văn) Sáng sớm: 坐以待旦 Ngồi chờ sáng; 旦暮從事于農 Sớm tối lo việc ruộng nương (Thương Quân thư); ② Ngày: 元旦 Ngày đầu năm, Tết dương lịch; 一旦 Một ngày nào, một mai, một sớm; ③ (Vai) đào: 武旦 Đào võ; 花旦 Đào hoa; 老旦 Đào già."
+  ],
+  "jlpt": "1",
+  "grade": "8"
 }

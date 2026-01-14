@@ -67,5 +67,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d1e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d1e.gif",
     "uri": "https://jisho.org/search/%E6%B4%9E%23kanji"
-  }
+  },
+  "hanviet": [
+    "động",
+    "đọng"
+  ],
+  "vietnameseMeaning": [
+    "động, đỗng ① Cái động (hang sâu). ② Lỗ hổng, cái gì đục thủng đều gọi là đỗng. ③ Suốt, như đỗng giám 洞鑒 soi suốt. ① Hang, động, chỗ thủng, chỗ rách: 洞主 Chủ động; 山洞 Hang núi; 仙洞 Động tiên; 洞口 Cửa động; 襯衣破 了一個洞 Cái áo sơ mi rách một lỗ; ② Suốt, nhìn thấu, nghĩ thấu: 洞見症結 Nhìn thấy rõ điều uẩn khúc; 洞鑒 Soi suốt."
+  ],
+  "jlpt": "1",
+  "frequency": "1618",
+  "grade": "8"
 }

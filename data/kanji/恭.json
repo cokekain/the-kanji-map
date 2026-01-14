@@ -51,5 +51,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0606d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/606d.gif",
     "uri": "https://jisho.org/search/%E6%81%AD%23kanji"
-  }
+  },
+  "hanviet": [
+    "cung"
+  ],
+  "vietnameseMeaning": [
+    "① Cung kính. Sự kính đã tỏ lộ ra ngoài gọi là cung. Cung kính."
+  ],
+  "jlpt": "1",
+  "frequency": "1737",
+  "grade": "8"
 }

@@ -283,5 +283,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080a9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80a9.gif",
     "uri": "https://jisho.org/search/%E8%82%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "kiên"
+  ],
+  "vietnameseMeaning": [
+    "① Vai. ② Gánh vác, trút được hết trách nhiệm gọi là tức kiên 息肩. ③ Dùng. ④ Giống muông ba tuổi. ① Vai: 兩肩 Hai vai; 肩并肩 Vai kề vai, sát cánh; ② Gánh vác: 身肩大任 Gánh vác nhiệm vụ lớn; ③ (văn) Dùng; ④ (văn) Giống muông ba tuổi."
+  ],
+  "jlpt": "2",
+  "frequency": "1215",
+  "grade": "8"
 }

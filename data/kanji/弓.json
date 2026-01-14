@@ -294,5 +294,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f13.gif",
     "uri": "https://jisho.org/search/%E5%BC%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "cung"
+  ],
+  "vietnameseMeaning": [
+    "① Cái cung. ② Số đo đất, năm thước là một cung, tức là một bộ, 360 bộ là một dặm, 240 bộ vuông là một mẫu, vì thế nên cái thước đo đất gọi là bộ cung 步弓, người đo đất gọi là cung thủ 弓手. ③ Cong, vật gì hình cong như cái cung đều gọi là cung, như cung yêu 弓腰 lưng cong. ① Cái cung: 弓箭 Cung tên; ② Những dụng cụ có hình cung: 彈棉花的繃弓兒 Cái cần bật bông; ③ Cung (dụng cụ đo lường ruộng đất ngày xưa, bằng 5 thước): 步弓 Thước đo đất (thời xưa); 弓手 Người đo đất (thời xưa); ④ Cúi, khom, cong: 上山時要弓着腰，一步一步向上爬 Khi lên núi phải khom lưng leo lên từng bước; 弓腰 Lưng cong; ⑤ (Họ) Cung."
+  ],
+  "jlpt": "1",
+  "frequency": "1802",
+  "grade": "2"
 }

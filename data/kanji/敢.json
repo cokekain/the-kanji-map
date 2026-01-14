@@ -304,5 +304,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06562.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6562.gif",
     "uri": "https://jisho.org/search/%E6%95%A2%23kanji"
-  }
+  },
+  "hanviet": [
+    "cảm",
+    "cám"
+  ],
+  "vietnameseMeaning": [
+    "① Tiến lên, như dũng cảm 勇敢 mạnh bạo tiến lên. ② Bạo dạn, như cảm tác cảm vi 敢作敢為 bạo dạn mà làm không e sợ chi. ③ Dám, như yên cảm cố từ 焉敢固辭 sao dám cố từ. ① Dũng cảm, can đảm, cả gan; ② Dám: 敢想，敢幹 Dám nghĩ, dám làm; ③ (đph) Có lẽ, hay là: 敢是他來了 Có lẽ anh ấy đến đấy; ④ (văn) Xin, dám (lời nói khiêm) : 敢問 Xin hỏi."
+  ],
+  "jlpt": "1",
+  "frequency": "1859",
+  "grade": "8"
 }

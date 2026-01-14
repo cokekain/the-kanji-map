@@ -361,5 +361,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d85.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d85.gif",
     "uri": "https://jisho.org/search/%E8%B6%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "siêu"
+  ],
+  "vietnameseMeaning": [
+    "① Vượt qua. Nhảy qua. ② Siêu việt, phàm có tài trí hơn người đều gọi là siêu. Như siêu quần 超群 hơn cả đàn, siêu đẳng 超等 hơn cả các bực. ③ Không chịu đặt mình vào cái khuôn mẫu thường gọi là siêu. Như siêu thoát 超脫, siêu dật 超逸, v.v. ④ Xa. ① Vượt, quá: 超計划的產量 Sản lượng vượt kế hoạch; 超齡 Quá tuổi; ② Siêu, vượt hơn: 超音速飛機 Máy bay siêu âm; 超階級的思想 Tư tưởng siêu giai cấp; ③ Vượt thoát, siêu thoát; ④ (văn) Xa."
+  ],
+  "jlpt": "2",
+  "frequency": "597",
+  "grade": "8"
 }

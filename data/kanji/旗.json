@@ -340,5 +340,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065d7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65d7.gif",
     "uri": "https://jisho.org/search/%E6%97%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "kì",
+    "cờ"
+  ],
+  "vietnameseMeaning": [
+    "① Cờ, dùng vải hay lụa buộc lên cái cán để làm dấu hiệu gọi là kỉ. ② Người Mãn Thanh gọi là kì nhân 旗人. ③ Ngày xưa cho vẽ hình gấu hổ lên lụa gọi là kì. ① Cờ: 升旗 Kéo cờ; 偃旗息鼓 Cờ im trống lặng; ② Cấp hành chính ngang với cấp huyện ở Khu tự trị Nội Mông Cổ, Trung Quốc: 鄂倫春自治旗 Huyện tự trị Ơ-luân-xuân; ③ Huy hiệu; ④ Người Mãn Thanh."
+  ],
+  "jlpt": "1",
+  "frequency": "1190",
+  "grade": "4"
 }

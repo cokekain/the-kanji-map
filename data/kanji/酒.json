@@ -429,5 +429,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09152.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9152.gif",
     "uri": "https://jisho.org/search/%E9%85%92%23kanji"
-  }
+  },
+  "hanviet": [
+    "tửu"
+  ],
+  "vietnameseMeaning": [
+    "① Rượu, phàm các thứ dùng để uống mà có chất say đều gọi là tửu. Nguyễn Trãi 阮廌: nhất hồ bạch tửu tiêu trần lự 一壺白酒消塵慮 một bầu rượu trắng tiêu tan nỗi lo trần tục. ① Rượu: 斟酒 Rót rượu; ② (Họ) Tửu."
+  ],
+  "jlpt": "2",
+  "frequency": "1006",
+  "grade": "3"
 }

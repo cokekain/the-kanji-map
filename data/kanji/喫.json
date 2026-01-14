@@ -264,5 +264,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55ab.gif",
     "uri": "https://jisho.org/search/%E5%96%AB%23kanji"
-  }
+  },
+  "hanviet": [
+    "khiết",
+    "khịt"
+  ],
+  "vietnameseMeaning": [
+    "① Ăn uống. ② Nhận vào, như chịu thiệt gọi là khiết khuy 喫虧, gắng sức không rời là khiết khẩn 喫緊, v.v. (văn) ① Ăn uống; ② Nhậm chịu: 喫虧 Chịu thiệt, chịu lỗ; 喫緊 Chịu đựng riết."
+  ],
+  "jlpt": "2",
+  "frequency": "1347",
+  "grade": "8"
 }

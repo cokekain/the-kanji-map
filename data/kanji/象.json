@@ -384,5 +384,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c61.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c61.gif",
     "uri": "https://jisho.org/search/%E8%B1%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "tượng"
+  ],
+  "vietnameseMeaning": [
+    "① Con voi. ② Ngà voi, như tượng hốt 象笏 cái hốt bằng ngà voi. ③ Hình trạng, hình tượng, như: đồ tượng 圖象 tranh tượng, nay thông dụng chữ 像. ④ Tượng giáo 象教 nhà Phật cho đạo Phật sau khi Phật tổ tịch rồi một nghìn năm là thời kì tượng giáo, nghĩa là chỉ còn có hình tượng Phật chứ không thấy chân thân Phật nữa. ⑤ Khí tượng, có cái hình tượng lộ ra ngoài. ⑥ Làm phép, gương mẫu. ⑦ Đồ đựng rượu. ⑧ Điệu múa. ① (Con) voi, tượng; ② Ngà voi: 象笏 Cái hốt bằng ngà voi; ③ Hình dáng, tình trạng, hình tượng: 景象 Cảnh tượng; 氣象 Khí tượng; ④ Tượng: 象形 Tượng hình: 象聲 Tượng thanh; ⑤ (văn) Phép tắc, khuôn mẫu; ⑥ (văn) Đồ đựng rượu; ⑦ (văn) Điệu múa."
+  ],
+  "jlpt": "2",
+  "frequency": "394",
+  "grade": "4"
 }

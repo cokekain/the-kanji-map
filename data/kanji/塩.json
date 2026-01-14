@@ -359,5 +359,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05869.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5869.gif",
     "uri": "https://jisho.org/search/%E5%A1%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "diêm"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ 鹽. Như 鹽 (bộ 鹵)."
+  ],
+  "jlpt": "2",
+  "frequency": "1148",
+  "grade": "4"
 }

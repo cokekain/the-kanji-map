@@ -302,5 +302,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61b2.gif",
     "uri": "https://jisho.org/search/%E6%86%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "hiến"
+  ],
+  "vietnameseMeaning": [
+    "① Pháp, yết các điều pháp luật lên cho người biết mà theo gọi là hiến, nước nào lấy pháp luật mà trị nước gọi là lập hiến quốc 立憲國. Tục cũ gọi các quan trên là hiến. Như đại hiến 大憲, hiến đài 憲臺, v.v. (cũng như ta kêu là Cụ lớn vậy). ① Pháp lệnh; ② Hiến pháp: 立憲 Lập hiến; ③ Thông minh; ④ Từ dùng để gọi các quan trên: 大憲 (hay 憲臺) Cụ lớn; ⑤ (văn) Phỏng theo, bắt chước: 俯憲坤典，仰式乾文 Cúi xuống phỏng theo phép tắc của đất, trông lên làm theo kiểu mẫu của văn trời (Tam quốc chí); ⑥ (văn) Công bố: 憲禁于王宮 Công bố lệnh cấm ở cung vua (Chu lễ)."
+  ],
+  "jlpt": "1",
+  "frequency": "551",
+  "grade": "6"
 }

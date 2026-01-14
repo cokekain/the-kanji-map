@@ -397,5 +397,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bcd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bcd.gif",
     "uri": "https://jisho.org/search/%E6%AF%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "mẫu"
+  ],
+  "vietnameseMeaning": [
+    "① Mẹ. ② Phàm vật gì làm cốt để sinh ra các cái đều gọi là mẫu, như mẫu tài 母財 tiền vốn. ③ Tiếng gọi tôn các đàn bà tôn trưởng, như cô mẫu 姑母 bà cô, cữu mẫu 舅母 bà mợ. ④ Giống cái, như mẫu kê 母雞 gà mái, mẫu trệ 母彘 lợn sề, v.v. ⑤ Một âm là mô. Men, mẻ. ① Mẹ: 母子 Mẹ con; 老母 Mẹ già; ② Người đàn bà bằng vai với mẹ trong thân thuộc: 姑母 Cô; 舅母 Mợ; 嬸母 Thím; ③ Mái, cái: 母雞 Gà mái; 母牛 Bò cái; ④ Bộ phận có khía đường xoắn ốc để vặn đinh ốc: 螺絲母 Đai ốc, êcu; ⑤ Mẹ (chỉ căn nguyên): 失敗是成功之母 Thất bại là mẹ thành công; ⑥ Mẹ, cái: 母船 Tàu mẹ; 工作母機 Máy cái; ⑦ (Họ) Mẫu."
+  ],
+  "jlpt": "4",
+  "frequency": "570",
+  "grade": "2"
 }

@@ -365,5 +365,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e2c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e2c.gif",
     "uri": "https://jisho.org/search/%E6%B8%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "trắc"
+  ],
+  "vietnameseMeaning": [
+    "① Ðo chiều sâu, nói rộng ra phàm sự đo lường đều gọi là trắc cả, như bất trắc 不測 không lường được. ② Trong. ① Đo (đạc): 勘測 Đo đạc; 深不可測 Sâu không đo được; ② Lường tới, ngờ đến: 事出不測 Việc xảy ra không ngờ; 深不可測也 Lẽ thâm sâu không thể lường tính được (Hoài Nam tử); ③ (văn) Trong: 漆慾測，絲慾沈 Sơn muốn trong, tơ muốn thâm bóng (Chu lễ)."
+  ],
+  "jlpt": "2",
+  "frequency": "761",
+  "grade": "5"
 }

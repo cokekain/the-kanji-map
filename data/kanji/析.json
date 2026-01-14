@@ -43,5 +43,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06790.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6790.gif",
     "uri": "https://jisho.org/search/%E6%9E%90%23kanji"
-  }
+  },
+  "hanviet": [
+    "tích"
+  ],
+  "vietnameseMeaning": [
+    "① Gỡ, tẽ ra, chia rẽ, như li tích 離析 chia ghẽ. ② Chẻ, như tích tân 析薪 chẻ củi. ③ Tách bạch, như tích nghi 析疑 nói tách bạch mối ngờ ra. ① Phân tích, giải thích: 分析國際形勢 Phân tích tình hình quốc tế; ② Tách ra: 分崩離析 Tan ra; 折疑 Nói tách bạch điều ngờ vực ra; ③ Chẻ: 折薪 Chẻ củi."
+  ],
+  "jlpt": "1",
+  "frequency": "980",
+  "grade": "8"
 }

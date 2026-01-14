@@ -299,5 +299,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05354.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5354.gif",
     "uri": "https://jisho.org/search/%E5%8D%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "hiệp",
+    "hiếp"
+  ],
+  "vietnameseMeaning": [
+    "① Hoà hợp, như đồng tâm hiệp lực 同心協力, hiệp thương 協商 cùng bàn để định lấy một phép nhất định. ② Có ý nghĩa là giúp đỡ. Như lương thực của tỉnh khác đem đến giúp tỉnh mình gọi là hiệp hướng 協餉, giúp người chủ sự chi mọi việc gọi là hiệp lí 協理, v.v. ① Chung sức, cộng tác, cùng nhau: 同心協力 Chung sức chung lòng; ② Trợ lực, giúp đỡ.【協助】hiệp trợ Giúp đỡ, trợ giúp, trợ lực."
+  ],
+  "jlpt": "2",
+  "frequency": "121",
+  "grade": "4"
 }

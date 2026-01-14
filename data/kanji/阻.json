@@ -60,5 +60,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0963b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/963b.gif",
     "uri": "https://jisho.org/search/%E9%98%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "trở"
+  ],
+  "vietnameseMeaning": [
+    "① Hiểm trở. Chỗ núi hiểm hóc gọi là hiểm 險, chỗ nước nguy hiểm gọi là trở 阻. ② Ngăn trở. Cùng nghĩa với chữ trở 沮. Như vi chi khí trở 爲之氣阻 làm cho cái khí đang hăng tắt ngẵng lại. Lại cản trở không cho làm cũng gọi là trở. ③ Gian nan. ④ Cậy. ① Ngăn trở, cản trở, chặn, trở ngại: 攔阻 Ngăn, ngăn cản; 勸阻 Khuyên ngăn; 通行無阻 Đường đi không có gì trở ngại; ② Hiểm trở; ③ Gian nan."
+  ],
+  "jlpt": "1",
+  "frequency": "1280",
+  "grade": "8"
 }

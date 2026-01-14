@@ -57,5 +57,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08912.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8912.gif",
     "uri": "https://jisho.org/search/%E8%A4%92%23kanji"
-  }
+  },
+  "hanviet": [
+    "bao"
+  ],
+  "vietnameseMeaning": [
+    "① Cũng như chữ bao 襃. Như 襃. Như 襃"
+  ],
+  "jlpt": "1",
+  "frequency": "2073",
+  "grade": "8"
 }

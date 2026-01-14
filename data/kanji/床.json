@@ -365,5 +365,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e8a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e8a.gif",
     "uri": "https://jisho.org/search/%E5%BA%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "sàng"
+  ],
+  "vietnameseMeaning": [
+    "① Cũng như chữ sàng 牀. Như 牀 (bộ 爿). Xem 牀 (bộ 爿)."
+  ],
+  "jlpt": "2",
+  "frequency": "1175",
+  "grade": "8"
 }

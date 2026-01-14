@@ -307,5 +307,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a7.gif",
     "uri": "https://jisho.org/search/%E6%8E%A7%23kanji"
-  }
+  },
+  "hanviet": [
+    "khống"
+  ],
+  "vietnameseMeaning": [
+    "① Dẫn, kéo, như khống huyền 控弦 dương cung. ② Cáo mách, như thượng khống 上控 tố cáo lên trên. ③ Cầm giữ. ④ Ném. ① Kiện, tố cáo: 指控 Tố cáo; ② Khống chế, ghìm, điều khiển: 遙控 Điều khiển từ xa; ③ (văn) Kéo: 控弦 Giương cung; ④ (văn) Cầm giữ; ⑤ (văn) Ném."
+  ],
+  "jlpt": "1",
+  "frequency": "1000",
+  "grade": "8"
 }

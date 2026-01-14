@@ -303,5 +303,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91cc.gif",
     "uri": "https://jisho.org/search/%E9%87%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "lí",
+    "lịa"
+  ],
+  "vietnameseMeaning": [
+    "① Làng. Chỗ dân ở 25 nhà gọi là lí. ② Dặm, 360 bước là một dặm. ① Hàng xóm, hàng phố, láng giềng: 鄰里 Hàng xóm; 里弄 Ngõ xóm; ② Quê hương: 故里 Quê nhà; ③ Xóm, làng (thời xưa gồm 25 nhà); ④ Dặm (500 mét); ⑤ (Họ) Lí."
+  ],
+  "jlpt": "1",
+  "frequency": "1096",
+  "grade": "2"
 }

@@ -102,5 +102,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bbb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bbb.gif",
     "uri": "https://jisho.org/search/%E6%AE%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "xác"
+  ],
+  "vietnameseMeaning": [
+    "(11n) ① Vỏ, như loa xác 螺殻 vỏ ốc, duẩn xác 筍殻 bẹ măng, v.v. Tục quen viết là 壳."
+  ],
+  "jlpt": "1",
+  "frequency": "1892",
+  "grade": "8"
 }

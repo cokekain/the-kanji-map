@@ -75,5 +75,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09be8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9be8.gif",
     "uri": "https://jisho.org/search/%E9%AF%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "kình"
+  ],
+  "vietnameseMeaning": [
+    "① Cá kình (voi). Hình tuy giống cá mà thực ra thuộc về loài thú. Có con to dài đến tám chín mươi thước. Nguyễn Trãi 阮廌: Ngao phụ xuất sơn, sơn hữu động, Kình du tắc hải, hải vi trì 鰲負出山，山有洞，鯨遊塞海，海爲池 (Long Ðại Nham, 龍袋岩) Con ba ba đội núi nổi lên, núi có động, Cá kình bơi lấp biển, biển thành ao. Cá voi."
+  ],
+  "jlpt": "1",
+  "frequency": "1486",
+  "grade": "8"
 }

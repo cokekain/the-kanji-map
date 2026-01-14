@@ -306,5 +306,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05439.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5439.gif",
     "uri": "https://jisho.org/search/%E5%90%B9%23kanji"
-  }
+  },
+  "hanviet": [
+    "xúy",
+    "xuy"
+  ],
+  "vietnameseMeaning": [
+    "① Thổi, như xuy tiêu 吹簫 thổi tiêu, xuy địch 吹笛 thổi sáo, v.v. ② Một âm là xuý. Cổ xuý 鼓吹, nạo xuý 鐃吹đều là tên khúc nhạc đời xưa cả. ① Thổi: 打燈吹滅 Thổi tắt đèn; ② Thổi (nhạc cụ) 吹笛子 Thổi sáo; ③ (khn) Nói khoác, khoác lác: 你別吹啦 Anh đừng nói khoác; ④ (khn) Hỏng mất, thất bại, cắt đứt: 這件事眼看要吹了 Xem chừng việc này đến hỏng mất thôi; 他們倆的交情算吹了 Tình bạn của họ coi như là cắt đứt rồi."
+  ],
+  "jlpt": "2",
+  "frequency": "1133",
+  "grade": "8"
 }

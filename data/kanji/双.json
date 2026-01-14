@@ -291,5 +291,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53cc.gif",
     "uri": "https://jisho.org/search/%E5%8F%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "song"
+  ],
+  "vietnameseMeaning": [
+    "① Cũng như chữ 雙. Như 雙"
+  ],
+  "jlpt": "2",
+  "frequency": "1029",
+  "grade": "8"
 }

@@ -287,5 +287,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f03.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f03.gif",
     "uri": "https://jisho.org/search/%E8%BC%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "giảo",
+    "giác"
+  ],
+  "vietnameseMeaning": [
+    "① Cái tay xe. Hai bên chỗ tựa xe có cái gỗ đặt ngang bắt khum về đằng trước gọi là giác. ② Ganh đua, cùng nghĩa với chữ 角. Như lỗ nhân liệp giác 魯人獵較 người nước Lỗ thi săn bắn. ③ Một âm là giếu. Có chỗ đọc là giảo. So sánh, cùng nghĩa với chữ hiệu 校. ④ Qua loa. Như đại giảo 大較 cũng như ta nói đại lược 大略. ⑤ Rõ rệt. ① So sánh, đọ: 工作較前更爲繁重了 Công việc so với trước đây thì càng nhiều hơn; 較勁兒 Đọ sức; 論才較智 Luận tài so trí; ② Khá..., tương đối..., qua loa, sơ lược: 有一個較爲完整的概念 Có một khái niệm tương đối hoàn chỉnh; 大較 Đại lược, đại khái; ③ Rõ ràng, rành rành: 二者較然不同 Hai cái (thứ) khác nhau rõ ràng; 輕財重義，較然著明 Khinh tài trọng nghĩa, rành rành rõ rệt (Sử kí). ① Tay xe thời xưa (trên thùng xe, dùng để tựa tay); ② (văn) Thi đua (dùng như 角): 魯人獵較 Người nước Lỗ săn bắn thi."
+  ],
+  "jlpt": "2",
+  "frequency": "1172",
+  "grade": "8"
 }

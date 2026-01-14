@@ -54,5 +54,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b54.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b54.gif",
     "uri": "https://jisho.org/search/%E9%AD%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "ma"
+  ],
+  "vietnameseMeaning": [
+    "① Ma quỷ. Các cái làm cho người ta mê muội, làm mất lòng đạo đều gọi là ma cả. ② Ham thích cái gì đã thành ra nghiện cũng gọi là ma. ③ Ma chướng. Các thứ làm chướng ngại đường tu. Như ma do tâm sinh 魔由心生 ma chướng tự tâm mà ra. ① Ma quỷ: 妖魔 Yêu ma; ② Kì lạ, huyền bí: 魔力 Sức huyền bí; ③ (văn) Mê nghiện."
+  ],
+  "jlpt": "1",
+  "frequency": "1514",
+  "grade": "8"
 }

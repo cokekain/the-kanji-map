@@ -53,5 +53,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f50.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f50.gif",
     "uri": "https://jisho.org/search/%E4%BD%90%23kanji"
-  }
+  },
+  "hanviet": [
+    "tá"
+  ],
+  "vietnameseMeaning": [
+    "① Giúp. ② Thứ hai, như huyện tá 縣佐 chức quan giúp việc quan huyện. ① Giúp đỡ: 佐理 Giúp việc; ② Người giúp đỡ: 僚佐 Người giúp việc, người trợ tá."
+  ],
+  "jlpt": "1",
+  "frequency": "474",
+  "grade": "8"
 }

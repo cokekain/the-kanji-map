@@ -59,5 +59,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06377.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6377.gif",
     "uri": "https://jisho.org/search/%E6%8D%B7%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiệp"
+  ],
+  "vietnameseMeaning": [
+    "① Ðánh được, phàm sự gì nên công cũng gọi là tiệp cả, thi đỗ cũng gọi là tiệp. ② Nhanh, như tiệp túc tiên đắc 捷足先得 nhanh chân được trước. ③ Một âm là thiệp. Thiệp thiệp 捷捷 tiếng chép miệng. ① Nhanh: 敏捷 Nhanh nhẹn; ② Chiến thắng, thắng trận: 奠邊府大捷 Chiến thắng Điện Biên Phủ."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

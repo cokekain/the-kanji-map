@@ -43,5 +43,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0854e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/854e.gif",
     "uri": "https://jisho.org/search/%E8%95%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "kiều",
+    "kiệu"
+  ],
+  "vietnameseMeaning": [
+    "① Kiều mạch 蕎麥 lúa tám đen. 【蕎麥】kiều mạch Kiều mạch, lúa tám đen (một loại lúa mì)."
+  ],
+  "grade": "9"
 }

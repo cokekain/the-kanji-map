@@ -69,5 +69,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d17.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d17.gif",
     "uri": "https://jisho.org/search/%E7%B4%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "sa"
+  ],
+  "vietnameseMeaning": [
+    "① Sa, lụa mỏng. Một thứ dệt bằng tơ mỏng mà thưa để làm mũ hay áo mặc mát gọi là sa, như ta nói sa Tàu, sa Tây vậy. Vương Duy 王維: Thùy liên Việt nữ nhan như ngọc, Bần tiện giang đầu tự hoán sa 誰憐越女顏如玉，貧賤江頭自浣紗 ai thương cho cô gái Việt mặt đẹp như ngọc, lại nghèo hèn tự mình giặt lụa ở đầu sông? ② Sợi vải. ① Sợi: 紡紗 Kéo sợi; ② Sa, lụa mỏng, vải sô, lưới mịn: 紗衣 Áo sa; 窗紗 Vải sô che cửa; 鐵紗 Lưới sắt."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

@@ -437,5 +437,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052a9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a9.gif",
     "uri": "https://jisho.org/search/%E5%8A%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "trợ"
+  ],
+  "vietnameseMeaning": [
+    "① Giúp. Mượn sức cái này giúp thêm cái kia. Giúp, giúp đỡ, trợ: 幫助 Giúp."
+  ],
+  "jlpt": "2",
+  "frequency": "397",
+  "grade": "3"
 }

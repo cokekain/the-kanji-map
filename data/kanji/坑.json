@@ -49,5 +49,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05751.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5751.gif",
     "uri": "https://jisho.org/search/%E5%9D%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "khanh",
+    "ganh"
+  ],
+  "vietnameseMeaning": [
+    "① Hố.② Chôn chết. ① Hố, lỗ: 炸彈坑 Hố bom; ② Hầm: 礦坑 Hầm mỏ; ③ (cũ) Chôn sống: 坑殺 Chôn sống; ④ Hãm hại, gài bẫy, lừa dối, lừa bịp: 坑人 Hãm hại người."
+  ],
+  "jlpt": "1",
+  "frequency": "2040",
+  "grade": "8"
 }

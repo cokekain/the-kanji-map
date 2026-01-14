@@ -57,5 +57,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a3.gif",
     "uri": "https://jisho.org/search/%E5%8A%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "liệt"
+  ],
+  "vietnameseMeaning": [
+    "① Kém, đối lại với chữ ưu 優 hơn. ② Kém hèn, như dong liệt 庸劣 hèn kém, ti liệt 卑劣 đều là lời chê kém cả. ① Xấu, kém, hèn kém, yếu, liệt: 劣等 Hạng xấu, hạng yếu; 惡劣 Xấu xa; ② Non (kém hơn tiêu chuẩn nhất định).【劣弧】liệt hồ (toán) Hồ bán nguyệt non."
+  ],
+  "jlpt": "1",
+  "frequency": "1620",
+  "grade": "8"
 }

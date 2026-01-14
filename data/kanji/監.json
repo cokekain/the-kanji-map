@@ -50,5 +50,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76e3.gif",
     "uri": "https://jisho.org/search/%E7%9B%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "giám",
+    "giam"
+  ],
+  "vietnameseMeaning": [
+    "① Soi xét, coi sóc. Như giam đốc 監督 người coi sóc công việc của kẻ dưới. ② Nhà tù, như giam cấm 監禁, giam lao 監牢 đều là chỗ giam kẻ có tội cả. ③ Một âm là giám. Coi. ④ Tên sở công, như nhà quốc tử giám 國子監, khâm thiên giám 欽天監, v.v. ⑤ Quan hoạn gọi là thái giám 太監. ⑥ Học trò được vào học ở quốc tử giám gọi là giám sinh 監生. ① Trông coi, giám thị, giám sát; ② Nhà giam, nhà tù; ③ Giam, bỏ tù. Xem 監 . ① Hoạn quan: 太監 Quan thái giám; ② (văn) Tên sở công: 國子監 Quốc tử giám; ③ (Họ) Giám. Xem 監 ."
+  ],
+  "jlpt": "1",
+  "frequency": "408",
+  "grade": "8"
 }

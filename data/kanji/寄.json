@@ -346,5 +346,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc4.gif",
     "uri": "https://jisho.org/search/%E5%AF%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "kí",
+    "gửi"
+  ],
+  "vietnameseMeaning": [
+    "① Phó thác, như khả dĩ kí bách lí chi mệnh 可以寄百里之命 có thể phó thác cho công việc cai trị một trăm dặm được. Vì thế nên chịu gánh vác công việc phòng thủ ngoài cõi nước gọi là cương kí 疆寄. ② Gửi, nhữ kí tín 寄信 gửi tín. ③ Nhớ, như kí cư 寄居 ở nhờ. ④ Truyền đạt. ① Gởi, chuyển đi: 寄信 Gởi thư; 寄錢 Gởi tiền; 書已經寄走了 Sách đã gởi đi rồi; 歸雁如今不寄書 Chim nhạn bay về đến nay không gởi thư đi (Thẩm Quát: Mộng Khê bút đàm); ② Nhờ: 寄宿 Ngủ nhờ, ở trọ; 寄居 Ở nhờ, ở đậu; ③ Nhắn, truyền đạt, gởi lời: 寄語 Lời nhắn; ④ (văn) Giao, phó thác: 先帝知臣謹慎，故臨明寄臣以大事也 Tiên đế biết thần cẩn thận, nên lúc sắp mất phó thác cho thần việc lớn (Gia Cát Lượng: Xuất sư biểu)."
+  ],
+  "jlpt": "2",
+  "frequency": "673",
+  "grade": "5"
 }

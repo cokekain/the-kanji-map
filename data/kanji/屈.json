@@ -64,5 +64,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c48.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c48.gif",
     "uri": "https://jisho.org/search/%E5%B1%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "khuất"
+  ],
+  "vietnameseMeaning": [
+    "① Cong, phàm sự gì cong không duỗi được đều gọi là khuất, như lí khuất từ cùng 理屈詞窮 lẽ khuất lời cùng, bị oan ức không tỏ ra được gọi là oan khuất 冤屈, v.v. ② Chịu khuất, như khuất tiết 屈節 chịu bỏ cái tiết của mình mà theo người. ③ Một âm là quật. Như quật cường 屈彊 cứng cỏi. (văn) ① Như 掘 (bộ 扌); ② Cạn kiệt: 用之無度，則物力必掘掘 Dùng mà vô độ thì vật lực ắt phải cạn kiệt (Giả Nghị: Luận tích trữ sớ). ① Cong, co lại: 貓屈着腿 Con mèo co chân lại; 屈而不信 Co mà không duỗi (Mạnh tử); ② Khuất phục, chịu khuất: 不屈 Không khuất phục; 屈節 Chịu bỏ khí tiết của mình; ③ Oan ức: 叫屈 Kêu oan; 受屈 Uất ức; ④ Đuối lí: 理屈詞窮 Nghẹn lời cụt lí; ⑤ (Họ) Khuất."
+  ],
+  "jlpt": "1",
+  "frequency": "1434",
+  "grade": "8"
 }

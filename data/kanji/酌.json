@@ -57,5 +57,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0914c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/914c.gif",
     "uri": "https://jisho.org/search/%E9%85%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "chước"
+  ],
+  "vietnameseMeaning": [
+    "① Rót rượu, nay thông dụng là uống rượu. Như tiểu chước 小酌 uống xoàng, độc chước 獨酌 uống một mình. ② Liệu làm, đắn đo lấy cái hay mà làm gọi là chước, cũng như rót rượu phải liệu cho đầy vơi vừa vặn. Như thương chước 商酌 bàn liệu. ① Chuốc, rót (rượu): 酌一杯酒 Chuốc một cốc rượu. (Ngr) Tiệc rượu: 便酌 Tiệc rượu thường; ② (văn) Uống rượu: 小酌 Uống xoàng; 月夜獨酌 Đêm trăng uống rượu một mình; ③ Cân nhắc, châm chước, liệu lường, suy xét, xét: 商酌 Bàn liệu; 酌予答復 Xét và trả lời."
+  ],
+  "jlpt": "1",
+  "frequency": "2271",
+  "grade": "8"
 }

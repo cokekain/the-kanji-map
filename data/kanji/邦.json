@@ -60,5 +60,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90a6.gif",
     "uri": "https://jisho.org/search/%E9%82%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "bang",
+    "vâng"
+  ],
+  "vietnameseMeaning": [
+    "① Nước, nước lớn gọi là bang 邦, nước nhỏ gọi là quốc 國. Nước láng giềng gọi là hữu bang 友邦. ① Nước: 鄰邦 Nước láng giềng; 盟邦 Nước đồng minh; ② Bang (thái ấp của các vua chúa phong kiến thời xưa ban cho các quý tộc)."
+  ],
+  "jlpt": "1",
+  "frequency": "654",
+  "grade": "8"
 }

@@ -400,5 +400,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c11.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c11.gif",
     "uri": "https://jisho.org/search/%E5%B0%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "thiếu",
+    "thiểu"
+  ],
+  "vietnameseMeaning": [
+    "① Ít. ② Tạm chút, như thiểu khoảnh 少頃 tí nữa. ③ Chê, chê người gọi là thiểu chi 少之. ④ Một âm là thiếu. Trẻ, như thiếu niên 少年 tuổi trẻ. ⑤ Kẻ giúp việc thứ hai, như quan thái sư 太師 thì lại có quan thiếu sư 少師 giúp việc. ① Ít: 少有 Ít có; 到會的人很少 Người đến họp rất ít; ② Thiếu: 少一塊錢 Thiếu một đồng; 一個也沒少 Không thiếu ai cả; ③ (văn) Một chút, chút ít: 請少待之 Xin chờ đợi một chút (Tả truyện); 今予病少痊 Nay bệnh tôi đã bớt chút ít (Trang tử: Từ Vô Quỷ); ④ Mất: 屋子裡少了東西 Trong nhà mất đồ; ⑤ Một lúc (lát): 少則洋洋焉 Chốc sau thì khấp khởi vui mừng (Mạnh tử); 少頃 Một lát sau; 少焉 Không mấy chốc; ⑥ (văn) Chê, xem thường. Xem 少 . ① Trẻ tuổi, người trẻ tuổi: 少女 Thiếu nữ, con gái; 男女老少 Già trẻ gái trai; ② (Họ) Thiếu. Xem 少 ."
+  ],
+  "jlpt": "4",
+  "frequency": "287",
+  "grade": "2"
 }

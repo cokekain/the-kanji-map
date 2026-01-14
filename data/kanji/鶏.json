@@ -87,5 +87,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d8f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d8f.gif",
     "uri": "https://jisho.org/search/%E9%B6%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "kê"
+  ],
+  "jlpt": "1",
+  "frequency": "1901",
+  "grade": "8"
 }

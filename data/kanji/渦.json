@@ -77,5 +77,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e26.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e26.gif",
     "uri": "https://jisho.org/search/%E6%B8%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "qua"
+  ],
+  "vietnameseMeaning": [
+    "① Sông Qua. ② Một âm là oa. Nước xoáy. Tên sông: 渦 河 Sông Oa (ở tỉnh An Huy, Trung Quốc). Xem 渦 . Chỗ nước xoáy: 漩渦 Xoáy nước. Xem 渦 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1789",
+  "grade": "8"
 }

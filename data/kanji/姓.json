@@ -288,5 +288,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059d3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59d3.gif",
     "uri": "https://jisho.org/search/%E5%A7%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "tính"
+  ],
+  "vietnameseMeaning": [
+    "① Họ. Con cháu gọi là tử tính 子姓, thứ dân gọi là bách tính 百姓. Họ: 有名有姓 Có tên có họ; 你姓什麼？ Anh họ gì?; 他姓阮 Anh ấy họ Nguyễn; 子姓 Con cháu; 百姓 Trăm họ, dân chúng."
+  ],
+  "jlpt": "2",
+  "frequency": "1628",
+  "grade": "8"
 }

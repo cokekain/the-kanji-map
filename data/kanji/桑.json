@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06851.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6851.gif",
     "uri": "https://jisho.org/search/%E6%A1%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "tang"
+  ],
+  "vietnameseMeaning": [
+    "① Cây dâu, lá dùng để chăn tằm, quả chín ăn ngon gọi là tang thẩm 桑葚. Kinh thi về Trịnh Phong có bài thơ tang trung 桑中 chê kẻ dâm bôn. Vì thế kẻ dâm bôn gọi là tang trung chi ước 桑中之約, hay tang bộc 桑濮, ta dịch là trên bộc trong dâu, đều là chê thói dâm đãng cả. ② Tang tử 桑梓 quê nhà. Kinh Thi có câu: Duy tang dữ tử, tất cung kính chỉ 惟桑與梓，必恭敬止 bụi cây dâu cùng cây tử, ắt cung kính vậy, nghĩa là cây của cha mẹ trồng thì phải kính, vì thế gọi quê cha đất tổ là tang tử. ③ Tang du 桑榆 phương tây, chỗ mặt trời lặn gần sát đất, như thất chi đông ngu, thu chi tang du 失之東隅，收之桑榆 mất ở gốc đông, thu lại góc tây, ý nói mới ra lầm lỡ sau lại đền bù được vậy. Tuổi già sức yếu gọi là tang du mộ cảnh 桑榆暮景 bóng ngả cành dâu. ① Dâu: 桑葉 Lá dâu; ② (Họ) Tang."
+  ],
+  "jlpt": "1",
+  "frequency": "1650",
+  "grade": "8"
 }

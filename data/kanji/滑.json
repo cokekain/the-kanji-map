@@ -70,5 +70,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ed1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ed1.gif",
     "uri": "https://jisho.org/search/%E6%BB%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "hoạt",
+    "gột"
+  ],
+  "vietnameseMeaning": [
+    "① Trơn, nhẵn. ② Giảo hoạt (hời hợt bề ngoài không thực). ③ Một âm là cốt. Cốt kê 滑稽 nói khôi hài. ① Trơn, nhẵn, láng: 下雨以後地很滑 Sau khi mưa đường rất trơn; 桌面很光滑 Mặt bàn rất bóng láng; ② Trượt: 滑了一跤 Trượt ngã một cái; ③ Xảo, xảo quyệt, xảo trá, giảo hoạt: 這個人很滑 Người này hết sức xảo trá; ④ (Họ) Hoạt."
+  ],
+  "jlpt": "1",
+  "frequency": "1238",
+  "grade": "8"
 }

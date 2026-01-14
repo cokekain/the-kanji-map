@@ -361,5 +361,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a8d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a8d.gif",
     "uri": "https://jisho.org/search/%E8%AA%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhận"
+  ],
+  "vietnameseMeaning": [
+    "① Biện rõ, nhận biết. Như nhận minh 認明 nhận rõ ràng. ② Ừ cho, bằng lòng cho. Như thừa nhận 承認 vâng cho là được, công nhận 公認 mọi người đều cho là được. ① Biết, nhận rõ: 自己的東西，自己來認 Đồ của ai thì người đó đến nhận; 認字 Biết chữ; 認不出 Nhận không ra; 認親 Nhận họ hàng; 認臉 Nhận mặt; ② Bằng lòng, công nhận, đồng ý: 認可 Cho là được, bằng lòng; 認錯 Nhận sai lầm; 公認 Công nhận; 否認 Không công nhận, phủ nhận; 認爲 Cho là, cho rằng, nhận rằng."
+  ],
+  "jlpt": "2",
+  "frequency": "198",
+  "grade": "6"
 }

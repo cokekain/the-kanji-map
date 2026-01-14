@@ -55,5 +55,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb4.gif",
     "uri": "https://jisho.org/search/%E6%AE%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "ẩu"
+  ],
+  "vietnameseMeaning": [
+    "ấu, ẩu Như 毆"
+  ],
+  "jlpt": "1",
+  "frequency": "1622",
+  "grade": "8"
 }

@@ -49,5 +49,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95a5.gif",
     "uri": "https://jisho.org/search/%E9%96%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "phiệt"
+  ],
+  "vietnameseMeaning": [
+    "① Phiệt duyệt 閥閱 viết công trạng vào giấy hay tấm ván rồi nêu ra ngoài cửa, cửa bên trái gọi là phiệt, cửa bên phải gọi là duyệt. Sách Sử Kí 史記 nói: Nêu rõ thứ bực gọi là phiệt, tích số ngày lại gọi là duyệt. Vì thế nên gọi các nhà thế gia là phiệt duyệt 閥閱 hay thế duyệt 世閱. ① Nhân vật, gia đình hoặc nhóm, khối có thế lực, phiệt: 軍閥 Quân phiệt; 財閥 Tài phiệt. Xem 閱 nghĩa ⑥; ② (cơ) Van: 氣閥 Van hơi; 水閥 Van nước; 安全閥 Van an toàn; ③ (văn) Cửa bên trái, ngưỡng cửa; ④ (văn) Công lao."
+  ],
+  "jlpt": "1",
+  "frequency": "1072",
+  "grade": "8"
 }

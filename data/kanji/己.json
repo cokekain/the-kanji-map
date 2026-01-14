@@ -304,5 +304,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df1.gif",
     "uri": "https://jisho.org/search/%E5%B7%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "kỉ"
+  ],
+  "vietnameseMeaning": [
+    "① Can kỉ, can thứ sáu trong mười can. ② Mình, đối lại với người, như vị kỉ 為己 chỉ vì mình, lợi kỉ 利己 chỉ lợi mình. ③ Riêng, lòng muốn riêng. ① Mình, tự mình, ta, riêng của mình: 利己 Làm lợi cho mình; 舍己爲人 Hi sinh mình vì người khác; 知彼知己 Biết người biết ta; ② Kỉ (ngôi thứ sáu trong hàng can)."
+  ],
+  "jlpt": "1",
+  "frequency": "1098",
+  "grade": "6"
 }

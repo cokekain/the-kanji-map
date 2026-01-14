@@ -386,5 +386,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f14.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f14.gif",
     "uri": "https://jisho.org/search/%E6%BC%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "diễn"
+  ],
+  "vietnameseMeaning": [
+    "① Diễn ra, sự gì nhân cái này được cái kia, có thể y theo cái lẽ tự nhiên mà suy ra đều gọi là diễn, như nhân tám quẻ (bát quái 八卦) mà diễn ra 64 quẻ, gọi là diễn dịch 演易. ② Diễn thuyết, diễn giảng, nói cho tỏ rõ hết nghĩa ra. ③ Thử đặt, tạm thử, như thí diễn 試演 thử diễn, diễn vũ 演武 diễn nghề võ. ④ Mô phỏng theo việc, như đóng tuồng gọi là diễn kịch 演劇. ⑤ Thiên diễn 天演 cuộc chơi bày tự nhiên. ⑥ Tập trước, như diễn lễ 演禮 tập lễ nghi trước. ① Diễn biến, biến hoá; ② Diễn.【演說】diễn thuyết Diễn thuyết: 他在演說 Anh ấy đang diễn thuyết; ③ Diễn tập; ④ (Biểu) diễn, đóng (vai): 表演節目 Biểu diễn tiết mục; 她演過白毛女 Cô ta đã từng đóng vai Bạch mao nữ; ⑤ (văn) Diễn ra, suy diễn, suy ra: 演繹 Diễn dịch."
+  ],
+  "jlpt": "2",
+  "frequency": "267",
+  "grade": "5"
 }

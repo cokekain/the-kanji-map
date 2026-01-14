@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05983.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5983.gif",
     "uri": "https://jisho.org/search/%E5%A6%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "phi"
+  ],
+  "vietnameseMeaning": [
+    "① Sánh đôi, cũng như chữ phối 配. Như hậu phi 后妃 vợ cả của vua. ② Kém bực hậu là phi, vợ lẽ của vua gọi là phi tần 妃嬪. ③ Vợ cả thái tử và các vua cũng gọi là phi. ① Vợ lẽ của vua, vợ chính của thái tử: 貴妃 Quý phi; 王妃 Vương phi; ② (văn) Sánh đôi (dùng như 配, bộ 酉)."
+  ],
+  "jlpt": "1",
+  "frequency": "1752",
+  "grade": "8"
 }

@@ -386,5 +386,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0821e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/821e.gif",
     "uri": "https://jisho.org/search/%E8%88%9E%23kanji"
-  }
+  },
+  "hanviet": [
+    "vũ"
+  ],
+  "vietnameseMeaning": [
+    "① Múa, cầm cái quạt hay cái nhịp múa theo âm nhạc gọi là vũ. ② Cầm đồ binh diễn các môn võ nghệ cũng gọi là vũ. Như vũ kiếm 舞劍 múa gươm. ③ Hưng khởi. Nhân cái gì nó cảm xúc đến mình mà sinh ra lòng phấn khởi gọi là cổ vũ 鼓舞 khua múa. Thủ vũ túc đạo 手舞足蹈 múa tay dậm chân, v.v. ④ Bay liệng. Như long tường phượng vũ 龍翔鳳舞 rồng bay phượng múa. Khí tượng hớn hở gọi là phi vũ 飛舞, như mi phi sắc vũ 眉飛色舞 mặt mày hớn hở. ⑤ Biến đổi, lật lọng, làm cho điên đảo thị phi, khiến cho người không can vặn vào đâu được gọi là vũ. Như vũ văn 舞文 dùng văn chương hiểm hóc mà điên đảo thị phi. ① Nhảy múa, khiêu vũ, múa, vũ: 歌舞 Ca múa, ca vũ, múa hát; 舞劍 Múa kiếm; 龍翔鳳舞 Rồng bay phượng múa; ② Giở trò, giở ngón, chơi, lật lọng, múa may: 舞文 Múa may chữ nghĩa (văn chương)."
+  ],
+  "jlpt": "2",
+  "frequency": "655",
+  "grade": "8"
 }

@@ -359,5 +359,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cdb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cdb.gif",
     "uri": "https://jisho.org/search/%E8%B3%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "tán"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ tán 贊. Như 贊."
+  ],
+  "jlpt": "2",
+  "frequency": "868",
+  "grade": "5"
 }

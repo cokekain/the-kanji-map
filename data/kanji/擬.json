@@ -74,5 +74,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ec.gif",
     "uri": "https://jisho.org/search/%E6%93%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "nghĩ"
+  ],
+  "vietnameseMeaning": [
+    "① Nghĩ định, như nghĩ án 擬案 nghĩ định án như thế. ② Làm phỏng theo, giống như, như nghĩ cổ 擬古 làm phỏng theo lối cổ. Xem 擬. ① Phác thảo, dự thảo, khởi thảo: 擬提綱 Phác thảo bản đề cương; 擬一個方案 Khởi thảo một phương án; ② Nghĩ, định, dự định: 擬于下月去安江 Dự định tháng tới sẽ đi An Giang; ③ Bắt chước, làm phỏng theo, giống như."
+  ],
+  "jlpt": "1",
+  "frequency": "1990",
+  "grade": "8"
 }

@@ -278,5 +278,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/071e5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/71e5.gif",
     "uri": "https://jisho.org/search/%E7%87%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "táo"
+  ],
+  "vietnameseMeaning": [
+    "① Khô, ráo, hanh hao. Hanh, khô, ráo: 天氣乾燥 Trời hanh."
+  ],
+  "jlpt": "2",
+  "frequency": "1819",
+  "grade": "8"
 }

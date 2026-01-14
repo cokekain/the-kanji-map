@@ -460,5 +460,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0521d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/521d.gif",
     "uri": "https://jisho.org/search/%E5%88%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "sơ"
+  ],
+  "vietnameseMeaning": [
+    "① Mới, trước. ① Đầu: 起初 Ban đầu, thoạt tiên; 年初 Đầu năm; 月初 Đầu tháng; ② Mới, vừa: 紅日初升 Mặt trời mới mọc; 令初下 Lệnh vừa ban xuống; ③ Lần đầu, lần thứ nhất: 初次見面 Gặp mặt lần đầu tiên; 初登舞台 Lên sân khấu lần thứ nhất; ④ Trước, từ trước, lúc đầu: 和好如初 Thân thiện như trước; ⑤ Mồng, mùng: 初二 Mồng hai; ⑥ (Họ) Sơ."
+  ],
+  "jlpt": "2",
+  "frequency": "152",
+  "grade": "4"
 }

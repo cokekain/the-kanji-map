@@ -366,5 +366,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a5a.gif",
     "uri": "https://jisho.org/search/%E9%A9%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "kinh"
+  ],
+  "vietnameseMeaning": [
+    "① Ngựa sợ hãi. ② Sợ. Phàm cái gì lấy làm sợ đều gọi là kinh. ③ Chứng sài. Trẻ con phải chứng sài sợ giật mình mẩy, co chân co tay trợn mắt uốn lưng đều gọi là kinh. ① Sợ hãi: 驚恐 Sợ hãi; ② Làm sợ, làm giật mình, làm hốt hoảng, làm kinh ngạc, làm kinh động: 打草驚蛇 Đập cỏ làm cho rắn sợ, bứt dây động rừng; ③ Lồng: 馬驚了 Ngựa lồng lên; ④ (văn) Ngạc nhiên, kinh ngạc; ⑤ Chứng làm kinh (ở trẻ con)."
+  ],
+  "jlpt": "1",
+  "frequency": "1141",
+  "grade": "8"
 }

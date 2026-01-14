@@ -1,10 +1,11 @@
 import { ThemeProvider } from "@/components/theme-provider";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { Provider as JotaiProvider } from "jotai";
-import { Noto_Sans_JP } from "next/font/google";
+import { Noto_Sans_JP, Noto_Sans } from "next/font/google";
 import localFont from "next/font/local";
 import "../styles/globals.css";
 import { Metadata } from "next";
+
 
 const siteUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
 
@@ -38,6 +39,15 @@ const notoSansJp = Noto_Sans_JP({
   subsets: ["latin-ext"],
   display: "swap",
   preload: true,
+  variable: "--font-sans-jp",
+  adjustFontFallback: false,
+});
+
+const notoSans = Noto_Sans({
+  weight: ["400", "500", "600", "700"],
+  subsets: ["latin", "vietnamese"],
+  display: "swap",
+  preload: true,
   variable: "--font-sans",
   adjustFontFallback: false,
 });
@@ -51,7 +61,7 @@ export default function RootLayout({
     <html
       lang="en"
       suppressHydrationWarning
-      className={`${notoSansJp.variable} ${radicalsFont.variable}`}
+      className={`${notoSans.variable} ${notoSansJp.variable} ${radicalsFont.variable}`}
     >
       <body
         className="w-screen h-screen overflow-hidden bg-background text-foreground selection:bg-primary"

@@ -55,5 +55,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061b6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61b6.gif",
     "uri": "https://jisho.org/search/%E6%86%B6%23kanji"
-  }
+  },
+  "hanviet": [
+    "ức"
+  ],
+  "vietnameseMeaning": [
+    "① Nhớ, tương ức 相憶 cùng nhớ nhau. ② Ghi nhớ, nhớ chôn vào tim óc gọi là kí ức 記憶. Nhớ, ghi nhớ, nhớ lại, ôn: 回憶 Nhớ lại; 相憶 Nhớ nhau; 憶苦思甜 Nhớ nỗi ngọt bùi."
+  ],
+  "jlpt": "1",
+  "frequency": "1324",
+  "grade": "8"
 }

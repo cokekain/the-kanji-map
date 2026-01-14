@@ -32,5 +32,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b20.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b20.gif",
     "uri": "https://jisho.org/search/%E8%AC%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "dao"
+  ],
+  "vietnameseMeaning": [
+    "① Ca dao: 民謠 Ca dao dân gian; ② Tin nhảm, tin đồn, lời bịa đặt: 造謠 Phao tin nhảm."
+  ],
+  "grade": "10"
 }

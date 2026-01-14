@@ -308,5 +308,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c02.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c02.gif",
     "uri": "https://jisho.org/search/%E5%B0%82%23kanji"
-  }
+  },
+  "hanviet": [
+    "chuyên"
+  ],
+  "vietnameseMeaning": [
+    "(11n) ① Chuyên, làm việc gì chú ý cả vào việc ấy gọi là chuyên. ② Chỉ có một, như chuyên mĩ 専美 đẹp có một, chuyên lợi 専利 lợi chỉ một mình được. ③ Cầm riêng, như chuyên quyền 専權 cầm riêng quyền chính."
+  ],
+  "jlpt": "2",
+  "frequency": "506",
+  "grade": "6"
 }

@@ -106,5 +106,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08acb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8acb.gif",
     "uri": "https://jisho.org/search/%E8%AB%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "thỉnh"
+  ],
+  "vietnameseMeaning": [
+    "① Thăm hầu. Như thỉnh an 請安 hỏi thăm xem có được bình yên không. ② Hỏi, kẻ dưới hỏi người trên thì dùng chữ thỉnh. Như thỉnh giáo 請教 xin dạy bảo cho, thỉnh thị 請示 xin chỉ bảo cho, v.v. ③ Xin. Như thỉnh tưởng 請獎 xin ban khen cho. ④ Tạ tội cũng gọi là thỉnh. Như thỉnh tội 請罪 xin tạ tội. ⑤ Bảo. ⑥ Một âm là tính. Mời. Như tính khách 請客 mời khách. ① Mời, xin mời: 您請坐 Mời bác (ông, bà...) ngồi; 請出席 Xin mời đến dự; 請人來修電梯 Thuê người đến sửa thang máy; 乃置酒請之 Bèn bày tiệc rượu mời ông ta (Hán thư); ② Xin hãy: 請安靜 Xin hãy yên tâm; 請勿吸煙 Xin đừng hút thuốc; 請勿動手 Xin đừng mó tay; ③ Thỉnh cầu, yêu cầu, đề nghị, xin: 敬請指教 Kính xin chỉ dạy cho; ④ (văn) Thăm.【請安】thỉnh an Thăm hỏi, vấn an; ⑤ (văn) Yết kiến, bái kiến: 其造請諸公，不避寒暑 Ông ta đi đến bái kiến (yết kiến) quý ngài, chẳng ngại nắng mưa (Hán thư)."
+  ],
+  "jlpt": "1",
+  "frequency": "524",
+  "grade": "8"
 }

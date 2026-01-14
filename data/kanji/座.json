@@ -396,5 +396,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ea7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ea7.gif",
     "uri": "https://jisho.org/search/%E5%BA%A7%23kanji"
-  }
+  },
+  "hanviet": [
+    "tọa",
+    "toà"
+  ],
+  "vietnameseMeaning": [
+    "toà, toạ ① Ngôi, toà. Chỗ để ngồi gọi là toạ. ② Cái giá để đồ đạc cũng gọi là toạ. Cho nên một bộ đồ gọi là nhất toạ 一座. ① Chỗ (ngồi), ghế ngồi: 首座 Ghế đầu; 就座 Vào chỗ; 滿座 Hết chỗ; 請入座 Xin vào chỗ; ② Cái đệm, cái nền, cái giá, cái đế...: 塔座 Nền tháp; 座墊 Cái đệm lót; 花瓶座 Cái đế lọ; 鐘座 Cái giá chuông; ③ (loại) Ngôi, toà, quả, ngọn, hòn, chiếc...: 一座樓 Một ngôi (toà) nhà; 一座橋 Một chiếc cầu; 一座山Một quả (ngọn, hòn) núi."
+  ],
+  "jlpt": "2",
+  "frequency": "588",
+  "grade": "6"
 }

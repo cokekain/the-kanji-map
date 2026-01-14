@@ -51,5 +51,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0576a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/576a.gif",
     "uri": "https://jisho.org/search/%E5%9D%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "bình"
+  ],
+  "vietnameseMeaning": [
+    "① Chỗ đất bằng phẳng. ② Phép đo nước Nhật-bản cho 36 thước vuông bề mặt là một bình. ① Chỗ đất bằng phẳng, bãi: 草坪 Bãi cỏ; 操坪 Bãi tập; ② Bình (đơn vị đo diện tích của Nhật Bản, bằng 36 mét vuông hoặc 6 phút (bộ) vuông)."
+  ],
+  "jlpt": "1",
+  "frequency": "1823",
+  "grade": "8"
 }

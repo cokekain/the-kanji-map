@@ -354,5 +354,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05224.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5224.gif",
     "uri": "https://jisho.org/search/%E5%88%A4%23kanji"
-  }
+  },
+  "hanviet": [
+    "phán"
+  ],
+  "vietnameseMeaning": [
+    "① Lìa rẽ, như phán duệ 判袂 chia tay mỗi người một ngả. ② Phán quyết, như tài phán 裁判 sử kiện, văn sử kiện gọi là phán. ① Xét, phân biệt. 【判別】phán biệt Phân biệt: 判別是非 Phân biệt phải trái; ② Rõ rệt, rõ ràng, hẳn: 兩個世界判然不同 Hai thế giới khác nhau rõ rệt (hẳn); 前後判若兩人 Trước sau khác hẳn như hai người; ③ Phê: 判卷子 Phê bài thi, chấm bài; ④ Xử, xét xử: 這個案子已判了 Vụ án này đã xử rồi; 依法判刑 Xử phạt theo luật pháp; ⑤ (văn) Lìa rẽ ra: 判袂 Chia tay mỗi người một ngả."
+  ],
+  "jlpt": "2",
+  "frequency": "197",
+  "grade": "5"
 }

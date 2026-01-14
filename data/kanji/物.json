@@ -472,5 +472,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07269.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7269.gif",
     "uri": "https://jisho.org/search/%E7%89%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "vật"
+  ],
+  "vietnameseMeaning": [
+    "① Các loài sinh ở trong trời đất đều gọi là vật cả. Thông thường chia ra ba loài: (1) Ðộng vật 動物 giống động vật, (2) Thực vật 植物 giống thực vật, (3) Khoáng vật 礦物 vật mỏ, v.v. ② Sự vật, như hữu vật hữu tắc 有物有則 một vật có một phép riêng. ③ Vật sắc 物色 dò la tìm tòi. ① Đồ, vật, đồ vật, sự vật, của cải: 公物 Của công; 新事物 Sự vật mới; 有物有則 Mỗi sự vật đều có phép tắc riêng; ② Người ta, thế gian: 待人接物 Xử thế, cư xử, ăn nói; ③ 【物色】vật sắc Tìm kiếm người nào dựa theo những vật mà người ấy dùng. (Ngr) Tìm kiếm, tìm hiểu, thăm dò, tìm tòi."
+  ],
+  "jlpt": "3",
+  "frequency": "215",
+  "grade": "3"
 }

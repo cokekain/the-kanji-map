@@ -303,5 +303,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4a.gif",
     "uri": "https://jisho.org/search/%E5%B1%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "giới"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ 屆. Như 屆."
+  ],
+  "jlpt": "2",
+  "frequency": "939",
+  "grade": "6"
 }

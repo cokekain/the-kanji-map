@@ -379,5 +379,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05024.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5024.gif",
     "uri": "https://jisho.org/search/%E5%80%A4%23kanji"
-  }
+  },
+  "hanviet": [
+    "trị"
+  ],
+  "vietnameseMeaning": [
+    "trị, trực trị ① Cầm, như trị kì lộ vũ 値其鷺羽 cầm thửa cánh cò. ② Ðang, như trị niên 値年 đang năm, trị nhật 値日 đang ngày, nghĩa là phải làm mọi việc năm ấy, ngày ấy vậy. ③ Ðánh giá (giá tiền với đồ xứng đáng nhau). ④ Gặp. ① Giá trị: 二物之値相等 Giá trị hai vật ngang nhau; ② Giá, đáng giá, trị giá: 値多少錢 Đáng bao nhiêu tiền?; 分文不値 Không đáng một xu; 春宵一刻値千金 Đêm xuân một khắc đáng giá ngàn vàng (Tô Thức: Xuân dạ); ③ (toán) Trị, trị số, số: 定値 Trị số xác định; 化引値 Số suy dẫn; 近似値 Trị số gần đúng; ④ Gặp: 相値 Gặp nhau; ⑤ Nhân dịp, gặp lúc, giữa khi: 正値國慶 Nhân dịp Quốc khánh; 去拜訪他，正値他外出 Đến thăm anh ấy thì gặp lúc anh ấy đi vắng; ⑥ Trực, thường trực: 値日 Trực nhật, thường trực; 値夜 Trực đêm. Xem 値 . (văn) Cầm: 値其鷺羽 Cầm lông cò kia (Thi Kinh: Trần phong, Uyển khâu). Xem 値 ."
+  ],
+  "jlpt": "2",
+  "frequency": "518",
+  "grade": "6"
 }

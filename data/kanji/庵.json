@@ -71,5 +71,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eb5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eb5.gif",
     "uri": "https://jisho.org/search/%E5%BA%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "am"
+  ],
+  "vietnameseMeaning": [
+    "① Cái am, cái nhà tranh nhỏ gọi là am. ② Cái nhà nhỏ thờ Phật gọi là am. Có khi viết là 菴. ① Lều tranh; ② Am, chùa nhỏ."
+  ],
+  "frequency": "2119",
+  "grade": "9"
 }

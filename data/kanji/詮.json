@@ -56,5 +56,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a6e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a6e.gif",
     "uri": "https://jisho.org/search/%E8%A9%AE%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Ðủ, giải thích kĩ càng, nói đủ cả sự lẽ gọi là thuyên. Như thuyên giải 詮解 giải rõ nghĩa lí, lại như phân tích những lẽ khó khăn mà tìm tới nghĩa nhất định gọi là chân thuyên 真詮 chân lí của mọi sự, sự thật. (văn) ① Giải thích kĩ càng: 詮釋 Giải thích; 詞詮 Giải thích từ ngữ; ② Lẽ phải: 眞詮 Sự thật."
+  ],
+  "hanviet": [
+    "thuyên"
+  ],
+  "grade": "8"
 }

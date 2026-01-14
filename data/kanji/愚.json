@@ -68,5 +68,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0611a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/611a.gif",
     "uri": "https://jisho.org/search/%E6%84%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngu"
+  ],
+  "vietnameseMeaning": [
+    "① Ngu dốt. ② Lừa dối. Như ngu lộng 愚弄 lừa gạt người. ③ Lời nói khiêm. Như ngu án 愚按 kẻ ngu si này xét, ngu ý 愚意 như ý kẻ ngu dốt này. ① Ngu dốt, ngu muội: 愚人 Người ngu dốt; ② Lừa bịp: 為人所愚 Bị người ta lừa bịp; ③ (khiêm) Kẻ ngu này, tôi: 愚見 Theo thiển ý (thiển kiến) của tôi; 愚按 Theo sự xét đoán của kẻ ngu này (của tôi)."
+  ],
+  "jlpt": "1",
+  "frequency": "1551",
+  "grade": "8"
 }

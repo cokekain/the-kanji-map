@@ -395,5 +395,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb5.gif",
     "uri": "https://jisho.org/search/%E6%AE%B5%23kanji"
-  }
+  },
+  "hanviet": [
+    "đoạn"
+  ],
+  "vietnameseMeaning": [
+    "đoạn, đoàn ① Chia từng đoạn, vải lụa định mấy thước cắt làm một, mỗi tấm gọi là đoạn. ② Phàm vật gì tính chia ra từng bộ đều gọi là đoạn, như địa đoạn 地段 đoạn đất, thủ đoạn 手段 phương pháp làm việc, v.v. đều là theo cái ý từng thứ đoạn lạc cả. ③ Cùng nghĩa với chữ đoạn 鍛. ① Đoạn, khúc, chặng, quãng, giai đoạn: 一段鐵路 Một đoạn đường sắt; 這段歷史 Đoạn lịch sử này; 一段時間 Một khoảng (một quãng) thời gian; ② (văn) Như 鍛 (bộ 金); ③ (Họ) Đoàn."
+  ],
+  "jlpt": "2",
+  "frequency": "479",
+  "grade": "6"
 }

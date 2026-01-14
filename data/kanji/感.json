@@ -454,5 +454,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0611f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/611f.gif",
     "uri": "https://jisho.org/search/%E6%84%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "cảm"
+  ],
+  "vietnameseMeaning": [
+    "① Cảm hoá, lấy lời nói sự làm của mình làm cảm động được người gọi là cảm hoá 感化 hay cảm cách 感格. ② Cảm kích, cảm động đến tính tình ở trong gọi là cảm. Như cảm khái 感慨, cảm kích 感激, v.v. ③ Cảm xúc, xông pha nắng gió mà ốm gọi là cảm mạo 感冒. ④ Cùng nghĩa với chữ 憾. ① Cảm giác, cảm thấy: 身體偶感不適 Bỗng cảm thấy khó chịu trong người; 他感到自己錯了 Anh ấy thấy mình đã sai; ② Cảm động, cảm kích, cảm xúc, cảm nghĩ: 深有所感 Có nhiều cảm nghĩ; 十分感人 Rất cảm động; ③ Cảm ơn, cảm tạ: 請早日寄下為感 Mong gửi cho sớm thì rất cảm ơn; ④ Cảm hoá, làm cảm động, gây cảm xúc; ⑤ Tinh thần: 責任感 Tinh thần trách nhiệm; 民族自豪感 Tinh thần tự hào dân tộc."
+  ],
+  "jlpt": "2",
+  "frequency": "233",
+  "grade": "3"
 }

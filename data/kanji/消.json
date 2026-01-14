@@ -415,5 +415,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d88.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d88.gif",
     "uri": "https://jisho.org/search/%E6%B6%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiêu"
+  ],
+  "vietnameseMeaning": [
+    "① Mất đi, hết. ② Tan, tả ra. ③ Mòn dần hết, như tiêu hoá 消化, tiêu diệt 消滅, v.v. ④ Tiêu tức 消息 tiêu là diệt đi, tức là tăng lên, thời vận tuần hoàn, lên lên xuống xuống gọi là tiêu tức, cũng có nghĩa là tin tức. ① Mất đi, tan ra, tiêu tan: 煙消火滅 Lửa tắt khói tan; ② Tiêu trừ, tiêu diệt: 消毒 Tiêu độc, khử độc; ③ Tiêu khiển; ④ (khn) Cần: 不消說 Chẳng cần nói; ⑤ 【消息】tiêu tức a. Tin tức, tin: 據越南通訊社消息 Theo tin Thông tấn xã Việt Nam; 沒有關於他的任何消息 Không có tin tức gì cả về anh ta; b. (văn) Mất đi và tăng lên. (Ngr) Thời vận tuần hoàn khi lên khi xuống."
+  ],
+  "jlpt": "2",
+  "frequency": "345",
+  "grade": "3"
 }

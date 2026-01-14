@@ -71,5 +71,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de1.gif",
     "uri": "https://jisho.org/search/%E5%B7%A1%23kanji"
-  }
+  },
+  "hanviet": [
+    "tuần"
+  ],
+  "vietnameseMeaning": [
+    "① Ði tuần, đi xem xét khu đất mình cai trị gọi là tuần. ② Khắp cả, như đi khắp một vòng gọi là nhất tuần 一巡, rót rượu hết một lượt cũng gọi là một tuần. ③ Thuân tuần 逡巡 rụt rè, quanh co. ① Đi tuần, tuần tra; ② Tuần, lượt, vòng (rót rượu): 酒過三巡 Sau ba tuần rượu; ③ Xem 逡巡."
+  ],
+  "jlpt": "1",
+  "frequency": "1262",
+  "grade": "8"
 }

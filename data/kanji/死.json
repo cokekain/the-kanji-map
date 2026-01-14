@@ -419,5 +419,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b7b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b7b.gif",
     "uri": "https://jisho.org/search/%E6%AD%BB%23kanji"
-  }
+  },
+  "hanviet": [
+    "tử",
+    "tợ"
+  ],
+  "vietnameseMeaning": [
+    "① Chết. ② Cái gì không hoạt động đều gọi là tử. ③ Tắt, vạc, như tử hôi phục nhiên 死灰復然 tro vạc lại cháy, sự gì đã tuyệt vọng rồi gọi là tử tâm tháp địa 死心塌地. ① Chết, mất: 死亡 Chết, chết chóc; ② Kiên quyết, đến cùng: 死守 Giữ đến cùng, bảo vệ đến cùng; 死戰 Chiến đấu đến cùng; ③ Máy móc, cứng nhắc, cứng đờ: 死套 Bê nguyên xi, áp dụng một cách máy móc; 語言活的東西，你不要摳字眼 Ngôn ngữ là cái gì sinh động, anh không nên xoi móc chữ nghĩa; ④ Tột bậc, rất: 樂死了 Sướng chết được; 好看死了 Rất đẹp mắt; 痛死了 Đau chết người; ⑤ Kín, tịt, không thoát ra được: 死水 Nước tù, nước đọng; 水泵淤了 Bơm nước tắc rồi; ⑥ Khăng khăng, một mực: 死不認罪 Khăng khăng không chịu nhận tội; ⑦ Cứng nhắc, cố định, không thể thay đổi, bất động: 那是個死規矩 Đó là một quy tắc cứng nhắc; ⑧ Không hoạt động, trơ, vô cảm."
+  ],
+  "jlpt": "3",
+  "frequency": "229",
+  "grade": "3"
 }

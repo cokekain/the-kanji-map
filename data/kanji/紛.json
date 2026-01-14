@@ -76,5 +76,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d1b.gif",
     "uri": "https://jisho.org/search/%E7%B4%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "phân"
+  ],
+  "vietnameseMeaning": [
+    "① Rối rít. ② Nhiều nhõi, như phân phiền 紛煩, phân vân 紛紜 đều nghĩa là ngổn ngang nhiều việc, bối rối. ① Nhiều, tới tấp: 雪花紛飛 Tuyết bay tới tấp; ② Rối rắm, tá lả."
+  ],
+  "jlpt": "1",
+  "frequency": "994",
+  "grade": "8"
 }

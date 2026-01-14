@@ -420,5 +420,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05efa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5efa.gif",
     "uri": "https://jisho.org/search/%E5%BB%BA%23kanji"
-  }
+  },
+  "hanviet": [
+    "kiến"
+  ],
+  "vietnameseMeaning": [
+    "① Dựng lên, đặt. ② Chuôi sao trỏ vào đâu gọi là kiến, như lịch ta gọi tháng giêng là kiến dần 建寅, tháng hai gọi là kiến mão 建卯 nghĩa là cứ coi chuôi sao chỉ về đâu thì định tháng vào đấy vậy. Vì thế nên gọi là nguyệt kiến 月建, tháng đủ gọi là đại kiến 大建, tháng thiếu gọi là tiểu kiến 小建, v.v. ② Tên đất. ③ Một âm là kiển. Ðổ ụp. Như kiển linh 建瓴 đổ bình nước từ trên xuống, ý nói cái thế từ trên đè xuống rất dễ vậy. ① Xây, dựng: 新建的房子 Nhà mới xây (dựng); ② Đặt ra, thành lập, xây dựng: 建軍 Thành lập quân đội, xây dựng quân đội; 建黨工作 Công tác xây dựng Đảng; ③ Nêu ra, đề nghị: 他建議更改計劃 Anh ấy đề nghị sửa đổi kế hoạch; ④ (văn) Chuôi sao chỏ vào: 建寅 Tháng Giêng (chuôi sao chỏ vào Dần); 建卯 Tháng Hai (chuôi sao chỏ vào Mão); 月建 Tháng; 大建 Tháng đủ; 小建 Tháng thiếu."
+  ],
+  "jlpt": "3",
+  "frequency": "300",
+  "grade": "4"
 }

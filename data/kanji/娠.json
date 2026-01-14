@@ -40,5 +40,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a20.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a20.gif",
     "uri": "https://jisho.org/search/%E5%A8%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "thần"
+  ],
+  "vietnameseMeaning": [
+    "① Chửa, đàn bà có mang đã đủ hình thể gọi là thần. ① Có mang, chửa; ② Động thai."
+  ],
+  "jlpt": "1",
+  "frequency": "1623",
+  "grade": "8"
 }

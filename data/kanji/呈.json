@@ -48,5 +48,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05448.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5448.gif",
     "uri": "https://jisho.org/search/%E5%91%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "trình"
+  ],
+  "vietnameseMeaning": [
+    "① Bảo. Tộ ra. ② Trình. Kẻ dưới nói cho người trên biết gọi là trình. Tờ kêu với quan trên cũng gọi là trình. ① Lộ ra, hiện ra, mang: 果實呈長圓形 Trái cây mang hình bầu dục; ② Biếu, dâng, tặng (một cách cung kính): 送呈 Dâng lên, đem dâng; 呈上禮物 Dâng lễ; ③ Trình: 呈閱 Trình duyệt."
+  ],
+  "jlpt": "1",
+  "frequency": "1571",
+  "grade": "8"
 }

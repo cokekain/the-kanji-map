@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06714.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6714.gif",
     "uri": "https://jisho.org/search/%E6%9C%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "sóc"
+  ],
+  "vietnameseMeaning": [
+    "① Trước, mới. ② Ngày mồng một. ③ Phương bắc, như sóc phong 朔風 gió bấc. ① Ngày mồng một âm lịch; ② Trăng non; ③ Phía bắc: 朔風 Gió bấc; 朔方 Miền bắc; ④ (văn) Trước, mới."
+  ],
+  "jlpt": "1",
+  "frequency": "2318",
+  "grade": "9"
 }

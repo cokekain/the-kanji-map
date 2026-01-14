@@ -464,5 +464,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09759.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9759.gif",
     "uri": "https://jisho.org/search/%E9%9D%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "tĩnh"
+  ],
+  "vietnameseMeaning": [
+    "tĩnh, tịnh Như 靜"
+  ],
+  "jlpt": "2",
+  "frequency": "764",
+  "grade": "4"
 }

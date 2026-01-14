@@ -52,5 +52,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09320.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9320.gif",
     "uri": "https://jisho.org/search/%E9%8C%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "đĩnh",
+    "đỉnh"
+  ],
+  "vietnameseMeaning": [
+    "① Cái choé, một thứ đồ làm bằng loài kim, có chân, để dâng các đồ nấu chín. ② Thoi vàng, thoi bạc. Có thoi nặng năm lạng, có thoi nặng mười lạng. Như kim đĩnh 金錠 nén vàng. ③ Dùng lá thiếc làm giả như bạc đốt cho kẻ chết cũng gọi là đĩnh. ④ Tục gọi cái thoi dệt cửi là đĩnh. ① Nén, thỏi: 金錠 Nén vàng; 銀錠 Nén bạc; 一錠墨 Một thỏi mực; ② (dệt) Con suốt, ống suốt; ③ Viên (thuốc); ④ (văn) Cái choé (một đồ dùng thời xưa bằng kim loại, như cái đậu nhưng có chân, để dâng tế các đồ nấu chín thời xưa)."
+  ],
+  "jlpt": "1",
+  "frequency": "1934",
+  "grade": "8"
 }

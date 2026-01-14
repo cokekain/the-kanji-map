@@ -48,5 +48,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08776.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8776.gif",
     "uri": "https://jisho.org/search/%E8%9D%B6%23kanji"
-  }
+  },
+  "hanviet": [
+    "điệp"
+  ],
+  "vietnameseMeaning": [
+    "① Con bướm. Bươm bướm."
+  ],
+  "jlpt": "1",
+  "frequency": "2011",
+  "grade": "9"
 }

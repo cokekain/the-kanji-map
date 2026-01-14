@@ -279,5 +279,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fef.gif",
     "uri": "https://jisho.org/search/%E6%BF%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "trạc"
+  ],
+  "vietnameseMeaning": [
+    "① Rửa, giặt. ② Trạc trạc 濯濯 sáng sủa, béo mập mạp, trơ trọi, núi trọc không có cây gọi là trạc trạc. (văn) ① Rửa, giặt: 濯足 Rửa chân; ② 【濯濯】trạc trạc (văn) Trơ trọi."
+  ],
+  "jlpt": "2",
+  "frequency": "1698",
+  "grade": "8"
 }

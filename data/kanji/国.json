@@ -430,5 +430,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56fd.gif",
     "uri": "https://jisho.org/search/%E5%9B%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "quốc"
+  ],
+  "vietnameseMeaning": [
+    "Xem 國."
+  ],
+  "jlpt": "4",
+  "frequency": "3",
+  "grade": "2"
 }

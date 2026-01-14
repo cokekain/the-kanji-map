@@ -396,5 +396,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08239.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8239.gif",
     "uri": "https://jisho.org/search/%E8%88%B9%23kanji"
-  }
+  },
+  "hanviet": [
+    "thuyền"
+  ],
+  "vietnameseMeaning": [
+    "① Cái thuyền, chữ để gọi chung các thuyền. Nguyễn Trãi 阮廌: Cố sơn tạc dạ triền thanh mộng, nguyệt mãn Bình Than tửu mãn thuyền 故山昨夜纏清夢，月滿平灘酒滿船 Núi cũ đêm qua vương vấn mộng, Trăng ngập đầy sông (Bình Than), rượu ngập thuyền. Thuyền, tàu, ghe, đò: 帆船 Thuyền buồm, ghe buồm; 魚船Tàu đánh cá; 汽船 Ca nô; 宇宙飛船 Tàu vũ trụ; 渡船 Đò ngang."
+  ],
+  "jlpt": "2",
+  "frequency": "713",
+  "grade": "2"
 }

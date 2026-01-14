@@ -264,5 +264,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54f2.gif",
     "uri": "https://jisho.org/search/%E5%93%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "triết"
+  ],
+  "vietnameseMeaning": [
+    "① Khôn, người hiền trí gọi là triết, như tiên triết 先哲, tiền triết 前哲 nghĩa là người hiền trí trước. ① Có trí tuệ, thông minh, sáng suốt; ② Người có trí tuệ, triết: 先哲 Tiên triết."
+  ],
+  "jlpt": "1",
+  "frequency": "1093",
+  "grade": "8"
 }

@@ -351,5 +351,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cb9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cb9.gif",
     "uri": "https://jisho.org/search/%E6%B2%B9%23kanji"
-  }
+  },
+  "hanviet": [
+    "du",
+    "dầu"
+  ],
+  "vietnameseMeaning": [
+    "① Dầu, phàm chất gì lỏng mà có thể đốt cháy được đều gọi là du, như hoả du 火油 dầu hoả, đậu du 豆油 dầu đậu, chi du 脂油 dầu mỡ, v.v. ② Ùn ùn, tả cái vẻ nhiều mạnh, như du nhiên tác vân 油然作雲 (Mạnh Tử 孟子) ùn ùn mây nổi. ③ Trơn. ① Dầu: 花生油 Dầu lạc; ② Quét (sơn): 用油漆油一遍 Lấy sơn quét một lượt; ③ Láu lỉnh, láu cá: 這個人油得很 Người này rất láu cá; ④ (văn) Trơn; ⑤ (văn) 【油然】du nhiên (văn) Tự nhiên (nảy sinh), thình lình, đột ngột: 天油然作雲，沛然下雨 Trời đột ngột nổi mây, xầm xập đổ mưa (Mạnh tử)."
+  ],
+  "jlpt": "2",
+  "frequency": "690",
+  "grade": "3"
 }

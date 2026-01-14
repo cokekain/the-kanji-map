@@ -71,5 +71,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05947.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5947.gif",
     "uri": "https://jisho.org/search/%E5%A5%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "kì",
+    "kỳ"
+  ],
+  "vietnameseMeaning": [
+    "kì ① Lạ. Vật hiếm có mà khó kiếm gọi là kì. Khiến cho người không lường được cũng gọi là kì. ② Một âm là cơ. Số lẻ, như một, ba, năm, bảy, chín là số lẻ. ③ Thời vận trắc trở gọi là số cơ 數奇. ④ Số thừa, như nhất bách hữu cơ 一百有奇 một trăm có lẻ. ① Lẻ. 【奇數】cơ số (toán) Số lẻ. Cg. 單數 ; ② (văn) Số lẻ: 一百有奇 Một trăm có lẻ. Xem 奇 . ① Lạ, kì: 奇事 Chuyện lạ; 奇功 Kì công; ② Bất ngờ, đột ngột: 出奇製勝 Đánh thắng bất ngờ, dùng kế hay để thắng; ③ Lấy làm lạ: 引以爲奇 Lấy (đó) làm lạ; 不足爲奇 Không lấy gì làm lạ; ④ Vô cùng, hết sức, rất: 奇痛奇癢 Rất ngứa rất đau; 權奇愛之 Tôn Quyền rất yêu ông ta (Tam quốc chí: Ngô thư, Phan Chương truyện). Xem 奇 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1367",
+  "grade": "8"
 }

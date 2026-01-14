@@ -375,5 +375,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0968e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/968e.gif",
     "uri": "https://jisho.org/search/%E9%9A%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "giai"
+  ],
+  "vietnameseMeaning": [
+    "① Bực thềm, thềm cao hơn sàn, phải xây bực lên gọi là giai. ② Bắc thang. Như Luận ngữ 論語 nói Do thiên chi bất khả giai nhi thăng dã 猶天之不可階而升也 (Tử Trương 子張) cũng như trời không thể bắc thang mà lên được vậy. ③ Ngôi, bực, ngôi thứ trong quan chế gọi là giai. Vì thế nên gọi ngôi quan là quan giai 官階. ④ Lối lên, cái lối dắt dẫn lên. Như bởi cớ gì đó mà sinh ra loạn gọi là hoạ giai 禍階 hay loạn giai 亂階. ⑤ Nương tựa. Như vô xích thốn chi giai 無尺寸之階 không còn có chỗ nương tựa được. ① Bậc, bực (thềm): 階梯 Bậc thang; ② Cấp bậc, ngôi thứ; ③ (văn) Bắc thang: 猶天之不可階而昇也 Giống như trời thì không thể bắt thang mà lên được (Luận ngữ); ④ (văn) Lối đưa tới, con đường dẫn tới: 禍階 Cớ gây ra tai hoạ; ⑤ (văn) Nương tựa: 無尺寸之階 Không còn có chỗ nương tựa."
+  ],
+  "jlpt": "2",
+  "frequency": "513",
+  "grade": "3"
 }

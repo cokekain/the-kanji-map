@@ -385,5 +385,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053c2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53c2.gif",
     "uri": "https://jisho.org/search/%E5%8F%82%23kanji"
-  }
+  },
+  "hanviet": [
+    "tham"
+  ],
+  "vietnameseMeaning": [
+    "tham, sâm, tam Như 參. Như 參"
+  ],
+  "jlpt": "2",
+  "frequency": "201",
+  "grade": "4"
 }

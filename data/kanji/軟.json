@@ -336,5 +336,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08edf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8edf.gif",
     "uri": "https://jisho.org/search/%E8%BB%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhuyễn"
+  ],
+  "vietnameseMeaning": [
+    "① Mềm. Nguyên là chữ nhuyễn 輭. ① Mềm: 柔軟 Mềm dẻo; 綢子比布軟 Lụa mềm hơn vải; ② Yếu ớt, mềm yếu, dịu dàng, nhu nhược: 軟弱無能 Hèn yếu bất tài; 欺軟怕硬 Mềm nắn rắn buông; 軟語 Lời nói dịu dàng; ③ Yếu lòng, mềm lòng, nhẹ dạ; 心軟 Mủi lòng; 耳秀軟 Nhẹ dạ; ④ Dùng thủ đoạn mềm dẻo, nằng nặc: 軟的政策 Chính sách mềm dẻo; 軟求 Nằng nặc đòi; ⑤ Mềm nhũn, mỏi nhừ: 兩腿發軟 Hai chân mỏi nhừ; ⑥ Kém, xấu, tồi: 貨色軟 Hàng kém."
+  ],
+  "jlpt": "2",
+  "frequency": "1269",
+  "grade": "8"
 }

@@ -81,5 +81,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07169.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7169.gif",
     "uri": "https://jisho.org/search/%E7%85%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "phiền"
+  ],
+  "vietnameseMeaning": [
+    "① Phiền (không được giản dị). ② Nhọc, nhờ người ra giúp hộ gọi là phiền. ③ Phiền não, buồn, việc nhiều không chịu nổi gọi là phiền muộn 煩悶. ① Phiền, bứt rứt: 心裡煩得很 Bứt rứt trong lòng; ② Chán, nhàm: 這些話都聽煩了 Những câu nói ấy nghe đã nhàm tai rồi; ③ Rườm rà, lôi thôi: 煩雜 Phiền phức; ④ Làm phiền: 這件事只好麻煩你了 Việc này phải làm phiền anh thôi."
+  ],
+  "jlpt": "1",
+  "frequency": "2081",
+  "grade": "8"
 }

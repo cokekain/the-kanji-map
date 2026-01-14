@@ -425,5 +425,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09032.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9032.gif",
     "uri": "https://jisho.org/search/%E9%80%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiến"
+  ],
+  "vietnameseMeaning": [
+    "tiến, tấn ① Tiến lên. Trái lại với chữ thoái 退. ② Dắt dẫn lên. ③ Dâng. Như tiến cống 進貢 dâng đồ cống. Tiến biểu 進表 dâng biểu, v.v. Vì thế nên khoản thu vào cũng gọi là tiến hạng 進項. Liều đánh bạc gọi là bác tiến 博進. ④ Bọn, lũ. Như tiên tiến 先進 bọn trước. Cũng như ta nói tiền bối 前輩 vậy. ⑤ Tục gọi chỗ chia giới hạn nhà trong nhà ngoài là tiến. ① Tiến lên, đi trước, cải tiến: 進一步 Tiến một bước.【進而】tiến nhi Sau đó, rồi mới: 學好了文化基礎課，進而才能學專業 Học xong lớp văn hoá cơ bản rồi mới học chuyên môn được; ② Vào: 進門 Vào cửa; 進工廠 Vào nhà máy; ③ Thu vào, mua vào: 進款 Thu tiền vào; 進貨 Mua hàng; ④ (văn) Dâng: 進貢 Dâng đồ cống; 進表 Dâng biểu; ⑤ (văn) Đời, lớp: 先進 Đời trước, tiền bối; ⑥ (văn) Ăn, dùng: 我們將共進晚餐 Chúng ta sẽ cùng ăn cơm chiều; ⑦ Dãy, sân trong (nhà): 這是一個兩進的院子 Trong sân này có hai dãy nhà."
+  ],
+  "jlpt": "3",
+  "frequency": "142",
+  "grade": "3"
 }

@@ -403,5 +403,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0985e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/985e.gif",
     "uri": "https://jisho.org/search/%E9%A1%9E%23kanji"
-  }
+  },
+  "hanviet": [
+    "loại"
+  ],
+  "vietnameseMeaning": [
+    "① Loài giống. Như phân môn biệt loại 分門別類 chia từng môn, rẽ từng loài. ② Giống. Không được giống gọi là bất loại 不類. ③ Dùng làm trợ ngữ từ. Như đại loại 大類 cũng như ta nói đại loại, đại khái vậy. ④ Lành, tốt. ⑤ Tùy theo. ⑥ Tế loại, lễ tế trời không phải thời. ⑦ Một loài rùa. ① Loài, loại, giống, thứ: 人類 Loài người, nhân loại; 分類 Phân loại; ② Giống: 類 乎神話 Giống như thần thoại; 畫虎 不成反類犬 Vẽ hổ ra chó; 其形不類生人之形 Hình dạng của nó không giống như người sống (Vương Sung: Luận hoành); ③ (văn) Đại loại, đại khái: 類非俗吏之所能爲也 Đại khái không phải là việc mà quan lại tầm thường có thể làm được (Hán thư: Giả Nghị truyện); ④ (văn) Lành, tốt; ⑤ (văn) Tùy theo; ⑥ (văn) Tế Loại (lễ tế trời không phải thời); ⑦ (văn) Điều lệ: 故法不能獨立，類不能自行 Vì vậy luật pháp không thể độc lập, điều lệ không thể tự thi hành ra được (Tuân tử: Quân đạo); ⑧ (văn) Một loài rùa; ⑨ (Họ) Loại."
+  ],
+  "jlpt": "2",
+  "frequency": "678",
+  "grade": "4"
 }

@@ -46,5 +46,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ce0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ce0.gif",
     "uri": "https://jisho.org/search/%E8%B3%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "bồi"
+  ],
+  "vietnameseMeaning": [
+    "① Đền trả, như bồi thường tổn thất 賠償損失 đền bù chỗ thiệt hại. ② Sút kém, như bồi bổn 賠本 sụt vốn, lỗ vốn. ① Đền bù, bồi thường: 損壞東西要賠 Làm hỏng phải đền; ② Lỗ mất: 賠了許多錢 Lỗ mất nhiều tiền; 賠了夫人又折兵 Mất cả phu nhân lại thiệt quân, mất cả chì lẫn chài."
+  ],
+  "jlpt": "1",
+  "frequency": "1243",
+  "grade": "8"
 }

@@ -487,5 +487,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0964d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/964d.gif",
     "uri": "https://jisho.org/search/%E9%99%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "hàng",
+    "giáng"
+  ],
+  "vietnameseMeaning": [
+    "① Rụng xuống. Như sương hàng 霜降 sương xuống. ② Phục, hàng phục. ③ Một âm là giáng. Xuống, ở bực trên đánh xuống bực dưới gọi là giáng. Như giáng quan 降官 quan phải giáng xuống chức dưới cái chức đang làm. ③ Nên. Như giáng tâm tương tùng 降心相從 nên lòng cùng theo theo. Xét chữ 降 này ngày xưa học là chữ hàng cả. Về sau mới chia ra chữ hàng dùng về nghĩa hàng phục, mà nói về thăng giáng 升降 lên xuống, hạ giáng 下降 giáng xuống, thì đọc là giáng cả. ① Xuống: 溫度下降 Nhiệt độ hạ xuống; ② Rơi (xuống): 降雨 Mưa rơi, mưa; 霜降 Sương xuống; ③ Hạ, giảm, giáng: 降低 Hạ thấp; 降職 Giáng chức; ④ Chiếu cố, hạ cố; ⑤ (văn) Nén xuống: 降心相從 Nén lòng đi theo. Xem 降 . ① Đầu hàng, hàng: 寧死不降 Thà chết không hàng; ② (Làm cho) khuất phục, hàng phục, chế ngự: 一物降一物 Vật này chế ngự vật kia. Xem 降 ."
+  ],
+  "jlpt": "2",
+  "frequency": "596",
+  "grade": "6"
 }

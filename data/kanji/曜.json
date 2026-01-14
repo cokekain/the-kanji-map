@@ -404,5 +404,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66dc.gif",
     "uri": "https://jisho.org/search/%E6%9B%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "diệu"
+  ],
+  "vietnameseMeaning": [
+    "① Bóng sáng mặt trời. ② Mặt trời, mặt trăng, sao đều gọi là diệu. Mặt trời mặt trăng gọi là lưỡng diệu 兩曜. (văn) ① Ánh nắng; ② Chói lọi, chiếu sáng, sáng long lanh; ③ (Gọi chung) mặt trời, mặt trăng và sao: 兩曜 Mặt trời và mặt trăng."
+  ],
+  "jlpt": "3",
+  "frequency": "940",
+  "grade": "2"
 }

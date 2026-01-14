@@ -370,5 +370,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0691c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/691c.gif",
     "uri": "https://jisho.org/search/%E6%A4%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "kiểm"
+  ],
+  "jlpt": "2",
+  "frequency": "290",
+  "grade": "5"
 }

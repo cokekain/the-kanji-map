@@ -45,5 +45,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fed.gif",
     "uri": "https://jisho.org/search/%E8%BF%AD%23kanji"
-  }
+  },
+  "hanviet": [
+    "điệt",
+    "dật"
+  ],
+  "vietnameseMeaning": [
+    "① Đắp đổi, thay đổi phiên, lần lượt. ② Xâm lấn. ③ Sổng ra. ① Thay phiên, luân phiên, đắp đổi, lần lượt, thay nhau: 更迭Thay phiên nhau; 迭為賓主 Thay nhau làm chủ và làm khách; ② Nhiều lần: 迭挫強敵 Nhiều lần đánh bại kẻ địch; ③ Kịp: 忙不了迭Vội quá. Như 選"
+  ],
+  "jlpt": "1",
+  "frequency": "1907",
+  "grade": "8"
 }

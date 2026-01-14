@@ -359,5 +359,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57fa.gif",
     "uri": "https://jisho.org/search/%E5%9F%BA%23kanji"
-  }
+  },
+  "hanviet": [
+    "cơ"
+  ],
+  "vietnameseMeaning": [
+    "① Nền nhà, như căn cơ 根基, cơ chỉ 基址 ở dưới cho vật gì đứng vững được đều gọi là cơ. ② Cỗi gốc. ③ Trước. ④ Mưu. ⑤ Gây dựng. ⑥ Ðồ làm ruộng, như các thứ cầy bừa. ① Nền, móng: 基址 Nền móng; 路基 Nền đường; 墻基 Móng tường; ② Dựa vào, theo, căn cứ vào: 基于上述原則 Theo những nguyên tắc kể trên; ③ (hoá) Gốc: 石碏基 Gốc paraphin; ④ (văn) Trước; ⑤ (văn) Mưu; ⑥ (văn) Gây dựng; ⑦ (văn) Đồ làm ruộng (như cày, bừa...)."
+  ],
+  "jlpt": "2",
+  "frequency": "241",
+  "grade": "5"
 }

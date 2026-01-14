@@ -419,5 +419,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b7.gif",
     "uri": "https://jisho.org/search/%E5%82%B7%23kanji"
-  }
+  },
+  "hanviet": [
+    "thương"
+  ],
+  "vietnameseMeaning": [
+    "① Vết đau. ② Hại, như trúng thương 中傷 bị kẻ làm hại. ③ Thương, như thương cảm 傷感 cảm thương. ① Vết thương: 輕傷 Vết thương nhẹ; ② Tổn thương: 傷腦筋 Nhức óc; 傷其十指不如斷其一指 Làm bị thương mười ngón tay không bằng làm cụt một ngón tay; ③ Mắc bệnh: 傷風 Cảm, cảm gió; 傷寒 Thương hàn; ④ Ngấy: 吃糖吃傷了 Ăn đường nhiều thấy ngấy quá; ⑤ Cản trở, trở ngại, gây hại: 何傷乎 Có gì cản trở?; ⑥ Đau đớn: 悲傷 Đau đớn, đau buồn; 傷感 Xúc cảm, buồn rầu, thương xót; ⑦ Tổn hại, làm hại, hại: 傷衆有罪 Làm khổ dân là có tội; 開口傷人 Mở miệng hại người."
+  ],
+  "jlpt": "1",
+  "frequency": "845",
+  "grade": "6"
 }

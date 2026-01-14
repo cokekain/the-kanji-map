@@ -59,5 +59,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68c4.gif",
     "uri": "https://jisho.org/search/%E6%A3%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "khí"
+  ],
+  "vietnameseMeaning": [
+    "① Quên, bỏ, như nhân khí ngã thủ 人棄我取 người bỏ ta lấy, thoá khí nhất thiết 唾棄一切 vứt bỏ hết thẩy. Vứt, bỏ: 拋棄 Vứt bỏ; 棄置不顧 Vứt đó bỏ mặc; 人棄我取 Người bỏ ta lấy; 唾棄一切 Vứt bỏ tất cả."
+  ],
+  "jlpt": "1",
+  "frequency": "901",
+  "grade": "8"
 }

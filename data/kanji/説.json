@@ -464,5 +464,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aac.gif",
     "uri": "https://jisho.org/search/%E8%AA%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "thuyết"
+  ],
+  "jlpt": "3",
+  "frequency": "326",
+  "grade": "4"
 }

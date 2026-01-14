@@ -405,5 +405,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0866b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/866b.gif",
     "uri": "https://jisho.org/search/%E8%99%AB%23kanji"
-  }
+  },
+  "hanviet": [
+    "trùng"
+  ],
+  "vietnameseMeaning": [
+    "① Nguyên là chữ 虺, ngày xưa tục mượn thay chữ 蟲: loài sâu bọ. ① Như 𧈤; ② Loài sâu bọ (ngày xưa dùng thay cho chữ 蟲, nay cũng là thể giản tả của 蟲)."
+  ],
+  "jlpt": "2",
+  "frequency": "1351",
+  "grade": "1"
 }

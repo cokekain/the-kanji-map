@@ -55,5 +55,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06458.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6458.gif",
     "uri": "https://jisho.org/search/%E6%91%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "trích"
+  ],
+  "vietnameseMeaning": [
+    "① Hái, như trích qua 摘瓜 hái dưa, trích quả 摘果 hái quả, v.v. ② Chọn lấy, như trích sao 摘抄 chọn sao lấy một đoạn, trích lục 摘錄 chọn chép lấy từng đoạn, v.v. ③ Phát ra, như trích gian 摘奸 phát giác được sự gian tà ra. ① Hái, bẻ, ngắt: 摘瓜 Hái dưa; 摘一枝花 Bẻ một cành hoa; 摘樹葉 Ngắt lá cây; ② Bỏ (xuống), ngả: 摘帽子 Bỏ mũ, ngả mũ; ③ Trích, chọn lấy: 摘譯 Trích dịch; ④ Vay mượn; ⑤ (văn) Phát giác ra, tố giác, cáo giác (tội lỗi của người khác): 摘姦 Cáo giác sự gian tà."
+  ],
+  "jlpt": "1",
+  "frequency": "564",
+  "grade": "8"
 }

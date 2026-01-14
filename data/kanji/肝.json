@@ -74,5 +74,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0809d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/809d.gif",
     "uri": "https://jisho.org/search/%E8%82%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "can",
+    "gan"
+  ],
+  "vietnameseMeaning": [
+    "① Gan, một cơ quan sinh ra nước mật, ở mé tay phải bên bụng, sắc đỏ lờ lờ, có bốn lá. ② Can đảm, gan góc. ① Lá gan; ② Can đảm, gan góc."
+  ],
+  "jlpt": "1",
+  "frequency": "1118",
+  "grade": "8"
 }

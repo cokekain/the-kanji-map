@@ -58,5 +58,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f2c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f2c.gif",
     "uri": "https://jisho.org/search/%E6%BC%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "tí"
+  ],
+  "vietnameseMeaning": [
+    "① Ngâm, tẩm thấm. ① Ngâm, tẩm, thấm: 漬麻 Ngâm đay; ② Bám: 機器一點泥也不漬 Máy không bám một tí bụi nào; ③ (đph) Vết ố, vết bẩn: 油漬 Ố dầu."
+  ],
+  "jlpt": "1",
+  "frequency": "1818",
+  "grade": "8"
 }

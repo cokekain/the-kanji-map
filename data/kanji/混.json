@@ -410,5 +410,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06df7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6df7.gif",
     "uri": "https://jisho.org/search/%E6%B7%B7%23kanji"
-  }
+  },
+  "hanviet": [
+    "hỗn",
+    "hổn"
+  ],
+  "vietnameseMeaning": [
+    "hỗn ① Hỗn tạp, làm gian dối khiến cho người khó phân biệt được gọi là tệ hỗn 弊混. ② Hỗn độn 混沌 lúc trời đất chưa phân rành mạch gọi là hỗn độn. ③ Một âm là cổn. Cuồn cuộn, như nguyên toàn cổn cổn 源泉混混 suối chảy cuồn cuộn. Xem 渾 nghĩa ①; ② Xem 混 . ① Trà trộn, trộn, hỗn tạp: 不讓壞人混進來 Không cho kẻ xấu trà trộn vào đây; 麵粉混糖 Bột mì trộn với đường; ② Sống cẩu thả, sống bừa bãi: 不要再混日子了 Không nên sống cẩu thả qua ngày tháng nữa; 不要混一天算一天 Không nên sống bừa bãi được ngày nào hay ngày ấy; ③ Ẩu, ẩu tả, bậy bạ, bừa bãi: 混出主意 Góp ý ẩu tả, nói ẩu, nói bừa. Xem 混 ."
+  ],
+  "jlpt": "2",
+  "frequency": "824",
+  "grade": "5"
 }

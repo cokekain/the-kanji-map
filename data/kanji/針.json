@@ -365,5 +365,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91dd.gif",
     "uri": "https://jisho.org/search/%E9%87%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "châm"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ châm 鍼. ① (Cây) kim: 縫衣針 Kim khâu; 鍾錶針 Kim đồng hồ; 指南針 Kim chỉ nam; ② (Cái) ghim: 大頭針 Cái ghim; 別針 Ghim băng; 迴紋針 Ghim cặp giấy; ③ Tiêm: 防疫針 Thuốc tiêm phòng dịch; 打針 Tiêm, chích; ④ Châm: 針各穴位可以治病 Châm các huyệt vị có thể chữa bệnh."
+  ],
+  "jlpt": "2",
+  "frequency": "505",
+  "grade": "6"
 }

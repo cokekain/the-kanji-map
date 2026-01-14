@@ -371,5 +371,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09650.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9650.gif",
     "uri": "https://jisho.org/search/%E9%99%90%23kanji"
-  }
+  },
+  "hanviet": [
+    "hạn"
+  ],
+  "vietnameseMeaning": [
+    "① Giới hạn, cõi, có cái phạm vi nhất định không thể vượt qua được gọi là hạn. Như hạn chế 限制 nói về địa vị đã chỉ định, hạn kì 限期 hẹn kì, nói về thì giờ đã chỉ định. ② Cái bực cửa. ① Hạn, hạn độ, phạm vi được quy định: 無限 Vô hạn; 人數不限 Không hạn định số người; 期限 Kì hạn; 界限 Giới hạn; 權限 Quyền hạn; ② Ranh giới, giới hạn; ③ (văn) Bậc cửa, ngưỡng cửa."
+  ],
+  "jlpt": "2",
+  "frequency": "405",
+  "grade": "5"
 }

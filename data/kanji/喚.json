@@ -59,5 +59,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0559a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/559a.gif",
     "uri": "https://jisho.org/search/%E5%96%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "hoán"
+  ],
+  "vietnameseMeaning": [
+    "① Kêu, gọi. Gọi, kêu: 呼喚 Kêu gọi."
+  ],
+  "jlpt": "1",
+  "frequency": "1120",
+  "grade": "8"
 }

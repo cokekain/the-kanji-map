@@ -55,5 +55,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05072.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5072.gif",
     "uri": "https://jisho.org/search/%E5%81%B2%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Ti ti 偲偲 cùng răn dỗ nhau (gắng gỏi). ② Một âm là tai rậm râu, râu xồm xoàm. (văn) Râu rậm, râu xồm xoàm. 【偲偲】ti ti (văn) Cùng gắng gỏi (bạn bè khuyến khích nhau)."
+  ],
+  "hanviet": [
+    "ti",
+    "tai"
+  ],
+  "jlpt": "1",
+  "frequency": "2350",
+  "grade": "9"
 }

@@ -62,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc5.gif",
     "uri": "https://jisho.org/search/%E5%AF%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "dần"
+  ],
+  "vietnameseMeaning": [
+    "① Chi Dần, một chi trong mười hai chi. Từ ba giờ sáng đến năm giờ sáng là giờ dần. ② Kính. ③ Cùng làm quan với nhau gọi là đồng dần 同寅, quan lại chơi với nhau gọi là dần nghị 寅誼. ① Chi Dần (ngôi thứ ba trong 12 địa chi); ② (văn) Bạn đồng liêu: 同寅 Cùng làm quan với nhau, đồng liêu; 寅誼 Mối giao thiệp giữa quan lại với nhau; ③ (văn) Kính: 嚴恭寅畏 Nghiêm cung kính sợ (Thượng thư: Vô dật)."
+  ],
+  "jlpt": "1",
+  "frequency": "1975",
+  "grade": "9"
 }

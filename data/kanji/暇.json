@@ -314,5 +314,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06687.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6687.gif",
     "uri": "https://jisho.org/search/%E6%9A%87%23kanji"
-  }
+  },
+  "hanviet": [
+    "hạ"
+  ],
+  "vietnameseMeaning": [
+    "① Nhàn rỗi. ② Lúc vô sự, như hạ nhật 暇日 lúc không bận có việc gì, vô hạ cập thử 無暇及此 không rỗi đâu tới sự ấy. Nhàn hạ, nhàn, rỗi rảnh, rỗi rãi, rảnh việc: 無暇 Không được rỗi; 工餘之暇 Lúc nhàn rỗi sau giờ làm; 暇日 Ngày rảnh việc."
+  ],
+  "jlpt": "1",
+  "frequency": "1386",
+  "grade": "8"
 }

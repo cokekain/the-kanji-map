@@ -472,5 +472,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97f3.gif",
     "uri": "https://jisho.org/search/%E9%9F%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "âm"
+  ],
+  "vietnameseMeaning": [
+    "① Tiếng, tiếng phát lộ ra có điệu trong đục cao thấp gọi là âm. Tiếng phát ra thành văn cũng gọi là âm. ① Âm (thanh, tiếng, giọng): 音樂 Âm nhạc; 噪音 Tiếng ồn; 他說話的口音很重 Giọng nói của anh ấy rất nặng; ② Nốt nhạc; ③ Tin (tức): 佳音 Tin mừng."
+  ],
+  "jlpt": "3",
+  "frequency": "491",
+  "grade": "1"
 }

@@ -53,5 +53,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0819c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/819c.gif",
     "uri": "https://jisho.org/search/%E8%86%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "mạc",
+    "mô"
+  ],
+  "vietnameseMeaning": [
+    "mạc, mô ① Màng, một thứ màng mỏng để ràng rịt tạng phủ và các cơ quan trong mình. Như nhãn mô 眼膜 màng mắt, nhĩ mô 耳膜 màng tai, v.v. Nói rộng ra như mạng mỏng ở trong các thứ quả cây cũng gọi là mô cả. ② Mô bái 膜拜 quỳ dài mà lạy. ① Màng: 耳膜 Màng nhĩ, màng tai; 細胞膜 Màng tế bào; 腦膜 Màng óc; 橡皮膜 Màng cao su; ② 【膜拜】mô bái Cúng bái: 頂禮膜拜 Đi lễ cúng bái, vái lạy."
+  ],
+  "jlpt": "1",
+  "frequency": "1804",
+  "grade": "8"
 }

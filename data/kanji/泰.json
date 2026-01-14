@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cf0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cf0.gif",
     "uri": "https://jisho.org/search/%E6%B3%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "thái"
+  ],
+  "vietnameseMeaning": [
+    "① To lớn, cùng nghĩa với chữ thái 太. ② Hanh thông, thời vận tốt gọi là thái. ③ Xa xỉ rông rợ. ④ Khoan, rộng rãi, yên. Như quân tử thái nhi bất kiêu 君子泰而不驕 người quân tử rộng rãi mà không kiêu. ① Bình yên, hanh thông: 國泰民安 Đất nước thanh bình, nhân dân yên vui; ② Cực, rất, quá (như 太, bộ 大) : 泰西 (cũ) Âu Châu; 泰盛 Quá thịnh, quá sang; ③ (văn) To lớn (như 太, bộ 大); ④ (văn) Xa xỉ; ⑤ (văn) Rộng rãi: 君子泰而不驕 Người quân tử rộng rãi mà không kiêu căng (Luận ngữ); ⑥ Nước Thái Lan."
+  ],
+  "jlpt": "1",
+  "frequency": "1281",
+  "grade": "8"
 }

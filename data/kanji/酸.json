@@ -382,5 +382,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09178.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9178.gif",
     "uri": "https://jisho.org/search/%E9%85%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "toan"
+  ],
+  "vietnameseMeaning": [
+    "① Chua. ② Một danh từ về môn hoá học để gọi các chất hàm có vị chua. Như diêm toan 鹽酸 (chất chua lấy ở muối ra), lưu toan 硫酸 (chất chua lấy ở lưu hoàng ra), v.v. ③ Ðau ê. Như yêu toan 腰酸 lưng ê. ④ Ðau xót. Như toan tị 酸鼻 buốt mũi, tâm toan 心酸 mủi lòng, v.v. ⑤ Học trò nghèo gọi là hàn toan 寒酸. ① (hoá) Chất axít: 醋酸 Axít axetic; 鹽酸 Axít clohy-đric; 硝酸 Axít nitric; ② Chua: 這個梨眞酸 Quả lê này chua quá; ③ Mỏi, đau ê, ê ẩm, hơi đau: 腰酸腿疼 Lưng mỏi chân đau; 腰有點發酸 Lưng hơi đau; ④ Đau xót: 心酸 Đau lòng; 十分悲酸 Rất là đau thương; 心酸 Đau lòng; ⑤ Cổ hủ, tồi: 寒酸 Tồi tệ; 酸秀才 Hủ nho; 寒酸 Học trò nghèo."
+  ],
+  "jlpt": "1",
+  "frequency": "1218",
+  "grade": "5"
 }

@@ -413,5 +413,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0516b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/516b.gif",
     "uri": "https://jisho.org/search/%E5%85%AB%23kanji"
-  }
+  },
+  "hanviet": [
+    "bát"
+  ],
+  "vietnameseMeaning": [
+    "① Tám, số đếm. Tám, thứ tám, (số) 8: 八月 Tháng Tám; 八號 Số 8."
+  ],
+  "jlpt": "4",
+  "frequency": "92",
+  "grade": "1"
 }

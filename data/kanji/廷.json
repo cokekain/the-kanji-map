@@ -49,5 +49,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ef7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ef7.gif",
     "uri": "https://jisho.org/search/%E5%BB%B7%23kanji"
-  }
+  },
+  "hanviet": [
+    "đình"
+  ],
+  "vietnameseMeaning": [
+    "① Triều đình, chỗ phát chánh lệnh cho cả nước theo gọi là đình. Như đình đối 廷對 vào đối đáp ở chốn triều đình, đình nghị 廷議 sự bàn ở trong triều đình. Triều đình: 宮廷 Cung đình, cung vua; 廷對 Đối đáp ở chốn triều đình; 廷議 Bàn bạc ở chốn triều đình."
+  ],
+  "jlpt": "1",
+  "frequency": "1439",
+  "grade": "8"
 }

@@ -75,5 +75,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fb4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fb4.gif",
     "uri": "https://jisho.org/search/%E5%BE%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "trưng"
+  ],
+  "jlpt": "1",
+  "frequency": "850",
+  "grade": "8"
 }

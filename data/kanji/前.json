@@ -419,5 +419,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0524d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/524d.gif",
     "uri": "https://jisho.org/search/%E5%89%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "tiền"
+  ],
+  "vietnameseMeaning": [
+    "① Trước, như đình tiền 庭前 trước sân. ② Cái trước, như tiền biên 前編 quyển trước. ③ Sớm trước, như tiền hiền 前賢 người hiền trước. Kẻ làm nên trước mình gọi là tiền bối 前輩. ④ Tiến lên, như phấn vãng trực tiền 蕡往直前 gắng gỏi bước lên trước. ① Trước: 前赴後繼 Người trước tiến lên, người sau nối bước; ② Xưa, trước: 從前 Trước kia, ngày xưa; ③... kia: 前天 Hôm kia; ④ Tiến lên: 勇往直前 Dũng mãnh tiến lên; ⑤ Trước, cách đây (đặt sau cụm từ chỉ thời gian): 五年前 5 năm (về) trước, cách đây 5 năm, trước đây 5 năm."
+  ],
+  "jlpt": "4",
+  "frequency": "27",
+  "grade": "2"
 }

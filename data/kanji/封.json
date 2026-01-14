@@ -347,5 +347,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c01.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c01.gif",
     "uri": "https://jisho.org/search/%E5%B0%81%23kanji"
-  }
+  },
+  "hanviet": [
+    "phong"
+  ],
+  "vietnameseMeaning": [
+    "① Phong cho, vua cho các bầy tôi đất tự trị lấy gọi là phong. ② Nhân làm quan được vua ban cho các tên hiệu hay cũng gọi là phong, là cáo phong 誥封. Con làm quan, cha được phong tước gọi là phong ông 封翁 hay phong quân 封君. ③ Bờ cõi, như chức quan giữ việc coi ngoài bờ cõi nước gọi là phong nhân 封人. Nay thường gọi các quan đầu tỉnh là phong cương trọng nhậm 封彊重任. ④ To lớn. ⑤ Ðắp, như phong phần 封墳 đắp mả. ⑥ Giầu có, như tố phong 素封 vốn giàu. ⑦ Ðậy, đậy lại, như tín phong 信封 phong thơ. ⑧ Ngăn cấm, như cố trí tự phong 故智自封 nghĩa là không biết giảng cầu cái hay mới mà cứ ngăn cấm mình trong lối cũ. ① Phong (tước), ban (tước phẩm, đất đai): 封王 Phong vương; 分封諸侯 Phong chia cho các chư hầu; 封爵 Ban tước; ② Chế độ phong kiến (gọi tắt): 反封 Chống phong kiến; ③ Đóng băng, bọc, đóng kín, bịt kín, đắp lại, niêm phong: 封河 Sông đóng băng; 封套 Vỏ bọc; 封住瓶口 Gắn nút chai, gắn xi; 封填 Đắp mả; 故智自封 Tự đóng kín mình trong lối cũ; ④ Phong bì: 裝在信封裡 Bỏ vào phong bì; ⑤ Bức, lá: 一封信 Một bức (lá) thư; ⑥ (văn) Bờ cõi: 封人 Chức quan giữ việc ngoài bờ cõi; ⑦ (văn) Giàu có: 素封 Vốn giàu có; ⑧ (Họ) Phong."
+  ],
+  "jlpt": "2",
+  "frequency": "1143",
+  "grade": "8"
 }

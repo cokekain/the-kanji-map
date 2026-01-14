@@ -79,5 +79,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/071c8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/71c8.gif",
     "uri": "https://jisho.org/search/%E7%87%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "đăng"
+  ],
+  "vietnameseMeaning": [
+    "① Cái đèn. ① Đèn, đăng: 電燈 Đèn điện; 花燈 Hoa đăng, đèn hoa; 酒精燈 Đèn cồn; ② Bóng đèn điện tử: 五燈收音機 Rađiô 5 đèn."
+  ],
+  "frequency": "2456",
+  "grade": "10"
 }

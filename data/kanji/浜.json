@@ -72,5 +72,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d5c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d5c.gif",
     "uri": "https://jisho.org/search/%E6%B5%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "tân",
+    "banh"
+  ],
+  "vietnameseMeaning": [
+    "① Kênh cho tàu bè đỗ. (đph) Ngòi, rạch, lạch, bến: 沙家浜 Bến Sa Gia."
+  ],
+  "jlpt": "1",
+  "frequency": "645",
+  "grade": "8"
 }

@@ -367,5 +367,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bdd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bdd.gif",
     "uri": "https://jisho.org/search/%E5%AF%9D%23kanji"
-  }
+  },
+  "hanviet": [
+    "tẩm"
+  ],
+  "vietnameseMeaning": [
+    "Như 寢"
+  ],
+  "jlpt": "2",
+  "frequency": "1034",
+  "grade": "8"
 }

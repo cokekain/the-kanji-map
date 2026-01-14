@@ -57,5 +57,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06602.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6602.gif",
     "uri": "https://jisho.org/search/%E6%98%82%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngang"
+  ],
+  "vietnameseMeaning": [
+    "① Giơ cao, như ngang thủ 昂首 nghển đầu, đê ngang 低昂 cúi ngửa. Thái độ cao cả gọi là hiên ngang 軒昂 hay ngang tàng 昂藏, ý khí phấn phát gọi là kích ngang 激昂, v.v. ② Giá cao, giá đắt. Nguyễn Du 阮攸: Mễ giá bất thậm ngang 米價不甚昂 giá gạo không cao quá. ① Cất, ngẩng, ngửng: 昂首 Ngửng đầu; ② Đắt, đắt đỏ, cao: 價昂 Giá đắt, giá cao."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

@@ -356,5 +356,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06557.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6557.gif",
     "uri": "https://jisho.org/search/%E6%95%97%23kanji"
-  }
+  },
+  "hanviet": [
+    "bại"
+  ],
+  "vietnameseMeaning": [
+    "① Hỏng, đổ nát, như vong quốc bại gia 亡國敗家 làm mất nước nát nhà. Ðứa con làm hỏng nhà gọi là bại tử 敗子, nhục bại 肉敗 thịt đã thiu thối, bại diệp 敗葉 lá rụng, v.v. ② Nghiêng đổ, như bại bích 敗壁 vách đổ. ③ Thua. ① Thua, bại: 一敗塗地 Thua liểng xiểng; ② Đánh thắng, đánh bại: 大敗侵略軍 Đánh bại quân xâm lược; ③ Hỏng, đổ nát: 失敗 Thất bại; 這事可能敗在他手裡 Việc này có thể hỏng trong tay anh ta; 身敗名裂 Thân bại danh liệt; 亡國敗家 Nước mất nhà tan; ④ Tàn, rụng: 花開敗了 Hoa tàn; 敗葉 Lá rụng; ⑤ (văn) Nghiêng đổ: 敗壁 Vách đổ; ⑥ Giải, tiêu, tống, trừ, hạ: 敗毒 Tiêu độc, tống độc; 敗火 Giải nhiệt, hạ nhiệt."
+  ],
+  "jlpt": "2",
+  "frequency": "516",
+  "grade": "4"
 }

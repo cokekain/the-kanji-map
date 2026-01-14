@@ -380,5 +380,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83dc.gif",
     "uri": "https://jisho.org/search/%E8%8F%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "thái"
+  ],
+  "vietnameseMeaning": [
+    "① Rau. Thứ rau cỏ nào ăn được đều gọi là thái. Người đói phải ăn rau trừ bữa nên gọi là thái sắc 菜色. ② Tục gọi các đồ ăn cơm là thái. ① Rau, cải, rau cải: 白菜 Rau cải trắng, cải thìa; 種菜 Trồng rau; ② Thức ăn, món ăn: 好菜 Thức ăn ngon, món ăn ngon; 今天食堂有好菜 Hôm nay nhà ăn có bán thức ăn ngon."
+  ],
+  "jlpt": "3",
+  "frequency": "1327",
+  "grade": "4"
 }

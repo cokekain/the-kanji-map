@@ -297,5 +297,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cc9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cc9.gif",
     "uri": "https://jisho.org/search/%E6%B3%89%23kanji"
-  }
+  },
+  "hanviet": [
+    "tuyền"
+  ],
+  "vietnameseMeaning": [
+    "① Suối, nguồn. ② Tiền, ngày xưa gọi đồng tiền là tuyền, có khi đọc là toàn. ① Suối: 溫泉 Suối nước nóng; 淚如泉涌 Nước mắt trào ra như suối; 崑山有泉 Núi Côn sơn có suối (Nguyễn Trãi: Côn Sơn ca); ② (văn) Tiền, đồng tiền; ③ (Họ) Tuyền."
+  ],
+  "jlpt": "2",
+  "frequency": "1086",
+  "grade": "6"
 }

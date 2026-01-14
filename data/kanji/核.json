@@ -51,5 +51,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06838.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6838.gif",
     "uri": "https://jisho.org/search/%E6%A0%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "hạch"
+  ],
+  "vietnameseMeaning": [
+    "hồ ① Hạt quả. ② Khắc hạch 尅核 xét nghiệt. ③ Tổng hạch 總核 tính gộp, cùng nghĩa với chữ hạch 覈. ① Hột, hạt: 果子裡有核 Quả cây có hạt; ② Hạch nhân, hạt nhân, nhân: 原子核 Hạt nhân nguyên tử; 細胞核 Nhân tế bào; ③ (văn) Hoa quả có hạt như đào, mận, hạnh, mơ; ④ Hạch, xét, kiểm tra, đối chiếu, khảo sát: 考核 Khảo hạch, sát hạch. Xem 核 ; ⑤ (văn) Chân thực: 其文直，其事核 Văn chương của ông ngay thẳng, nội dung chân thực (Hán thư). Như 核 nghĩa ①, ②. Xem 核 ."
+  ],
+  "jlpt": "1",
+  "frequency": "475",
+  "grade": "8"
 }

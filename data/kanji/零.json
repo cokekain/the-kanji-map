@@ -312,5 +312,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096f6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96f6.gif",
     "uri": "https://jisho.org/search/%E9%9B%B6%23kanji"
-  }
+  },
+  "hanviet": [
+    "linh",
+    "lênh"
+  ],
+  "vietnameseMeaning": [
+    "① Mưa lác đác, mưa rây. ② Rơi xuống. Như Kinh Thi 詩經 nói linh vũ kí linh 靈雨既零 mưa lành đã xuống, trận mưa ứng điềm lành đổ xuống. ③ Lẻ. Chưa đủ số đã định gọi là linh, thí dụ như tính số trăm mà chưa đủ trăm thì số ấy gọi là số linh. Cái ngôi không của số đếm cũng gọi là linh. Như nhất linh nhị 一零二 một trăm lẻ hai, nghĩa là không đủ số mười. ① Lẻ tẻ, lặt vặt: 零食 Ăn vặt, quà vặt; 零用 Tiêu vặt; 零售 Bán lẻ; 化整爲零 Đổi nguyên ra lẻ; ② Số lẻ, dôi ra, ngoài: 年紀已經八十有零 Tuổi tác đã ngoài tám mươi; 人數是四十挂零兒 Hơn bốn mươi người; ③ (Số) lẻ: 一年零三天 Một năm lẻ ba ngày; 三年零一季 Ba năm lẻ một quý; ④ Số không (0): 四零五號 Số 405; 二減 二等于零 2-2=0 (hai trừ hai bằng không). Cv. ○; ⑤ Độ 0 trên nhiệt kế: 零上五度 Năm độ trên độ không; 零下十度 Mười độ dưới độ không; ⑥ Rơi rụng, tàn tạ: 零落 Rơi rụng; 凋零 Tàn tạ; ⑦ (văn) Mưa lác đác, mưa rây; ⑧ (văn) Rơi xuống: 靈雨既零 Mưa lành đã rơi xuống (Thi Kinh); ⑨ (Họ) Linh."
+  ],
+  "jlpt": "2",
+  "frequency": "1217",
+  "grade": "8"
 }

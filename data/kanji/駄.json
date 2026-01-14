@@ -61,5 +61,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c4.gif",
     "uri": "https://jisho.org/search/%E9%A7%84%23kanji"
-  }
+  },
+  "hanviet": [
+    "đà"
+  ],
+  "jlpt": "1",
+  "frequency": "1500",
+  "grade": "8"
 }

@@ -59,5 +59,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c65.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c65.gif",
     "uri": "https://jisho.org/search/%E5%B1%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "lí"
+  ],
+  "vietnameseMeaning": [
+    "① Giầy da, giầy đi đóng bằng da gọi là lí. ② Giầy xéo, như lâm thâm lí bạc 臨深履薄 tới chỗ sâu xéo váng mỏng, nói ý là sự nguy sợ. ③ Lộc, như phúc lí 福履 phúc lộc. ④ Sự hành vi, chỉ về sự tích đã làm nên, như thao lí 操履 cái dấu tích đã giữ được trong các sự đã qua, lí lịch 履歷 chỗ kinh lịch tại chức vụ trong đời đã làm ra. ① Giày: 革履 Giày da; 削足適履 Gọt chân cho vừa giày; ② Giẫm, giày xéo, vượt: 如履薄冰 Như giẫm băng mỏng; 履險如夷 Vượt nguy hiểm như chơi, không ngại khó khăn; ③ Bước, dời chân: 步履維艱 Đi đứng khó khăn; ④ Thi hành, thực hiện: 履約 Thực hiện lời hứa; ⑤ Việc đã làm nên: 操履 Các dấu tích đã giữ được trong những việc đã qua; ⑥ (văn) Lộc: 福履 Phúc lộc."
+  ],
+  "jlpt": "1",
+  "frequency": "1619",
+  "grade": "8"
 }

@@ -399,5 +399,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c11.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c11.gif",
     "uri": "https://jisho.org/search/%E6%B0%91%23kanji"
-  }
+  },
+  "hanviet": [
+    "dân"
+  ],
+  "vietnameseMeaning": [
+    "① Người, dân, loài người thuộc ở dưới quyền chính trị gọi là dân, như quốc dân 國民 dân nước. ① Dân: 爲民除害 Trừ mối hoạ cho dân; 欺天罔民，詭計蓋千萬狀 Dối trời lừa dân, quỷ kế thật trăm phương ngàn cách (Bình Ngô đại cáo); ② Người (của một dân tộc): 藏民 Người Tạng; 回民 Người Hồi; ③ Người làm một nghề nghiệp: 農民 Nông dân; 漁民 Ngư dân; 牧民 Người chăn nuôi; ④ Dân gian: 民歌 Dân ca; ⑤ Phi quân sự, dân dụng: 民航公司 Công ti hàng không dân dụng; 民用機場 Sân bay dân dụng."
+  ],
+  "jlpt": "3",
+  "frequency": "28",
+  "grade": "4"
 }

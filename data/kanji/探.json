@@ -317,5 +317,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a2.gif",
     "uri": "https://jisho.org/search/%E6%8E%A2%23kanji"
-  }
+  },
+  "hanviet": [
+    "thám"
+  ],
+  "vietnameseMeaning": [
+    "① Tìm tòi. ② Tìm xa, như tham bản cầu nguyên 探本求源 thăm đến gốc tìm đến nguồn. ③ Thử, như tham vấn khẩu khí 探問口氣 hỏi thử khẩu khí xem sao. ④ Dò xét, như khuy tham 窺探 thăm dòm, chính tham 偵探 rình xét, v.v. ⑤ Hỏi thăm, như tham thân 探親 thăm người thân, tham hữu 探友 thăm bạn. ⑥ Tìm kiếm, như tham mai 探梅 tìm kiếm mơ, tham hoa 探花 tìm kiếm hoa, v.v. Ta quen đọc là thám. ① Dò, thử, tìm: 探源 Dò tìm nguồn gốc; 探問 Hỏi thử, dò hỏi; 探花 Tìm kiếm hoa; ② Dò xét: 密探 Mật thám; 偵探 Trinh thám (rình xét); ③ Thăm: 探親 Thăm nhà; ④ Thò, nhô, ló ra: 探出頭來 Thò đầu ra."
+  ],
+  "jlpt": "2",
+  "frequency": "930",
+  "grade": "6"
 }

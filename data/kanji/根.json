@@ -386,5 +386,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06839.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6839.gif",
     "uri": "https://jisho.org/search/%E6%A0%B9%23kanji"
-  }
+  },
+  "hanviet": [
+    "căn"
+  ],
+  "vietnameseMeaning": [
+    "① Rễ cây. ② Bộ dưới một vật gì cũng gọi là căn, như thiệt căn 舌根 cuống lưỡi. ③ Căn do (nhân), như thiện căn 善根 căn thiện, câu nói nào không có bằng cứ gọi là vô căn chi ngôn 無根之言. ④ Nhà Phật gọi mắt, tai, mũi, lưỡi, thân, ý 眼、耳、鼻、舌、身、意 là lục căn 六根. ① Rễ: 樹根 Rễ cây; ② (loại) Khúc, sợi, que, cái...: 一根木料 Một khúc gỗ 兩根麻繩 Hai sợi dây đay; 三根火柴 Ba que diêm; ③ Chân, gốc, nguồn gốc, nền tảng, cội rễ: 禍根 Nguồn gốc gây ra tai hoạ; 墻根 Chân tường; ④ (toán) Căn số; ⑤ (văn) Gốc; ⑥ (tôn) Căn: 六根 Lục căn (theo nhà Phật, gồm mắt, tai, mũi, lưỡi, thân, ý)."
+  ],
+  "jlpt": "2",
+  "frequency": "620",
+  "grade": "3"
 }

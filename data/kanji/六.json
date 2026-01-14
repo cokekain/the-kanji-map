@@ -406,5 +406,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0516d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/516d.gif",
     "uri": "https://jisho.org/search/%E5%85%AD%23kanji"
-  }
+  },
+  "hanviet": [
+    "lục"
+  ],
+  "vietnameseMeaning": [
+    "lục ① Sáu, số đếm. Sáu: 四加二等于六 Bốn cộng với hai là sáu. Xem 六 . Tên huyện: 1. 六安 Lục An (ở tỉnh An Huy, Trung Quốc). 2. 六合 Lục Hợp (ở tỉnh Giang Tô, Trung Quốc). Xem 六 ."
+  ],
+  "jlpt": "4",
+  "frequency": "93",
+  "grade": "1"
 }

@@ -359,5 +359,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05370.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5370.gif",
     "uri": "https://jisho.org/search/%E5%8D%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "ấn"
+  ],
+  "vietnameseMeaning": [
+    "① Cái ấn (con dấu). Phép nhà Thanh định, ấn của các quan thân vương trở lên gọi là bảo 寶, từ quận vương trở xuống gọi là ấn 印, của các quan nhỏ gọi là kiêm kí 鈐記, của các quan khâm sai gọi là quan phòng 關防, của người thường dùng gọi là đồ chương 圖章 hay là tư ấn 私印. ② In. Khắc chữ in chữ gọi là ấn, cái đồ dùng in báo in sách gọi là ấn loát khí 印刷器. ③ Như in vào, cái gì còn có dấu dính vào vật khác đều gọi là ấn. Hai bên hợp ý cùng lòng gọi là tâm tâm tương ấn 心心相印, nhân cái nọ biết cái kia gọi là hỗ tương ấn chứng 互相印證. ① (Con) dấu: 蓋印 Đóng dấu; ② Dấu (vết): 腳印 Vết chân; ③ In: 印書 In sách; 深深印在腦子裡 In sâu trong trí nhớ; ④ Hợp: 心心相印 Tâm đầu ý hợp; ⑤ (Họ) Ấn."
+  ],
+  "jlpt": "2",
+  "frequency": "682",
+  "grade": "4"
 }

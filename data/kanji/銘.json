@@ -52,5 +52,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09298.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9298.gif",
     "uri": "https://jisho.org/search/%E9%8A%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "minh"
+  ],
+  "vietnameseMeaning": [
+    "① Bài minh. Khắc chữ vào đồ, hoặc để tự răn mình, hoặc ghi chép công đức gọi là minh. Ngày xưa khắc vào cái chuông cái đỉnh, đời sau hay khắc vào bia. ② Ghi nhớ không quên. Như minh cảm 銘感 cảm in vào lòng không bao giờ quên. ① Chữ khắc vào đồ vật để tự răn mình, bài minh: 墓志銘 Mộ chí; 座右銘 Câu cách ngôn viết để bên phải cạnh chỗ ngồi (để răn mình); ② Nhớ, không quên, khắc sâu: 銘功 Ghi nhớ công lao; 銘感 Mối cảm kích in sâu trong lòng; 銘諸肺腑 Khắc sâu vào tim phổi."
+  ],
+  "jlpt": "1",
+  "frequency": "1394",
+  "grade": "8"
 }

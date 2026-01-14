@@ -360,5 +360,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bdf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bdf.gif",
     "uri": "https://jisho.org/search/%E5%AF%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "sát"
+  ],
+  "vietnameseMeaning": [
+    "① Xét lại. ② Rõ rệt. ③ Xét nét nghiệt ngã. ④ Xét nét bẻ bắt, ngày xưa gọi toà ngự sử là sát viện 察院 nghĩa là giám sát về việc quan lại vậy. Xét lại, xem xét, giám sát, xét nét, kiểm tra: 察其言，觀其行 Xét lời nói, coi việc làm; 上級去視察農村改革工作 Cấp trên đi kiểm tra công tác cải cách ở nông thôn."
+  ],
+  "jlpt": "2",
+  "frequency": "477",
+  "grade": "4"
 }

@@ -380,5 +380,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0656c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/656c.gif",
     "uri": "https://jisho.org/search/%E6%95%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "kính"
+  ],
+  "vietnameseMeaning": [
+    "① Cung kính ngoài dáng mặt không có vẻ cợt nhợt trễ nải gọi là cung 恭, trong lòng không một chút láo lếu gọi là kính 敬. ② Kính biếu, mượn một vật gì đưa cho người để tỏ lòng kính của mình gọi là kính. ③ Thận trọng. ① Kính: 敬愛 Kính yêu; ② Xin: 敬謝 Xin cám ơn; ③ Xin mời, chúc: 敬煙 Xin mời hút thuốc; 敬酒 Mời rượu, chúc rượu; ④ (văn) Thận trọng; ⑤ (Họ) Kính."
+  ],
+  "jlpt": "2",
+  "frequency": "1078",
+  "grade": "6"
 }

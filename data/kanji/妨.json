@@ -56,5 +56,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59a8.gif",
     "uri": "https://jisho.org/search/%E5%A6%A8%23kanji"
-  }
+  },
+  "hanviet": [
+    "phương"
+  ],
+  "vietnameseMeaning": [
+    "① Hại, ngại, có khi đọc là phướng. Hại, ngại, trở ngại, có sao: 試試又何妨 Cứ thử xem có sao đâu. Xem 妨 . Làm trở ngại, làm hại đến. Xem 妨 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1482",
+  "grade": "8"
 }

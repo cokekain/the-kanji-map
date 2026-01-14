@@ -44,5 +44,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0642c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/642c.gif",
     "uri": "https://jisho.org/search/%E6%90%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "ban",
+    "bưng"
+  ],
+  "vietnameseMeaning": [
+    "① Trừ hết, dọn sạch. ② Một âm là ban. Dời đi, khuân, như ban di 搬移 dọn dời đi chỗ khác. ① (văn) Trừ hết, dọn sạch; ② Dọn, dời: 他們早就搬走了 Họ đã dọn đi nơi khác từ lâu; ③ Mang, khuân: 把這塊石頭搬開 Khuân hòn đá này đi chỗ khác; ④ Rập (theo), bê: 生搬硬套 Rập khuôn, bê nguyên si."
+  ],
+  "jlpt": "1",
+  "frequency": "1664",
+  "grade": "8"
 }

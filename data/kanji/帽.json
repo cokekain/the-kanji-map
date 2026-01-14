@@ -277,5 +277,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e3d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e3d.gif",
     "uri": "https://jisho.org/search/%E5%B8%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "mạo",
+    "mão"
+  ],
+  "vietnameseMeaning": [
+    "① Cái mũ, các thứ dùng để đội đầu đều gọi là mạo. ① Mũ, nón: 呢帽 Mũ dạ, mũ phớt; 草帽 Mũ cói, mũ lác; ② Nắp, đai: 筆帽 Nắp bút; 螺絲 Đai ốc."
+  ],
+  "jlpt": "2",
+  "frequency": "1742",
+  "grade": "8"
 }

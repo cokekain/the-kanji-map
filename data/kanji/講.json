@@ -373,5 +373,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b1b.gif",
     "uri": "https://jisho.org/search/%E8%AC%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "giảng"
+  ],
+  "vietnameseMeaning": [
+    "① Hoà giải, lấy lời nói bảo cho hai bên hiểu ý tứ nhau mà hoà với nhau không tranh giành nhau nữa gọi là giảng. Như giảng hoà 講和. ② Giảng giải, lấy lời nói mà nói cho người ta hiểu rõ nghĩa gọi là giảng. Như giảng thư 講書 giảng sách, giảng kinh 講經, v.v. ③ Bàn nói. ④ Tập, xét. ⑤ Mưu toan. ① Nói: 他會講越語 Anh ấy biết nói tiếng Việt; 剛才他講什么 Vừa rồi anh ấy nói gì?; ② Kể: 講過去的事 Kể những chuyện đã qua; ③ Giảng, giảng giải, giải thích: 講課 Giảng bài; 這首古詩很難講 Bài thơ cổ này khó giảng lắm; ④ Chú ý: 工作要講效率 Công tác phải chú ý đến năng suất; ⑤ (văn) Tập, xét; ⑥ (văn) Mưu toan."
+  ],
+  "jlpt": "2",
+  "frequency": "653",
+  "grade": "5"
 }

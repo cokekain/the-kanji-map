@@ -42,5 +42,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08888.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8888.gif",
     "uri": "https://jisho.org/search/%E8%A2%88%23kanji"
-  }
+  },
+  "hanviet": [
+    "cà"
+  ],
+  "vietnameseMeaning": [
+    "ca, cà, già ① Ca sa 袈裟 cái áo cà sa. 【袈裟】già sa Áo già sa (cà sa): 袈裟未著嫌多事，著得袈裟事更多 Già sa chưa khoác hiềm nhiều chuyện, khoác được già sa chuyện lại thêm (Tô Thức)."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

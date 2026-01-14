@@ -83,5 +83,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64e6.gif",
     "uri": "https://jisho.org/search/%E6%93%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "sát",
+    "xát"
+  ],
+  "vietnameseMeaning": [
+    "① Xoa, xát. ① Lau, chùi, đánh, xoa xát: 擦桌子 Lau bàn; 擦腳 Chùi chân; 擦皮鞋 Đánh giày; ② Sây, sây sát, trầy: 擦破了皮 Trầy cả da; ③ Sát: 擦着屋簷飛過 Bay sát mái hiên."
+  ],
+  "jlpt": "1",
+  "frequency": "1485",
+  "grade": "8"
 }

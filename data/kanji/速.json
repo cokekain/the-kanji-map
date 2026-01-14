@@ -439,5 +439,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0901f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/901f.gif",
     "uri": "https://jisho.org/search/%E9%80%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "tốc"
+  ],
+  "vietnameseMeaning": [
+    "① Nhanh chóng. ② Mời. Như bất tốc chi khách 不速之客 người khách không mời mà đến. Nay trong danh thiếp thường viết thứ tốc 恕速 xin thứ đừng để mời lần nữa. ③ Tốc độ. Như quang tốc 光速 tốc độ ánh sáng. ④ Vết chân hươu. ① Nhanh, chóng, mau: 加速進行 Tiến hành nhanh hơn nữa; ② Mời: 不速之客 Khách không mời mà đến; ③ (văn) Vết chân hươu."
+  ],
+  "jlpt": "2",
+  "frequency": "576",
+  "grade": "3"
 }

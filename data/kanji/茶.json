@@ -371,5 +371,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08336.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8336.gif",
     "uri": "https://jisho.org/search/%E8%8C%B6%23kanji"
-  }
+  },
+  "hanviet": [
+    "trà"
+  ],
+  "vietnameseMeaning": [
+    "① Cây chè (trà), lá dùng chế ra các thứ chè uống. ② Sơn trà 山茶 một thứ cây lá thường xanh, hoa trắng, có thứ đỏ, dùng làm cảnh chơi. ① (Cây nước) chè, trà: 喝茶 Uống chè, uống trà; 沏茶 Pha chè; 奶茶 Chè sữa; 杏仁茶 Chè hạnh nhân; ② Sơn trà: 茶花 Hoa trà, hoa sơn trà; ③ Cây dầu sở."
+  ],
+  "jlpt": "3",
+  "frequency": "1116",
+  "grade": "2"
 }

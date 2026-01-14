@@ -425,5 +425,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09000.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9000.gif",
     "uri": "https://jisho.org/search/%E9%80%80%23kanji"
-  }
+  },
+  "hanviet": [
+    "thoái"
+  ],
+  "vietnameseMeaning": [
+    "① Lui. Như thối binh 退兵 lui binh. ② Nhún nhường. Như thối nhượng 退讓 lui nhường. Vì thế nên từ quan về nhà cũng gọi là thối. ③ Trừ sạch. Như bệnh thối 病退 bệnh khỏi. ④ Tài sức suy kém đều gọi là thối. Như học nghiệp thối bộ 學業退步 việc học kém sút. ⑤ Gạt bỏ. ⑥ Mềm mại. Ta quen đọc là chữ thoái. ① Lùi, lui: 退兵 Lui binh; 向後退 Lùi về phía sau; ② Rút lui, từ bỏ: 退役 Giải ngũ; 退出會議 Rút khỏi hội trường; ③ Trả lại: 退錢 Trả lại tiền; ④ Phai mờ, giảm xuống: 退色 Phai màu; 退燒 Giảm sốt; ⑤ (văn) Gạt bỏ; ⑥ (văn) Mềm mại."
+  ],
+  "jlpt": "2",
+  "frequency": "424",
+  "grade": "5"
 }

@@ -70,5 +70,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09318.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9318.gif",
     "uri": "https://jisho.org/search/%E9%8C%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "truy",
+    "chùy"
+  ],
+  "vietnameseMeaning": [
+    "① Quả cân 16 lạng. ② Xứng chuy 稱錘 cái cân, cân biết nặng nhẹ. ③ Nặng. ④ Một âm là chuý. Cái búa cái. ① Búa: 鐵錘 Búa đóng đinh, búa sắt; ② Đập, nện, đóng (bằng búa): 他錘釘一個相框 Nó đóng đinh một khuôn hình; ③ Đơn vị trọng lượng thời xưa (bằng 1/4 lạng); ④ Quả (cân):秤錘 Quả cân; ⑤ Chùy, thiết chùy (võ khí thời xưa bằng sắt hay đồng, đầu tròn, có cán); ⑥ Dát, rèn: 千錘百鍊 Rèn giũa nhiều lần, qua nhiều thử thách."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

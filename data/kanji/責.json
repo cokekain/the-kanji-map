@@ -340,5 +340,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cac.gif",
     "uri": "https://jisho.org/search/%E8%B2%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "trách"
+  ],
+  "vietnameseMeaning": [
+    "① Mong cầu, phận sự phải làm mà cầu cho tất phải làm cho trọn gọi là trách, như trách nhậm 責任, trách vọng 責望, đảm nhận công việc gọi là phụ trách 負責. ② Trách mắng. ③ Đánh đòn, như trượng trách 杖責 đánh bằng gậy, di trách 笞責 đánh bằng roi. ④ Hỏi vặn. ⑤ Một âm là trái, cùng nghĩa với chữ trái 債 (nợ). ① Trách, trách nhiệm: 負責 Phụ trách, chịu trách nhiệm; 愛護公物人人有責 Mọi người đều có trách nhiệm giữ gìn của công; ② Yêu cầu: 求全責備 Yêu cầu tốt đẹp mọi bề, cầu toàn trách bị; ③ Đòi hỏi: 責己嚴於責人 Đòi hỏi mình nghiêm ngặt hơn đòi hỏi người khác; ④ Trách (móc): 斥責 Trách mắng; 詰責 Quở trách, trách cứ; ⑤ (văn) Đánh đòn: 杖責 Đánh bằng gậy; 笞責 Đánh bằng roi; ⑥ (văn) Hỏi vặn. (văn) Nợ (như 債, bộ 亻): 先生不羞，乃有 意欲為文收責于薛乎？ Tiên sinh không thẹn, mà còn có ý muốn đi thu nợ ở đất Tiết cho Văn này ư? (Chiến quốc sách: Tề sách)."
+  ],
+  "jlpt": "2",
+  "frequency": "598",
+  "grade": "5"
 }

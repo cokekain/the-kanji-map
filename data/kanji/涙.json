@@ -344,5 +344,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d99.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d99.gif",
     "uri": "https://jisho.org/search/%E6%B6%99%23kanji"
-  }
+  },
+  "hanviet": [
+    "lệ"
+  ],
+  "jlpt": "2",
+  "frequency": "1381",
+  "grade": "8"
 }

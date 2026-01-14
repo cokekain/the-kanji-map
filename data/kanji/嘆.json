@@ -66,5 +66,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05606.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5606.gif",
     "uri": "https://jisho.org/search/%E5%98%86%23kanji"
-  }
+  },
+  "hanviet": [
+    "thán",
+    "han"
+  ],
+  "vietnameseMeaning": [
+    "① Than, thở dài. ① Than thở: 嘆了一口氣 Thở dài một cái; ② Khen: 贊嘆 Khen ngợi. Xem 歎 (bộ 欠)."
+  ],
+  "jlpt": "1",
+  "frequency": "1584",
+  "grade": "8"
 }

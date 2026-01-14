@@ -396,5 +396,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ba4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ba4.gif",
     "uri": "https://jisho.org/search/%E5%AE%A4%23kanji"
-  }
+  },
+  "hanviet": [
+    "thất"
+  ],
+  "vietnameseMeaning": [
+    "① Cái nhà. ② Vợ, con trai lấy vợ gọi là thụ thất 受室, con gái chưa chồng mà trinh khiết gọi là thất nữ' 室女. ③ Sao thất, một ngôi sao trong thập nhị bát tú. ④ Huyệt chôn. ⑤ Túi dao. ① Nhà, buồng, phòng: 室内 Trong nhà, trong buồng; 室外 Ngoài trời; 教室 Phòng học, lớp học; ② Phòng (đơn vị trong cơ quan): 人事室 Phòng nhân sự; ③ (văn) Gia thất, vợ: 授室 Lấy vợ; 室女 Con gái còn trinh (chưa chồng); ④ (văn) Huyệt chôn người chết; ⑤ (văn) Túi đựng dao; ⑥ Sao Thất (một ngôi sao trong nhị thập bát tú)."
+  ],
+  "jlpt": "3",
+  "frequency": "550",
+  "grade": "2"
 }

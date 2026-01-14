@@ -437,5 +437,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05165.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5165.gif",
     "uri": "https://jisho.org/search/%E5%85%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhập"
+  ],
+  "vietnameseMeaning": [
+    "① Vào, đối lại với chữ xuất 出 ra. ② Dùng vào, buộc vào, như nhập thủ 入手, cố nhập 故入 buộc tội vào, sát nhập 詧入 thu nộp vào. Ðem chỗ nọ nộp cho chỗ kia. ③ Ðược, khoảng tiền thu vào gọi là nhập khoản 入款. ④ Hợp, như nhập điệu 入調 hợp điệu, nhập cách 入格 hợp cách. ⑤ Tiếng nhập, âm chữ có bốn âm là bình thượng khứ nhập 平上去入. Tiếng ngắn mà gặt là tiếng nhập. ① Vào, tham gia: 入國問禁 Vào nước người hỏi lệ cấm; 入會 Vào hội; 納入軌道 Đi vào nề nếp; ② Nộp vào, thu nhập: 入不敷出 Thu không đủ chi, thu chi mất thăng bằng; ③ Hợp, thích ứng với: 入情入理 Hợp tình hợp lí; 入調 Hợp điệu; 入格 Hợp cách; ④ Thanh nhập (một trong bốn âm thanh của tiếng phổ thông Trung Quốc phát ra nhanh và ngắn): 平上去入 Bình thượng khứ nhập."
+  ],
+  "jlpt": "4",
+  "frequency": "56",
+  "grade": "1"
 }

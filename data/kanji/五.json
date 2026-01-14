@@ -351,5 +351,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e94.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e94.gif",
     "uri": "https://jisho.org/search/%E4%BA%94%23kanji"
-  }
+  },
+  "hanviet": [
+    "ngũ"
+  ],
+  "vietnameseMeaning": [
+    "① Năm, tên số đếm. ① Năm (số 5): 五人 Năm người; ② Một trong những dấu hiệu kí âm trong nhạc phổ dân tộc của Trung Quốc; ③ (Họ) Ngũ."
+  ],
+  "jlpt": "4",
+  "frequency": "31",
+  "grade": "1"
 }

@@ -348,5 +348,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d0.gif",
     "uri": "https://jisho.org/search/%E9%A7%90%23kanji"
-  }
+  },
+  "hanviet": [
+    "trú"
+  ],
+  "vietnameseMeaning": [
+    "① Ðóng. Xe ngựa đỗ lại nghỉ gọi là trú. Lưu ở lại chỗ nào cũng gọi là trú. Như đóng ở chỗ mỗ làm việc gọi là trú trát mỗ xứ 駐紮某處. Ði sứ đóng ở nước ngoài cũng gọi là trú. Như đóng ở nước Anh gọi là trú Anh 駐英, đóng ở nước Pháp gọi là trú Pháp 駐法. ① Tại, ở, lưu lại, trú, trú đóng, thường trú: 駐英 Đóng ở nước Anh; 越南駐華大使館 Đại sứ quán Việt Nam tại Trung Quốc; 駐胡志明巾記者 Phóng viên thường trú tại Thành phố Hồ Chí Minh; ② Đóng: 駐軍 Đóng quân; 一連駐在永澤村 Trung đội 1 đóng tại làng Vĩnh Trạch."
+  ],
+  "jlpt": "2",
+  "frequency": "955",
+  "grade": "8"
 }

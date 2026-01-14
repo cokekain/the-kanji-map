@@ -51,5 +51,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cca.gif",
     "uri": "https://jisho.org/search/%E8%B3%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "tặc"
+  ],
+  "vietnameseMeaning": [
+    "① Hại, như tường tặc 戕賊 giết hại, kẻ làm hại dân gọi là dân tặc 民賊, kẻ làm hại nước gọi là quốc tặc 國賊. ② Giặc, như đạo tặc 盜賊 trộm giặc. ③ Loài sâu cắn hại lúa, như mâu tặc 蟊賊 con sâu cắn lúa. ④ Làm bại hoại. ① Giặc, trộm: 捉賊 Bắt trộm; 盜賊 Trộm cướp; ② Gian tà: 賊心 Lòng gian; ③ Ranh, tinh quái, gian xảo, xảo quyệt: 老鼠眞賊 Chuột ranh lắm; 這一夥人眞賊 Bọn này xảo quyệt lắm; ④ (văn) Làm hại, gây hại: 戕賊 Giết hại; ⑤ (văn) Giết chết; ⑥ (văn) Sâu cắn hại lúa; ⑦ (văn) Tiếng chửi rủa."
+  ],
+  "jlpt": "1",
+  "frequency": "2045",
+  "grade": "8"
 }

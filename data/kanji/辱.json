@@ -293,5 +293,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fb1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fb1.gif",
     "uri": "https://jisho.org/search/%E8%BE%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhục",
+    "nhọc"
+  ],
+  "vietnameseMeaning": [
+    "① Nhục nhằn, hổ nhuốc. Thân phải chịu đựng các sự đáng lấy làm nhục. Như nhẫn nhục 忍辱 nhịn nhục. ② Chịu khuất. Dùng làm lời yên ủi. Tả truyện 左傳: Sử ngô tử nhục tại nê đồ cửu hĩ 使吾子辱在泥塗久矣 khiến cho ngài bị khuất ở nơi thấp hèn lâu lắm rồi. ③ Dùng làm lời nói khiêm. Như nhục lâm 辱臨 nhục tới, ý nói mình hèn hạ không đáng được người hạ cố mà người vẫn hạ cố tới thật là nhục cho người. ① Sỉ nhục, hổ thẹn, nhơ nhuốc, nhục nhã: 奇恥大辱 Sỉ nhục lớn, hết sức nhục nhã; ② Bị nhục, làm nhục; ③ Tỏ vẻ khuất mình, chịu khuất: (cũ) 辱承 Cho phép; 辱蒙 Được phép; 使吾子辱在泥塗久矣 Khiến cho ngài chịu khuất ở nơi thấp hèn lâu lắm rồi (Tả truyện); ④ Lời nói khiêm (ý nói đối phương chịu nhục mà quan tâm hoặc đi đến với mình): 辱臨 Chịu nhục mà đi đến."
+  ],
+  "jlpt": "1",
+  "frequency": "1769",
+  "grade": "8"
 }

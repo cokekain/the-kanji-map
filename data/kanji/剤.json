@@ -60,5 +60,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05264.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5264.gif",
     "uri": "https://jisho.org/search/%E5%89%A4%23kanji"
-  }
+  },
+  "hanviet": [
+    "tễ"
+  ],
+  "jlpt": "1",
+  "frequency": "1151",
+  "grade": "8"
 }

@@ -36,5 +36,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f6c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f6c.gif",
     "uri": "https://jisho.org/search/%E5%BD%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "băn"
+  ],
+  "vietnameseMeaning": [
+    "① Có văn hoá có mộc mạc hoàn toàn hợp cách gọi là bân hay bân bân 彬彬 hoàn hảo. Có văn vẻ, có văn hoá. 【彬彬】bân bân Phong nhã, lịch sự, hoàn mĩ, rỡ ràng: 文質彬彬 Dáng vẻ và tính tình đều hoàn mĩ cả."
+  ],
+  "jlpt": "1",
+  "frequency": "2174",
+  "grade": "9"
 }

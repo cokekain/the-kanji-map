@@ -66,5 +66,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a60.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a60.gif",
     "uri": "https://jisho.org/search/%E8%A9%A0%23kanji"
-  }
+  },
+  "hanviet": [
+    "vịnh"
+  ],
+  "vietnameseMeaning": [
+    "① Ngâm vịnh, đọc văn thơ đến chỗ có âm điệu phải kéo dài giọng đọc ra gọi là vịnh. Có khi viết là vịnh 咏. Ngâm vịnh, hát: 歌詠 Hát, ca hát."
+  ],
+  "jlpt": "1",
+  "frequency": "2000",
+  "grade": "8"
 }

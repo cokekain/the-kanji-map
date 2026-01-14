@@ -70,5 +70,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085e4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85e4.gif",
     "uri": "https://jisho.org/search/%E8%97%A4%23kanji"
-  }
+  },
+  "hanviet": [
+    "đằng"
+  ],
+  "vietnameseMeaning": [
+    "① Bụi cây quấn quít, loài thực vật thân cây mọc từng bụi. ③ Tua dây, các giống thực vật mọc chằng chịt mà có tua xoăn lại đều gọi là đằng. Như qua đằng 瓜藤 tua dưa. ③ Tử đằng 紫藤 hoa tử đằng. Thứ hoa trắng gọi là ngân đằng 銀藤. ① (Cây) mây, song: 藤椅 Ghế mây; 藤子 Mây; 藤盔 Mũ mây; 藤制品 Đồ mây; ② Dây, tua dây: 薯藤瓜蔓 Dây khoai dây dưa; ③ 【紫藤】tử đằng (thực) Cây tử đằng, đằng la."
+  ],
+  "jlpt": "1",
+  "frequency": "291",
+  "grade": "8"
 }

@@ -389,5 +389,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067d3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67d3.gif",
     "uri": "https://jisho.org/search/%E6%9F%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhiễm",
+    "nhuộm"
+  ],
+  "vietnameseMeaning": [
+    "① Nhuộm, dùng các thuốc mùi mà nhuộm các thứ đồ gọi là nhiễm. ② Nhiễm dần, ở với những người hay rồi mình cũng hay, ở với những kẻ hư rồi mình cũng hư gọi là nhiễm. ③ Lây, một kẻ bị bệnh lây sang kẻ khác gọi là truyền nhiễm 傳染. ① Nhuộm: 染布 Nhuộm vải; 印染廠 Nhà máy in mhuộm; ② Lây, lây nhiễm, tiêm nhiễm, mắc: 傳染 Truyền nhiễm, lây; 染病 Nhiễm bệnh, bị lây bệnh; 染上惡習 Tiêm nhiễm thói xấu."
+  ],
+  "jlpt": "1",
+  "frequency": "837",
+  "grade": "6"
 }

@@ -339,5 +339,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0920d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/920d.gif",
     "uri": "https://jisho.org/search/%E9%88%8D%23kanji"
-  }
+  },
+  "hanviet": [
+    "độn",
+    "nhọn"
+  ],
+  "vietnameseMeaning": [
+    "① Nhụt, đối lại với nhuệ 銳 sắc. ② Phàm cái gì không được lưu lợi, không trôi chảy đều gọi là độn. ③ Chậm chạp, ngu độn, trí khôn không nhanh nhẹn. Như trì độn 遲鈍 đần độn. ① Cùn, nhụt: 刀鈍了 Dao đã cùn; ② Chậm chạp, ngu dốt, ngu độn: 遲鈍 Đần độn; 魯鈍 Ngu dốt."
+  ],
+  "jlpt": "2",
+  "frequency": "1574",
+  "grade": "8"
 }

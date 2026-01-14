@@ -91,5 +91,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614e.gif",
     "uri": "https://jisho.org/search/%E6%85%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "thận"
+  ],
+  "vietnameseMeaning": [
+    "① Cẩn thận, dè chừng: 謹慎 Cẩn thận; 慎獨 Dè chừng lúc ở một mình; 不可不慎矣 Không thể không dè chừng (Mặc tử); 多聞闕疑，慎言其余，則寡尤 Nghe nhiều nhưng điều gì còn nghi ngờ thì tạm để đó, cẩn thận nói ra những phần khác, thì ít có sai lầm (Luận ngữ: Vi chính); ② (văn) Chớ, đừng (dùng kèm với những từ phủ định như 毌，不，勿，莫 để biểu thị sự ngăn cấm hoặc ngăn cản): 晉方悉國兵以救宋，宋雖急，慎毌降楚，晉兵今至矣！ Tấn đem hết binh lực trong nước để cứu Tống, việc của Tống tuy gấp, nhưng chớ có đầu hàng Sở, binh của Tấn nay đã đến rồi! (Sử kí: Trịnh thế gia); 汝慎勿揚聲，我當伺察之 Ông chớ có làm rùm beng, tôi đang rình xét nó đây (Tam thuỷ tiểu độc: Phi Yên truyện)."
+  ],
+  "jlpt": "1",
+  "frequency": "999",
+  "grade": "8"
 }

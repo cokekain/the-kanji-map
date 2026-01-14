@@ -342,5 +342,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05915.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5915.gif",
     "uri": "https://jisho.org/search/%E5%A4%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "tịch"
+  ],
+  "vietnameseMeaning": [
+    "① Buổi tối. ② Ðêm. ③ Tiếp kiến ban đêm. ④ Vẹo. ① Chiều tối, chiều hôm: 朝夕 Sớm chiều, sớm hôm; ② Buổi tối, ban đêm: 前夕 Đêm trước; 終夕不寐 Suốt đêm không ngủ; ③ (văn) Yết kiến vua chúa ban đêm: 若尹子革夕 Quan hữu doãn Tử Cách yết kiến vua ban đêm (Tả truyện: Chiêu công thập nhị niên); ④ (văn) (Vua chúa) tế mặt trăng: 秋暮夕月 Cuối thu tế trăng (Hán thư: Giả Nghị truyện)."
+  ],
+  "jlpt": "3",
+  "frequency": "924",
+  "grade": "1"
 }

@@ -50,5 +50,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ef8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ef8.gif",
     "uri": "https://jisho.org/search/%E8%BB%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "trục"
+  ],
+  "vietnameseMeaning": [
+    "① Cái trục xe. ② Cái trục cuốn. Làm cái trục tròn để cuốn đồ đều gọi là trục. Sách vở ngày xưa viết bằng lụa đều dùng trục cuốn nên gọi sách vở là quyển trục 卷軸, cuốn tranh vẽ gọi là hoạ trục 畫軸, v.v. ③ Phàm vật gì quay vòng được thì cái chốt giữa đều gọi là trục. Như quả đất ở vào giữa nam bắc cực gọi là địa trục 地軸. Khung cửi cũng có cái thoi cái trục, thoi để dệt đường ngang, trục để dệt đường dọc. ④ Ở cái địa vị cốt yếu cũng gọi là trục. Vì thế nên người cầm quyền chính nước gọi là đương trục 當軸. ⑤ Bệnh không đi được. ① Trục: 自行車軸 Trục xe đạp; 機器軸 Trục máy; ② Lõi, cốt lõi, trục: 線軸兒 Lõi chỉ; 畫軸 Trục cuộn tranh; ③ (loại) Cuộn (tranh): 一軸畫 Một cuộn tranh; ④ (văn) Bệnh không đi được."
+  ],
+  "jlpt": "1",
+  "frequency": "1261",
+  "grade": "8"
 }

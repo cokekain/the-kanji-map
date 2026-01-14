@@ -344,5 +344,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e73.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e73.gif",
     "uri": "https://jisho.org/search/%E4%B9%B3%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhũ",
+    "vú"
+  ],
+  "vietnameseMeaning": [
+    "① Cái vú, các loài động vật đều có vú để cho con bú. ② Sữa, một chất bổ để nuôi con. ③ Cho bú. ④ Sinh, các giống đẻ ra có nhau gọi là nhũ, như tư nhũ 孳乳 vật sinh sản mãi. ⑤ Non, loài động vật mới sinh gọi là nhũ, như nhũ yến 乳燕 con yến non. ① Vú: 哺乳動物 Động vật có vú; ② Sữa: 煉乳 Sữa hộp; 母乳 Sữa mẹ; 乳牛 Bò sữa; ③ Những thứ giống như sữa: 豆乳 Sữa đậu nành; 乳白色 Màu sữa; ④ Đẻ: 孳乳 Đẻ, sinh sôi; ⑤ Mới đẻ, còn non: 乳鴨 Vịt con, vịt mới nở; 乳豬 Lợn sữa."
+  ],
+  "jlpt": "2",
+  "frequency": "1289",
+  "grade": "6"
 }

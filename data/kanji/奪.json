@@ -57,5 +57,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0596a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/596a.gif",
     "uri": "https://jisho.org/search/%E5%A5%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "đoạt"
+  ],
+  "vietnameseMeaning": [
+    "① Cướp lấy, lấy hiếp của người ta gọi là đoạt. Như sang đoạt 搶奪 giật cướp, kiếp đoạt 劫奪 cướp bóc, v.v. Phàm lấy sức mà lấy được hơn người cũng gọi là đoạt. ② Quyết định, như tài đoạt 裁奪, định đoạt 定奪 đều là nghĩa quyết định nên chăng cả. ③ Văn tự có chỗ rách mất cũng gọi là đoạt. Ðường hẹp. ① Cướp: 掠奪 Cướp đoạt; 劫奪 Cướp bóc; 巧取豪奪 Lừa gạt cướp bóc; ② Giật: 奪錦標 Giật giải (thưởng); 奪紅旗 Giật cờ đỏ; ③ Tước (đoạt), lấy đi: 剝奪 Tước đoạt; ④ (văn) Giải quyết, quyết định: 定奪 Định đoạt; 裁奪 Quyết định; ⑤ (văn) Sót rớt: 訛奪 Sai sót; ⑥ (văn) Đường hẹp."
+  ],
+  "jlpt": "1",
+  "frequency": "974",
+  "grade": "8"
 }

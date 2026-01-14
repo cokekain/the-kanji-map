@@ -52,5 +52,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68da.gif",
     "uri": "https://jisho.org/search/%E6%A3%9A%23kanji"
-  }
+  },
+  "hanviet": [
+    "bằng"
+  ],
+  "vietnameseMeaning": [
+    "① Gác, nhà rạp. ② Phép quân ngày xưa cứ 14 người gọi là một bằng 棚. ① Trần, lán, giàn: 頂棚 Trần nhà; 瓜棚 Giàn bí; 戲棚 Giàn hát; ② Lều, chuồng: 蓆棚 Lều chiếu; 草棚 Lều tranh; 牛棚 Chuồng bò; 搭一個棚 Dựng một cái lều; ③ (cũ) Bằng (đơn vị quân đội thời xưa, gồm 14 người)."
+  ],
+  "jlpt": "1",
+  "frequency": "1594",
+  "grade": "8"
 }

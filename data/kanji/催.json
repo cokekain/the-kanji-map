@@ -61,5 +61,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ac.gif",
     "uri": "https://jisho.org/search/%E5%82%AC%23kanji"
-  }
+  },
+  "hanviet": [
+    "thôi",
+    "thòi"
+  ],
+  "vietnameseMeaning": [
+    "① Thúc dục. ① Giục, thúc giục: 催他早點動身 Giục anh ấy sớm lên đường; ② Thúc (đẩy), đẩy nhanh: 催芽 Thúc mầm."
+  ],
+  "jlpt": "1",
+  "frequency": "536",
+  "grade": "8"
 }

@@ -328,5 +328,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ea6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ea6.gif",
     "uri": "https://jisho.org/search/%E9%BA%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "mạch"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ mạch 麥. Như 麥"
+  ],
+  "jlpt": "2",
+  "frequency": "1615",
+  "grade": "2"
 }

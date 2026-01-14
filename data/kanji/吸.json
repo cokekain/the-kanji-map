@@ -333,5 +333,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05438.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5438.gif",
     "uri": "https://jisho.org/search/%E5%90%B8%23kanji"
-  }
+  },
+  "hanviet": [
+    "hấp",
+    "cộp"
+  ],
+  "vietnameseMeaning": [
+    "① Hút hơi vào, đối lại với chữ hô 呼. ① Hít: 吸氧 Hít dưỡng khí; ② Hút, thấm, hấp dẫn: 棉花能吸水 Bông có thể thấm nước; 磁石能吸鐵 Đá nam châm hút được sắt."
+  ],
+  "jlpt": "2",
+  "frequency": "1054",
+  "grade": "6"
 }

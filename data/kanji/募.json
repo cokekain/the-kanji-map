@@ -308,5 +308,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52df.gif",
     "uri": "https://jisho.org/search/%E5%8B%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "mộ"
+  ],
+  "vietnameseMeaning": [
+    "① Tìm rộng ra. Treo một cái bảng nói rõ cách thức của mình muốn kén để cho người ta đến ứng nhận gọi là mộ, như mộ binh 募兵 mộ lính. ② Xin, như mộ hoá 募化 thầy tu đi xin ăn, mộ quyên 募捐 quyên tiền gạo phát chẩn. ① Mộ, chiêu mộ, tập hợp lại: 招募 Chiêu mộ; ② Xin, quyên: 募捐 Quyên, lạc quyên; 募款 Quyên tiền; 募化 (Thầy tu) đi xin ăn, đi khất thực."
+  ],
+  "jlpt": "2",
+  "frequency": "809",
+  "grade": "8"
 }

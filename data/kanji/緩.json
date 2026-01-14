@@ -87,5 +87,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07de9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7de9.gif",
     "uri": "https://jisho.org/search/%E7%B7%A9%23kanji"
-  }
+  },
+  "hanviet": [
+    "hoãn"
+  ],
+  "vietnameseMeaning": [
+    "① Thong thả, như hoãn bộ 緩步 bước thong thả. ② Chánh trị không nghiệt gọi là khoan hoãn 寬緩. ① Chậm, thư thả, thong thả, khoan: 緩步而行 Đi thư thả; 緩一點 Chậm một tí, thư thả đã, khoan đã; ② Hoãn, hoãn lại: 急不容緩 Gấp lắm không cho phép hoãn lại; 緩兩天再辦 Hoãn hai ngày nữa mới làm; ③ Hồi lại, tỉnh lại: 病人昏過去又緩過來 Người bệnh ngất đi rồi tỉnh lại."
+  ],
+  "jlpt": "1",
+  "frequency": "933",
+  "grade": "8"
 }

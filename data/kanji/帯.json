@@ -393,5 +393,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e2f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e2f.gif",
     "uri": "https://jisho.org/search/%E5%B8%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "đới"
+  ],
+  "vietnameseMeaning": [
+    "đái, đới Như 帶"
+  ],
+  "jlpt": "2",
+  "frequency": "746",
+  "grade": "4"
 }

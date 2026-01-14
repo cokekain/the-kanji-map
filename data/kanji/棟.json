@@ -75,5 +75,18 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68df.gif",
     "uri": "https://jisho.org/search/%E6%A3%9F%23kanji"
-  }
+  },
+  "hanviet": [
+    "đống",
+    "chống",
+    "đóng",
+    "đúng",
+    "gióng"
+  ],
+  "vietnameseMeaning": [
+    "① Nóc mái, nóc là một cái cần nhất của một cái nhà, nên một cái nhà cũng gọi là nhất đống 一棟. Vật gì nhiều lắm gọi là hãn ngưu sung đống 汗牛充棟 (mồ hôi trâu rui trên nóc). ② Người có tài gánh vác được việc quan trọng lớn cho nước (như tể tướng) gọi là đống lương 棟梁. ① (văn) Nóc (nhà); ② Trụ cột; ③ Toà, ngôi, nóc (chỉ số nhà): 一棟樓房 Một toà nhà (gác)."
+  ],
+  "jlpt": "1",
+  "frequency": "1406",
+  "grade": "8"
 }

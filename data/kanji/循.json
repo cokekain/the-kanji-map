@@ -46,5 +46,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05faa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5faa.gif",
     "uri": "https://jisho.org/search/%E5%BE%AA%23kanji"
-  }
+  },
+  "hanviet": [
+    "tuần"
+  ],
+  "vietnameseMeaning": [
+    "① Noi, tuân theo. Như tuần pháp 循法 noi theo phép, tuần lí 循理 noi lẽ. Quan lại thuần lương gọi là tuần lại 循吏. ② Men. Như tuần tường nhi tẩu 循牆而走 men tường mà chạy. ③ Cũng như chữ tuần 巡, như tuần hành 循行 đi tuần. ④ Nhân tuần, rụt rè không dám làm gì gọi là nhân tuần. ⑤ Vỗ. Như phụ tuân 拊循 vỗ về. ⑥ Dần dần. Như tuần tuần thiện dụ 循循善誘 dần dần khéo bảo,theo thứ tự mà tiến lên. ① Tuân theo, noi theo, y theo: 遵循 Tuân theo; 循法 Noi theo luật pháp (phép tắc); 循理 Noi theo lí lẽ; 請循其本 Xin noi theo chỗ gốc (Trang tử); ② Men theo, dọc theo: 循牆而走 Chạy dọc theo tường; ③ Đi tuần (dùng như 巡, bộ 巛); ④ Vỗ: 拊循 Vỗ về; ⑤ Dần dần: 循循善誘 Khéo dẫn dụ dần."
+  ],
+  "jlpt": "1",
+  "frequency": "1699",
+  "grade": "8"
 }

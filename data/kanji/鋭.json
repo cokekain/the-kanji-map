@@ -322,5 +322,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092ed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92ed.gif",
     "uri": "https://jisho.org/search/%E9%8B%AD%23kanji"
-  }
+  },
+  "hanviet": [
+    "nhuệ",
+    "nhọn"
+  ],
+  "vietnameseMeaning": [
+    "duệ, nhuệ (15n) ① Nhọn, mũi nhọn. ② Nhanh nhẹn. Như kì tiến duệ giả kì thoái tốc 其進銳者其退速 (Mạnh Tử 孟子) tiến lên nhanh nhẹn quá thì lùi cũng chóng. ③ Tinh duệ. Binh luyện tinh mạnh gọi là tinh duệ 精銳 hay dũng duệ 勇銳. Ta quen đọc là chữ nhuệ."
+  ],
+  "jlpt": "2",
+  "frequency": "1395",
+  "grade": "8"
 }

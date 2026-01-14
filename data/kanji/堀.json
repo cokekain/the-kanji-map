@@ -43,5 +43,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05800.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5800.gif",
     "uri": "https://jisho.org/search/%E5%A0%80%23kanji"
-  }
+  },
+  "hanviet": [
+    "quật"
+  ],
+  "vietnameseMeaning": [
+    "(văn) Cao ngất. (văn) ① Cái hang (như 窟, bộ 穴); ② Đào hang."
+  ],
+  "jlpt": "1",
+  "frequency": "1285",
+  "grade": "8"
 }

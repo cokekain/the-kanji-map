@@ -405,5 +405,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d77.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d77.gif",
     "uri": "https://jisho.org/search/%E6%B5%B7%23kanji"
-  }
+  },
+  "hanviet": [
+    "hải"
+  ],
+  "vietnameseMeaning": [
+    "① Bể, cái chỗ trăm sông đều đổ nước vào, gần đất thì gọi là hải 海, xa đất thì gọi là dương 洋. ② Về phía tây bắc họ cũng gọi những chằm lớn là hải. ③ Vật gì họp lại nhiều cũng gọi là hải, như văn hải 文海 tập văn lớn. ④ Tục gọi cái bát to là hải. ① Biển, hải, bể: 航海 Đi biển, hàng hải; 出海 Ra khơi; 苦海 Bể khổ; ② Lớn: 海碗 Bát lớn; ③ Nhiều, đông, biển (người), rừng (người), một tập hợp lớn: 人 海 Biển người; 文海 Tập văn lớn; ④ Cái chén (bát) lớn; ⑤ (Họ) Hải."
+  ],
+  "jlpt": "3",
+  "frequency": "200",
+  "grade": "2"
 }

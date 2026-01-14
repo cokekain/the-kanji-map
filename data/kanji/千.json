@@ -334,5 +334,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05343.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5343.gif",
     "uri": "https://jisho.org/search/%E5%8D%83%23kanji"
-  }
+  },
+  "hanviet": [
+    "thiên"
+  ],
+  "vietnameseMeaning": [
+    "① Nghìn, mười trăm là một nghìn. ② Rất mực, như thiên nan 千難 khó rất mực. ① Nghìn (ngàn): 萬紫千紅 Muôn hồng nghìn tía; ② Nhiều, rất mực: 成千上萬 Hàng nghìn hàng vạn; 千難 Rất mực khó khăn; ③ (Họ) Thiên."
+  ],
+  "jlpt": "4",
+  "frequency": "195",
+  "grade": "1"
 }

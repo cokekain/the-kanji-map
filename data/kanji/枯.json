@@ -307,5 +307,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67af.gif",
     "uri": "https://jisho.org/search/%E6%9E%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "khô"
+  ],
+  "vietnameseMeaning": [
+    "① Khô héo. Tục gọi thân thế kẻ giàu sang là vinh 榮, kẻ nghèo hèn là khô 枯. ② Cạn, như lệ khô 淚枯 cạn nước mắt, hình dáng gầy mòn gọi là khô cảo 枯橋. ③ Chân tay không dùng gì được gọi là thiên khô 偏枯, sự gì không được quân bình cũng gọi là thiên khô. ④ Khô khan, như sưu sách khô tràng 搜索枯腸 tìm moi trong ruột khô khan, nói ý là trong lòng ít chữ, tìm moi khó ra. Văn từ không được điển nhã phong phú gọi là khô tịch 枯寂. Thuyền định không biết quán tưởng chỉ ngồi trơ, gọi là khô thuyền 枯禪, v.v. ① Khô héo: 枯樹 Cây khô; ② Khô cạn: 海枯石爛 Biển cạn đá mòn; 他的想象力好象已經枯竭了 Khả năng tưởng tượng của anh ấy dường như đã khô kiệt rồi; ③ Khô khan.【枯燥】khô táo Khô khan: 枯燥無味 Khô khan nhạt nhẽo."
+  ],
+  "jlpt": "2",
+  "frequency": "1749",
+  "grade": "8"
 }

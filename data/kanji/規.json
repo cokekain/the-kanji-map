@@ -311,5 +311,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0898f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/898f.gif",
     "uri": "https://jisho.org/search/%E8%A6%8F%23kanji"
-  }
+  },
+  "hanviet": [
+    "quy",
+    "qui"
+  ],
+  "vietnameseMeaning": [
+    "① Cái khuôn tròn. ② Khuôn phép. Như quy tắc 規則 khuôn phép. ③ Khuôn xử, lấy phép khuôn xử cho người khỏi sai lạc gọi là quy. Như quy gián 規諫 khuyên can. ④ Mưu toan. Như quy hoạch 規畫 vẽ mưu vạch kế. ⑤ Cái lệ đã thành rồi. Như lậu quy 陋規 cái lệ hủ lậu. ⑥ Chia vạch bờ cõi. ① Khuôn tròn, com pa: 紋規 Com pa đo răng; ② Luật lệ, lề thói, quy tắc, quy chế, quy định: 陋規 Lề thói hủ lậu; 墨守成規 Khư khư ôm lấy lề thói cũ rích; ③ Khuyên răn, khuyến khích, khích lệ: 相規以善 Khuyên nhau làm điều phải; 不聲規諫忠是害 Không nghe lời khuyên can tàn hại người trung (Tuân tử); ④ Đặt, định, trù liệu, trù tính, quy hoạch."
+  ],
+  "jlpt": "2",
+  "frequency": "349",
+  "grade": "5"
 }

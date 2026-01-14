@@ -338,5 +338,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057cb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57cb.gif",
     "uri": "https://jisho.org/search/%E5%9F%8B%23kanji"
-  }
+  },
+  "hanviet": [
+    "mai"
+  ],
+  "vietnameseMeaning": [
+    "① Chôn, đám ma chôn không hợp lễ gọi là mai. ② Vùi xuống đất. ③ Che lấp. ① Chôn, vùi: 掩埋 Chôn vùi; 埋地雷 Chôn mìn; 風沙把井埋起來了 Gió cát vùi mất cái giếng; 埋沒 Mai một (không phát huy được); ② Che lấp. Xem 埋 . 【埋怨】man oán Oán trách, oán thán, ta thán: 有埋怨情緒 Có ý oán trách. Xem 埋 ."
+  ],
+  "jlpt": "2",
+  "frequency": "1110",
+  "grade": "8"
 }

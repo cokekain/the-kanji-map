@@ -66,5 +66,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51fd.gif",
     "uri": "https://jisho.org/search/%E5%87%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "hòm"
+  ],
+  "vietnameseMeaning": [
+    "① Dung được, như tịch gian hàm trượng 席間函丈 trong chiếu rộng tới một trượng. Cổ nhân đãi thầy giảng học rộng như thế, để cho đủ chỗ chỉ vẽ bảo ban, vì thế bây giờ gọi thầy là hàm trượng là do nghĩa ấy. ② Cái phong bì. Cái để bọc thơ gọi là hàm. ③ Cái hộp, như kính hàm 鏡函 hộp đựng gương. ① (văn) Vỏ bọc ngoài, cái hộp: 鏡函 Hộp kính; 書函 Cái vỏ bọc sách, hộp sách; ② Thư, bao thư, thư từ, (công) hàm: 來函 Thư gởi đến; 覆函 Thư trả lời; 公函 Công hàm; ③ Bao gồm, bao hàm, chứa được, dung được: 席間函丈 Trong chiếu rộng tới một trượng."
+  ],
+  "frequency": "1781",
+  "grade": "9"
 }

@@ -62,5 +62,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09065.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9065.gif",
     "uri": "https://jisho.org/search/%E9%81%A5%23kanji"
-  }
+  },
+  "vietnameseMeaning": [
+    "① Xa. Cũng đọc là dao. Như 遙"
+  ],
+  "hanviet": [
+    "diêu",
+    "dao"
+  ],
+  "jlpt": "1",
+  "frequency": "2376",
+  "grade": "9"
 }

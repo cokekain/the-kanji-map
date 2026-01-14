@@ -356,5 +356,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062b1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62b1.gif",
     "uri": "https://jisho.org/search/%E6%8A%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "bão"
+  ],
+  "vietnameseMeaning": [
+    "① Ôm, bế. ② Hoài bão 懷抱 trong lòng chứa một cái chí định làm một việc gì gọi là hoài bão. ③ Vùng. Hai tay vòng lại với nhau gọi là hợp bão 合抱, như hợp bão chi mộc 合抱之木 cây to bằng một vùng. ④ Giữ chắc, như bão quan 抱關 kẻ canh giữ nơi quan ải. ⑤ Ấp. Như kê bão noãn 雞抱卵 gà ấp trứng. ① Ôm, bế, ẵm, bồng: 抱著孩子 Ôm con, bế trẻ; ② Bế, có: 他快抱孫子了 Ông ta sắp có (được bế) cháu rồi; ③ Ấp ủ, nuôi nấng: 不抱幻想 Không nuôi ảo tưởng; ④ Ấp: 雞抱卵 Gà ấp trứng; ⑤ (văn) Giữ chắc: 抱關 Kẻ canh giữ nơi quan ải; ⑥ (loại) Lượng ôm trong tay: 一抱草 Một ôm rơm."
+  ],
+  "jlpt": "2",
+  "frequency": "871",
+  "grade": "8"
 }

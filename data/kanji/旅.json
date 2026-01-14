@@ -392,5 +392,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65c5.gif",
     "uri": "https://jisho.org/search/%E6%97%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "lữ"
+  ],
+  "vietnameseMeaning": [
+    "① Lữ, năm trăm quân kết làm một toán gọi là lữ. ② Khách trọ, thương lữ 商旅 khách buôn trú ngụ, v.v. ③ Ở trọ, đi ra ngoài phải ở trọ gọi là lữ thứ 旅次. ④ Ðồng, đều, như lữ tiến lữ thoái 旅進旅退 đều tiến đều lui. ⑤ Thứ tự. ⑥ Tế lữ. ① Đi nơi xa, du lịch; ② (văn) Ở trọ: 旅次 Đi xa ra ngoài ở trọ; ③ (văn) Khách trọ: 商旅 Khách buôn trú ngụ; ④ (văn) Quán trọ: 夫天地者，萬物之逆旅 Trời đất là quán trọ của muôn vật (Lí Bạch: Xuân dạ yến đào lí viên tự); ⑤ (văn) Thứ tự; ⑥ (văn) Tế Lữ; ⑦ (quân) Lữ, lữ đoàn: 旅長 Lữ đoàn trưởng; ⑧ Quân đội nói chung: 強兵勁旅 Bộ đội hùng mạnh; 軍旅之事 Công việc nhà binh; ⑨ Cùng theo, cùng nhau, đều: 旅進旅退 Cùng tiến cùng thoái; 諸侯旅見天子 Các nước chư hầu cùng nhau đến triều kiến thiên tử (Lễ kí)."
+  ],
+  "jlpt": "3",
+  "frequency": "783",
+  "grade": "3"
 }

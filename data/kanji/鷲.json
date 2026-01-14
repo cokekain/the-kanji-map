@@ -55,5 +55,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09df2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9df2.gif",
     "uri": "https://jisho.org/search/%E9%B7%B2%23kanji"
-  }
+  },
+  "hanviet": [
+    "tựu",
+    "thứu"
+  ],
+  "vietnameseMeaning": [
+    "① Kên kên, một giống chim hung tợn. ② Linh Thứu sơn 靈鷲山 núi Linh Thứu. Một núi nhỏ gần Vương Xá 王舍, nơi đức Phật Thích Ca hay dừng chân. Theo truyền thuyết, đức Phật giảng Diệu Pháp Liên Hoa kinh tại đây. Tên núi Kên Kên xuất phát từ tích nói rằng, Ma Vương đã tìm cách quấy phá thiền định của A-nan-đà bằng cách hiện hình với dạng của một con chim kên kên. Có sách cho rằng, các tảng đá ở núi này có hình chim kên kên. (động) Kên kên."
+  ],
+  "frequency": "1925",
+  "grade": "9"
 }

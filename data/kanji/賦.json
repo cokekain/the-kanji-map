@@ -61,5 +61,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ce6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ce6.gif",
     "uri": "https://jisho.org/search/%E8%B3%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "phú"
+  ],
+  "vietnameseMeaning": [
+    "① Thu thuế, thu lấy những hoa lợi ruộng nương của dân để chi việc nước gọi là phú thuế 賦稅. Ngày xưa thu thuế để nuôi lính cũng gọi là phú. ② Cấp cho, phú cho, bẩm phú 稟賦 bẩm tính trời cho. ③ Dãi bày, dãi bày sự tình vào trong câu thơ gọi là thể phú. Làm thơ cũng gọi là phú thi 賦詩, một lối văn đối nhau có vần gọi là phú. ① Giao cho, cấp cho, phú cho; ② Thuế ruộng; ③ Thể phú (một thể văn thơ, dùng cách trình bày thẳng, nói thẳng vào sự vật cần nói); ④ Làm thơ: 賦詩一首 Làm một bài thơ."
+  ],
+  "jlpt": "1",
+  "grade": "8"
 }

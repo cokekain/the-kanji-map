@@ -308,5 +308,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050d5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50d5.gif",
     "uri": "https://jisho.org/search/%E5%83%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "bộc"
+  ],
+  "vietnameseMeaning": [
+    "① Ðầy tớ. ② Kẻ cầm cương, ngày xưa có chức Thái bộc tự 太僕寺 coi về việc xe ngựa cho vua. ③ Kẻ hèn này, lời thư từ nói nhún mình gọi là bộc. ④ Lóc cóc, như phong trần bộc bộc 風塵僕僕 đi lại lóc cóc, nghĩa là phải xông pha gió bụi, không được nghỉ ngơi. ① Đầy tớ; ② (văn) Tôi, kẻ hèn này (từ dùng để khiêm xưng trong thư từ qua lại): 聞足下遇火災，僕始聞而駭，中而疑，終乃大喜 Nghe ông bị cháy nhà, tôi lúc mới nghe qua thì giật mình, giữa chừng thì nghi ngờ, cuối cùng lại mừng (Liễu Tôn Nguyên: Hạ thất hoả thư); ③ (văn) Đi khắp, chạy khắp: 僕僕風塵 Xông pha gió bụi khắp nơi."
+  ],
+  "jlpt": "1",
+  "frequency": "1236",
+  "grade": "8"
 }

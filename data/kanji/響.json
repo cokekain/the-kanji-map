@@ -343,5 +343,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ff.gif",
     "uri": "https://jisho.org/search/%E9%9F%BF%23kanji"
-  }
+  },
+  "hanviet": [
+    "hưởng",
+    "hướng"
+  ],
+  "vietnameseMeaning": [
+    "① Tiếng. ② Vang. Tiếng động gió vang ứng lại gọi là hưởng. Có hình thì có ảnh 影 (bóng), có tiếng thì có vang, cho nên sự gì cảm ứng rõ rệt gọi là ảnh hưởng 影響. ① Tiếng động, tiếng ồn, tiếng dội, âm hưởng: 一聲不響 Không một lời nói; ② (Tiếng) reo, (tiếng) nổ, (tiếng) vang: 鐘響了 Chuông đã reo; 整個會場響起了掌聲 Cả hội trường vang lên tiếng vỗ tay; 炮聲 響起來了 Tiếng pháo đã nổ vang; ③ Inh ỏi, ồn ào, ầm ĩ, vang: 汽笛聲太響了 Tiếng còi xe inh tai quá; 收音機開得太響了 Tiếng máy thu thanh ầm ĩ quá; ④ Tiếng dội lại: 響應 Hưởng ứng."
+  ],
+  "jlpt": "1",
+  "frequency": "502",
+  "grade": "8"
 }

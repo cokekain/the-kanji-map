@@ -341,5 +341,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88fd.gif",
     "uri": "https://jisho.org/search/%E8%A3%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "chế"
+  ],
+  "vietnameseMeaning": [
+    "① Cắt thành áo mặc. Không học mà làm quan gọi là học chế mĩ cẩm 學製美錦. ② Chế tạo, chế tạo nên các đồ dùng. Sao tẩm các vị thuốc gọi là bào chế 泡製. ③ Làm ra văn chương. Ngày xưa gọi các văn chương của vua làm ra là ngự chế thi văn 御製詩文. ④ Khuôn phép, như thể chế 體製 mẫu mực cứ thế mà làm. ① (văn) Cắt thành áo, may áo; ② Chế, chế tạo, sản xuất, làm ra, vẽ: 這種商品是越南製造的 Mặt hàng này do Việt Nam chế tạo (sản xuất); 製一張地圖 Vẽ một bản đồ; 製氧機 Máy chế ô-xy; ③ (văn) Làm ra văn chương: 禦製詩文 Thơ văn do vua chúa làm ra; ④ (văn) Khuôn phép: 體製 Thể chế, cách thức. Xem 制 (bộ 刂)."
+  ],
+  "jlpt": "2",
+  "frequency": "488",
+  "grade": "5"
 }

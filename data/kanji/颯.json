@@ -42,5 +42,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98af.gif",
     "uri": "https://jisho.org/search/%E9%A2%AF%23kanji"
-  }
+  },
+  "hanviet": [
+    "táp"
+  ],
+  "vietnameseMeaning": [
+    "① Tiếng gió thổi vèo vèo. ② Suy. Cây cỏ tàn rụng gọi là tiêu táp 蕭颯. ① (Tiếng gió) vù vù, vi vu, xào xạc: 異哉！初淅瀝以瀟颯，忽奔騰而砰湃 Lạ thay! (tiếng động) lúc đầu rì rầm vi vu, rồi chợt xầm xập mạnh mẽ (Âu Dương Tu: Thu thanh phú); ② (văn) Suy, yếu đi."
+  ],
+  "jlpt": "1",
+  "grade": "9"
 }

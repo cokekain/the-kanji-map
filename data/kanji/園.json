@@ -432,5 +432,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05712.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5712.gif",
     "uri": "https://jisho.org/search/%E5%9C%92%23kanji"
-  }
+  },
+  "hanviet": [
+    "viên"
+  ],
+  "vietnameseMeaning": [
+    "① Vườn, chỗ đất để trồng hoa quả, rau dưa. ② Chỗ để chơi riêng. ③ Lăng tẩm các vua đời xưa và mồ mả các phi tần cũng đều gọi là viên cả. ① Vườn: 菜園 Vườn rau; 動物園 Vườn bách thú; 植物園 Vườn bách thảo; ② Lăng tẩm, mồ mả (của vua chúa hoặc các phi tần thời xưa)."
+  ],
+  "jlpt": "2",
+  "frequency": "628",
+  "grade": "2"
 }

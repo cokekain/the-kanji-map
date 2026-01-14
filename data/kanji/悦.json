@@ -68,5 +68,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a6.gif",
     "uri": "https://jisho.org/search/%E6%82%A6%23kanji"
-  }
+  },
+  "hanviet": [
+    "duyệt"
+  ],
+  "jlpt": "1",
+  "frequency": "1762",
+  "grade": "8"
 }

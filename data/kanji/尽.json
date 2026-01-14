@@ -77,5 +77,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3d.gif",
     "uri": "https://jisho.org/search/%E5%B0%BD%23kanji"
-  }
+  },
+  "hanviet": [
+    "tận"
+  ],
+  "vietnameseMeaning": [
+    "Như 儘 Như 盡"
+  ],
+  "jlpt": "1",
+  "frequency": "1234",
+  "grade": "8"
 }

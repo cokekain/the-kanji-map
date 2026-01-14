@@ -41,5 +41,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052be.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52be.gif",
     "uri": "https://jisho.org/search/%E5%8A%BE%23kanji"
-  }
+  },
+  "hanviet": [
+    "hặc",
+    "hạch"
+  ],
+  "vietnameseMeaning": [
+    "① Hặc, như sam hặc 参劾 bàn hặc (dự vào việc hặc tội người khác). Làm quan có lỗi tự thú tội mình gọi là tự hặc 自劾. Hạch (tội): 彈劾 Hạch tội, đàn hặc; 自劾 Tự thú tội."
+  ],
+  "jlpt": "1",
+  "frequency": "2085",
+  "grade": "8"
 }

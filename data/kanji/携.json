@@ -67,5 +67,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0643a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/643a.gif",
     "uri": "https://jisho.org/search/%E6%90%BA%23kanji"
-  }
+  },
+  "hanviet": [
+    "huề"
+  ],
+  "vietnameseMeaning": [
+    "① Tục dùng như chữ huề 攜. Như 攜"
+  ],
+  "jlpt": "1",
+  "frequency": "1017",
+  "grade": "8"
 }

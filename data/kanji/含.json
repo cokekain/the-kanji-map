@@ -292,5 +292,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0542b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/542b.gif",
     "uri": "https://jisho.org/search/%E5%90%AB%23kanji"
-  }
+  },
+  "hanviet": [
+    "hàm"
+  ],
+  "vietnameseMeaning": [
+    "① Ngậm, ngậm ở trong mồm không nhả không nuốt là hàm. ② Dung được, nhẫn được. Như hàm súc 含蓄, hàm dong 含容 nghĩa là bao dong nhịn nhục được, không vội giận vội cười. ③ Lễ ngày xưa người chết thì bỏ gạo và của quý vào mồm gọi là hàm. Ta thường gọi là đồ vặn hàm. ① Ngậm: 含一口水 Ngậm một ngụm nước; 含血噴人先污自口 Ngậm máu phun người miệng mình dơ trước. (Ngr) Rưng rưng: 含着淚 Rưng rưng nước mắt; ② Nuốt.【含怒】hàm nộ Nuốt giận, nén giận; ③ Chứa, có, bao gồm: 含水分 Chứa chất nước; 含養分 Có chất dinh dưỡng."
+  ],
+  "jlpt": "2",
+  "frequency": "466",
+  "grade": "8"
 }

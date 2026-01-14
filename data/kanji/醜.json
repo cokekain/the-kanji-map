@@ -76,5 +76,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0919c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/919c.gif",
     "uri": "https://jisho.org/search/%E9%86%9C%23kanji"
-  }
+  },
+  "hanviet": [
+    "xú",
+    "xấu"
+  ],
+  "vietnameseMeaning": [
+    "① Xấu. Tục dùng làm một tiếng để mắng nhiếc người. ② Xấu hổ. Phàm sự gì bị người ta ghét hay để hổ cho người đều gọi là xú, như xuất xú 出醜 để xấu, bày cái xấu ra. ③ Xấu xa, như xú tướng 醜相 hình tướng xấu xa. ④ Giống, như sách Mạnh Tử 孟子 nói Kim thiên hạ xú đức tề 今天下醜德齊 trong thiên hạ bây giờ đức giống như nhau, đức ngang như nhau. ⑤ Tù binh. ① Xấu, xấu xí, xấu xa, xấu hổ, bẩn thỉu: 醜相 Tướng mạo xấu; 她長得不醜 Cô ta trông không xấu; ② (văn) Có thể so sánh, giống: 今天下地醜德齊 Hiện trong thiên hạ đất giống nhau, đất ngang nhau (Mạnh tử); ③ (văn) Tù binh."
+  ],
+  "jlpt": "1",
+  "frequency": "2074",
+  "grade": "8"
 }

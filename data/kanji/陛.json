@@ -262,5 +262,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0965b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/965b.gif",
     "uri": "https://jisho.org/search/%E9%99%9B%23kanji"
-  }
+  },
+  "hanviet": [
+    "bệ"
+  ],
+  "vietnameseMeaning": [
+    "① Thềm nhà vua. ② Bệ hạ 陛下 vua, thiên tử. Bậc (bực) thềm cung vua: 陛下 Bệ hạ (từ để tôn xưng nhà vua)."
+  ],
+  "jlpt": "1",
+  "frequency": "1429",
+  "grade": "6"
 }

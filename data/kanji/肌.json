@@ -325,5 +325,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0808c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/808c.gif",
     "uri": "https://jisho.org/search/%E8%82%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "cơ"
+  ],
+  "vietnameseMeaning": [
+    "① Da. ② Thịt trong da. ① Bắp thịt; ② Da, da dẻ."
+  ],
+  "jlpt": "2",
+  "frequency": "1559",
+  "grade": "8"
 }

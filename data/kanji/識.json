@@ -364,5 +364,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b58.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b58.gif",
     "uri": "https://jisho.org/search/%E8%AD%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "thức"
+  ],
+  "vietnameseMeaning": [
+    "chí ① Biết, phân biệt, thấy mà nhận biết được. ② Hiểu biết. Như tri thức 知識, kiến thức 見識, v.v. ③ Một âm là chí. Cùng nghĩa với chữ chí 誌 ghi nhớ. ④ Khoản chí 款識 những chữ đúc vào chuông, đỉnh. Chữ đúc lồi ra ngoài gọi là khoản 款, chữ đúc lõm vào gọi là chí 識. ① Biết, nhận biết, nhận ra: 識字 Biết chữ; ② Hiểu biết: 常識 Thường thức; 知識豐富 Hiểu sâu biết rộng; ③ Kiến thức, sự hiểu biết: 有識之士 Người có học thức. Xem 識 . ① (văn) Nhớ, ghi nhớ, nhớ lấy: 博聞強識 Hiểu biết nhiều và nhớ kĩ; 小子識之 Các con hãy nhớ lấy điều đó; ② Dấu hiệu, kí hiệu; ③ Chữ đúc lõm vào chuông (chữ đúc lồi ra gọi là khoản 款). Xem 識 ."
+  ],
+  "jlpt": "2",
+  "frequency": "496",
+  "grade": "5"
 }

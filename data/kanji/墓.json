@@ -310,5 +310,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05893.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5893.gif",
     "uri": "https://jisho.org/search/%E5%A2%93%23kanji"
-  }
+  },
+  "hanviet": [
+    "mộ"
+  ],
+  "vietnameseMeaning": [
+    "① Cái mả. Mồ, mộ, mả: 公墓 Nghĩa địa, nghĩa trang; 烈士墓 Mộ liệt sĩ, nghĩa trang liệt sĩ."
+  ],
+  "jlpt": "1",
+  "frequency": "1337",
+  "grade": "5"
 }

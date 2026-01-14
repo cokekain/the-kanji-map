@@ -60,5 +60,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08870.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8870.gif",
     "uri": "https://jisho.org/search/%E8%A1%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "suy"
+  ],
+  "vietnameseMeaning": [
+    "① Suy kém, trái lại với nghĩa chữ thịnh 盛. ② Một âm là suý. Lần từng bực xuống, như đẳng suý 等衰 hạng bực. ③ Lại thêm một âm thôi. Áo tang, may bằng gai sống mà không có gấu gọi là trảm thôi 斬衰, may bằng gai nhỏ có gấu gọi là tư thôi 齊衰. ① Bậc, hạng: 等衰 Thứ bậc, hạng ngạch; ② Áo tang (như 縗 , bộ 糸). Xem 衰 . Yếu, sút kém, suy kém, suy giảm, lụn bại: 衰敗 Lụn bại; 年老力衰 Tuổi già sức yếu; 身體衰弱 Sức khỏe suy kém. Xem 衰 ."
+  ],
+  "jlpt": "1",
+  "frequency": "1432",
+  "grade": "8"
 }

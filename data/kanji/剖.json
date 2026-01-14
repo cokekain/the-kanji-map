@@ -47,5 +47,15 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05256.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5256.gif",
     "uri": "https://jisho.org/search/%E5%89%96%23kanji"
-  }
+  },
+  "hanviet": [
+    "phẫu",
+    "bo"
+  ],
+  "vietnameseMeaning": [
+    "① Phanh ra, như phẩu giải 剖解 mổ sả. ② Phân tách rõ ràng, như phẩu minh 剖明 tách rõ nguyên uỷ của một sự gì. ① Mổ, phẫu, mổ xẻ, cắt: 病理解剖 Giải phẫu bệnh lí; 解剖 Mổ xẻ, giải phẫu; ② Phân tách rõ ràng: 剖明 Phân tách cho rõ."
+  ],
+  "jlpt": "1",
+  "frequency": "1918",
+  "grade": "8"
 }

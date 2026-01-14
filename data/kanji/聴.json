@@ -65,5 +65,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08074.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8074.gif",
     "uri": "https://jisho.org/search/%E8%81%B4%23kanji"
-  }
+  },
+  "hanviet": [
+    "thính"
+  ],
+  "vietnameseMeaning": [
+    "(17n) ① Cũng như chữ thính 聽."
+  ],
+  "jlpt": "1",
+  "frequency": "781",
+  "grade": "8"
 }

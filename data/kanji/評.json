@@ -349,5 +349,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a55.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a55.gif",
     "uri": "https://jisho.org/search/%E8%A9%95%23kanji"
-  }
+  },
+  "hanviet": [
+    "bình"
+  ],
+  "vietnameseMeaning": [
+    "① Phê bình, bình phẩm, nghĩa là đem việc gì đã làm hay văn chương sách vở đã làm ra mà bàn định phải trái hay dở vậy. Hứa Thiệu nhà Hậu Hán hay bàn bạc các nhân vật trong làng mạc, mỗi tháng lại đổi một phẩm đề khác, gọi là nguyệt đán bình 月旦評. Bình luận, phê bình, bình phẩm, đánh giá: 時評 Bình luận thời sự; 短評 Bài bình luận ngắn; 品評人物 Đánh giá nhân vật."
+  ],
+  "jlpt": "2",
+  "frequency": "454",
+  "grade": "5"
 }

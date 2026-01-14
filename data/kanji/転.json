@@ -487,5 +487,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ee2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ee2.gif",
     "uri": "https://jisho.org/search/%E8%BB%A2%23kanji"
-  }
+  },
+  "hanviet": [
+    "chuyển"
+  ],
+  "jlpt": "3",
+  "frequency": "327",
+  "grade": "3"
 }

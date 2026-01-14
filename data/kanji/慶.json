@@ -67,5 +67,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06176.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6176.gif",
     "uri": "https://jisho.org/search/%E6%85%B6%23kanji"
-  }
+  },
+  "hanviet": [
+    "khánh"
+  ],
+  "vietnameseMeaning": [
+    "① Mừng, như tục gọi chúc thọ là xưng khánh 稱慶. ② Thường, như khánh dĩ địa 慶以地 thường lấy đất. ③ Một âm là khương. Phúc. ④ Cùng nghĩa với chữ khương 羌 lời mở đầu. ⑤ Lại một âm là khanh. Cùng nghĩa với chữ khanh 卿. ① Mừng, chào mừng: 慶豐收 Mừng được mùa; 慶祝國慶典禮 Lễ mừng Ngày Quốc khánh; ② (văn) Thưởng: 慶以地 Thưởng đất (lấy đất để thưởng); ③ (văn) Phúc: 初雖勞苦，卒獲其慶 Ban đầu tuy nhọc nhằn, nhưng cuối cùng được phúc (Diêm thiết luận); ④ (Họ) Khánh."
+  ],
+  "jlpt": "1",
+  "frequency": "1300",
+  "grade": "8"
 }

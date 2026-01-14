@@ -359,5 +359,23 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ce5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ce5.gif",
     "uri": "https://jisho.org/search/%E6%B3%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "nê",
+    "lầy",
+    "ne",
+    "nè",
+    "né",
+    "nề",
+    "nể",
+    "nễ",
+    "nệ",
+    "nơi"
+  ],
+  "vietnameseMeaning": [
+    "nệ ① Bùn. ② Vật gì giã nhỏ nát ngấu cũng gọi là nê. ③ Mềm yếu. ④ Bôi, trát. ⑤ Một âm là nệ. Trầm trệ. ⑥ Lại một âm là nễ. Nễ nễ 泥泥 móc sa nhiều quá (mù mịt). ① Bùn; ② Nghiền nhừ: 馬鈴薯 Khoai tây nghiền nhừ. Xem 泥 . ① Trát, phết: 泥墻 Trát vữa, trát tường; ② Cố chấp, câu nệ, giữ khư khư. Xem 泥 ."
+  ],
+  "jlpt": "2",
+  "frequency": "1589",
+  "grade": "8"
 }

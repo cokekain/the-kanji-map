@@ -336,5 +336,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd8.gif",
     "uri": "https://jisho.org/search/%E5%BF%98%23kanji"
-  }
+  },
+  "hanviet": [
+    "vong"
+  ],
+  "vietnameseMeaning": [
+    "① Quên. ② Nhãng qua. ③ Bỏ sót. Dùng làm chữ chuyển câu, nghĩa là không. 【忘八】 vương bát ① Con rùa cạn; ② Đồ bị cắm sừng. Cv. 王八. ① Quên, không nhớ đến: 遺忘 Bỏ quên; 忘個一幹二淨 Quên bẵng; 廢寢忘食 Quên ăn mất ngủ; ② (văn) Bỏ sót (một dòng...); ③ (văn) Xao lãng, xao nhãng. 【忘其】 vô kì (văn) Như 亡其 . Xem 亡 nghĩa ② (bộ 亠)."
+  ],
+  "jlpt": "2",
+  "frequency": "1129",
+  "grade": "6"
 }

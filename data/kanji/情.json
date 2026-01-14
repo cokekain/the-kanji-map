@@ -461,5 +461,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60c5.gif",
     "uri": "https://jisho.org/search/%E6%83%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "tình"
+  ],
+  "vietnameseMeaning": [
+    "① Tình, cái tình đã phát hiện ra ngoài, như mừng, giận, thương, sợ, yêu, ghét, muốn gọi là thất tình. ② Nhân tình, tâm lí mọi người cùng thế cả gọi là nhân tình 人情, nghĩa là tình thường con người ta vậy. ③ Thực, danh tiếng quá sự thực gọi là thanh văn quá tình 聲聞過情, sự thực hay giả gọi là tình nguỵ 情偽. ④ Cùng yêu, như đa tình 多情. Phàm cái gì có quan hệ liên lạc với nhau đều gọi là hữu tình 有情. Như liên lạc hữu tình 聯絡有情. ⑤ Chí nguyện, tự dãi bày ý mình ra gọi là trần tình 陳情. ⑥ Ý riêng. ⑦ Thú vị. ⑧ Tình ái. Tục cho sự trai gái yêu nhau là tình, như tình thư 情書 thơ tình. ① Tình: 感情 Tình cảm; 熱情 Nhiệt tình, sốt sắng; ② Tình yêu, tình ái: 談情說愛 Tình tự; 情書 Thư tình; ③ Tình hình: 商情 Tình hình giá cả thị trường; 災情 Tình hình thiên tai; ④ Tính, lí tính; ⑤ Sự thực: 情偽 Sự thực và giả; 聲聞過情 Danh tiếng quá sự thực; ⑥ (văn) Thật là, rõ ràng: 情不知其不義也 Thật (rõ ràng) chẳng biết điều đó là bất nghĩa (Mặc tử: Phi công thượng); 其知情信 Sự biết của nó thật đáng tin (Trang tử: Ứng đế vương); ⑦ Tình ý, chí nguyện: 陳情 Giải bày tình ý; ⑧ Nể: 看情面 Nể mặt, nể vì, nể nang."
+  ],
+  "jlpt": "2",
+  "frequency": "235",
+  "grade": "5"
 }

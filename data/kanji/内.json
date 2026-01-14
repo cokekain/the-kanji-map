@@ -446,5 +446,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05185.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5185.gif",
     "uri": "https://jisho.org/search/%E5%86%85%23kanji"
-  }
+  },
+  "hanviet": [
+    "nội"
+  ],
+  "vietnameseMeaning": [
+    "(văn) ① Thu nhận, thu nạp, dung nạp (dùng như 納，bộ 糸): 向使四君却客而不内 Nếu bốn ông vua đó ruồng đuổi khách xa mà không dung nạp (Lí Tư: Gián trục khách thư); ② Nộp, giao nộp (dùng như 納，bộ 糸): 百姓内粟千石，拜爵一級 Trong dân ai nộp một ngàn thạch thóc thì ban tước cấp một (Sử kí: Tần Thuỷ hoàng bản kỉ). ① Trong, bên trong, nội: 房子内外都很乾淨 Trong nhà ngoài sân đều rất sạch sẽ; 在三日内 Nội trong 3 ngày; 國内形勢很好 Tình hình trong nước rất tốt; ② Vợ: 内子 (hoặc 内人, 賤内): Vợ tôi; 内親 Họ hàng bên vợ; ③ Những người thân của bên vợ: 内兄弟 Anh em vợ."
+  ],
+  "jlpt": "2",
+  "frequency": "44",
+  "grade": "2"
 }

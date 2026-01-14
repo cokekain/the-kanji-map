@@ -337,5 +337,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c0e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c0e.gif",
     "uri": "https://jisho.org/search/%E5%B0%8E%23kanji"
-  }
+  },
+  "hanviet": [
+    "đạo"
+  ],
+  "vietnameseMeaning": [
+    "① Dẫn đưa, đi trước đường gọi là tiền đạo 前導. ② Chỉ dẫn, như khai đạo 開導 mở lối, huấn đạo 訓導 dạy bảo, v.v. ③ Ðạo sư 導師 ông thầy chỉ vẽ cho mình biết chỗ mê lầm mà đi về đường chính. ① Đưa, dẫn đường: 導向正軌 Đưa vào nền nếp; 導師 Ông thầy dẫn đường; ② Dẫn, truyền, đạo: 半導體 Bán dẫn, nửa dẫn điện; ③ Chỉ đạo, chỉ dẫn, chỉ bảo, hướng dẫn: 指導 Chỉ đạo; 輔導 Phụ đạo; 訓導 Dạy bảo."
+  ],
+  "jlpt": "2",
+  "frequency": "354",
+  "grade": "5"
 }

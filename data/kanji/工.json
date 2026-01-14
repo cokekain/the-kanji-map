@@ -388,5 +388,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de5.gif",
     "uri": "https://jisho.org/search/%E5%B7%A5%23kanji"
-  }
+  },
+  "hanviet": [
+    "công"
+  ],
+  "vietnameseMeaning": [
+    "① Khéo, làm việc khéo gọi là công. ② Người thợ. Phàm người nào làm nên đồ cho người dùng được đều gọi là công. ③ Quan, như thần công 臣工 nói gồm cả các quan. Trăm quan gọi là bách công 百工. ④ Công xích 工尺 một tiếng gọi tắt trong phả âm nhạc thay luật lữ. ① Công nhân, thợ, thợ thuyền: 礦工 Công nhân (thợ) mỏ; 鍛工 Thợ rèn; ② Công tác, công việc, việc: 做工 Làm việc; 上工 Đi làm; ③ Công: 這個工程要多少工才能完 Công trình này phải làm bao nhiêu công mới xong được?; ④ Sở trường: 工于繪畫 Có sở trường vẽ; ⑤ Công nghiệp: 化工 Công nghiệp hoá chất; 工交戰 線 Mặt trận công nghiệp và giao thông (vận tải); ⑥ (văn) Quan: 臣工 Quan lại (nói chung); 百工 Trăm quan; ⑦ Khéo léo, tinh vi, giỏi tay nghề."
+  ],
+  "jlpt": "3",
+  "frequency": "299",
+  "grade": "2"
 }

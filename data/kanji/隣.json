@@ -380,5 +380,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96a3.gif",
     "uri": "https://jisho.org/search/%E9%9A%A3%23kanji"
-  }
+  },
+  "hanviet": [
+    "lân"
+  ],
+  "vietnameseMeaning": [
+    "Như 鄰 (bộ 邑)."
+  ],
+  "jlpt": "1",
+  "frequency": "1083",
+  "grade": "8"
 }

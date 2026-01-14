@@ -49,5 +49,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eca.gif",
     "uri": "https://jisho.org/search/%E5%BB%8A%23kanji"
-  }
+  },
+  "hanviet": [
+    "lang"
+  ],
+  "vietnameseMeaning": [
+    "① Mái hiên, hành lang. Hành lang, mái hiên: 走廊 Hành lang; 長廊 Hành lang dài."
+  ],
+  "jlpt": "1",
+  "frequency": "1598",
+  "grade": "8"
 }

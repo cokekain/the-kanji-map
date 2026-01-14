@@ -378,5 +378,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08131.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8131.gif",
     "uri": "https://jisho.org/search/%E8%84%B1%23kanji"
-  }
+  },
+  "hanviet": [
+    "thoát"
+  ],
+  "jlpt": "1",
+  "frequency": "782",
+  "grade": "8"
 }

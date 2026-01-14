@@ -433,5 +433,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b70.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b70.gif",
     "uri": "https://jisho.org/search/%E8%AD%B0%23kanji"
-  }
+  },
+  "hanviet": [
+    "nghị"
+  ],
+  "vietnameseMeaning": [
+    "① Bàn, bàn về sự lí để phân biệt phải trái gọi là luận 論, bàn về sự lí để định việc nên hay không gọi là nghị 議. Như hội nghị 會議 họp bàn, quyết nghị 決議 bàn cho quyết xong để thi hành. ② Một lối văn, như tấu nghị 奏議 sớ tâu vua và bàn các chánh sách hay dở thế nào. ③ Chê. Như thiên hạ hữu đạo, tắc thứ nhân bất nghị 天下有道則庶人不議 thiên hạ có đạo thì kẻ thứ nhân không chê. ④ Kén chọn. ① Ý kiến, ngôn luận, (đề) nghị: 建議 Kiến nghị; 無異議 Không có ý kiến khác; ② Bàn bạc phải trái, thảo luận: 我們對各種方案都議了一議 Chúng tôi đã bàn qua các phương án; ③ (văn) Chê: 天下有道則庶人不議 Thiên hạ có đạo thì kẻ thứ nhân (bình dân) không chê; ④ (văn) Kén chọn; ⑤ Một lối văn: 奏議 Sớ tâu lên vua để bàn về chính sách hay dở."
+  ],
+  "jlpt": "2",
+  "frequency": "25",
+  "grade": "4"
 }

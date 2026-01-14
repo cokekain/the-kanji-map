@@ -311,5 +311,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b8c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b8c.gif",
     "uri": "https://jisho.org/search/%E5%AE%8C%23kanji"
-  }
+  },
+  "hanviet": [
+    "hoàn"
+  ],
+  "vietnameseMeaning": [
+    "① Ðủ, vẹn. ② Xong, như hoàn công 完工 xong công việc. ③ Giữ được trọn vẹn. ④ Bền chặt, kín đáo, như thành quách bất hoàn 城郭不完 thành quách chẳng bền chặt. Y lí bất hoàn 衣履不完 áo giầy chẳng lành, v.v. ⑤ Nộp xong, như hoàn lương 完糧 nộp xong lương thuế. ① Toàn vẹn, nguyên lành, lành lặn, đầy đủ, giữ được trọn vẹn: 准備得很完善 Chuẩn bị rất đầy đủ; 衣履不完 Áo và giày chẳng lành lặn; ② Hết, xong: 用完了 Đã dùng hết; 事情做完了 Công việc đã làm xong; ③ Hoàn thành: 完工 Làm xong; 完成任務 Hoàn thành nhiệm vụ; ④ Nộp, đóng: 完稅 Nộp thuế, đóng thuế; ⑤ 城郭不完 Thành quách chẳng bền chặt; ⑥ (Họ) Hoàn."
+  ],
+  "jlpt": "2",
+  "frequency": "595",
+  "grade": "4"
 }
